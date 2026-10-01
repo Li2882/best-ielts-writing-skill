@@ -12,6 +12,8 @@
 
 批改 IELTS Academic 大小作文：**四项估分、原文证据、错误诊断、修改建议**。区分真实错误与可选润色，让你知道分数从哪里来、下一稿怎么改。[真实示例](examples/review.md)
 
+**工作方式：**先由大模型分别评估四项，再用同任务锚点作文进行证据校准，最后输出可追溯的分数和修改建议。
+
 **28 篇开发测试：总分 MAE 0.482；82.1% 的作文误差不超过 0.5 分。**
 
 外部 Skill 历史实测：quyen244 **0.857**、Gishguo **0.946**（7 篇、四项 MAE）。与本版测试集及指标不同，不作直接胜负结论。[完整对比与研究过程](docs/research.md)
@@ -29,6 +31,8 @@
 ## English
 
 IELTS Academic Task 1 & 2 feedback: **four-criterion band estimates, quoted evidence, error diagnosis, and actionable revisions**. [See a real review](examples/review.md).
+
+**How it works:** the model scores the four criteria independently first, then calibrates each score against same-task anchor essays before producing traceable bands and revision advice.
 
 **28-essay development evaluation: overall-band MAE 0.482; 82.1% within ±0.5 band.** Earlier external-prompt results: quyen244 **0.857**, Gishguo **0.946** (7 essays, criterion-level MAE). Different datasets and metrics: not a head-to-head ranking. [Research & comparisons](docs/research.md).
 
