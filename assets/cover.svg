@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">IELTS Writing Coach</title>
+  <desc id="desc">Four-criterion feedback, quoted evidence, diagnosis and revisions. 28-essay development evaluation: overall MAE 0.482, 82.1 percent within half a band.</desc>
+  <rect width="1280" height="640" fill="#0f172a"/>
+  <rect x="64" y="70" width="72" height="8" rx="4" fill="#2dd4bf"/>
+  <text x="64" y="151" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="22" letter-spacing="4">TASK 1 + TASK 2 · AI SKILL</text>
+  <text x="60" y="243" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="72" font-weight="700">IELTS Writing Coach</text>
+  <text x="64" y="302" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="29">Understand your score. Know what to improve.</text>
+  <text x="64" y="373" fill="#2dd4bf" font-family="Segoe UI,Arial,sans-serif" font-size="23">Band estimates · Evidence · Diagnosis · Revisions</text>
+  <line x1="64" y1="425" x2="1216" y2="425" stroke="#334155"/>
+  <text x="64" y="493" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">0.482</text>
+  <text x="64" y="531" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="20">OVERALL-BAND MAE</text>
+  <text x="405" y="493" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">82.1%</text>
+  <text x="405" y="531" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="20">WITHIN ±0.5 BAND</text>
+  <text x="850" y="485" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="21">28-essay development evaluation</text>
+  <text x="850" y="521" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="18">Unofficial estimates · GPT-6 Astra / High</text>
+  <text x="64" y="591" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="17">OPEN WORKFLOW. TRACEABLE FEEDBACK.</text>
+</svg>

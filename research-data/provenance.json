@@ -1,0 +1,33 @@
+{
+  "export_date_local": "2026-10-02",
+  "workflow_version": "final-composite-1.4",
+  "input_hashes": [
+    {
+      "path": "evaluations/integer28-current-01/results.json",
+      "sha256": "b75744e98601ccac1abc1a746ceed7b571956c45b2241e47f015ea623312ffa5"
+    },
+    {
+      "path": "evaluations/strict-public-prompts-01/REPORT.json",
+      "sha256": "28066ef8afeb2c3c17b43494d85d5d2c20f1aa56550aee8ea6de13a6534b7064"
+    },
+    {
+      "path": "library/prompts/public-benchmark-strict-10/manifest.json",
+      "sha256": "0869c5b0f0cb375f0b3c6fc4e74ad0a9e9510d0d7f30bbae0ba3e47b857c8c81"
+    },
+    {
+      "path": "evaluations/composite-holdout-01/REPORT.md",
+      "sha256": "3f33e146d419234a7fbd81b6e40fea995da3db48da5f0df917e528c00d5a0400"
+    },
+    {
+      "path": "evaluations/lr-independent-deduction-ablation-01/REPORT.md",
+      "sha256": "64bd4675e9d5f079589edd6e74ad5092cbc9e93eca455881584da24ae7829399"
+    },
+    {
+      "path": "docs/final-skill-modification-record.md",
+      "sha256": "aaff411324e085a522cee6635ed6b83832f5c347297e2ff1fd10c84978c029ef"
+    }
+  ],
+  "publication_allowlist": "Own workflow instructions, short authorized review excerpts, numeric predictions and human labels, source links, public documentation, own visual assets and utilities.",
+  "excluded": "Private essays, screenshots of full third-party works, books, teacher comment corpus, credentials, settings, payment data and raw runtime logs.",
+  "skill_copied_without_scoring_rule_changes": true
+}

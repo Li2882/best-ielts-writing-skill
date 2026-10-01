@@ -1,0 +1,1279 @@
+{
+  "run_id": "integer28-current-01",
+  "compared_at": "2026-10-01T15:50:08.383201+00:00",
+  "n": 28,
+  "pair_comparisons": 4382,
+  "overall": {
+    "all": {
+      "initial": {
+        "n": 28,
+        "MAE": 0.5178571428571429,
+        "RMSE": 0.6338656910463875,
+        "mean_bias": -0.05357142857142857,
+        "exact_match": 0.21428571428571427,
+        "within_half_band": 0.7857142857142857,
+        "max_absolute_error": 1.5
+      },
+      "final": {
+        "n": 28,
+        "MAE": 0.48214285714285715,
+        "RMSE": 0.6050383695034791,
+        "mean_bias": -0.08928571428571429,
+        "exact_match": 0.25,
+        "within_half_band": 0.8214285714285714,
+        "max_absolute_error": 1.5
+      }
+    },
+    "task1": {
+      "initial": {
+        "n": 14,
+        "MAE": 0.5357142857142857,
+        "RMSE": 0.5824823725107175,
+        "mean_bias": -0.03571428571428571,
+        "exact_match": 0.07142857142857142,
+        "within_half_band": 0.8571428571428571,
+        "max_absolute_error": 1.0
+      },
+      "final": {
+        "n": 14,
+        "MAE": 0.5357142857142857,
+        "RMSE": 0.5824823725107175,
+        "mean_bias": -0.03571428571428571,
+        "exact_match": 0.07142857142857142,
+        "within_half_band": 0.8571428571428571,
+        "max_absolute_error": 1.0
+      }
+    },
+    "task2": {
+      "initial": {
+        "n": 14,
+        "MAE": 0.5,
+        "RMSE": 0.6813851438692469,
+        "mean_bias": -0.07142857142857142,
+        "exact_match": 0.35714285714285715,
+        "within_half_band": 0.7142857142857143,
+        "max_absolute_error": 1.5
+      },
+      "final": {
+        "n": 14,
+        "MAE": 0.42857142857142855,
+        "RMSE": 0.6267831705280087,
+        "mean_bias": -0.14285714285714285,
+        "exact_match": 0.42857142857142855,
+        "within_half_band": 0.7857142857142857,
+        "max_absolute_error": 1.5
+      }
+    }
+  },
+  "criterion_metrics": [
+    {
+      "task": "task1",
+      "criterion": "TA",
+      "initial": {
+        "n": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0,
+        "mean_bias": -0.6,
+        "exact_match": 0.6,
+        "within_half_band": 0.6,
+        "max_absolute_error": 2.0
+      },
+      "final": {
+        "n": 5,
+        "MAE": 0.6,
+        "RMSE": 1.0,
+        "mean_bias": -0.6,
+        "exact_match": 0.6,
+        "within_half_band": 0.6,
+        "max_absolute_error": 2.0
+      }
+    },
+    {
+      "task": "task1",
+      "criterion": "CC",
+      "initial": {
+        "n": 5,
+        "MAE": 1.0,
+        "RMSE": 1.1832159566199232,
+        "mean_bias": 0.2,
+        "exact_match": 0.2,
+        "within_half_band": 0.2,
+        "max_absolute_error": 2
+      },
+      "final": {
+        "n": 5,
+        "MAE": 1.0,
+        "RMSE": 1.1832159566199232,
+        "mean_bias": 0.2,
+        "exact_match": 0.2,
+        "within_half_band": 0.2,
+        "max_absolute_error": 2.0
+      }
+    },
+    {
+      "task": "task1",
+      "criterion": "LR",
+      "initial": {
+        "n": 5,
+        "MAE": 0.4,
+        "RMSE": 0.6324555320336759,
+        "mean_bias": -0.4,
+        "exact_match": 0.6,
+        "within_half_band": 0.6,
+        "max_absolute_error": 1
+      },
+      "final": {
+        "n": 5,
+        "MAE": 0.3,
+        "RMSE": 0.5,
+        "mean_bias": -0.3,
+        "exact_match": 0.6,
+        "within_half_band": 0.8,
+        "max_absolute_error": 1
+      }
+    },
+    {
+      "task": "task1",
+      "criterion": "GRA",
+      "initial": {
+        "n": 5,
+        "MAE": 0.9,
+        "RMSE": 1.118033988749895,
+        "mean_bias": -0.1,
+        "exact_match": 0.2,
+        "within_half_band": 0.4,
+        "max_absolute_error": 2
+      },
+      "final": {
+        "n": 5,
+        "MAE": 0.8,
+        "RMSE": 1.0954451150103321,
+        "mean_bias": 0.0,
+        "exact_match": 0.4,
+        "within_half_band": 0.4,
+        "max_absolute_error": 2.0
+      }
+    },
+    {
+      "task": "task2",
+      "criterion": "TR",
+      "initial": {
+        "n": 2,
+        "MAE": 1.0,
+        "RMSE": 1.4142135623730951,
+        "mean_bias": -1.0,
+        "exact_match": 0.5,
+        "within_half_band": 0.5,
+        "max_absolute_error": 2.0
+      },
+      "final": {
+        "n": 2,
+        "MAE": 1.0,
+        "RMSE": 1.118033988749895,
+        "mean_bias": -0.5,
+        "exact_match": 0.0,
+        "within_half_band": 0.5,
+        "max_absolute_error": 1.5
+      }
+    },
+    {
+      "task": "task2",
+      "criterion": "CC",
+      "initial": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.7071067811865476,
+        "mean_bias": -0.5,
+        "exact_match": 0.5,
+        "within_half_band": 0.5,
+        "max_absolute_error": 1
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.7071067811865476,
+        "mean_bias": -0.5,
+        "exact_match": 0.5,
+        "within_half_band": 0.5,
+        "max_absolute_error": 1.0
+      }
+    },
+    {
+      "task": "task2",
+      "criterion": "LR",
+      "initial": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.7071067811865476,
+        "mean_bias": -0.5,
+        "exact_match": 0.5,
+        "within_half_band": 0.5,
+        "max_absolute_error": 1
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.7071067811865476,
+        "mean_bias": -0.5,
+        "exact_match": 0.5,
+        "within_half_band": 0.5,
+        "max_absolute_error": 1.0
+      }
+    },
+    {
+      "task": "task2",
+      "criterion": "GRA",
+      "initial": {
+        "n": 2,
+        "MAE": 0.0,
+        "RMSE": 0.0,
+        "mean_bias": 0.0,
+        "exact_match": 1.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.0,
+        "RMSE": 0.0,
+        "mean_bias": 0.0,
+        "exact_match": 1.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0
+      }
+    }
+  ],
+  "per_band": [
+    {
+      "task": "task1",
+      "human_band": 6.0,
+      "initial": {
+        "n": 2,
+        "MAE": 0.75,
+        "RMSE": 0.7905694150420949,
+        "mean_bias": 0.75,
+        "exact_match": 0.0,
+        "within_half_band": 0.5,
+        "max_absolute_error": 1.0
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.75,
+        "RMSE": 0.7905694150420949,
+        "mean_bias": 0.75,
+        "exact_match": 0.0,
+        "within_half_band": 0.5,
+        "max_absolute_error": 1.0
+      }
+    },
+    {
+      "task": "task1",
+      "human_band": 6.5,
+      "initial": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.5,
+        "mean_bias": 0.5,
+        "exact_match": 0.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.5
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.5,
+        "mean_bias": 0.5,
+        "exact_match": 0.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.5
+      }
+    },
+    {
+      "task": "task1",
+      "human_band": 7.0,
+      "initial": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.5,
+        "mean_bias": 0.0,
+        "exact_match": 0.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.5
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.5,
+        "mean_bias": 0.0,
+        "exact_match": 0.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.5
+      }
+    },
+    {
+      "task": "task1",
+      "human_band": 7.5,
+      "initial": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.5,
+        "mean_bias": 0.0,
+        "exact_match": 0.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.5
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.5,
+        "mean_bias": 0.0,
+        "exact_match": 0.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.5
+      }
+    },
+    {
+      "task": "task1",
+      "human_band": 8.0,
+      "initial": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.5,
+        "mean_bias": -0.5,
+        "exact_match": 0.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.5
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.5,
+        "mean_bias": -0.5,
+        "exact_match": 0.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.5
+      }
+    },
+    {
+      "task": "task1",
+      "human_band": 8.5,
+      "initial": {
+        "n": 2,
+        "MAE": 0.25,
+        "RMSE": 0.3535533905932738,
+        "mean_bias": -0.25,
+        "exact_match": 0.5,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.5
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.25,
+        "RMSE": 0.3535533905932738,
+        "mean_bias": -0.25,
+        "exact_match": 0.5,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.5
+      }
+    },
+    {
+      "task": "task1",
+      "human_band": 9.0,
+      "initial": {
+        "n": 2,
+        "MAE": 0.75,
+        "RMSE": 0.7905694150420949,
+        "mean_bias": -0.75,
+        "exact_match": 0.0,
+        "within_half_band": 0.5,
+        "max_absolute_error": 1.0
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.75,
+        "RMSE": 0.7905694150420949,
+        "mean_bias": -0.75,
+        "exact_match": 0.0,
+        "within_half_band": 0.5,
+        "max_absolute_error": 1.0
+      }
+    },
+    {
+      "task": "task2",
+      "human_band": 6.0,
+      "initial": {
+        "n": 2,
+        "MAE": 0.75,
+        "RMSE": 0.7905694150420949,
+        "mean_bias": 0.75,
+        "exact_match": 0.0,
+        "within_half_band": 0.5,
+        "max_absolute_error": 1.0
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.7071067811865476,
+        "mean_bias": 0.5,
+        "exact_match": 0.5,
+        "within_half_band": 0.5,
+        "max_absolute_error": 1.0
+      }
+    },
+    {
+      "task": "task2",
+      "human_band": 6.5,
+      "initial": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.7071067811865476,
+        "mean_bias": 0.5,
+        "exact_match": 0.5,
+        "within_half_band": 0.5,
+        "max_absolute_error": 1.0
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.25,
+        "RMSE": 0.3535533905932738,
+        "mean_bias": 0.25,
+        "exact_match": 0.5,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.5
+      }
+    },
+    {
+      "task": "task2",
+      "human_band": 7.0,
+      "initial": {
+        "n": 2,
+        "MAE": 0.0,
+        "RMSE": 0.0,
+        "mean_bias": 0.0,
+        "exact_match": 1.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.0
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.0,
+        "RMSE": 0.0,
+        "mean_bias": 0.0,
+        "exact_match": 1.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.0
+      }
+    },
+    {
+      "task": "task2",
+      "human_band": 7.5,
+      "initial": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.5,
+        "mean_bias": 0.0,
+        "exact_match": 0.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.5
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.5,
+        "mean_bias": 0.0,
+        "exact_match": 0.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.5
+      }
+    },
+    {
+      "task": "task2",
+      "human_band": 8.0,
+      "initial": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.5,
+        "mean_bias": -0.5,
+        "exact_match": 0.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.5
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.5,
+        "RMSE": 0.5,
+        "mean_bias": -0.5,
+        "exact_match": 0.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.5
+      }
+    },
+    {
+      "task": "task2",
+      "human_band": 8.5,
+      "initial": {
+        "n": 2,
+        "MAE": 0.0,
+        "RMSE": 0.0,
+        "mean_bias": 0.0,
+        "exact_match": 1.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.0
+      },
+      "final": {
+        "n": 2,
+        "MAE": 0.0,
+        "RMSE": 0.0,
+        "mean_bias": 0.0,
+        "exact_match": 1.0,
+        "within_half_band": 1.0,
+        "max_absolute_error": 0.0
+      }
+    },
+    {
+      "task": "task2",
+      "human_band": 9.0,
+      "initial": {
+        "n": 2,
+        "MAE": 1.25,
+        "RMSE": 1.2747548783981961,
+        "mean_bias": -1.25,
+        "exact_match": 0.0,
+        "within_half_band": 0.0,
+        "max_absolute_error": 1.5
+      },
+      "final": {
+        "n": 2,
+        "MAE": 1.25,
+        "RMSE": 1.2747548783981961,
+        "mean_bias": -1.25,
+        "exact_match": 0.0,
+        "within_half_band": 0.0,
+        "max_absolute_error": 1.5
+      }
+    }
+  ],
+  "caveats": [
+    "Development regression on public/previously used material, not a new blind generalisation test.",
+    "Current-library quota exception: Task 1 CC9 n=6 and LR9 n=7; other integer panels n=10.",
+    "Published single-essay totals remain source labels; predicted totals use half-up rounding of four criterion means.",
+    "Only genuinely published criterion labels enter criterion metrics; missing labels are not imputed.",
+    "Same-original and identifiable prompt groups excluded from reference panels.",
+    "A single run cannot establish repeatability or a population-level accuracy improvement.",
+    "One reference original had its true HTML paragraphs restored; another with a missing task proposition was quarantined and replaced only from the already frozen pool. Affected Task 2 contexts were superseded before target-error reveal; original human labels and all 112 initial scores remained unchanged."
+  ],
+  "scoring_configuration": {
+    "model": "gpt-6-astra",
+    "model_reasoning_effort": "high",
+    "cli_version": "codex-cli 0.155.0-alpha.16.3"
+  },
+  "per_essay": [
+    {
+      "id": "I28-01",
+      "source_id": "blog-5dcc3caa4ecb",
+      "task": "task2",
+      "initial_traits": {
+        "TR": 6.0,
+        "CC": 7,
+        "LR": 7,
+        "GRA": 7
+      },
+      "final_traits": {
+        "TR": 6.0,
+        "CC": 7,
+        "LR": 7.0,
+        "GRA": 7
+      },
+      "human_traits": {
+        "TR": null,
+        "CC": null,
+        "LR": null,
+        "GRA": null
+      },
+      "initial_overall": 7.0,
+      "final_overall": 7.0,
+      "human_overall": 6.0,
+      "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-the-advantages-and-disadvantages-of-studying-in-another-country/"
+    },
+    {
+      "id": "I28-02",
+      "source_id": "mcielts-liverton-docks-third-submission",
+      "task": "task1",
+      "initial_traits": {
+        "TA": 7.0,
+        "CC": 8.0,
+        "LR": 8,
+        "GRA": 8
+      },
+      "final_traits": {
+        "TA": 7.0,
+        "CC": 8.0,
+        "LR": 8.5,
+        "GRA": 8.0
+      },
+      "human_traits": {
+        "TA": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "initial_overall": 8.0,
+      "final_overall": 8.0,
+      "human_overall": 9,
+      "source_url": "https://mcielts.com/ielts-computer-writing-task-1-10-04-2023-band-9-0/"
+    },
+    {
+      "id": "I28-03",
+      "source_id": "advantage-yumiko-band9",
+      "task": "task2",
+      "initial_traits": {
+        "TR": 7.0,
+        "CC": 7,
+        "LR": 7,
+        "GRA": 8
+      },
+      "final_traits": {
+        "TR": 7.0,
+        "CC": 7,
+        "LR": 7.0,
+        "GRA": 8
+      },
+      "human_traits": {},
+      "initial_overall": 7.5,
+      "final_overall": 7.5,
+      "human_overall": 9,
+      "source_url": "https://www.ieltsadvantage.com/2016/01/09/yumikos-band-9-essay/"
+    },
+    {
+      "id": "I28-04",
+      "source_id": "blog-0f85f09d8ff7",
+      "task": "task2",
+      "initial_traits": {
+        "TR": 6.0,
+        "CC": 7,
+        "LR": 7,
+        "GRA": 6.5
+      },
+      "final_traits": {
+        "TR": 6.0,
+        "CC": 7.0,
+        "LR": 7.0,
+        "GRA": 6.5
+      },
+      "human_traits": {
+        "TR": null,
+        "CC": null,
+        "LR": null,
+        "GRA": null
+      },
+      "initial_overall": 6.5,
+      "final_overall": 6.5,
+      "human_overall": 6.5,
+      "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-traffic-accidents/"
+    },
+    {
+      "id": "I28-05",
+      "source_id": "blog-1180c08459e3",
+      "task": "task2",
+      "initial_traits": {
+        "TR": 7.0,
+        "CC": 8,
+        "LR": 7,
+        "GRA": 7
+      },
+      "final_traits": {
+        "TR": 7.0,
+        "CC": 8,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "human_traits": {
+        "TR": null,
+        "CC": null,
+        "LR": null,
+        "GRA": null
+      },
+      "initial_overall": 7.5,
+      "final_overall": 7.5,
+      "human_overall": 8.0,
+      "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-should-unpaid-community-work-be-mandatory-in-high-school-agree-disagree/"
+    },
+    {
+      "id": "I28-06",
+      "source_id": "insights-v21-p29-task1",
+      "task": "task1",
+      "initial_traits": {
+        "TA": 6.0,
+        "CC": 8,
+        "LR": 8,
+        "GRA": 8
+      },
+      "final_traits": {
+        "TA": 6.0,
+        "CC": 8.0,
+        "LR": 8,
+        "GRA": 8.0
+      },
+      "human_traits": {},
+      "initial_overall": 7.5,
+      "final_overall": 7.5,
+      "human_overall": 8,
+      "source_url": "https://cms.youpass.vn/assets/0484c3f6-c805-46ad-9018-69e91e49ae22.pdf"
+    },
+    {
+      "id": "I28-07",
+      "source_id": "insights-v10-p36-task2",
+      "task": "task2",
+      "initial_traits": {
+        "TR": 8.0,
+        "CC": 8,
+        "LR": 8,
+        "GRA": 9
+      },
+      "final_traits": {
+        "TR": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 9.0
+      },
+      "human_traits": {},
+      "initial_overall": 8.5,
+      "final_overall": 8.5,
+      "human_overall": 8.5,
+      "source_url": "https://cms.youpass.vn/assets/1ba361b6-4f04-4298-81d0-4ef30710a847"
+    },
+    {
+      "id": "I28-08",
+      "source_id": "cambridge-19-t1-task1",
+      "task": "task1",
+      "initial_traits": {
+        "TA": 6.0,
+        "CC": 8,
+        "LR": 7,
+        "GRA": 6
+      },
+      "final_traits": {
+        "TA": 6.0,
+        "CC": 8,
+        "LR": 7.0,
+        "GRA": 6.0
+      },
+      "human_traits": {},
+      "initial_overall": 7.0,
+      "final_overall": 7.0,
+      "human_overall": 6.5,
+      "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-19-academic/"
+    },
+    {
+      "id": "I28-09",
+      "source_id": "cambridge-16-t2-task1",
+      "task": "task1",
+      "initial_traits": {
+        "TA": 7.0,
+        "CC": 8,
+        "LR": 7,
+        "GRA": 6.0
+      },
+      "final_traits": {
+        "TA": 7.0,
+        "CC": 8.0,
+        "LR": 7.0,
+        "GRA": 6.5
+      },
+      "human_traits": {},
+      "initial_overall": 7.0,
+      "final_overall": 7.0,
+      "human_overall": 6.0,
+      "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-16-academic/"
+    },
+    {
+      "id": "I28-10",
+      "source_id": "blog-2030bb2064fc",
+      "task": "task2",
+      "initial_traits": {
+        "TR": 7.0,
+        "CC": 8,
+        "LR": 7,
+        "GRA": 7
+      },
+      "final_traits": {
+        "TR": 7.0,
+        "CC": 8,
+        "LR": 7.0,
+        "GRA": 6.5
+      },
+      "human_traits": {
+        "TR": null,
+        "CC": null,
+        "LR": null,
+        "GRA": null
+      },
+      "initial_overall": 7.5,
+      "final_overall": 7.0,
+      "human_overall": 6.5,
+      "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-dieting-changes-a-persons-life/"
+    },
+    {
+      "id": "I28-11",
+      "source_id": "tony-fish-2020",
+      "task": "task1",
+      "initial_traits": {
+        "TA": 6.0,
+        "CC": 8,
+        "LR": 6,
+        "GRA": 6.0
+      },
+      "final_traits": {
+        "TA": 6.0,
+        "CC": 8.0,
+        "LR": 6,
+        "GRA": 6.0
+      },
+      "human_traits": {
+        "TA": 6,
+        "CC": 6,
+        "LR": 6,
+        "GRA": 6
+      },
+      "initial_overall": 6.5,
+      "final_overall": 6.5,
+      "human_overall": 6,
+      "source_url": "https://www.succeedinielts.com/wp-content/uploads/2020/05/Sample-Marked-Script-Task-1-6666-Fish-and-meat.pdf"
+    },
+    {
+      "id": "I28-12",
+      "source_id": "insights-v16-p24-task1",
+      "task": "task1",
+      "initial_traits": {
+        "TA": 7.0,
+        "CC": 8.0,
+        "LR": 8,
+        "GRA": 9
+      },
+      "final_traits": {
+        "TA": 7.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 9.0
+      },
+      "human_traits": {
+        "TA": 8,
+        "CC": 8,
+        "LR": 8,
+        "GRA": 7
+      },
+      "initial_overall": 8.0,
+      "final_overall": 8.0,
+      "human_overall": 7.5,
+      "source_url": "https://cms.youpass.vn/assets/de225b2f-6b8c-494f-97fc-f230f59e3570"
+    },
+    {
+      "id": "I28-13",
+      "source_id": "cambridge-19-t3-task1",
+      "task": "task1",
+      "initial_traits": {
+        "TA": 7.0,
+        "CC": 8,
+        "LR": 7,
+        "GRA": 6
+      },
+      "final_traits": {
+        "TA": 6.5,
+        "CC": 8,
+        "LR": 7.0,
+        "GRA": 6.5
+      },
+      "human_traits": {},
+      "initial_overall": 7.0,
+      "final_overall": 7.0,
+      "human_overall": 6.5,
+      "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-19-academic/"
+    },
+    {
+      "id": "I28-14",
+      "source_id": "ieltsanswers-4587de54c83e",
+      "task": "task2",
+      "initial_traits": {
+        "TR": 7.0,
+        "CC": 7.0,
+        "LR": 7,
+        "GRA": 6
+      },
+      "final_traits": {
+        "TR": 7.0,
+        "CC": 6.5,
+        "LR": 7.0,
+        "GRA": 6.5
+      },
+      "human_traits": {},
+      "initial_overall": 7.0,
+      "final_overall": 7.0,
+      "human_overall": 7.5,
+      "source_url": "https://www.ieltsanswers.com/essays/ielts-essay-alcohol-abuse.pdf"
+    },
+    {
+      "id": "I28-15",
+      "source_id": "blog-af11ebc74702",
+      "task": "task2",
+      "initial_traits": {
+        "TR": 7.0,
+        "CC": 7,
+        "LR": 7,
+        "GRA": 7
+      },
+      "final_traits": {
+        "TR": 7.0,
+        "CC": 7,
+        "LR": 7.0,
+        "GRA": 7.0
+      },
+      "human_traits": {
+        "TR": null,
+        "CC": null,
+        "LR": null,
+        "GRA": null
+      },
+      "initial_overall": 7.0,
+      "final_overall": 7.0,
+      "human_overall": 7.0,
+      "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-7/ielts-essay-topic-should-students-travel/"
+    },
+    {
+      "id": "I28-16",
+      "source_id": "insights-v18-p29-task1",
+      "task": "task1",
+      "initial_traits": {
+        "TA": 9.0,
+        "CC": 8.0,
+        "LR": 8,
+        "GRA": 8.5
+      },
+      "final_traits": {
+        "TA": 9.0,
+        "CC": 8.0,
+        "LR": 8,
+        "GRA": 9
+      },
+      "human_traits": {
+        "TA": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "initial_overall": 8.5,
+      "final_overall": 8.5,
+      "human_overall": 9,
+      "source_url": "https://cms.youpass.vn/assets/f6c24013-680f-4028-977e-db0d989c6bff"
+    },
+    {
+      "id": "I28-17",
+      "source_id": "blog-164f0dea56d4",
+      "task": "task1",
+      "initial_traits": {
+        "TA": 6.0,
+        "CC": 7,
+        "LR": 7,
+        "GRA": 6
+      },
+      "final_traits": {
+        "TA": 6,
+        "CC": 6.5,
+        "LR": 7,
+        "GRA": 6
+      },
+      "human_traits": {
+        "TA": null,
+        "CC": null,
+        "LR": null,
+        "GRA": null
+      },
+      "initial_overall": 6.5,
+      "final_overall": 6.5,
+      "human_overall": 7.0,
+      "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-7/ielts-report-topic-table-of-home-schooled-students/"
+    },
+    {
+      "id": "I28-18",
+      "source_id": "insights-v21-p40-task2",
+      "task": "task2",
+      "initial_traits": {
+        "TR": 8.0,
+        "CC": 8.0,
+        "LR": 8,
+        "GRA": 9
+      },
+      "final_traits": {
+        "TR": 8.0,
+        "CC": 8.0,
+        "LR": 8,
+        "GRA": 9
+      },
+      "human_traits": {},
+      "initial_overall": 8.5,
+      "final_overall": 8.5,
+      "human_overall": 8.5,
+      "source_url": "https://cms.youpass.vn/assets/0484c3f6-c805-46ad-9018-69e91e49ae22.pdf"
+    },
+    {
+      "id": "I28-19",
+      "source_id": "insights-v11-p55-task1",
+      "task": "task1",
+      "initial_traits": {
+        "TA": 9.0,
+        "CC": 9,
+        "LR": 8,
+        "GRA": 8
+      },
+      "final_traits": {
+        "TA": 9.0,
+        "CC": 9,
+        "LR": 8,
+        "GRA": 8
+      },
+      "human_traits": {
+        "TA": 9,
+        "CC": 8,
+        "LR": 8,
+        "GRA": 9
+      },
+      "initial_overall": 8.5,
+      "final_overall": 8.5,
+      "human_overall": 8.5,
+      "source_url": "https://cms.youpass.vn/assets/28835829-efbd-44ed-9cbf-fe0c377828e6?"
+    },
+    {
+      "id": "I28-20",
+      "source_id": "insights-v19-p25-task1",
+      "task": "task1",
+      "initial_traits": {
+        "TA": 7.0,
+        "CC": 8,
+        "LR": 8,
+        "GRA": 8
+      },
+      "final_traits": {
+        "TA": 7.0,
+        "CC": 8.5,
+        "LR": 8,
+        "GRA": 8
+      },
+      "human_traits": {},
+      "initial_overall": 8.0,
+      "final_overall": 8.0,
+      "human_overall": 8.5,
+      "source_url": "https://cms.youpass.vn/assets/87b96a8e-4931-425a-acf8-99b183fcfee5"
+    },
+    {
+      "id": "I28-21",
+      "source_id": "blog-ad8372aa1107",
+      "task": "task2",
+      "initial_traits": {
+        "TR": 7.0,
+        "CC": 8.0,
+        "LR": 7,
+        "GRA": 6.5
+      },
+      "final_traits": {
+        "TR": 7.0,
+        "CC": 7.5,
+        "LR": 7.0,
+        "GRA": 6.5
+      },
+      "human_traits": {
+        "TR": null,
+        "CC": null,
+        "LR": null,
+        "GRA": null
+      },
+      "initial_overall": 7.0,
+      "final_overall": 7.0,
+      "human_overall": 7.0,
+      "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-7/ielts-essay-topic-news-on-tv/"
+    },
+    {
+      "id": "I28-22",
+      "source_id": "advantage-museums-band9",
+      "task": "task2",
+      "initial_traits": {
+        "TR": 7.0,
+        "CC": 8,
+        "LR": 8,
+        "GRA": 9
+      },
+      "final_traits": {
+        "TR": 7.5,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 9
+      },
+      "human_traits": {
+        "TR": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "initial_overall": 8.0,
+      "final_overall": 8.0,
+      "human_overall": 9.0,
+      "source_url": "https://www.ieltsadvantage.com/2015/09/02/ielts-band-9-essay/"
+    },
+    {
+      "id": "I28-23",
+      "source_id": "blog-66a0a2dd6fc1",
+      "task": "task1",
+      "initial_traits": {
+        "TA": 6.0,
+        "CC": 8.0,
+        "LR": 7,
+        "GRA": 8
+      },
+      "final_traits": {
+        "TA": 6.0,
+        "CC": 8.0,
+        "LR": 7,
+        "GRA": 8
+      },
+      "human_traits": {
+        "TA": null,
+        "CC": null,
+        "LR": null,
+        "GRA": null
+      },
+      "initial_overall": 7.5,
+      "final_overall": 7.5,
+      "human_overall": 7.0,
+      "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-7/ielts-report-topic-a-pie-chart-of-leisure-activities/"
+    },
+    {
+      "id": "I28-24",
+      "source_id": "blog-8af095eb3b76",
+      "task": "task2",
+      "initial_traits": {
+        "TR": 5.0,
+        "CC": 7.0,
+        "LR": 7,
+        "GRA": 6
+      },
+      "final_traits": {
+        "TR": 5.0,
+        "CC": 7.0,
+        "LR": 6.5,
+        "GRA": 6.0
+      },
+      "human_traits": {
+        "TR": null,
+        "CC": null,
+        "LR": null,
+        "GRA": null
+      },
+      "initial_overall": 6.5,
+      "final_overall": 6.0,
+      "human_overall": 6.0,
+      "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essay-topic-women-power/"
+    },
+    {
+      "id": "I28-25",
+      "source_id": "blog-15ec14c53a2b",
+      "task": "task2",
+      "initial_traits": {
+        "TR": 7.0,
+        "CC": 8,
+        "LR": 7,
+        "GRA": 8
+      },
+      "final_traits": {
+        "TR": 7.0,
+        "CC": 7.5,
+        "LR": 7.0,
+        "GRA": 8.0
+      },
+      "human_traits": {
+        "TR": null,
+        "CC": null,
+        "LR": null,
+        "GRA": null
+      },
+      "initial_overall": 7.5,
+      "final_overall": 7.5,
+      "human_overall": 8.0,
+      "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-should-children-grow-up-in-the-city-or-countryside-advantages-disadvantages/"
+    },
+    {
+      "id": "I28-26",
+      "source_id": "cambridge-17-t2-task1",
+      "task": "task1",
+      "initial_traits": {
+        "TA": 7.0,
+        "CC": 7,
+        "LR": 7,
+        "GRA": 6
+      },
+      "final_traits": {
+        "TA": 7.0,
+        "CC": 7,
+        "LR": 7,
+        "GRA": 6
+      },
+      "human_traits": {},
+      "initial_overall": 7.0,
+      "final_overall": 7.0,
+      "human_overall": 7.5,
+      "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-17-academic/"
+    },
+    {
+      "id": "I28-27",
+      "source_id": "cambridge-5-t2-task1",
+      "task": "task1",
+      "initial_traits": {
+        "TA": 7.0,
+        "CC": 8,
+        "LR": 7,
+        "GRA": 8
+      },
+      "final_traits": {
+        "TA": 7.0,
+        "CC": 8.0,
+        "LR": 7.0,
+        "GRA": 8
+      },
+      "human_traits": {},
+      "initial_overall": 7.5,
+      "final_overall": 7.5,
+      "human_overall": 8.0,
+      "source_url": "https://drive.usercontent.google.com/download?id=148dsX5evu1zM5Qg80VYHANfhk6lCrEwj&export=download&authuser=0&confirm=t"
+    },
+    {
+      "id": "I28-28",
+      "source_id": "tony-education-2021",
+      "task": "task2",
+      "initial_traits": {
+        "TR": 7.0,
+        "CC": 8,
+        "LR": 8,
+        "GRA": 8
+      },
+      "final_traits": {
+        "TR": 7.5,
+        "CC": 8,
+        "LR": 8.0,
+        "GRA": 8.0
+      },
+      "human_traits": {
+        "TR": 7,
+        "CC": 8,
+        "LR": 8,
+        "GRA": 8
+      },
+      "initial_overall": 8.0,
+      "final_overall": 8.0,
+      "human_overall": 7.5,
+      "source_url": "https://www.succeedinielts.com/wp-content/uploads/2021/07/Sample-marked-script-Task-2-7888-Education-to-18.pdf"
+    }
+  ],
+  "model_configuration": {
+    "model": "gpt-6-astra",
+    "model_reasoning_effort": "high",
+    "cli_version": "codex-cli 0.155.0-alpha.16.3"
+  },
+  "metric_definition": "Absolute error of the displayed single-essay overall band against the source-published overall label; public development regression, not fresh blind validation."
+}

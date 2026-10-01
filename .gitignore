@@ -1,0 +1,17 @@
+# Local reference corpus and user submissions must not be published.
+library/
+research/
+reviews/
+local-materials/
+.tools/
+.env
+.env.*
+*.pem
+*.key
+auth.json
+config.toml
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
