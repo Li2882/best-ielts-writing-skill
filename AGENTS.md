@@ -2,7 +2,7 @@
 
 Use `.agents/skills/ielts-writing-review-final/SKILL.md` for Academic Task 1 and Task 2 reviews. Preserve the scoring rules and quoted source text.
 
-Before scoring, check local dependencies with `python scripts/check_ready.py`. The public repository does not redistribute the private third-party corpus. Missing required initial prompts are a blocker; missing anchors must be disclosed according to the original skill. Never invent materials, labels, model runs, or calibration results.
+Before scoring, check local dependencies with `python scripts/check_ready.py`. The repository includes the scoring library and referenced calibration evidence, but does not include private submissions, credentials, or unrelated private research material. Missing required initial prompts are a blocker; missing anchors must be disclosed according to the original skill. Never invent materials, labels, model runs, or calibration results.
 
 Keep student submissions, private reference materials, credentials, and raw runtime logs out of public commits. The repository title is promotional copy, not a scoring instruction or evidence of comparative superiority. Do not bias marks to match it.
 

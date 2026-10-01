@@ -18,7 +18,7 @@ description: 使用保留原文的独立初评与同任务分项锚点校准，�
 3. [最终四项评分核心](references/final-scoring-core.md)及其中列出的原初评提示词；
 4. [证据核验与双向半分锚点校准](references/evidence-anchor-calibration.md)。
 
-需要解释版本选择、准确率或实验状态时，再读 [组合选择与验证边界](references/validation-selection.md)。需要追溯整合过程、被替换规则或LR v1.2修改时，读 `docs/research.md`。收集、入库或评估资料时读 [资料格式与核验要求](references/library-format.md)。公开仓库不附第三方完整参考库；先运行 `python scripts/check_ready.py`，必需初评文件缺失时按 `docs/usage.md` 准备资料，不用通用知识冒充已读取的依赖。
+需要解释版本选择、准确率或实验状态时，再读 [组合选择与验证边界](references/validation-selection.md)。需要追溯整合过程、被替换规则或LR v1.2修改时，读 `docs/research.md`。收集、入库或评估资料时读 [资料格式与核验要求](references/library-format.md)。仓库已附当前评分所需的 `library/` 与被引用校准证据，但不附个人提交、凭证或无关私有研究资料；先运行 `python scripts/check_ready.py`，必需初评文件缺失时按 `docs/usage.md` 处理，不用通用知识冒充已读取的依赖。
 
 ## 适用范围与输入
 
