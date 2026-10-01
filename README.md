@@ -4,7 +4,7 @@
 
 **最好的雅思批改 Skill · The best IELTS writing review skill**
 
-我们认为，它比大多数现有的雅思批改 Skill 更好。 · In our view, it is better than most existing IELTS writing review skills.
+比大多数现有的雅思批改 Skill 更好。 · Better than most existing IELTS writing review skills.
 
 ![IELTS Writing Coach](assets/cover.svg)
 
