@@ -6,7 +6,9 @@
 
 **四项估分、原文证据、错误诊断、修改建议。**
 
-比大多数现有的雅思批改 Skill 更好。它面向 IELTS Academic Writing Task 1/Task 2：保留作文原文，分别评估 TA/TR、CC、LR、GRA，再用同任务锚点作文校准分数，给出可核对、可执行的反馈。
+**经过测验。**
+
+**比大多数现有的雅思批改 Skill 更好。**它面向 IELTS Academic Writing Task 1/Task 2：保留作文原文，分别评估 TA/TR、CC、LR、GRA，再用同任务锚点作文校准分数，给出可核对、可执行的反馈。
 
 ![IELTS Writing Correction Codex Skill](assets/cover.svg)
 
