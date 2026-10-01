@@ -18,7 +18,7 @@
 
 外部 Skill 历史实测：quyen244 **0.857**、Gishguo **0.946**（7 篇、四项 MAE）。与本版测试集及指标不同，不作直接胜负结论。[完整对比与研究过程](docs/research.md)
 
-**使用：**下载本项目，在 Codex 打开文件夹，完成[资料准备](docs/usage.md)，选择 **GPT-6 Astra / High 或更高推理档**，发送：
+**使用：**下载本项目，在 Codex 打开文件夹，选择 **GPT-6 Astra / High 或更高推理档**，发送：
 
 ```text
 请使用 $ielts-writing-review-final 批改下面的作文。
@@ -26,7 +26,7 @@
 作文原文：……
 ```
 
-本项目推荐最低配置为 GPT-6 Astra / High；换模型需重新验证。模拟估分，非官方成绩；模型费用另计，第三方参考库不随仓库分发。
+本项目推荐最低配置为 GPT-6 Astra / High；换模型需重新验证。评分库及被引用的校准证据已随仓库提供；模拟估分，非官方成绩，模型费用另计。
 
 ## English
 
@@ -36,4 +36,4 @@ IELTS Academic Task 1 & 2 feedback: **four-criterion band estimates, quoted evid
 
 **28-essay development evaluation: overall-band MAE 0.482; 82.1% within ±0.5 band.** Earlier external-prompt results: quyen244 **0.857**, Gishguo **0.946** (7 essays, criterion-level MAE). Different datasets and metrics: not a head-to-head ranking. [Research & comparisons](docs/research.md).
 
-Download this project, open it in Codex, complete the [data setup](docs/usage.md), and invoke `$ielts-writing-review-final` with the question, original essay, and Task 1 chart. Recommended minimum: **GPT-6 Astra / High**. Unofficial estimates; model costs apply. Third-party reference materials are not bundled.
+Download this project, open it in Codex, and invoke `$ielts-writing-review-final` with the question, original essay, and Task 1 chart. Recommended minimum: **GPT-6 Astra / High**. The scoring library and referenced calibration evidence are included. Unofficial estimates; model costs apply.
