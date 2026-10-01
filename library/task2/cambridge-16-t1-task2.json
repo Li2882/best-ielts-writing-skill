@@ -1,0 +1,51 @@
+{
+  "id": "cambridge-16-t1-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/cambridge-16-t1-task2.json",
+  "question": "In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in.\nWhat are the reasons for this?\nHow can people research this?",
+  "question_image": null,
+  "images": [],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c16-p132.png",
+    "research/expansion/book-pages/c16-p133.png"
+  ],
+  "reading_transcript": "In our rather futuristic society for a number of reasons people are getting more interested in the past of their hometowns. With the help of rapidly ameliorating technology their desire to learn about the history can be easily put into life. But what are the roots of such an eagerness?\n\nFirst of all, the hectic lifestyle that we all experience nowadays does not leave any space for calmness and peace in our souls, so most of the people – especially adolescence – are struggling with finding their feet, whilst having a broad spectrum of knowledge about the world around really gives a feeling of confidence in the impermanence of life. In addition to this, it is said that being aware of the past you can change the future. Consequently, if people want to live a better life in more comfortable environment, they have to explore the history of their homes in order not to repeat past mistakes.\n\nFor this aims we are lucky to have multiple tools to carry out research into the subject. Despite libraries being considered as an old-fashioned and not necessarily convinient approach of learning, there are actually quite a few books and magazines which are not available online but which are extremely helpful when it comes to the local interests. News, photos, articles and interviews with different people published in old magazines indeed provide with a clear image of past events. Brousing the internet forums is also a great idea to find new information and make friend with mutual objectives.\n\nPutting everything into a nutshell, learning about the history of your place not only builds a sense of confidence but also might have a big impact on our future way of life.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {},
+  "comments": "This response provides a range of ideas on the value of knowing about history, but not specifically about the history of houses or buildings people live in. The main points are addressed but the ideas that relate directly to the question are limited.\nThe response is organised into four paragraphs, with an introduction and conclusion. Each main paragraph covers one of the points in the question, but the lack of focus means that there is a lack of overall progression. Cohesive devices are used well [First of all | Consequently] but there are some errors [For this aims].\nVocabulary is the strongest part of this response, with some examples of higher-level collocation [hectic lifestyle | peace in our souls | finding their feet | broad spectrum of knowledge | impermanence of life | mutual objectives]. There are a variety of sentence structures but errors remain.\nTo improve this response, the candidate should refer more closely to the 'house or building' rather than the hometown.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-16-academic/",
+  "source_artifact": "research/expansion/cam16-page.html",
+  "source_sha256": "3a7c22accc6e9d451361adc70721b590144cf510c5af8a4eaed095aa73cb7225",
+  "source_locator": {
+    "book": 16,
+    "test": 1,
+    "pdf": "research/expansion/cambridge16.pdf",
+    "response_pages": [
+      132,
+      133
+    ],
+    "score_line": "achieved a Band 6.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-16-t1-task2",
+  "prompt_group": "cambridge-16-t1-task2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

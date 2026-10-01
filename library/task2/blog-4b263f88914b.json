@@ -1,0 +1,140 @@
+{
+  "id": "blog-4b263f88914b",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-4b263f88914b.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-5/ielts-essay-topic-keeping-pets-to-live-a-more-enjoyable-life/",
+  "source_locator": "research/blog/ielts-essay-topic-keeping-pets-to-live-a-more-enjoyable-life.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "123ee1069db06ea3",
+  "prompt_group": "2fa6622db527b832",
+  "question": "Some people believe that having a pet such as a cat or a dog helps old people to live a more enjoyable life and to stay healthier. How do you think old people benefit from having a pet? Do you think there are any problems related to old people who have pets?",
+  "essay": "In term of physical benefits, the well-being conditions of elderly people with pets are more favourable compared to those without pets, since not only do they have to take care of themselves, the responsibility that ensure their love one being fed and well looked after encourages them to become even more active. Due to these extra activities, this though might not have an obvious influence on their health, but at least this could help them to avoid bad living styles. Coupled with physical side, their mental wellbeing will also be improved, and the reason is that having someone to take care of would reduce the chance of feeling loneliness. Therefore, their depressing rate could be minimised. In spite of the above advantages, the threats of too close interaction between pets and vulnerable old people still exist. One of the major concerns is the harmfulness of these animal hairs on their tracheas, especially those with asthma. Because of the virtually invisible in the air, many asthma symptoms are caused unconsciously by pets. In addition to the fact that old people might experience difficulty in looking after their pets, as their health conditions are limited, which could become even more challenge when they try t take care of others.\n\nIn conclusion, it is true that obstacles still exist for elderly people in adopting pets, but the benefits of this topic outnumber its shortages. For such reasons, instead of discontinuing them, further support would be far more beneficial.",
+  "word_count_computed": 245,
+  "images": [],
+  "overall": 5.5,
+  "band_low": 5.5,
+  "band_high": 5.5,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "You have made an attempt to accomplish the task response. However, there are quite a few mistakes in the essay – the main problematic areas are grammar, sentence structure and word choice. In addition, the length of the task response could be reduced. This task response needs to be worked on and improved. Revise grammar and work on your sentence structure. Avoid writing more than 280 words to save time and reduce the number of mistakes, and remember to always proofread your work once you’re finished. Overall, this looks like a Band 5.5 essay",
+  "corrections": [
+    {
+      "original": "Pets have become far more familiar within mankind community",
+      "suggestion": "There is an increasing trend of keeping pets in many communities"
+    },
+    {
+      "original": "animals’ hairs ",
+      "suggestion": "animal hair"
+    },
+    {
+      "original": "term",
+      "suggestion": "terms"
+    },
+    {
+      "original": "conditions",
+      "suggestion": "remove this word, it is not needed"
+    },
+    {
+      "original": "are more favourable",
+      "suggestion": "is better"
+    },
+    {
+      "original": "__",
+      "suggestion": "‘but also’ is missing here"
+    },
+    {
+      "original": "that",
+      "suggestion": "to"
+    },
+    {
+      "original": "love",
+      "suggestion": "loved"
+    },
+    {
+      "original": "being",
+      "suggestion": "is being"
+    },
+    {
+      "original": "though",
+      "suggestion": "alone"
+    },
+    {
+      "original": "living styles",
+      "suggestion": "lifestyle"
+    },
+    {
+      "original": "loneliness",
+      "suggestion": "lonely"
+    },
+    {
+      "original": "depressing rate",
+      "suggestion": "depression"
+    },
+    {
+      "original": "threats of too close",
+      "suggestion": "disadvantages of much"
+    },
+    {
+      "original": "harmfulness",
+      "suggestion": "harmful effects"
+    },
+    {
+      "original": "hairs",
+      "suggestion": "hair"
+    },
+    {
+      "original": "with",
+      "suggestion": "who suffer from"
+    },
+    {
+      "original": "Because of the",
+      "suggestion": "As the hair is"
+    },
+    {
+      "original": "which",
+      "suggestion": "it"
+    },
+    {
+      "original": "challenge",
+      "suggestion": "challenging"
+    },
+    {
+      "original": "t",
+      "suggestion": "to"
+    },
+    {
+      "original": "outnumber",
+      "suggestion": "outweigh"
+    },
+    {
+      "original": "shortages",
+      "suggestion": "shortcomings"
+    },
+    {
+      "original": "discontinuing them",
+      "suggestion": "not keeping pets"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "88c7b432324e66c2d09399cd8ddc4c4443abf3ec3a4025e246905814360a3608",
+  "model_evidence": null,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "source_context_region": "unknown",
+  "classification_revision": "Book-title advertisement is not evidence of model authorship; explicit sample/model declarations remain excluded."
+}

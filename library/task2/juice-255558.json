@@ -1,0 +1,87 @@
+{
+  "id": "juice-255558",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-255558.json",
+  "question": "The working week should be shorter and workers should have a longer weekend.\nDo you agree or disagree?",
+  "essay": "A recent survey has shown that a three-day weekend would increase efficiency and productivity at the workplace. Nowadays, our career lives are in tune with five days of work and the remainder devoted to our own activities, also labeled as the weekend. I am of the opinion that not only are longer weekends generally beneficial for both our professional and private lives, but also it is a balanced approach to life.\n\nFor one, our professional lives can get a boost in productivity with longer weekends. When an employee knows that there are only four days to work, they begin to value every minute of their work; on the other hand, employers fill in tax papers for only four days a week, which means smaller payslips. In both cases, the same set of tasks in a company can be done with the same, if not higher, standard of quality and a lighter check for the employer or investor. On the same business note, it is surprising to know that three-day weekends will open a new horizon for domestic and international trips or excursions that have been previously deemed too far-fetched for a normal household. A weekend trip to the Bahamas in under two days is usually a rushed one; we all have heard this phrase that you need to go on vacation after your vacation. However, the extra 24 hours might be more inclined to help us be content with a longer international trip like this; hence, the tourism and hospitality sectors will thrive.\n\nFor another, three days for the weekend are ideal for catching up on our personal lives. The family unit is under heavy pressure as the younger generations tend to prioritize their career, financial, and personal growth over their romantic and family lives. This trend is vividly shown in lower birth rates and the rise of childless women. Three days is ample time to do household chores, shopping, personal care, and, most importantly, focus on building a relationship and taking care of other individuals in their family, something that our ancestors used to do and taught us to follow, but the modern glitters blinded us from seeing the true values of life. More time for our family means more time to spend with our children, bond with loved ones and relatives, and learn life skills like cooking and surviving harsher situations, which are not paid well in this day and age.\n\nWe understand that some corporations might resent this trend and associate it with laziness. They might mock this trend as yet another excuse for the working class to ask for more money for fewer hours of work. They might even point out that another 24 hours will not make any dramatic changes to people’s lives but could potentially hamper economic growth. The argument may sound logical, yet putting pressure on people to work more does not necessarily translate into more productivity. This is a simplistic look at a complicated topic that welcomes all of us to look at the workforce as a group of humans interacting with each other rather than a machine that should work for five or six days a week because the company guarantees its peak performance.\n\nIn short, the benefits of longer weekends, namely more productivity in our careers and strengthening the core values of families, call for a change in our view of efficiency and life regardless of how others argue that it damages the economy. We hope that the legislative bodies pass a law acknowledging this new distribution into a working week soon.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TR": 8.0,
+    "CC": 7.0,
+    "LR": 8.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you for writing this essay. The essay presents a well-structured argument in favor of a shorter working week with a longer weekend, effectively outlining benefits such as increased productivity and enhanced personal and family life. The candidate supports their points with relevant examples, like the potential for improved tourism and the idea that longer weekends could strengthen family bonds. However, the essay could benefit from more nuanced counterarguments. For instance, the mention of employers filling in tax papers for only four days a week, resulting in smaller payslips, is unclear and might be confusing to the reader. The essay also lacks a detailed exploration of the potential downsides of a shorter workweek, which would provide a more balanced discussion. Additionally, some sentences, such as \"A weekend trip to the Bahamas in under two days is usually a rushed one,\" could be rephrased for clarity and conciseness. Overall, the essay demonstrates a good understanding of the topic with clear support, but could improve in linguistic precision and balanced argumentation.",
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3408-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-255558.html",
+  "source_sha256": "4c1ce942e8f76920d2d25e71ec9f9d5d12d85efe7d3d53a6c1bee3493452222a",
+  "source_locator": {
+    "wordpress_post_id": 255558,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "597096dfd8fec75e",
+  "prompt_group": "48755344b17904d3",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "9.0\tfully addresses all parts of the task",
+      "9.0\tpresents a fully developed position in answer to the question",
+      "8.0\twith relevant, extended, and supported ideas",
+      "8.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "8.0\tmanages all aspects of cohesion well",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "9.0\tskillfully manages paragraphing",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "8.0\tproduces rare errors in spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "8.0\tthe majority of sentences are error-free",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

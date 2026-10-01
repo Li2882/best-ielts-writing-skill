@@ -1,0 +1,51 @@
+{
+  "id": "cambridge-15-t4-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/cambridge-15-t4-task2.json",
+  "question": "In some cultures, children are often told that they can achieve anything if they try hard enough.\nWhat are the advantages and disadvantages of giving children this message?\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.",
+  "question_image": null,
+  "images": [],
+  "essay": null,
+  "essay_images": [
+    "evaluations/labels/pilot-02-sources/c15-p139.png",
+    "evaluations/labels/pilot-02-sources/c15-p140.png"
+  ],
+  "reading_transcript": "Is it right to tell children they can achieve anything by trying hard?\n\nIn some cultures, children are often told that they can achieve anything if they try hard enough. Giving this message to them can produce several effects on each child.\n\nIn the social point of view, telling this to children is very important because we are motivating the child not to give up. We are making him to try hard, to make an effort, to read between lines and at the end of that long path achieve their objectives. Telling that they can achieve anything if they try hard enough, we are saying in other words that things are not so simple or easy but they are not imposible, is all about working hard and doing our best.\n\nSometimes this is not helpfull because we not always achieve our dreams or goals but it does not mean we did not try hard, it was just because another person deserve it more than us. So, although we try hard, there are other factors playing a role in our path.\n\nIn the economic point of view, if our objectives demand a lot of money, we are again in the same situation, although we work hard, it would be difficult to achieve it.\n\nTo sum up, we are teaching to children how life works, it demands hard work, effort, dedication, time doing things we don't like, studying and attitude. And at the end, if you have done all these things but you still did not achieve your goal, you will be happy anyway because you did your best.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {},
+  "comments": "This candidate has presented some ideas on both sides of the topic, though there is room for further development. Ideas are logically organised and there is a clear progression throughout. Cohesive devices, including reference and substitution, are generally well managed [this message | In / From the social point of view | telling this to children | the same situation | To sum up]. The range of vocabulary is wide enough to show some variety, some less common items and collocations [motivating | give up | try hard | make an effort | achieve their objectives | dedication] and there are few spelling errors. There is a mix of simple and complex sentence structures, some of which are accurate [we are saying ... that things are not so ... easy but they are not imposible | we are teaching ... children how life works | if you have done all these things but you still did not achieve your goal, you will be happy anyway because you did your best]. Others contain errors [making him to try hard / making him try hard | is all about working hard / it is all about working hard | we not always achieve / we do not always achieve | another person deserve / another person deserved], but the meaning is still clear.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-15-academic/",
+  "source_artifact": "evaluations/labels/pilot-02-sources/cambridge-15.html",
+  "source_sha256": "abee9eaf55d90ace978e16dc6132ed5a1cda9240465edd8aafb2fd9e399d667e",
+  "source_locator": {
+    "book": 15,
+    "test": 4,
+    "pdf": "research/expansion/cambridge15-original.pdf",
+    "response_pages": [
+      139,
+      140
+    ],
+    "score_line": "achieved a Band 6.5"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-15-t4-task2",
+  "prompt_group": "cambridge-15-t4-task2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

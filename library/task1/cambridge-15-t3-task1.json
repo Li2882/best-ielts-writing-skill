@@ -1,0 +1,55 @@
+{
+  "id": "cambridge-15-t3-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-15-t3-task1.json",
+  "question": "The diagram below shows how instant noodles are manufactured.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": "library/assets/cambridge-15-t3-task1-question.webp",
+  "images": [
+    {
+      "url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-15-academic-test-3-task-1-5c5080031caf.webp",
+      "path": "library/assets/cambridge-15-t3-task1-question.webp",
+      "sha256": "5c5080031cafb4b9d43d4ffa5e92373d5cc57c7bb253906a4c501b0bd493847a"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "evaluations/labels/pilot-02-sources/c15-p135.png"
+  ],
+  "reading_transcript": "The given scheme explains the process of instant noodles production. Moreover it reveals how this product appears on super market shelves. In general, there are eight stages of manufacturing before the final product is being delivered to the store.\n\nThe first operation consists of putting flour into storage silos. Then the flour is mixed with some other ingredients into dough in a special machine. The substance is further stretched into sheets which a cut into thin strips during the fourth stage. The following operation involves the strips too. At this moment the noodles are formed into discs. After that the round-shaped figures are cooked in oil and dried. The seventh stage consists of placing the product into cups and adding some vegetables and spices to it. The final part of production process is mainly about the packaging. At this moment freshly printed lables are added to the cups which are sealed after that. As soon as the product (instant noodles) is ready to leave the factory, it is shipped to a shopping facility.\n\nOverall, it takes a considerably long time for a product to get to a super market.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {},
+  "comments": "This response addresses the task fully and provides a description for each stage of the process, along with supporting details. A stronger overview would help to raise the overall score. Information is logically organised and the reader is guided through the answer by a range of cohesive devices [Moreover | In general | The first operation | Then | further | too | At this moment | After that | The seventh stage | The final part | Overall]. There is also use of reference [this] and substitution [product] to add variety to the description. There is some flexibility in the use of vocabulary [Labelling + sealing → lables / labels are added to the cups which are sealed] and there is good use of less common items [The substance | round-shaped figures | the product | packaging]. There is a variety of complex structures used and most of these are accurate: there is an error in line 6 [which a cut / which are cut].",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-15-academic/",
+  "source_artifact": "evaluations/labels/pilot-02-sources/cambridge-15.html",
+  "source_sha256": "abee9eaf55d90ace978e16dc6132ed5a1cda9240465edd8aafb2fd9e399d667e",
+  "source_locator": {
+    "book": 15,
+    "test": 3,
+    "pdf": "research/expansion/cambridge15-original.pdf",
+    "response_pages": [
+      135
+    ],
+    "score_line": "achieved a Band 6.5"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-15-t3-task1",
+  "prompt_group": "cambridge-15-t3-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

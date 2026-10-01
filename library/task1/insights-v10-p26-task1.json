@@ -1,0 +1,129 @@
+{
+  "id": "insights-v10-p26-task1",
+  "task": "task1",
+  "task_type": "bar",
+  "path": "library/task1/insights-v10-p26-task1.json",
+  "question": "The charts below show the protein and calorie intakes of people in different parts of the world.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-10-p26.png",
+      "sha256": "28996415d0f1eaeb713707ca9e13dd5ea379f59b7e4c8abb6336e932f3b6560b"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-10-p27.png"
+  ],
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {
+    "TA": 9,
+    "CC": 9,
+    "LR": 9,
+    "GRA": 8
+  },
+  "comments": null,
+  "source_url": "https://cms.youpass.vn/assets/1ba361b6-4f04-4298-81d0-4ef30710a847",
+  "source_artifact": "research/expansion/insights/vol-10.pdf",
+  "source_sha256": "a4cb2e8d549d6d2d750cfe2a712bde8e83f0eca14144039b6d28aa6b37f29b90",
+  "source_locator": {
+    "volume": 10,
+    "cover_page": 26,
+    "original_pages": [
+      27
+    ],
+    "report_last_page": 35
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "Tony Grace is named in the correction report. The publisher says its academic team submits these originals to him for individual marking and describes him as a former IDP examiner. This is a practice assessment, not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "quality_issues": [],
+  "duplicate_group": "insights-v10-p26-task1",
+  "prompt_group": "f392ac1d70bb41c9",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "author_type": "teacher",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-10-p26.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-10-p26.png",
+    "research/expansion/insights/pages/vol-10-p28.png",
+    "research/expansion/insights/pages/vol-10-p29.png",
+    "research/expansion/insights/pages/vol-10-p30.png",
+    "research/expansion/insights/pages/vol-10-p31.png",
+    "research/expansion/insights/pages/vol-10-p32.png",
+    "research/expansion/insights/pages/vol-10-p33.png",
+    "research/expansion/insights/pages/vol-10-p34.png",
+    "research/expansion/insights/pages/vol-10-p35.png"
+  ],
+  "score_page": 26,
+  "score_evidence": [
+    {
+      "page": 26,
+      "text": "IELTS Corrections\nPage 1 of 10\nDäy lä néi dung durqc thvc hien b&i trung täm IELTS 1984. Céc\nban cé thé doc thém nhibu båu mäu, v&i ht.r&ng dän viét bäi\nchi tiét tü' s6 0, website trung täm nha;\nhttps://ielts1984.vn/tonq-quan-ve-ielts/ielts-writing-task-2\nQR code:\nOVERALL BAND SCORE\nSEE BELOW LR GRA\nWRITING TASK 1\n8.5\n9+9+9+8\nMODEL ANSWER\nThe charts below show the protein and calorie intakes of people in\ndifferent parts of the world. Summarise the information by selecting and\nreporting the main features, and make comparisons where relevant.\nFor more IELTS advice go to Succeed in IELTS with Tonv\n13 May 2024\nvoL.10 1 May 2024\n24"
+    },
+    {
+      "page": 28,
+      "text": "IELTS Corrections\nPage 3 of 10\nOVERALL BAND SCORE\n8.5\n9+9+9+8\nTA — Task Achievement nb — GRA and LR errors have not been corrected\nBand score 9\nNote that the original question would obviously give appropriate units in\nboth charts, and it would be grams and calories per day. By ignoring this\nomission, you made the question easier.\nThe overview is clear.\nYou have summarised the information accurately.\n• fully satisfies all the\nrequirements of the task\nBand score 9 TA\n• clearly presents a fully\ndeveloped response\nBand score 9 TA\nRECOMMENDED LAYOUT FOR TASK 1 ANSWERS\nWrite an introduction paraphrasing the information provided. If\npossible, change the structure from a noun phrase to a noun clause\n(cha nge the chart gives information about the number of to the chart\nshows how many\nWrite a clear overview of the main trends, differences, and stages.\nIf there are trends and differences (ie if there are changes over time),\ngive some information about both. If there are only differences, as\nin questions with no time scale, provide differences of more than\none type.\nPut the overview after the introduction in a separate paragraph.\nDon't hide it in the introduction or at the end, as it's the first thing\nthe examiner looks for.\nSeparate your paragraphs with blank lines. It looks better and there\ncan be no doubt that it is a new paragraph.\nWrite one or more paragraphs about the information itself and\norganise it logically. Use signposting phrases to show your\norganisation to the examiner. Eg Looking first at the most popular\nreasons, [..J\nFor more IELTS advice go to Succeed in IELTS with Tonv\n13 May 2024\nvoL.10 1 May 2024\n26"
+    }
+  ],
+  "extraction": "Use only the Your answer / Original answer section in the specified pages. Later TA/TR, CC, LR and GRA sections contain marked copies and rewrites. Front-of-magazine teaching versions are not the scored original. OCR only locates content; inspect original images.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "published_cover_traits": {
+    "TA": 9,
+    "CC": 9,
+    "LR": 9,
+    "GRA": 8
+  },
+  "trait_label_status": "Cover and each explicit criterion Band score header visually reconciled with the original response in this audit; no total-to-trait inference.",
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01",
+  "integer_anchor_review": {
+    "reviewed_at_utc": "2026-09-30",
+    "evidence": {
+      "TA": {
+        "score": 9,
+        "page": 28,
+        "image": "research/expansion/insights/pages/vol-10-p28.png",
+        "image_sha256": "40840cc4d7ff5d8b54ce0e2de4be9435ddc243834e3f3ac588e6133beb40d334"
+      },
+      "CC": {
+        "score": 9,
+        "page": 30,
+        "image": "research/expansion/insights/pages/vol-10-p30.png",
+        "image_sha256": "9fe181aa7d2d8c65de52f4ca8c883ba556769dfb4bf09ffaf9f617659303db1e"
+      },
+      "LR": {
+        "score": 9,
+        "page": 31,
+        "image": "research/expansion/insights/pages/vol-10-p31.png",
+        "image_sha256": "d571d6c072e1a52e4024ac542c0d7f46f8bb76714dd02b6ebdf9c22839f373c2"
+      },
+      "GRA": {
+        "score": 8,
+        "page": 33,
+        "image": "research/expansion/insights/pages/vol-10-p33.png",
+        "image_sha256": "c349e2c00be5cd04cd8ebb0d46798c676ebb9f3ef2a69fb22cc772c126e77193"
+      }
+    },
+    "contact_sheet": "research/integer-anchors-20261001/insights10t1-audit.png",
+    "original_pages": [
+      27
+    ]
+  },
+  "rating_caveat": "LR commentary says between 8 and 9, but both the explicit criterion heading and cover award 9; retain the published 9, do not invent 8.5. The TA assessor notes missing units in the question; preserve this caveat."
+}

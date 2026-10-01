@@ -1,0 +1,54 @@
+{
+  "id": "blog-3abe1891c4f3",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-3abe1891c4f3.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-bar-chart-hours-worked-by-men-women-three-countries-part-time-full-time/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/987af78b7c741d48.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "f7730ece8a492f5f",
+  "prompt_group": "f2636f72b3cd290a",
+  "question": "The charts below show the average hours worked last year by full time and part time employees in 3 countries. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/ielts-usa-hours-worked-chart.jpg",
+      "path": "library/assets/989321ec0525af2b.jpg",
+      "sha256": "31ab66b24e6f81c70e1a822f3f6622e5d682b09251fd45c03b35ba8149f95805"
+    }
+  ],
+  "essay": "Band 8.5 Model Answer\n\nThe bar charts show the average number of hours that full-time and part-time employees worked in the Netherlands, the UK and Greece in the previous year.\n\nOverall, what immediately stands out is the fact that the number of hours worked by male and female workers was relatively equal for both types of work, and that full-time employees worked almost twice as much as part-time employees.\n\nTaking a closer look at the numbers for full-time positions, the figures for both men and women ranged between 35 to 40 hours per week. Male workers in the UK were the only ones to exceed 40 hours a week. The figures for the Netherlands were the lowest for both genders, at around 35 hours weekly.\n\nMoving on to part-time employment, the difference between the number of hours worked by men and women is more apparent in this chart. People from the Netherlands worked the fewest hours with men spending 10 hours, and women – roughly 15 hours per week at work. The UK had almost equal figures for both genders, around 17 hours a week, while the figures for Greece were slightly higher; the male workers there did around 20 hours per week and female – a touch above 20.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 210,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "055ff8499441e79b72f6ea1088dd837ace8d36e10d3991358ee42c0f22022df0",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5
+}

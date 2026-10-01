@@ -1,0 +1,54 @@
+{
+  "id": "blog-d55b09d518d0",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-d55b09d518d0.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-map-with-two-sites-for-a-shopping-mall/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/971630fdf7a260fa.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "9d3af05f01385ed1",
+  "prompt_group": "b090e83eed283bb5",
+  "question": "Below is a map of the city of Brandfield. City planners have decided to build a new shopping mall for the area, and two sites, S1 and S2 have been proposed. Summarize the information by selecting and reporting the main features and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/map-two-sites-for-shopping-mall.jpg",
+      "path": "library/assets/dc6285a1b26226e6.jpg",
+      "sha256": "39bb811e4a49be5dcf2ce41936617e6b15a8037629af5b58bf911d9daae79575"
+    }
+  ],
+  "essay": "The map illustrates the two possible sites for a new shopping complex in the city of Brandfield. The initial difference between two sites is that the first site is near a residential area, while the is close to an industrial region.\n\nThe first site (S1) is located to the north of the city between the residential area and the city centre. There are three infrastructure features (a river, a main road and a railway) around S1, thus, these may provide easy access from most of the city, if a shopping mall is built in that area.\n\nThe second site (S2) lies to the south-east end of the city and is fairly close to the downtown and the industrial part. The site is near two main roads and the railroad; however, no residential part around the area.\n\nThere is a large Golf Course and a park in the west side of the city, but both sites are not close to the given area.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Teacher’s summary: All the requirements of the task were covered fairly well.The key features were identified, emphasized and illustrated in a suitable and logical way. The ideas are presented in a logical order. All aspects of cohesion are taken care of well. The paragraphing is handled suitably and appropriately. The range of vocabulary allows the writer to communicate the exact meanings. Some sophisticated words/expressions are used in a clever way, with only occasional errors in word choice/expression choice. Most sentences are free of errors. Inappropriate use of grammar is very infrequent. Overall, this report could be awarded IELTS Band 8.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 162,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "60d11d657663d7066263e3b554d3589faa046a5df8653ffdfe511a945ab399ee",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

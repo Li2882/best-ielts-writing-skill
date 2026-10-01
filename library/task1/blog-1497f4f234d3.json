@@ -1,0 +1,54 @@
+{
+  "id": "blog-1497f4f234d3",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-1497f4f234d3.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-map-of-a-town-before-and-after-redevelopment/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/e38f75d772c9f7d9.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "3b977ee3afa401ce",
+  "prompt_group": "8872021cbf71cf89",
+  "question": "The maps below show the centre of a small town called Islip as it is now, and plans for its development. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/ielts-band-8-report-town-centre-map-before-after.jpg",
+      "path": "library/assets/2113c08471e9e01d.jpg",
+      "sha256": "a08a6eaf40a5342672075131b24e0849da543b886ee9536eb8a7dd0cfe5bea82"
+    }
+  ],
+  "essay": "The maps illustrate the current and predicted future Islip town centre.\n\nOverall, it is clear from the maps that some pedestrianisation is planned for shopping and housing area, while a new road for vehicles is planned .\n\nFocusing on the current map, the town center is developed around a main road, which stretches from the west to the east. There are many shops to the north and to the south of the road. Whilst it of the countryside in the north, a big area is occupied by housing in the south. This area is limited by a park in the east and a school in the south-west. Both of these structures are connected to the main road by side roads.\n\nMoving on to the predictions, a circular road that goes around the city center attracts attention. This road expected to be built is a dual carriageway. The middle part of the main road is projected to be pedestrianised. Although the southern part of Islip is not to see big changes other than some new housing and a in the size of the park, there are many changes planned for the northern part. Shops in this part will be demolished and a shopping centre and a housing area will be introduced. A bus station and a parking area are also planned to be built to the west and the east of the shopping centre, respectively.\n\nThis is a great report. All aspects were covered and a fully developed response was provided. Some mistakes are still present and require more attention. The vocabulary could have been enhanced further and this report would benefit from more frequent use of complex structures. Overall, seems worthy of Band 8.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 284,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "ea2ba39c30e81e8919d2f5a1ab3aeccbc086d53dbad4c7ec6da420487e968d0f",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

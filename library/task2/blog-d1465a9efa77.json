@@ -1,0 +1,76 @@
+{
+  "id": "blog-d1465a9efa77",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-d1465a9efa77.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-some-people-claim-that-it-is-acceptable-to-use-animals-in-medical-research-discuss/",
+  "source_locator": "research/blog/ielts-essay-topic-some-people-claim-that-it-is-acceptable-to-use-animals-in-medical-research-discuss.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "2d54045de58d4035",
+  "prompt_group": "fac2af2299362f52",
+  "question": "Some people claim that it is acceptable to use animals in medical research for the benefit of human beings, while others argue that it is wrong. Discuss both views and give your opinion.",
+  "essay": "People have different views on how medical research should be conducted and tested. Although many people support the use of animal experimentations for developing medicines, I personally believe that animal testing is morally wrong.\n\nThe main reason why some people value animal experimentations to conduct medical research is because animal testing has contributed to many life-saving cures and treatments. It is true that nearly every medical breakthrough in the last 100 years has resulted directly from research using animals. For example, experiments in which dogs had their pancreases removed led directly to the discovery of insulin, critical to saving the lives of diabetics. Furthermore, it is impossible to release new drugs to the market before proving it has no harm to humans and laboratory mice are appropriate research subjects because they are similar to human beings in many ways.\n\nHowever, I support with people who consider medical development that involved the use of animals is cruel and unacceptable. I believe that the lives of all creatures should be respected and we, humans, have no right to suffer animals for our own benefits. Governments should invest in developing alternative methods that can replace using animal experimentations when doing medical research. For example, a software program can be developed to model a human immune system and new drugs can be tested on the software rather than animals. In this way, no animals will suffer from the medical tests and the society can still benefit from medical development.\n\nIn conclusion, although it is undoubtedly true that animal testing has helped scientists in drug developments and medical discoveries, I believe that the benefits to humans do not justify the suffering caused to animals and we should use alternative methods when doing medical research that do not involve animals suffering.",
+  "word_count_computed": 295,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a great essay. It addresses the two sides of the argument by exploring reasons why animals should and should not be used in medical research. The ideas are well explained and supported by examples. The use of paragraphing is efficient and helps with logical sequencing of ideas. Linking words are used appropriately to achieve the necessary cohesion. Author’s meaning is skillfully conveyed by the use of wide range of vocabulary. Even though there are some inaccurately used expressions, they don’t hinder understanding. Most sentences are error-free, instances of faulty grammar are rare. Overall, this essay seems worthy of IELTS Band 8.",
+  "corrections": [
+    {
+      "original": "animal experimentations",
+      "suggestion": "the correct form is ‘animal experiments’ or ‘animal experimentation’"
+    },
+    {
+      "original": "animal experimentations",
+      "suggestion": "the correct form is ‘animal experiments’ or ‘animal experimentation’"
+    },
+    {
+      "original": "new drugs",
+      "suggestion": "the correct form is ‘a new drug’, the article ‘a’ is missing"
+    },
+    {
+      "original": "has",
+      "suggestion": "‘does’ is the correct verb here"
+    },
+    {
+      "original": "support with",
+      "suggestion": "the preposition ‘with’ is not appropriate here, it is not needed"
+    },
+    {
+      "original": "is",
+      "suggestion": "‘to be’ is the correct verb form here"
+    },
+    {
+      "original": "suffer animals",
+      "suggestion": "‘make animals suffer’ is the correct form here"
+    },
+    {
+      "original": "using",
+      "suggestion": "‘the use of’ is the correct form here"
+    },
+    {
+      "original": "animal experimentations",
+      "suggestion": "the correct form is ‘animal experiments’ or ‘animal experimentation’"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "d2426f8b4f3db1ee6deb91cfb223c5db8907755df7875713914f0b2e93ccbf39",
+  "model_evidence": null
+}

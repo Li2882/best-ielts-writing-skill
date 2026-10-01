@@ -1,0 +1,118 @@
+{
+  "id": "blog-743f38fd13b1",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-743f38fd13b1.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-5/ielts-essay-topic-capital-punishment/",
+  "source_locator": "research/blog/ielts-essay-topic-capital-punishment.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "0c9ca1c247a039f4",
+  "prompt_group": "ddde9fb9472c38f9",
+  "question": "Without capital punishment our lives are less secure and crimes or violence increase. To what extent do you agree or disagree with this opinion?",
+  "essay": "Serious crimes need capital punishment so that the offender are unable to get involved in the crime in the future. However, If they want to stop the acts of violation in the future then it would be better to forget him and judge him for a change . Overall, I agree with the fact that punishment is the way to avoid the crime to be increased and hence our lives become more secure. If the wrongdoer wants to be a good man and there is a particular financial or personal problem that led him to the wrong way, then it would be the nice option to forgive him and try to solve the problem he have. Although by this way, some bad man may become effective part of the society but some do not bring themselves to the right path because they are very much used to of it. The person that involved in the crime and never try to stop the law-breaking act should be punished in the extremely serious way. However, it totally depends on the nature of crime. Some crime led to a capital punishment and some may require a small penalty. The law-making institutions are responsible to bring the bad man to the right level of punishment that he deserves. If there is weak legislation to properly handle the offender, it may become our society less secure for the good man. The government should be the responsible authority to provide a secure and better state to live. Laws should be implemented and executed in the most proper way that do not allow the offender to commit violent acts or to break the law in any way and to any extent. To sum up, it is the responsibility of the state runner to stop people to involved in crime. It may be done through solving the problems of the people that led them to commit that violence act or by the punishment accordingly.",
+  "word_count_computed": 325,
+  "images": [],
+  "overall": null,
+  "band_low": null,
+  "band_high": null,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Where are the paragraphs? This is a good essay; however there are many small mistakes that might cost you dearly. There are also several unclear expressions and grammatical errors.",
+  "corrections": [
+    {
+      "original": "offender",
+      "suggestion": "offenders"
+    },
+    {
+      "original": "If",
+      "suggestion": "if"
+    },
+    {
+      "original": "forget him and judge him for a change",
+      "suggestion": "a confusing expression"
+    },
+    {
+      "original": "crime to be increased",
+      "suggestion": "increase in crime rate"
+    },
+    {
+      "original": "man",
+      "suggestion": "person"
+    },
+    {
+      "original": "have",
+      "suggestion": "has"
+    },
+    {
+      "original": "man",
+      "suggestion": "people"
+    },
+    {
+      "original": "part",
+      "suggestion": "members"
+    },
+    {
+      "original": "very much used to of it",
+      "suggestion": "incorrect unclear expression"
+    },
+    {
+      "original": "_",
+      "suggestion": "“is” was missing here"
+    },
+    {
+      "original": "try",
+      "suggestion": "tries"
+    },
+    {
+      "original": "the",
+      "suggestion": "an"
+    },
+    {
+      "original": "crime led",
+      "suggestion": "crimes lead"
+    },
+    {
+      "original": "become our society less secure",
+      "suggestion": "mean that our society becomes less secure"
+    },
+    {
+      "original": "man",
+      "suggestion": "people"
+    },
+    {
+      "original": "do",
+      "suggestion": "does"
+    },
+    {
+      "original": "runner",
+      "suggestion": "remove, not necessary"
+    },
+    {
+      "original": "to",
+      "suggestion": "from getting"
+    },
+    {
+      "original": "violence",
+      "suggestion": "violent"
+    }
+  ],
+  "quality_issues": [
+    "no_explicit_band_in_comment"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "ab3fccb68eec321ed84ad3156fb4f7694cbc14dd7b0ff07d7acc4282b4d78bf5",
+  "model_evidence": null
+}

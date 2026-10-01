@@ -1,0 +1,55 @@
+{
+  "id": "cambridge-15-t4-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-15-t4-task1.json",
+  "question": "The chart below shows what Anthropology graduates from one university did after finishing their undergraduate degree course. The table shows the salaries of the anthropologists in work after five years.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": "library/assets/cambridge-15-t4-task1-question.webp",
+  "images": [
+    {
+      "url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-15-academic-test-4-task-1-474a794d1868.webp",
+      "path": "library/assets/cambridge-15-t4-task1-question.webp",
+      "sha256": "474a794d18681ebc5e029825463a95494fbbe7be38e2dc4a3df87f898aa10b32"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "evaluations/labels/pilot-02-sources/c15-p138.png"
+  ],
+  "reading_transcript": "The chart demonstrates what Anthropology graduates from one university did after finishing their undergraduate degree course. The table indicates the salaries of the anthropologists in work after 5 years.\n\nAs we can see from the pie chart, majority of Anthropology graduates are employed. Fifty-two per cent of them have a full-time job. Almost twenty per cent of graduates have either a part-time work or it is combined with post grad study. Eight per cent of students continue their full-time education. Only twelve per cent of graduates are unemployed. The information about all the rest graduates is unknown.\n\nThus, most of Anthropology graduates have a job. Half of those who work in Government sector earn more than a hundred thousand dollars. It is less than proportion of freelance concultantants who get the same amount of money. Besides, it is only one-third of those who work for private companies. We can see nearly the same percentage of those who get from fifty thousand dollars to ninty-nine thousand dollars as freelance consultants and in government sector. The situation is different in private companies. More of them get from fifty thousand to seventy-four thousand dollars than from seventy-five to ninety-nine thousand dollars. The proportion of those who work for private companies for from twenty-five thousand to forty-nine thousand dollars is half bigger than the same one in government sector and as freelancers.\n\nSo, the chart and the table show us that most of Anthropology graduates are employed and a salary more than twenty-five thousand dollars after five year’s work.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {},
+  "comments": "The candidate has described all the key features and has supported these with relevant figures. There is some comparison of the figures in both the chart and the table. Information is presented coherently and there is a clear overall progression (introduction, description of the pie chart information, description of the information in the table and conclusion). Some cohesive devices are used to organise the description [As we can see | Thus | Besides | So]. The range of vocabulary is adequate for the task [combined with | earn | proportion of | freelancers], but there are some errors [all the rest graduates / all the rest of the graduates | It is less / more than (the) proportion of freelance ... same amount of money | concultantants / consultants | ninty / ninety | half bigger than / twice as big as]. There is a mix of simple and complex sentence structures, with some errors [(the) majority | a̶ part-time work | all the rest (of the) graduates | in (the) Government sector].",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-15-academic/",
+  "source_artifact": "evaluations/labels/pilot-02-sources/cambridge-15.html",
+  "source_sha256": "abee9eaf55d90ace978e16dc6132ed5a1cda9240465edd8aafb2fd9e399d667e",
+  "source_locator": {
+    "book": 15,
+    "test": 4,
+    "pdf": "research/expansion/cambridge15-original.pdf",
+    "response_pages": [
+      138
+    ],
+    "score_line": "achieved a Band 6.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-15-t4-task1",
+  "prompt_group": "cambridge-15-t4-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

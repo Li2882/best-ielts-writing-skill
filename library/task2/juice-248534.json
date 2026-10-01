@@ -1,0 +1,86 @@
+{
+  "id": "juice-248534",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248534.json",
+  "question": "In recent years, many small local shops have closed because customers travel to large shopping centers or malls to do their shopping.\nIs this a positive or a negative development?",
+  "essay": "As time goes by, individuals tend to purchase their required stuff from shopping malls rather than local stores. This trend could be resulted to closure of many small stores. While this transition could be considered as a positive development not only for customers but also for the owners of large shopping malls, the owners of local stores would go bankrupt and lose their small businesses.\n\nOn the one hand, shopping malls located at the heart of cities with various options which facilitate people to travel one location. Moreover, shopping centers or malls will provide a wide range of options for people which are more affordable compared to the local stores. Various options for purchasing enables individuals to make an informed choice when they are trying to buy groceries or clothes. For instance, Walmart and Super Store are two prominent grocery stores in North America which are extremely attractive to customers due to various and more affordable options.\n\nOn the other hand, People could support the store which are in close proximity to their homes due to their sense of nostalgia. Furthermore, the local stores run by some individuals and they tend to be supported by people who live close by. However, the owners of these stores find a fierce competition in the market with shopping centers. Because most shopping centers are better-off, and they can offer a wide range of inexpensive products compared to the local ones.\n\nTo sum up, having large shopping malls in different cities could be considered as a positive development due to offering various stuff. Personally, I believe that purchasing from small local stores enables individuals to reminisce their past times as they were buying different stuff from them before the advent of shopping malls",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TR": 7.0,
+    "CC": 7.0,
+    "LR": 7.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you indeed for writing this essay. On a grammar note, there is overuse of relative clauses which seems rather excessive. There are some unfinished or hanging complex sentences which leaves the door open to multiple interpretation; this is a serious blow to the reader’s comprehension.",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "7.0\taddresses all parts of the task",
+      "7.0\tpresents a clear position throughout the response",
+      "7.0\tpresents, extends, and supports main ideas, but there may be a tendency to over-generalize and/or supporting ideas may lack focus",
+      "7.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "7.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.5"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3210-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248534.html",
+  "source_sha256": "bc0006411e004df7a5a532a691839e3f766a63b1fe159b3b9a2f0ec9aadb4b03",
+  "source_locator": {
+    "wordpress_post_id": 248534,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "8ab59ff8c93fdd0c",
+  "prompt_group": "91c03837c8de95bb",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cambridge-16-t4-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/cambridge-16-t4-task2.json",
+  "question": "In the future all cars, buses and trucks will be driverless. The only people travelling inside these vehicles will be passengers.\nDo you think the advantages of driverless vehicles outweigh the disadvantages?",
+  "question_image": null,
+  "images": [],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c16-p139.png",
+    "research/expansion/book-pages/c16-p140.png"
+  ],
+  "reading_transcript": "The Advanteg of Driveles Vehicles\n\nFirst of all number of vehicles is incarese day after day which means ever day the world gets more drivers then before. If we admite that alots of people prefer to use public transport we do not have any doubts that many people use the vehicles because of advantags of driving.\n\nThe history shows us that the human like to move from place to another for many reasns and the always fell pleased when the rid. This days people have all kind of vehicles bicks, cars, motor...etc because they all have a different advantage.\n\npeople needs also can not meet at be found in one pleace for that reason people need to move from a plece to another place to meet thier needs which means the advantage of moving from point to anther point will be exist for ever.\n\nWorld has bee changed a lot and many people have got great jobs with big salaries. The can easly fund thier vehicl and because people get feeling boring if the used to some thing they always perefer to chang thier vehicle from time to time.\n\nFinally I think it is very hard to believe that the driverless vehicles with outweigh the disadvantages because people always find drive more and more give thier life meaning and add more advantage to it all kind of vehicles give happeness to a lot of people that they can not think about lossing it",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 4.0,
+  "band_low": 4.0,
+  "band_high": 4.0,
+  "traits": {},
+  "comments": "Most of the ideas in this response are not relevant to the question. It mainly talks about the need people have to go from place to place and how people like different types of transport. However, there is a position expressed in the final paragraph. A title is not required in Task 2.\nThere is some attempt to organise the ideas and there are some basic cohesive devices [First of all | Finally], but there is inaccuracy and a general lack of coherence. There is no clear progression.\nThere is a high density of error in the use of vocabulary in terms of spelling and word choice [easly fund thier vehicl | perefer to chang thier]. Sentence structures are very limited, although there are some attempts at subordinate clauses [because they all have a different advantage].",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-16-academic/",
+  "source_artifact": "research/expansion/cam16-page.html",
+  "source_sha256": "3a7c22accc6e9d451361adc70721b590144cf510c5af8a4eaed095aa73cb7225",
+  "source_locator": {
+    "book": 16,
+    "test": 4,
+    "pdf": "research/expansion/cambridge16.pdf",
+    "response_pages": [
+      139,
+      140
+    ],
+    "score_line": "achieved a Band 4.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-16-t4-task2",
+  "prompt_group": "cambridge-16-t4-task2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

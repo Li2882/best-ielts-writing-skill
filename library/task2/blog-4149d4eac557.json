@@ -1,0 +1,74 @@
+{
+  "id": "blog-4149d4eac557",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-4149d4eac557.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-education-critical-factor/",
+  "source_locator": "research/blog/ielts-essay-topic-education-critical-factor.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "a09b53d7ebe0cc5d",
+  "prompt_group": "cee0e5224da880aa",
+  "question": "“Some people say that the education system is the only critical factor to development of a country. To what extent do you agree or disagree with this statement?”",
+  "essay": "Education plays a vital role in the development of a country. Therefore, some people think that the education system is the only important factor to the development of a country and they may be right.\n\nEducation is the foundation of well developed society. It is rightly said, ‘education is a ladder for success’. If all the people of any country are educated then they becomes broadminded, civilized and progressive. An educated society improves the standard of life as well.\n\nNot only this, but also by giving importance to education, the nations can get rid of problems like iliteracy, poverty, unemployment and population growth that delay the progress of a nation. The crime rate can also be kept under check. The standard of living of the people will go up. If the nations wants to be progressive it is very important that the people are more educated and progressive. Any country can become more technologically advanced and developed because of education.\n\nHowever, there are other factors that also play an important role in the development of a country. Such as governments have to encouraged people to do so._\n\nIn conclusion, I would like to say that a good education system will lead to a developed country.",
+  "word_count_computed": 206,
+  "images": [],
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay needs some work. It has a good structure and the sentences show enough fluency, but the last body paragraph needs to be corrected by adding another 2-3 sentences to it. In total, the number of words here is 235 which is under the required 250, that fact may cost you some marks. Also there are some repetition of words and grammatical errors. Overall, this looks like a Band 6 essay.",
+  "corrections": [
+    {
+      "original": "well",
+      "suggestion": "a well"
+    },
+    {
+      "original": "for",
+      "suggestion": "to"
+    },
+    {
+      "original": "Besides this",
+      "suggestion": "Besides"
+    },
+    {
+      "original": "problems",
+      "suggestion": "the word ‘problems’ repeats too many times"
+    },
+    {
+      "original": "iliteracy",
+      "suggestion": "illiteracy"
+    },
+    {
+      "original": "check",
+      "suggestion": "control"
+    },
+    {
+      "original": "wants",
+      "suggestion": "want"
+    },
+    {
+      "original": "._",
+      "suggestion": "This paragraph is too small, continue it by adding another 2-3 sentences"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "a52b81b7313ac1e160003d0f0ad7edc9180bdad7a131023b936651d069554b35",
+  "model_evidence": null,
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "juice-248968",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248968.json",
+  "question": "It is important for children to learn the difference between right and wrong at an early age. Punishment is necessary to help them learn this distinction.\nTo what extent do you agree or disagree?\nWhat sort of punishment should parents and teachers be allowed to use to teach good behaviour to children?",
+  "essay": "It is widely argued that children at an early age ought to learn the distinctions between right and wrong. Punishment, therefore, could be enforced in terms of broadening the children’s horizons with regards to right and wrong. I totally agree with the fact that both parents and teachers ought to consider punishment worthwhile due to its considerable benefits yield in. In this essay, I will defend my perspective and highlight different types of punishment could be enforced to new generations.\n\nTo begin with, I hold the view that those who have been punished not physically at an early age in some circumstances would gain valuable experience and do not repeat their mistakes in the future. This means that these children will pass on their experience and knowledge to next generations. This can prevent from having spoiled children in society. In the last decades ago, parents tend to punish their children more often which leads to mature children.\n\nAlthough I personally believe that parents and teachers should establish a good rapport with new generations at first, there are several approaches to punish children and teach them the differences between right and wrong. Parents could limit children’s break time while they are watching cartoons and remind them it is because of their mistakes. Children also should not be allowed to spend ample time with their peers on weekends and stay home and do their homework instead.\n\nAll things considered, although corporal punishment is not acceptable which can harm self-esteem of children, parents and teachers ought to implement other types of punishment, such as limiting children’s break time, and increasing their homework which could be considered as effective ways of teaching students.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TR": 8.0,
+    "CC": 7.0,
+    "LR": 8.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this essay. This is an example of a very good essay. The question is beautifully and fully addressed and developed. In the conclusion, there is a slight overuse of “which” for which we could use Reduced Relative Clause grammar. It would serve us both ways: A to avoid repetition, and B to show our command over advanced grammatical structures.",
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3260-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248968.html",
+  "source_sha256": "20c2313d7b76ce56832c9f6b349318cc66dd0d8d9310033d94767154fa0eeefc",
+  "source_locator": {
+    "wordpress_post_id": 248968,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "b32d8bb9da791e93",
+  "prompt_group": "9b8d6b754ec5b78a",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "9.0\tfully addresses all parts of the task",
+      "8.0\tpresents a well-developed response to the question",
+      "9.0\twith relevant, fully extended, and well-supported ideas",
+      "8.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "8.0\tproduces rare errors in spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "8.0\tthe majority of sentences are error-free",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "9.0\tcommunication is completely natural",
+      "7.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

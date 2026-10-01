@@ -1,0 +1,56 @@
+{
+  "id": "blog-a75f1f85e770",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-a75f1f85e770.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-some-people-say-that-arts-subjects-are-as-essential-as-academic-ones-and-should-be-part-of-school-syllabus-agree-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-some-people-say-that-arts-subjects-are-as-essential-as-academic-ones-and-should-be-part-of-school-syllabus-agree-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "b0727538e2148204",
+  "prompt_group": "679c4e0265ab326c",
+  "question": "Some people say that art subjects such as music, drama and creative writing are an essential part of education, and every school should include them in its syllabus. Do you agree or disagree with this statement? Give your opinion and examples from your own experience.",
+  "essay": "Art subjects such as music, drama and creative writing are fundamentals that enrich our lives. However, some parents say schools concentrate on teaching more academic subjects, such as mathematics, science, literature and history. In my opinion, both academic and arts subjects should be taught and I will expand on the pros and cons of including arts in the school program further on in this essay.\n\nOn the one hand, academic subjects are often required when we get into higher educations. Academic subjects may be considered as precious basement in the academic world. Personally, I have never taken an entrance exam of art subjects for high school or university. In other words, schools measured my academic abilities using academic subjects, not art subjects. To suit the current educational system, many parents in my home country, Japan, send their children to cram schools to study academic subjects deeply.\n\nOn the other hand, art subjects can strengthen the creativity and flexibility of individuals. Liberal arts, which include cultural understanding and knowledge, also include other arts subjects. In addition, we are living in the era of automation and artificial intelligence which are replacing human labor and office work more and more. In this regard, human creativity becomes more important. Therefore, art subjects are being more in demand to make a difference between individuals and computers.\n\nIn conclusion, academic and arts subjects should blend in a school syllabus in a balanced way. Art subjects can also nature a better personality in individuals, so participation in these classes should be encouraged as well as academic achievements.",
+  "word_count_computed": 260,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "The writer explored the reasons why including arts subjects in school syllabus is a good idea, while fluently expressing ideas and supporting them by examples. Correct paragraphing assists with orderly presentation of information, making this essay easy to follow; the range of vocabulary is quite wide. Accuracy of expression needs a bit more attention (see corrections underlined in blue), but overall, this essay could achieve IELTS Band 8.",
+  "corrections": [
+    {
+      "original": "concentrate",
+      "suggestion": "should concentrate"
+    },
+    {
+      "original": "educations",
+      "suggestion": "the writer means ‘education options’ here"
+    },
+    {
+      "original": "precious basement",
+      "suggestion": "the writer means ‘a very important foundation’ here"
+    },
+    {
+      "original": "nature",
+      "suggestion": "the writer means ‘nurture’ here"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "0d077173f511a8a685356a31a0c31a9e84183412d81455829dcc7d89c98e61eb",
+  "model_evidence": null
+}

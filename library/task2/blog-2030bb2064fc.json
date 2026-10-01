@@ -1,0 +1,110 @@
+{
+  "id": "blog-2030bb2064fc",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-2030bb2064fc.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-dieting-changes-a-persons-life/",
+  "source_locator": "research/blog/ielts-essay-topic-dieting-changes-a-persons-life.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "0ee169f9b1b0b875",
+  "prompt_group": "2ccdf2fd6663df2e",
+  "question": "Dieting can change a person’s life for the better or ruins one’s health completely. What is your opinion?",
+  "essay": "Almost 90% of the women today want a beautiful figure. That is why we are able to find a diet programme almost everywhere in the country. Most of the women have tought and gone on a diet before either to slim dowm or just for health problem.\n\nA proper diet programme will help you not only to slim down but also to have a healtier eating habits. For instance taking more vegetables and fruits that meat, avoid fried food and carbonated drinks. For a diet programme we shouldn’t cut one self from food and water. There are some diet programmes from the doctors that help you to have a healty heart like the “Three day diet” which we can find on the Internet. This programme allows you to eat fruits and also some meat. This way of dieting will help you to avoid some of the health problems in the future like diebetes or a heart attack.\n\nHowever some people do not only go on a diet but they avoid eating and go hungry for the whole day. All they have is just either water or juices. Also there a people who buy special diet programmes over the counter like taking pills which are not approved by the health department and they are doing so without consulting a doctor first. They do not follow the basic rules of dieting and this will lead them to some serious health problems like disfuctional of some body parts or, even worse, death.\n\nIn my opinion there is notting wrong with going on a diet as long as we follow the correct way of eating and for a good reason to diet.",
+  "word_count_computed": 278,
+  "images": [],
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay needs some work. It covers the task and has a good structure. The paragraphs are logically connected and many of sentences are structured correctly. However, there are some sentences with poor structure and many grammatical errors (See comments underlined in blue). Overall, this looks like a band 6.5 essay.",
+  "corrections": [
+    {
+      "original": "90%",
+      "suggestion": "use words, not digits (ninety percent)"
+    },
+    {
+      "original": "tought",
+      "suggestion": "thought"
+    },
+    {
+      "original": "slim dowm",
+      "suggestion": "lose weight"
+    },
+    {
+      "original": "for",
+      "suggestion": "because of a"
+    },
+    {
+      "original": "healtier",
+      "suggestion": "healthier"
+    },
+    {
+      "original": "taking ",
+      "suggestion": "eating or consuming"
+    },
+    {
+      "original": "that",
+      "suggestion": "than"
+    },
+    {
+      "original": "avoid",
+      "suggestion": "avoiding"
+    },
+    {
+      "original": "cut one self from",
+      "suggestion": "deny ourselves"
+    },
+    {
+      "original": "healty",
+      "suggestion": "healthy"
+    },
+    {
+      "original": "diebetes",
+      "suggestion": "diabetes"
+    },
+    {
+      "original": "go",
+      "suggestion": "stay"
+    },
+    {
+      "original": "a",
+      "suggestion": "are"
+    },
+    {
+      "original": "like taking pills",
+      "suggestion": "that are based on pills"
+    },
+    {
+      "original": "disfuctional",
+      "suggestion": "dysfunction"
+    },
+    {
+      "original": "notting",
+      "suggestion": "nothing"
+    },
+    {
+      "original": "for a good reason to diet",
+      "suggestion": "have a good reason for dieting"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "730af2aaf856aa9da08e15818010782b1d9abac75215a93956ac489c7b1450ee",
+  "model_evidence": null,
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01"
+}

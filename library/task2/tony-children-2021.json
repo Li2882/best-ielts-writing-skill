@@ -1,0 +1,64 @@
+{
+  "id": "tony-children-2021",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/tony-children-2021.json",
+  "question": "In some countries, more and more adults are continuing to live with their parents even after they have completed education and found jobs. Do the advantages outweigh the disadvantages?",
+  "essay": null,
+  "essay_images": [
+    "research/expansion/tony-primary/children-p2.png"
+  ],
+  "question_image": "research/expansion/tony-primary/children-p1.png",
+  "comments_images": [
+    "research/expansion/tony-primary/children-p1.png",
+    "research/expansion/tony-primary/children-p3.png",
+    "research/expansion/tony-primary/children-p4.png",
+    "research/expansion/tony-primary/children-p5.png",
+    "research/expansion/tony-primary/children-p6.png",
+    "research/expansion/tony-primary/children-p7.png",
+    "research/expansion/tony-primary/children-p8.png",
+    "research/expansion/tony-primary/children-p9.png",
+    "research/expansion/tony-primary/children-p10.png",
+    "research/expansion/tony-primary/children-p11.png",
+    "research/expansion/tony-primary/children-p12.png",
+    "research/expansion/tony-primary/children-p13.png"
+  ],
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TR": 7,
+    "CC": 8,
+    "LR": 8,
+    "GRA": 8
+  },
+  "comments": null,
+  "source_url": "https://www.succeedinielts.com/wp-content/uploads/2021/07/Sample-marked-script-Task-2-7888-Grown-up-children-living-with-parents.pdf",
+  "source_artifact": "research/expansion/tony-primary/children.pdf",
+  "source_sha256": "5a1433c61347e21ebf16465b2038101ddce352ce4e1f5f75cdf96ec7c14ea868",
+  "source_locator": {
+    "original_pages": [
+      2
+    ],
+    "cover_page": 1
+  },
+  "score_source": "verified_human",
+  "publisher": "Succeed in IELTS with Tony; Tony Grace",
+  "rater_evidence": "Named human correction report on the assessor website; practice assessment, not official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "tony-children-2021",
+  "prompt_group": "65b84e3c6002b81a",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "teacher_advice_caveat": "Teacher layout and opinion preferences are not extra official scoring criteria.",
+  "trait_label_status": "Explicit published traits; criterion report retained for cross-checking."
+}

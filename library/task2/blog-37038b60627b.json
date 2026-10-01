@@ -1,0 +1,66 @@
+{
+  "id": "blog-37038b60627b",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-37038b60627b.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-7/ielts-essay-topic-internet-as-a-source-of-information/",
+  "source_locator": "research/blog/ielts-essay-topic-internet-as-a-source-of-information.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "94dd7ff4c99615e8",
+  "prompt_group": "ee3df4c3f576896b",
+  "question": "The Internet when used as a source of information, has more drawbacks than advantages. To what extent do you agree with this statement?",
+  "essay": "Some people believe that internet access creates problems. There are several possible reasons why it can happen.\n\nFirstly, some data may be unverifiable. For example, everytime they search for a data, there would be lots of choices that would appear on the screen. They would not be sure if the information they are reading is accurate. Some sources may even have outdated informations. Secondly, some sites may be unreliable. For instance, people sign up on one site that sells goods online. The goods would be paid for by a credit card, but the purchaser would not receive anything. And finally, not everything is available through the net. When my friend had tried to research for some pictures of 18th century paintings, he did not find any results. Then he was told by his teacher that they would only be available in the library.\n\nOthers believe that the Internet is very useful and these are the justifications. Firstly, it is hard to get the same data, that is available through the Internet by other means. For example, if the directory information could not give me the accurate address and contact number of a place I want to visit, I normally check that information on the Internet. In just one click, I would get all the details of that certain company. Secondly, research becomes more comprehensive. For instance, I do not have to buy lots of reading materials to complete my research. Most of the needed information can be found if I have Internet access. And finally, data is easily compared and contrasted. I remember, my cousin researched a study about overweight children a decade ago and at present. He was able to finish his research in just one day, as compared to a week if he would not use the Internet.\n\nIn conclusion, let me reiterate that the Internet plays a big role in our life, because it makes data retrieval and comparison easier.",
+  "word_count_computed": 323,
+  "images": [],
+  "overall": null,
+  "band_low": null,
+  "band_high": null,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a good essay, the arguments are clear, the language and the grammar are also fine. The structure needs to be improved a little bit – make paragraphs smaller, re-structure them to create 5 paragraphs from 4. In case of an argument essay – give your opinion in the conclusion only. In case of an opinion essay – give your opinion in the introduction",
+  "corrections": [
+    {
+      "original": "everytime ",
+      "suggestion": "every time"
+    },
+    {
+      "original": "informations",
+      "suggestion": "information"
+    },
+    {
+      "original": "want ",
+      "suggestion": "wanted"
+    },
+    {
+      "original": "certain ",
+      "suggestion": "particular"
+    },
+    {
+      "original": "I remember, my cousin",
+      "suggestion": "When my cousin"
+    },
+    {
+      "original": ". He ",
+      "suggestion": ", he"
+    }
+  ],
+  "quality_issues": [
+    "no_explicit_band_in_comment"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "dd6bfedd2f1c047c22913c76b631467e9b1f75db054982fb399a90037f01423f",
+  "model_evidence": null
+}

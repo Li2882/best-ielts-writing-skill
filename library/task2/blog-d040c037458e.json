@@ -1,0 +1,92 @@
+{
+  "id": "blog-d040c037458e",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-d040c037458e.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-reasons-to-attend-college/",
+  "source_locator": "research/blog/ielts-essay-topic-reasons-to-attend-college.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "b7fe53ff05ddbb6c",
+  "prompt_group": "074fdb64b6595138",
+  "question": "People attend college or university for many different reasons (for example, new experiences, career preparation, or to increase knowledge).",
+  "essay": "Why do you think people attend college or university? Use specific reasons and examples to support your answer.\n\nMany people attend to university or collage after their high school years for several reason which they choose by them self. I believe that the most common reason why people attend to university or collage to have new experiences on life , to prepare for a career, and to increase their knowledge of their personality.\n\nFirstly, many people attend to university or collage to have new experience in life. Many students leave their home and move to live by them self when they go to university. This is the first time that they had to make a resolution on their own, without their parents’ help. Making their own decisions will increase their knowledge of themselves. Moreover, students on the university can meet different students from different nationalities and religions so students can learn about different culture around the world.\n\nSecondly, many people go to university or collage to prepare for a career. Career training is becoming more important nowadays to young people compared to old people. At college, students learn many skills for their career and they intern to internship with a lot of chances. All of these things prepare them for their career.\n\nAlso, students attend university or college to increase their self-knowledge of their personality on life. They attend for that to increase their knowledge in subjects which they find interesting. For example, many students study science because they are iinterest in science but they work on the business area.\n\nTo sum up, I think people should not only focus on a career when they go to university or college. They have to follow to have new experience and knowledge about their personality and the great world around them which they live in.",
+  "word_count_computed": 302,
+  "images": [],
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay needs much work. There are many grammatical errors, incorrectly used prepositions and inaccurate expressions (see comments underlined in blue). There are many repetitions of the same expressions – try to avoid that as much as possible. The task is covered, the paragraphs are connected by linking words – but the way you use them is rather primitive. Overall, this looks like a Band 6 essay.",
+  "corrections": [
+    {
+      "original": "attend to university or collage",
+      "suggestion": "attend university or college"
+    },
+    {
+      "original": "by them self",
+      "suggestion": "on their own"
+    },
+    {
+      "original": "attend to university or collage",
+      "suggestion": "Replace this expression – do not repeat the same expression 2 times in a row."
+    },
+    {
+      "original": "attend to university or collage",
+      "suggestion": "again, repetition"
+    },
+    {
+      "original": "by them self",
+      "suggestion": "by themselves"
+    },
+    {
+      "original": "on the ",
+      "suggestion": "of the"
+    },
+    {
+      "original": "culture",
+      "suggestion": "cultures"
+    },
+    {
+      "original": "intern to",
+      "suggestion": "enter an"
+    },
+    {
+      "original": "things",
+      "suggestion": "avoid using the word ‘thing’ in an IELTS essay"
+    },
+    {
+      "original": "on",
+      "suggestion": "in"
+    },
+    {
+      "original": "for that to",
+      "suggestion": "so that they could"
+    },
+    {
+      "original": "iinterest",
+      "suggestion": "interested"
+    },
+    {
+      "original": "on the business area",
+      "suggestion": "in other types of businesses"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "c606905712a17e74f15d8e2685a9a6c2b535f2c990cc4e3247a560bf8428ea87",
+  "model_evidence": null
+}

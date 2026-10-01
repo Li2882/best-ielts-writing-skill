@@ -1,0 +1,65 @@
+{
+  "id": "insights-v07-p22-task2",
+  "task": "task2",
+  "question": "In many parts of the world, some famous people are considered role models, and they are having an increasing influence on the young. Is this a positive or negative development?",
+  "essay": null,
+  "overall": 8,
+  "band_low": 8,
+  "band_high": 8,
+  "traits": {
+    "TR": 9,
+    "CC": 8,
+    "LR": 8,
+    "GRA": 8
+  },
+  "score_source": "verified_human",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "rater_evidence": "Publisher submits academic-team originals to Tony Grace; original, explicit overall and correction report verified in the public PDF. Practice assessment, not an official test result.",
+  "author_group": "unknown",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "source_url": "https://cms.youpass.vn/assets/ca40ac90-a8f9-49c8-9e1a-ee5192e68736",
+  "source_artifact": "research/expansion/insights/vol-07.pdf",
+  "source_sha256": "cb502a33287b713af0a67741f8eff6681b53e89a80e94ddf800b43473223fe5f",
+  "source_locator": {
+    "volume": 7,
+    "cover_page": 22,
+    "original_pages": [
+      23
+    ]
+  },
+  "path": "library/task2/insights-v07-p22-task2.json",
+  "task_type": "essay",
+  "duplicate_group": "insights-v07-p22-task2",
+  "prompt_group": "bda976d883ebfa44",
+  "quality_issues": [],
+  "accessed_at": "2026-09-21",
+  "essay_images": [
+    "research/expansion/insights/pages/vol-07-p23.png"
+  ],
+  "question_image": "research/expansion/insights/pages/vol-07-p22.png",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-07-p22.png",
+    "research/expansion/insights/pages/vol-07-p24.png",
+    "research/expansion/insights/pages/vol-07-p25.png",
+    "research/expansion/insights/pages/vol-07-p26.png",
+    "research/expansion/insights/pages/vol-07-p27.png",
+    "research/expansion/insights/pages/vol-07-p28.png",
+    "research/expansion/insights/pages/vol-07-p29.png",
+    "research/expansion/insights/pages/vol-07-p30.png",
+    "research/expansion/insights/pages/vol-07-p31.png",
+    "research/expansion/insights/pages/vol-07-p32.png"
+  ],
+  "evaluation_role": "v14_diagnostic_development",
+  "teacher_advice_caveat": "Assessor paragraph preferences and personal agreement are not extra official criteria.",
+  "trait_label_status": "Criterion pages cross-checked against cover and retained with full report; original and report images retained.",
+  "trait_evidence_path": "research/trait-calibration/insights-v07-p22-task2.json"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "blog-4cbd96a882c0",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-4cbd96a882c0.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-nowadays-celebrities-earn-more-money-than-politicians-what-are-the-reasons-for-this/",
+  "source_locator": "research/blog/ielts-essay-topic-nowadays-celebrities-earn-more-money-than-politicians-what-are-the-reasons-for-this.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "teacher_model",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "85fa51c207ce3991",
+  "prompt_group": "d2a15ee90cb0efb7",
+  "question": "Nowadays celebrities earn more money than politicians. What are the reasons for this? Is it a positive or negative development?",
+  "essay": "Nowadays celebrities make more money compared to people working in politics. This essay will look at the possible causes of this tendency and explain why, in my opinion, this is a negative development.\n\nThere are two main reasons why celebrities generate more income than politicians. One of them is that with the advent of the Internet, there are more ways available for celebrities to earn money, such as online streaming services. For example, singing a song in a YouTube video with some advertisements enables them to easily make a few million dollars. Another cogent reason for this is the growing global concerns over excessively high remuneration for political leaders, which can easily lead to public discontent. In response to such criticism, many governments have decided to reform the reward system for lawmakers, sending their salaries on a downward trend.\n\nI personally believe that this development is relatively negative for several reasons, with the main one being the potential corruption scandals this issue can create. The enormous salary gap between celebrities and political leaders might discourage the legislators from putting in work or even motivate them to commit crimes such as money laundering. In addition, the relatively low salary for stressful jobs of governors may deter people with foresight on politics from becoming politicians. This is particularly undesirable because it would result in low level of citizens’ loyalty to their incompetent government, creating unstable society with more crime and other social problems.\n\nIn conclusion, the fact that celebrities are paid more than political leaders now is caused by a wider variety of income sources available to them, and supported by the social norm that a politician should not be a profit driven professional. However, I believe this is a negative trend which may lead to more political corruption and less talented governments.",
+  "word_count_computed": 301,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "",
+  "corrections": [],
+  "quality_issues": [
+    "no_explicit_band_in_comment",
+    "teacher_model_not_scored_candidate"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "53675d04f4a41b009039a65713424d494a2a4e4c9a95e74d65bfc78381dac046",
+  "model_evidence": " data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20336%20280'%3E%3C/svg%3E  https://www.ielts-blog.com/images/banners/target-band-7-banner-new.jpg"
+}

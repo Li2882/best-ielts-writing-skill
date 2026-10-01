@@ -1,0 +1,69 @@
+{
+  "id": "liz-band9-1c4205116735",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/liz-band9-1c4205116735.json",
+  "source_url": "https://ieltsliz.com/ielts-writing-task-1-line-graph-model-score-9/",
+  "source_locator": {
+    "page_marker": "line1",
+    "source_file": "research/expansion/high-band-sources/liz-band9-pages/6f2936df7358dd4b.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS Liz",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS Liz page explicitly presents this Academic Task 1 response as an estimated Band 9 model; the page author is an IELTS teacher and preserves the prompt, response and comments where available. This is not an official Cambridge TRF.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS Liz / Tony Grace",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "fea1511ed537d696",
+  "prompt_group": "446ab2d4ddc8582c",
+  "question": "The graph below shows the consumption of three spreads from 1981 to 2007.",
+  "images": [
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2014/11/consumption-of-spreads-line-graph.jpg",
+      "path": "library/assets/86bf155c76f0ce07.jpg",
+      "sha256": "76c4911d0b19390b9b71a5695c45bd7e28a4ea5d230194d1ad9228e626121636"
+    },
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2014/11/consumption-of-spreads-line-graph.jpg",
+      "path": "library/assets/86bf155c76f0ce07.jpg",
+      "sha256": "76c4911d0b19390b9b71a5695c45bd7e28a4ea5d230194d1ad9228e626121636"
+    },
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2020/01/IELTS-Line-Graph-Five-Lines-Writing-Task-1.jpg",
+      "path": "library/assets/09119068eeb8d649.jpg",
+      "sha256": "1f88f56bab332f82ee858040b33fe6c76600ad5f66a617b740bc6b9e830e85ca"
+    },
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2020/01/IELTS-Line-Graph-Five-Lines-Writing-Task-1.jpg",
+      "path": "library/assets/09119068eeb8d649.jpg",
+      "sha256": "1f88f56bab332f82ee858040b33fe6c76600ad5f66a617b740bc6b9e830e85ca"
+    }
+  ],
+  "essay": "The line graph illustrates the amount of three kinds of spreads (margarine, butter, and low fat and reduced spreads) which were consumed from 1981 to 2007. Units are measured in grams.\n\nOverall, the consumption of margarine and butter decreased over the period given, while for low fat and reduced spreads, it rose. At the start of the period, butter was the most popular spread. Margarine was the most widely consumed in the middle of the period but, by the end, low fat and reduced spreads was most popular.\n\nWith regards to the amount of butter used, it began at around 140 grams and then peaked at 160 grams in 1986 before falling dramatically to about 50 grams in the last year. Likewise, approximately 90 grams of margarine was eaten in the first year, after which the figure fluctuated slightly and dropped to a low of 40 grams in 2007.\n\nOn the other hand, the consumption of low fats and reduced spreads only started in 1996 at about 10 grams. This figure, which reached a high of just over 80 grams five years later, fell slightly in the final years to approximately 70 grams in 2007.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Page author estimate: Band 9 model; no four-trait numerical breakdown published.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 195,
+  "extraction": "HTML prompt and model response; author estimate and comments retained.",
+  "source_sha256": "8d2cdeef43018bd0a60c9fdea1d65a48a7be1e218d545cb903e7270d1b1f9f7a",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

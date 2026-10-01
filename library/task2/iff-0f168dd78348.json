@@ -1,0 +1,42 @@
+{
+  "id": "iff-0f168dd78348",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/iff-0f168dd78348.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-task-2-band-8-sample-answer-3/",
+  "source_locator": "research/forfree/ielts-task-2-band-8-sample-answer-3.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "d8ed467368937052",
+  "prompt_group": "250b278bac7e35ab",
+  "question": "This essay presents a discussion about art galleries and related entertainment and whether it is fair to charge a fee or not get access to them, followed by a personal opinion.\nA charge should apply in order to get access to some forms of art entertainment for instance a presentation of foreign arts and crafts. This incurs a cost to bring and present them in your own country so a fee must be charged to finance the expenses of bringing different type of cultures to another country. For example, an exposition of ancient Egyptian jewellery in the United States generates a cost for Egypt for transport these various items and an expense to the United States museum who will be displaying them.\nOn the other hand, heritage collections and cultural festivals should allow of free access to the general public in their own country for they represent the history of their own people and this promotes a better understanding of the true meanings of a particular national culture. For example , national museums where important documents are stored which represent the foundations of the actual political and legal system of a country or ancient crafts which depict our predecessors way of life.\nMy personal opinion is that a charge or fee for admittance should be applied when foreign collections or artistic presentations are shown. Also, it can be applied to national museums and galleries but only if the money gathered is reinvested in the preservation of such institutions or the promotion of similar places.\n(252 words)",
+  "essay": "Comments: The argument is clearly presented and gives two good points before moving to the personal point of view. There are some issues with punctuation, but a wide range of vocabulary and grammar have been used, and the length is appropriate for the task.",
+  "word_count_computed": 44,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Task 2 Band 8 sample answer 3\nFor more student answers, click here",
+  "corrections": [],
+  "quality_issues": [
+    "essay_length_needs_review",
+    "feedback_in_essay_or_incomplete_source",
+    "missing_or_misplaced_comments"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "fadb65401eba1fd5dc36fdd50c9fb548e6e40ba3f722199fe2c9fbadbd8d8eb1"
+}

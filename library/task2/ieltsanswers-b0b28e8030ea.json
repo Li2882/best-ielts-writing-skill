@@ -1,0 +1,60 @@
+{
+  "id": "ieltsanswers-b0b28e8030ea",
+  "task": "task2",
+  "task_type": "two_part",
+  "path": "library/task2/ieltsanswers-b0b28e8030ea.json",
+  "question": "Nowadays, people use computers or telephones to communicate and do not write letters any more. Some think that letter-writing skills would disappear completely. To what extent do you agree or disagree? How important is the letter-writing skill to you?",
+  "essay": null,
+  "images": [],
+  "essay_images": [
+    "research/expansion/correction-pages/b0b28e8030ea-p1.png",
+    "research/expansion/correction-pages/b0b28e8030ea-p2.png"
+  ],
+  "overall": 7,
+  "band_low": 7,
+  "band_high": 7,
+  "traits": {},
+  "comments": null,
+  "source_url": "https://www.ieltsanswers.com/essays/ielts-essays-are-writing-letters-good.pdf",
+  "source_artifact": "research/expansion/answers/b0b28e8030ea.pdf",
+  "source_sha256": "036ae93b11af26b1c42a52b9758d64019e5c6cb585ca151ce14db1d51a51a705",
+  "source_locator": "research/expansion/answers/b0b28e8030ea.pdf",
+  "score_source": "verified_human",
+  "rater_evidence": "Mike Wattie publishes these as individually corrected writing samples on IELTSAnswers. His examiner credentials are a publisher claim; these are practice estimates.",
+  "publisher": "IELTSAnswers / Mike Wattie",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "ieltsanswers-b0b28e8030ea",
+  "prompt_group": "adacc01f82723c92",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "student",
+  "author_type_evidence": "Publisher describes these as writing correction samples; individual author is unnamed.",
+  "question_text_status": "Searchable prompt transcription or summary; original question image is authoritative.",
+  "question_image": "research/expansion/correction-pages/b0b28e8030ea-p1.png",
+  "comments_images": [
+    "research/expansion/correction-pages/b0b28e8030ea-p1.png",
+    "research/expansion/correction-pages/b0b28e8030ea-p2.png"
+  ],
+  "score_page": 2,
+  "score_evidence": [
+    {
+      "score": 7.0,
+      "row": [
+        "overall",
+        "7",
+        "Your English is excellent but you need to work on structuring your essays better\nquestions directly. You must learn how to identify the three types of essays and t\nstructure for them:\nhttp://ieltsanswers.com/Types-of-IELTS-Essays.html",
+        "and answering the\no write an appropriate"
+      ]
+    }
+  ],
+  "extraction": "Read the marked original: retain struck-out original words, omit inserted corrections and teacher comments. Do not concatenate the native PDF text, which interleaves both versions. Assessment tables are not essay text.",
+  "teacher_advice_caveat": "Publisher layout preferences, stylistic substitutions and word-count advice are not official deductions. Preserve the published overall; ranged criterion estimates have not been converted to exact scores."
+}

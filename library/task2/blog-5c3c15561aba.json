@@ -1,0 +1,52 @@
+{
+  "id": "blog-5c3c15561aba",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-5c3c15561aba.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-the-proportion-of-older-people-is-increasing-what-problems-will-this-cause-and-what-solutions-can-be-suggested/",
+  "source_locator": "research/blog/ielts-essay-topic-the-proportion-of-older-people-is-increasing-what-problems-will-this-cause-and-what-solutions-can-be-suggested.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "032a6f1f75e880d9",
+  "prompt_group": "f319a954574d4f50",
+  "question": "In many countries the proportion of older people is steadily increasing. What problems will this cause for individuals and society? Suggest some measures that could be taken to reduce the impact of ageing populations.",
+  "essay": "It is true that nowadays people in industrialised nations can expect to live longer than ever before. Although there will undoubtedly be some negative consequences to this trend, societies can take steps to mitigate these potential problems.\n\nAs people live longer and the populations of developed countries grow older, several related problems can be anticipated. The main issue is that there will obviously be more people of retirement age who will be eligible to receive a pension. The proportion of younger, working adults will be smaller, and governments will therefore receive less money in taxes in relation to the size of the population. In other words, an ageing population will mean a greater tax burden of working adults. Further pressures will include a rise in the demand for healthcare, and the fact young adults will increasingly have to look after their elderly relatives.\n\nThere are several actions that governments could take to solve the problems described above. Firstly, a simple solution would be to increase the retirement age for working adults, perhaps from 65 to 70. Nowadays, people of this age tend to be healthy enough to continue a productive working life. A second measure would be for governments to encourage immigration in order to increase the number of working adults who pay taxes. Finally, money from national budgets will need to be taken from other areas and spent for vital healthcare, accommodation and transport facilities for the rising numbers of senior citizens.\n\nIn conclusion, various measures can be taken to tackle the problems that are certain to arise as the populations of countries grow older.",
+  "word_count_computed": 266,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay covers the task requirements, however some problems of aging population get only a brief mention. The linking of sentences in the second body paragraph is somewhat ‘mechanical’ and could have been improved. Information sequencing and organisation in paragraphs are done well. The range of vocabulary and the fluency of its use, as well as lack of errors are impressive. Overall, this is a good example of how to get Band 8 without writing a very long essay.",
+  "corrections": [
+    {
+      "original": "of",
+      "suggestion": "‘on’ is more suitable here"
+    },
+    {
+      "original": "fact young",
+      "suggestion": "fact that young (‘that’ is necessary here for linking)"
+    },
+    {
+      "original": "for",
+      "suggestion": "‘on’ is more suitable here"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "0ab0299bc083613c2e829dae7c70e9c8ea89b22de2c35f699930f3f50b1e5a5b",
+  "model_evidence": null
+}

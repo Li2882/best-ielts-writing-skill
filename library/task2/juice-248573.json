@@ -1,0 +1,86 @@
+{
+  "id": "juice-248573",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248573.json",
+  "question": "Some people believe that it is more important to teach children the literature and history of their own country, rather than the literature and history of other countries.\nTo what extent do you agree or disagree with this statement?",
+  "essay": "It is true that literature and history are two key areas in children education. While I accept that teaching our national history to children is of crucial importance, I would also argue that we should not overlook the key role of other nations’ history in children education.\n\nIt is often said that the history of every nation plays a major role in their social identity. Our common culture and customs, as a nation, can unite us, and encourage us to make our best efforts to move towards development. Furthermore, it is through our own history that we can understand our chronic social problems and try to find solutions to them. For example, we, as Iranians, need to educate our children about the fact that our society has always been a tribal society in which we have always overemphasized our race, and this has hindered our country from sustainable development. It is obvious that the more our children become aware of this issue, the more they will focus on the unity of their society in the future.\n\nOn the other hand, world history can certainly be used to decrease the clash of culture between different nations. I personally believe that chauvinism is a result of being ignorant to the history, literature, culture, and customs of other nations. Therefore, when our children get to know about other countries history, they start appreciating other people’s essential role in the development of human society, and consequently they will respect other nations’ cultures. I believe that teaching the world history to our children is a significant and profound step towards global peace.\n\nIn conclusion, I am convinced that our own history teaches our children what the reality of our society is, while learning about other nations’ history helps them develop a more peaceful personality.",
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TR": 7.0,
+    "CC": 7.0,
+    "LR": 7.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this essay. The focus is too much on history while there is very little left for literature.",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "7.0\taddresses all parts of the task",
+      "7.0\tpresents a clear position throughout the response",
+      "7.0\tpresents, extends, and supports main ideas, but there may be a tendency to over-generalize and/or supporting ideas may lack focus",
+      "7.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "7.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "8.0\tproduces rare errors in spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "7.0"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3215-band-7-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248573.html",
+  "source_sha256": "ebf7b80d743d03147843034fa57d4890c363fb4554c05ef2d0e38a917f46c262",
+  "source_locator": {
+    "wordpress_post_id": 248573,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "f033839bd88cef74",
+  "prompt_group": "2fdd410b25e44227",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

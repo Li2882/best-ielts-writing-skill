@@ -1,0 +1,37 @@
+{
+  "id": "blog-4e60ac5b831f",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-4e60ac5b831f.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-7/ielts-report-topic-line-graph-of-wages-growth/",
+  "source_locator": "research/blog/ielts-report-topic-line-graph-of-wages-growth.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "holdout",
+  "duplicate_group": "55daeaab4db717a6",
+  "prompt_group": "cd0d18a8e2293bbd",
+  "question": "The graph below gives information on wages of Somecountry over a ten-year period. Write a report for a university tutor describing the information shown.",
+  "essay": "The linegraph describes the growth of wages in Somecountry from the year 1993 to 2003.\n\nThe growth started at two percent in 1993, but it didn’t stay there very long before it rapidly doubled in 1994. Further on, the percentages declines to three percent in 1995, stayed steady for a year, before starting to rise slowly and ending up just under four percent in 1997. 1998 was the best year where the wages growth peaked at six percent.\n\nHowever, after 1998 the wages grew less and less nearly every year. Only a year after , the percentage dropped to well under three percent, and stayed there on roughly three percent till 2000. In 2002 the wages reached the lowest point of just one percent growth. Luckily the growth rose in 2003 at junst under two percent.\n\nOverall, the growth rate in wages in Somecountry has shown striking changes through the ten years.",
+  "word_count_computed": 151,
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/wages.GIF",
+      "path": "library/assets/19abbdc4c93d8ff9.gif",
+      "sha256": "c6ca6c075fcea652a7e7633230851b9d3ec34ac38dc03ff710e2edd33b390efe"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "9f653d7b03e9bbac27ff0c87d25b692730be80aac249d4d3e191d92981c538f2",
+  "model_evidence": null,
+  "evaluation_role": "reserved_unscored_v14",
+  "reserved_for_evaluation": "future_v14_complete_run",
+  "assessment_evidence_path": "evaluations/labels/v14-01.json"
+}

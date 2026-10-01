@@ -1,0 +1,51 @@
+{
+  "id": "sohu-c8t4",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/sohu-c8t4.json",
+  "question": "The graph below shows the quantities of goods transported in the UK between 1974 and 2002 by four different modes of transport.Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The line diagram which indicates the goods transported in UK between (1974) and (2002), according to different ways of transport and the tonnes they carried.\nAmong these lines, water and rail both start with the similar value 40 million tonnes at 1974. After 4 years, the amounts of goods that carried by ship had an increase. However, the amounts that transported by trains went down. Though water line had a decrease from 1982 to 1998, the overall value of it always above the rail line.\nThe most obvious line which can find on the top of chart is the quantity of goods that transported by road. It held the highest position during 28 years(start at 78 tonnes and finish at 98 tonnes). Turning to the bottom of the chart, the black straight line reveal the pipeline. It is clear that the black line had two climbing points, but it is still the minimum figure.\nOverall, the chart demonstrates that the technology is developing. Because all the lines have a positive gradient or the final value is greater than start value.",
+  "images": [
+    {
+      "path": "research/expansion/book-pages/c8-p100.png",
+      "sha256": "e51d1d93a3cca8eed3d4c43ba25626845cd65030218fccacfe6a36755d56c4ba",
+      "note": "Matching original Cambridge question recovered by explicit book/test identity."
+    }
+  ],
+  "essay_images": [],
+  "overall": 5,
+  "band_low": 5,
+  "band_high": 5,
+  "traits": {
+    "TA": 5.5,
+    "CC": 5.0,
+    "GRA": 4.5,
+    "LR": 5.0
+  },
+  "comments": "1.信息的描写相对完整，有趋势描述，但是数据表达少，信息的比较上还有欠缺\n2.句子和句子之间有一些连词，但是从全文来看，语言的衔接上，还要提升，建议学习更多方法，使文内衔接更为自然和顺畅\n3.语法错误较多，比如定语从句、动词时态，动词时态是考生常见错误，也是低级错误\n4.词汇量不大，用词准确度欠缺\n5.图形的混淆，line graph和chart、diagram明显不同",
+  "source_url": "https://www.sohu.com/a/129166231_457736",
+  "source_artifact": "research/expansion/sohu-c8t4.html",
+  "source_sha256": "28e6c541625a4603552b637d29d95d643c243abb5b63d5d39c36b11699eea9d1",
+  "source_locator": "research/expansion/sohu-c8t4.html",
+  "score_source": "verified_human",
+  "rater_evidence": "Public institution post explicitly identifies marker 晟睿 葡萄; teacher estimate, not a formal IELTS result.",
+  "publisher": "晟睿教育 / Sohu",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "China",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "sohu-c8t4",
+  "prompt_group": "cambridge-8-t4-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "source_context_region_evidence": "Publishing institution identifies itself as Shanghai ShengRui Education; candidate residence is not stated.",
+  "extraction": "Original text before 批改; teacher rewrite and model answer excluded. Published half-band traits retained.",
+  "teacher_advice_caveat": "Some wording advice is debatable; official descriptors govern grading. The Task 2 page mistakenly calls its rubric Task 1/TA; source notation retained.",
+  "question_image": "research/expansion/book-pages/c8-p100.png",
+  "evaluation_role": "released_reservation_same_prompt_as_development"
+}

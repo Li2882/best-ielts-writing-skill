@@ -1,0 +1,47 @@
+{
+  "id": "official-2023-2a-a",
+  "task": "task2",
+  "task_type": "opinion",
+  "path": "library/task2/official-2023-2a-a.json",
+  "source_url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+  "download_url": "https://unihousecms.mediaplusdemos.com/sites/default/files/2024-08/ielts-academic-writing-sample-tasks-2023.pdf",
+  "source_locator": {
+    "pdf": "library/official/academic-writing-samples-2023.pdf",
+    "question_page": 6,
+    "response_pages": [
+      18
+    ]
+  },
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS",
+  "score_source": "official",
+  "rater_evidence": "Official IELTS sample pack states each response has an examiner band and comment. Mirror title, 26-page structure, prompts and extracted comments compared with primary IELTS URL retrieved through web search.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "official-2023-2a-a",
+  "prompt_group": "official-2023-2a",
+  "question": "Page 6 of 26  \n \n  \nIELTS.org \nAcademic Writing Sample Task – 2A \n \n \nWRITING TASK 2 \nYou should spend about 40 minutes on this task. \nWrite about the following topic: \n \n \n \nGive reasons for your answer and include any relevant examples from your \nown knowledge or experience. \n \nWrite at least 250 words. \nChildren who are brought up in families that do not have large amounts of money are \nbetter prepared to deal with the problems of adult life than children brought up by \nwealthy parents. \nTo what extent do you agree or disagree with this opinion?",
+  "essay": null,
+  "essay_images": [
+    "library/official/pages/page-18.png"
+  ],
+  "images": [],
+  "question_image": "library/official/pages/page-06.png",
+  "overall": 4.0,
+  "band_low": 4.0,
+  "band_high": 4.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Band 4 \nWhile it is obviously related to the topic, the introduction is confusing and the test taker’s position is \ndifficult to identify. Ideas are limited and although the test taker attempts to support them with \nexamples from experience, they remain unclear. There is no overall progression in the response and \nthe ideas are not coherently linked. Although cohesive devices are used, they assist only minimally \nin achieving coherence. The range of vocabulary is basic and control is inadequate for the task. \nLanguage from the input material is used inappropriately and frequent errors in word choice and \ncollocation cause severe problems for the reader. Similarly, the range of structures is very limited, \nthe density of grammatical and punctuation error is high and these features cause some difficulty for \nthe reader. Attempts to use complex structures, such as subordination, are rare and tend to be very \ninaccurate.",
+  "quality_issues": [],
+  "extraction": "Handwritten response retained as page images. View all response pages; no unverified OCR transcript. Pages include examiner comments; reference use only.",
+  "source_sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+}

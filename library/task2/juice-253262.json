@@ -1,0 +1,87 @@
+{
+  "id": "juice-253262",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-253262.json",
+  "question": "Today, the high sales of popular consumer goods reflect the power of advertising and not the real needs of the society in which they are sold.\nTo what extent do you agree or disagree with this statement?",
+  "essay": "In today’s fast paced world, competition is observed in almost everywhere and the consumer market seems to be no exception. While some people claim that high sales figures of companies express the tempting and misleading role of advertisement, under no circumstances would I accept so and assert that advertising is an inseparable part of the contemporary marketing and also helps the consumers to make best decisions.\n\nOn one hand, some people hold the opinion that advertising agencies try to convince people to buy products which do not reflect their authentic needs; instead, they encourage people to be on trend regarding every aspect of market from fashion to electronic devices. These companies use various methods by which people are exposed to the latest trends constantly. TV commercials for example, are among the most effective and influential advertising procedures used by advertising agencies for consumers’ constant exposure. As a result, people’s tendency to buy the newest products rises subconsciously without any real need.\n\nTouching on the role of advertisement on consumers’ behavior, I do not see eye to eye with the proponents- i.e. those claiming the negative repercussions of advertising on individuals- for one compelling justification: being informative. Beyond doubt, advertising procedure was first established with the aim of informing the consumers about the contrasting choices they have. In other words, this introduces all the available options which can be selected by people. Following advertisements means that people are more aware of the products being purchased, their qualifications and characteristics. So, advertisements are not only informative but also helpful and applicable.\n\nIn conclusion, although some may believe that publicity may raise sales figures subjectively, I find it highly appropriate in terms of applicability.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TR": 8.0,
+    "CC": 7.0,
+    "LR": 7.0,
+    "GRA": 8.0
+  },
+  "comments": "Thank you indeed for writing this essay. Some of the points made here are not necessarily errors but rather better alternatives for absolutely high scores. All we can say after reading this essay is Bravo!\nVideo Feedback",
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-2832-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-253262.html",
+  "source_sha256": "f229f9391eed308b39dc688c5c3a4b167245406a9fb58e8baebd6811f010f7df",
+  "source_locator": {
+    "wordpress_post_id": 253262,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "7d750b741ac18f41",
+  "prompt_group": "57f7e4b6fde98957",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "9.0\tfully addresses all parts of the task",
+      "9.0\tpresents a fully developed position in answer to the question",
+      "8.0\twith relevant, extended, and supported ideas",
+      "8.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "9.0\tuses cohesion in such a way that it attracts no attention",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "9.0\tuses a wide range of structures",
+      "8.0\tthe majority of sentences are error-free",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "9.0\tcommunication is completely natural",
+      "8.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

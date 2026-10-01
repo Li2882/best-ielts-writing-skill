@@ -1,0 +1,93 @@
+{
+  "id": "juice-247858",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-247858.json",
+  "question": "The charts below show the proportions of British students at one university in England who were able to speak other languages in addition to English, in 2000 and 2010.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The supplied pie charts below summarize the proportions of British students at one university in England who were able to speak other languages in addition to English from (2000) to (2010).\n\nMoving to the Students in 2000 almost less than a third of students were able to speak Spanish whereas only a minority of students were capable to speak two other languages as well as German language. However, 20 percent of students in, 2000 were able to speak in English only that means no other languages and less than a fifth of students belong to the French as well as another language. According to the statistics data a half of the students were able to speak in Spanish and English in, 2000. But then again rest of 50 percent belong to the German, French, two other languages and another language.\n\nIn 2010 the number of the students who were able to speak in Spanish raised to 35 percent in contrast to 2000 which was less than a third. The percentage for two other languages increased 5 percent comparing to 2000 which was one in ten but, the rate of students who were able to speak French dropped from 15 percent to 10 percent. However, the number of students for another language increased to a fifth by five percent in contrast to 2000 but the rate for students who speak Germany remained steady as 2000 which was 10 percent. But that being said no other language decreased to one in ten in, 2000 comparing to 2010.\n\nOverall, except German language which was unchanged and no other languages which decreased as well as French language in 2010 the rest of languages raised rapidly comparing to 2000 such as, two other languages, another language and Spanish.",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TA": 7.0,
+    "CC": 7.0,
+    "LR": 5.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you indeed for writing this report. All key features are addressed and developed. There is overuse of discourse markers but they do not influence the effectiveness of their usage. There is a meaningful difference between “rise” (intransitive) and “raise” (transitive). Click on the following link to learn the difference.",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "8.0\tcovers all requirements of the task sufficiently",
+      "7.0\tclearly presents and highlights key features",
+      "9.0\tdetails are fully and clearly extended.",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "7.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "7.0"
+    ],
+    "LR": [
+      "6.0\tuses an adequate range of vocabulary for the task",
+      "6.0\tattempts to use less common vocabulary but with some inaccuracy",
+      "6.0\tmakes some errors in spelling and/or word formation",
+      "5.0\tthat may cause some difficulty for the reader",
+      "5.0"
+    ],
+    "GRA": [
+      "6.0\tuses a mix of simple and complex sentence forms",
+      "6.0\tcomplex sentences have the same accuracy as the simple ones do",
+      "6.0\tmakes some errors in grammar and punctuation",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.0"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-247858-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2023/08/ielts-writing-task-1-report-sample-3339-band-7-0.jpg",
+      "sha256": "eec1b45589bec8d7e02301f8a3a406837a963eaef678a06fe273ea788cc1d5ee"
+    }
+  ],
+  "question_image": "library/assets/juice-247858-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3339-band-6-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-247858.html",
+  "source_sha256": "e4f6ab83a4dbefd9b42fd789b5e8ad3b97f0c0cb3ab64e25c1dd588a5d444532",
+  "source_locator": {
+    "wordpress_post_id": 247858,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "44ae9fcdd39725ac",
+  "prompt_group": "6c9489b87103a1d6",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

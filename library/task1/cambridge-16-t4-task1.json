@@ -1,0 +1,55 @@
+{
+  "id": "cambridge-16-t4-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-16-t4-task1.json",
+  "question": "The diagram below shows the process for recycling plastic bottles.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": "library/assets/cambridge-16-t4-task1-question.webp",
+  "images": [
+    {
+      "url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-16-academic-test-4-task-1-d2f80d144767.webp",
+      "path": "library/assets/cambridge-16-t4-task1-question.webp",
+      "sha256": "d2f80d144767b036452534631981f624109bc1ec7f73c5a3e6eb03c5a1f0e42a"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c16-p138.png"
+  ],
+  "reading_transcript": "Plastic bottles are one of the most materials used in the world, and recycling is a really important subject to try to minimize the waste.\n\nAround the streets, in front off houses and restaurants is possible to see some bins, to collect organic and recycle waste. The yellow in is the correct one to trash recycle things, such as plastic bottles. After trashed, a truck collects at least once a week and leave in a specific place to separate what is recycleble and what is not. For that reason, is really important to separate before trash, this means someone will not spend to many time separating.\n\nRecycling is a big process, after separated the waste should be compressing in blocks to facilitat the crushing and washing process, that should be done because to many durty come with the bottles and crushing it makes easier to produce a new material.\n\nCrushed, washed and then going to the production of plastic pellets, it is can be finally heated to form a raw material.\n\nBut what can be produced using recycled bottles? New bottles, containers, bags, T-shirts, pen, toys and to many other things.\n\nSearching, it is possible to see how big is the waste problem around the world and how not to many govermnents invests in this situation. Starting into the houses, avoiding to use plastics in excess and separating the correct things in the correct bins, is a good way to keep the environment safe.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 5.5,
+  "band_low": 5.5,
+  "band_high": 5.5,
+  "traits": {},
+  "comments": "In this process task, the response includes an introduction and covers the main stages of the recycling process. However, there is significant irrelevant detail included, e.g. in the last paragraph, which reduces the score.\nThe stages are set out in order and there is good overall progression with some effective linking devices [such as | For that reason] and cohesion [what is ... what is not | that] but the errors reduce the band score here. The candidate tends to use lists rather than a full range of cohesive devices.\nVocabulary is adequate with some original vocabulary [minimize the waste | separated | containers | environment]; however, much is taken directly from the task [compressing | to form a raw material]. There are errors in spelling [in / bin | durty / dirty] but they do not reduce communication.\nGrammatical structures are limited and level of error is high [after separated / after separating | should be compressing / should be compressed | it is can be / it can be]. For a higher score, improved accuracy is needed.\nThe score for this response could be improved by including a summary of the main stages of the process, e.g. plastic bottles are collected, sorted, broken down and made into new products.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-16-academic/",
+  "source_artifact": "research/expansion/cam16-page.html",
+  "source_sha256": "3a7c22accc6e9d451361adc70721b590144cf510c5af8a4eaed095aa73cb7225",
+  "source_locator": {
+    "book": 16,
+    "test": 4,
+    "pdf": "research/expansion/cambridge16.pdf",
+    "response_pages": [
+      138
+    ],
+    "score_line": "achieved a Band 5.5"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-16-t4-task1",
+  "prompt_group": "cambridge-16-t4-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

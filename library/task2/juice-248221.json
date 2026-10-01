@@ -1,0 +1,86 @@
+{
+  "id": "juice-248221",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248221.json",
+  "question": "Some people say that now we can see films on our phones or tablets, there is no need to go to the cinema. Others say that to be fully enjoyed, films need to be seen in a cinema.\nDiscuss both views and give your opinion.",
+  "essay": "These days some people believe that we can watch movies on electronic devices without any need to go to the cinema whereas others claim that in order to be completely satisfied , people should observe the film in a cinema. I will outline these two viewpoints in this essay.\n\nOn the one hand, those who believe that there is any urge for seeing the film in a cinema, have financial view. They can save money by observing films on the phone or other electronic gadgets. As the ticket for seeing the movie in a cinema would be expensive, it won’t be economical to be purchased by fellow citizens. This cost can be accumulated to other expenses, such as fuel so as to fill up the car’s tank for getting the cinema. This leads the situation in terms of finance to get worse, and the desire for saving money would be of paramount importance to viewers.\n\nOn the other hand, individuals who are in favor of watching the film in a cinema have two reasons. Firstly, if they want to be fully satisfied with seeing the movie, they should observe it on a big screen in a cinema. This can give the observer a sense of excitement which won’t be achievable by seeing the film on a small platform. People can make sense in different way, when they watch actors or actresses who have been shown in a big size. This is because their face and styles are more noticeable which would excite a strange feeling in viewers. In addition, the ambiance of the cinema contributes to the people to enjoy from seeing the film in a collective environment like the cinema. Laughing and crying as well as shouting play a pivotal role in creating this pleasure.\n\nIn conclusion, I believe that seeing the movie in the cinema would be more enjoyable because of the existence of a huge screen in that place as well as the ambience of the cinema is a main contributer to this feeling. This is provided that if that place would be of sufficient standards, in terms of sound and lighting.",
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TR": 7.0,
+    "CC": 7.0,
+    "LR": 7.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this essay. This is a very good IELTS response which deserves 7.0 in total. To improve this score, while the number of errors remains low, more advanced grammatical structures can be used in a couple of places.",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "8.0\tsufficiently addresses all parts of the task",
+      "8.0\tpresents a well-developed response to the question",
+      "7.0\tpresents, extends, and supports main ideas, but there may be a tendency to over-generalize and/or supporting ideas may lack focus",
+      "7.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "7.0"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3319-band-7-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248221.html",
+  "source_sha256": "0cd787bdccc1482a8584005c01ead41980e91ce345bd09625a63ef3b3ed74b50",
+  "source_locator": {
+    "wordpress_post_id": 248221,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "5d95d5c30ffec3d2",
+  "prompt_group": "c2c6cc450047cd63",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

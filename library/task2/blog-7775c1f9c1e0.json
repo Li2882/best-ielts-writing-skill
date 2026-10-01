@@ -1,0 +1,56 @@
+{
+  "id": "blog-7775c1f9c1e0",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-7775c1f9c1e0.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-should-people-spend-a-lot-on-weddings-and-birthday-parties/",
+  "source_locator": "research/blog/ielts-essay-topic-should-people-spend-a-lot-on-weddings-and-birthday-parties.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "0937703a3d513b4d",
+  "prompt_group": "c7a8327078da1c41",
+  "question": "Some people think that spending a lot on holding wedding parties, birthday parties and other celebrations is just a waste of money. Others, however, think that these are necessary for individuals and the society. Discuss both views and give your opinion.",
+  "essay": "Throwing parties can be expensive. While some people do not find these fancy gatherings worth what they cost, others believe such events are important to both individuals and the society.\n\nPeople choose to throw parties for a number of reasons. For starters, they can make better teams. Project kick-off parties are good opportunities to break the ice and help team members to know each other better. Celebrating a victory create a sense of success and belonging. Companies do not see parties as wastes of money and allocate budget to support such events; moreover, they often leave good memories. From our own experiences, we all have happy memories of our birthday parties when we were little. Every family has great photos took at family gatherings in their album. In addition, contrary to what some people believe that spending on parties is a waste of social resources, they actually create value, either by employing people in the party-planning business or by offering people better experiences.\n\nThe popularity of parties, however, causes some tension in the society. They are hard on introverted people who find themselves uncomfortable in the crowd. This is a clinic symptom which psychologists call it “social anxiety disorder”. There are other ways to celebrate important events that may have greater value for their cost. For instance, companies could send out gifts after successful projects and parents could take their children on family trips to celebrate birthdays.\n\nIn my opinion, while a party is a form of social event that brings many benefits to individuals and the society, other choices should also be considered, either to cut spending or to relieve the stress of those who are not fond of crowded celebrations.",
+  "word_count_computed": 282,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a very good essay. Other than minor inaccuracies there are no problems (mouse over the words underlined in blue shows corrections). Seems to be worth IELTS Band 8.",
+  "corrections": [
+    {
+      "original": "wastes",
+      "suggestion": "waste"
+    },
+    {
+      "original": "took",
+      "suggestion": "which were taken"
+    },
+    {
+      "original": "it",
+      "suggestion": "delete this"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "83fbd647cda124cb985b729c480d1cd8fa34ce016477273af7663b825a098826",
+  "model_evidence": null,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "source_context_region": "unknown",
+  "classification_revision": "Book-title advertisement is not evidence of model authorship; explicit sample/model declarations remain excluded."
+}

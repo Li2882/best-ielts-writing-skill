@@ -1,0 +1,93 @@
+{
+  "id": "iff-91de2ad30655",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/iff-91de2ad30655.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-academic-task-1-band-5-sample-answer-3/",
+  "source_locator": "research/forfree/ielts-academic-task-1-band-5-sample-answer-3.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "d6692a26e84f60ce",
+  "prompt_group": "8900c11f9c0ab6a1",
+  "question": "You should spend about 20 minutes on this task.\nThe chart below shows how people travelled to work in 1996 and 2001.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The chart below demonstrates how people used to travel to work in the year 1996 and 2001 which was held in Grahamston. There are 7 mode of transportation to be selected from: drove by car or truck, private vehicle passenger, walked, bicycle, public transport, other (which comprises taxi, ferry, aeroplanes) . Favourite mode was by the use of the car or truck which got the highest more or less 77% in the year 2001. Still, we could see that in 1996, a little bit less which was 56% but still the highest in that year. Secondly, there was a big difference of 11% (private vehicle passenger) from the use of car or truck in the year 1996 and 2001. The rest were all 10% or less in both 1996 and 2001. In 1996, 'other' or public transport were a little bit the same 9%, 10% respectively. While 'walked' or 'walked at home' are 6% and 5% respectively. 'Bicycle' was the least favorite in that time (1996).",
+  "word_count_computed": 165,
+  "images": [],
+  "overall": 5.0,
+  "band_low": 5.0,
+  "band_high": 5.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Academic Task 1 Band 5 sample answer 3\nOne of the main issues here is the lack of paragraphing, but also there are a number of occasions where the vocabulary used is too informal. Also, throughout the report, the writer is very specific with the data (77%, 56% etc) where using a wider range of expressions would have been better. For example, 77% could be 'just over three quarters of the total'. There are also significant errors with grammar and sentence construction.\nOn the positive side, the writer has covered the main points and striking trends, and some of the expressions used are academic.",
+  "corrections": [
+    {
+      "original": "the year",
+      "suggestion": "delete this or use \"the years\""
+    },
+    {
+      "original": "which was held",
+      "suggestion": "delete this - you only \"hold\" something like an event, a festival etc."
+    },
+    {
+      "original": "mode",
+      "suggestion": "\"modes\""
+    },
+    {
+      "original": "drove by car or truck, private vehicle passenger, walked, bicycle, public transport, other (which comprises taxi, ferry, aeroplanes)",
+      "suggestion": "avoid writing in this kind of \"list\" format"
+    },
+    {
+      "original": "Favourite",
+      "suggestion": "we don't know if it was the \"favourite\", only that it was the most common. This should also have started a new paragraph"
+    },
+    {
+      "original": "got the highest",
+      "suggestion": "\"which was most used\" - \"got the highest\" is too informal"
+    },
+    {
+      "original": "more or less",
+      "suggestion": "this is too informal - change to something like \"with approximately\""
+    },
+    {
+      "original": "we could see",
+      "suggestion": "\"it can be seen that\" is more academic"
+    },
+    {
+      "original": "a little bit less",
+      "suggestion": "too informal \"this was slightly lower\""
+    },
+    {
+      "original": "Secondly,",
+      "suggestion": "A new paragraph should have been started here"
+    },
+    {
+      "original": "big",
+      "suggestion": "\"significant\""
+    },
+    {
+      "original": "a little bit the same",
+      "suggestion": "too informal - change to something like \"comparatively similar with\""
+    },
+    {
+      "original": "are",
+      "suggestion": "\"were\""
+    }
+  ],
+  "quality_issues": [
+    "missing_chart"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "fbf5062399ee377538d346893b69fa2116eafb6bc4b138b2c7fbf09d76162a45"
+}

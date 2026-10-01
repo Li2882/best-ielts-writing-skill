@@ -1,0 +1,63 @@
+{
+  "id": "ieltsanswers-6c1c7ebc6c11",
+  "task": "task2",
+  "task_type": "discussion",
+  "path": "library/task2/ieltsanswers-6c1c7ebc6c11.json",
+  "question": "Human activity has had a negative impact on plants and animals around the world. Some people think that this cannot be changed, while others believe actions can be taken to bring about a change. Discuss both sides of the argument and give your opinion.",
+  "essay": null,
+  "images": [],
+  "essay_images": [
+    "research/expansion/correction-pages/6c1c7ebc6c11-p1.png",
+    "research/expansion/correction-pages/6c1c7ebc6c11-p2.png",
+    "research/expansion/correction-pages/6c1c7ebc6c11-p3.png",
+    "research/expansion/correction-pages/6c1c7ebc6c11-p4.png"
+  ],
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {},
+  "comments": null,
+  "source_url": "https://www.ieltsanswers.com/wp-content/uploads/2016/09/Human-activity-has-had-a-negative-impact-on-plants-and-animals-around-the-world.pdf",
+  "source_artifact": "research/expansion/answers/6c1c7ebc6c11.pdf",
+  "source_sha256": "7b18d2259a5bd4be02f876b0705ab66680d195b44f3048f4b4757ae13b2edc9a",
+  "source_locator": "research/expansion/answers/6c1c7ebc6c11.pdf",
+  "score_source": "verified_human",
+  "rater_evidence": "Mike Wattie publishes these as individually corrected writing samples on IELTSAnswers. His examiner credentials are a publisher claim; these are practice estimates.",
+  "publisher": "IELTSAnswers / Mike Wattie",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "ieltsanswers-6c1c7ebc6c11",
+  "prompt_group": "11d3fa84fe064120",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "student",
+  "author_type_evidence": "Publisher describes these as writing correction samples; individual author is unnamed.",
+  "question_text_status": "Searchable prompt transcription or summary; original question image is authoritative.",
+  "question_image": "research/expansion/correction-pages/6c1c7ebc6c11-p1.png",
+  "comments_images": [
+    "research/expansion/correction-pages/6c1c7ebc6c11-p1.png",
+    "research/expansion/correction-pages/6c1c7ebc6c11-p2.png",
+    "research/expansion/correction-pages/6c1c7ebc6c11-p3.png",
+    "research/expansion/correction-pages/6c1c7ebc6c11-p4.png"
+  ],
+  "score_page": 4,
+  "score_evidence": [
+    {
+      "score": 6.5,
+      "row": [
+        "Overall",
+        "6.5",
+        "1. Your introduction needs to make it clearer that the essay is about\nYOUR opinion but also the two sides of the argument\n2. development of your main ideas is weak in paragraph 3\n3. you have failed to convince me how the negative activities can be stopped"
+      ]
+    }
+  ],
+  "extraction": "Read the marked original: retain struck-out original words, omit inserted corrections and teacher comments. Do not concatenate the native PDF text, which interleaves both versions. Assessment tables are not essay text.",
+  "teacher_advice_caveat": "Publisher layout preferences, stylistic substitutions and word-count advice are not official deductions. Preserve the published overall; ranged criterion estimates have not been converted to exact scores."
+}

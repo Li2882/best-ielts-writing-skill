@@ -1,0 +1,42 @@
+{
+  "id": "blog-5a4661c9bef1",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-5a4661c9bef1.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-many-people-support-animal-testing-while-others-believe-it-isnt-appropriate-discuss/",
+  "source_locator": "research/blog/ielts-essay-topic-many-people-support-animal-testing-while-others-believe-it-isnt-appropriate-discuss.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "unknown",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "d52e76a17e0fe17d",
+  "prompt_group": "18d0f7bfd3385377",
+  "question": "Many people support use of animals for testing medicines for humans. Others believe it isn’t appropriate to use animals for such experiments. Discuss both views and give your own opinion.",
+  "essay": "Approval of the medicines for human use is a tedious process which involves a series of tests often performed on animals. While some people support this idea because it makes drugs safer for human consumption, others believe that it is an unethical practice. Personally, I am in favour of the idea that medicines should be tested in all possible scenarios before being released to the public.\n\nThose against animal experimentation argue that animals have the same rights as human beings because they are the outcome of the same evolution process through which humans came into existence. Infecting them with viruses and exposing them to bacteria, to create a conducive environment to test a chemical substance may cause excruciating pain to these lab animals. Any failed test can mean that the subject either loses its precious life or suffers for the rest of its existence, and understandably, some people are against what they consider an immoral practice.\n\nNonetheless, if a drug is released into the market without a thorough end-to-end testing, it could cause severe damage to anyone who may consume it. Every day a large number of animals are being mercilessly killed by humans for their mere flesh and skin. There isn’t a big difference between killing an animal for food and sacrificing its life for testing a chemical composition, because both actions are helping the human race to survive. What’s more, the life of one animal used to test a life-saving drug could help many people live. This is why a large number of people believe that testing drugs on animals is a matter of survival.\n\nTo sum up, there are valid reasons why animal testing seems cruel and unacceptable to some, and crucial to others. In my opinion, even though animals subjected to testing may suffer, it is a necessary step to ensure the healing power of a drug.",
+  "word_count_computed": 311,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "",
+  "corrections": [],
+  "quality_issues": [
+    "no_explicit_band_in_comment",
+    "teacher_model_not_scored_candidate"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "fe8422c53922143e559ab895497f8b87078a00dac12c96438c695e21cbfd01cb",
+  "model_evidence": null
+}

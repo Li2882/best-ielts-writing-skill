@@ -1,0 +1,52 @@
+{
+  "id": "blog-23810654829c",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-23810654829c.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-many-museums-charge-for-admission-while-others-are-free-do-advantages-of-this-outweigh-the-disadvantages/",
+  "source_locator": "research/blog/ielts-essay-topic-many-museums-charge-for-admission-while-others-are-free-do-advantages-of-this-outweigh-the-disadvantages.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "7f408d304f122bf4",
+  "prompt_group": "7251aca3330d7c3f",
+  "question": "Many museums charge for admission while others are free. Do you think the advantages of charging people for admission to museums outweigh the disadvantages?",
+  "essay": "Museums are educational places which are beneficial for people in societies. However, these days, people have to pay an entrance fee to enter many museums. Although this phenomenon can lead to negative effects, I believe that there are for more positive effects.\n\nIt cannot be denied that price of tickets can bring about detrimental impacts to people, societies, and the museums themselves. From people’s perspective, they are discouraged to visit the museum and not able to access useful information and knowledge freely, particularly the poor because they cannot afford such amount. From societies’ perspective, citizens have fewer opportunities to access vitally significant places to learn history, science, art, and many other essential subjects. From museums’ perspective, they cannot attain one of their objectives to educate people. Moreover, they may have to close down as they lose more of their customers.\n\nDespite aforementioned disadvantages, I am convinced that to charge for admission figures brings about a myriad of advantages. Firstly, museums will have money to operate which covers their business overhead such as personnel cost, equipments, electricity and water bills. Secondly, the museums can generate their own revenue to improve the place effectively to attract people, for example, to update their exhibits and keep the place clean and good-looking. Having visited many museums myself, I have learnt that many museums which sell tickets are better than those that do not charge for tickets in terms of places, information, and management.\n\nIn conclusion, although I recognize that the museums ticket sales can cause drawbacks to stakeholders in societies, I believe that museums should not remain free for all so as to be operated and developed most effectively.",
+  "word_count_computed": 275,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a great example of a Band 8 essay. The test-taker covered both the advantages and the disadvantages of museums charging an admission fee. The ideas are conveyed, extended and supported with relevant examples. The order in which the information is presented makes sense, and there is sufficient use of linking words. The range of vocabulary is impressive. Even though there are some instances of less-than-accurate word choice, most of this essay is error-free. Grammatical errors are also rare here. All in all, this essay seems worthy of IELTS Band 8.",
+  "corrections": [
+    {
+      "original": "for",
+      "suggestion": "this is a spelling mistake, the writer meant ‘far’"
+    },
+    {
+      "original": "to charge for admission figures",
+      "suggestion": "the correct expression is ‘charging for admission’ or ‘charging admission fees’"
+    },
+    {
+      "original": "equipments",
+      "suggestion": "the noun ‘equipment’ has no plural form"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "7f45cd3c723403a13b9e6c115fdde4d599247144b9a43b52bc98f3280c50f2e9",
+  "model_evidence": null
+}

@@ -1,0 +1,74 @@
+{
+  "id": "insights-v18-p29-task1",
+  "task": "task1",
+  "question": "The chart shows information about the actual and expected figures of population of three cities, Jakarta, Sao Paulo, and Shanghai. Summarize the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "Page 2 Of II The bar chart gives information about the population sizes of three cities, namely Jakarta, Shanghai, and Sao Paulo, in 1990 and the projections for 2000, alongside the actual figures for the latter year. Overall, for each city, the real numbers in 2000 surpassed the forecasted ones, with Shanghai having been the only city expected to decrease in population. In addition, Sao Paulo consistently stayed ahead of other cities in population, at nearly double the figures for Jakarta. Looking at Sao Paulo and Jakarta, in 1990, the former had a population of 17 million, which was more than double the 8 million of the latter. By 2000, Sao Paulo's population was predicted to rise significantly to 22 million, while the actual figure exceeded expectations, at 24 million. Jakarta followed a similar upward trend, •ts predicted population being 11 million and the final result gr 12 million. did nbt follow the prediction. In contrast, Shanghai was the only Starting with a population of 12 in 1990, it was projected to decline to 11 million by 200 •s recast, however, was contradicted by the actual results, as cted rise to 15 million was recorded.",
+  "overall": 9,
+  "band_low": 9,
+  "band_high": 9,
+  "traits": {
+    "TA": 9,
+    "CC": 9,
+    "LR": 9,
+    "GRA": 9
+  },
+  "score_source": "verified_human",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "rater_evidence": "Publisher submits academic-team originals to Tony Grace; original, explicit overall and correction report verified in the public PDF. Practice assessment, not an official test result.",
+  "author_group": "unknown",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "source_url": "https://cms.youpass.vn/assets/f6c24013-680f-4028-977e-db0d989c6bff",
+  "source_artifact": "research/expansion/insights/vol-18.pdf",
+  "source_sha256": "c4aae95918784325babe0c2967a0fd4d0921a9117bc0de2ceeb25aa064936d6b",
+  "source_locator": {
+    "volume": 18,
+    "cover_page": 29,
+    "original_pages": [
+      30
+    ]
+  },
+  "path": "library/task1/insights-v18-p29-task1.json",
+  "task_type": "academic_visual_report",
+  "duplicate_group": "insights-v18-p29-task1",
+  "prompt_group": "6095cbf17b136202",
+  "quality_issues": [
+    "OCR transcription was visually checked but remains a transcription of the image original."
+  ],
+  "accessed_at": "2026-09-21",
+  "essay_images": [
+    "research/expansion/insights/pages/vol-18-p30.png"
+  ],
+  "question_image": "research/expansion/insights/pages/vol-18-p29.png",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-18-p29.png",
+    "research/expansion/insights/pages/vol-18-p31.png",
+    "research/expansion/insights/pages/vol-18-p32.png",
+    "research/expansion/insights/pages/vol-18-p33.png",
+    "research/expansion/insights/pages/vol-18-p34.png",
+    "research/expansion/insights/pages/vol-18-p35.png",
+    "research/expansion/insights/pages/vol-18-p36.png",
+    "research/expansion/insights/pages/vol-18-p37.png",
+    "research/expansion/insights/pages/vol-18-p38.png",
+    "research/expansion/insights/pages/vol-18-p39.png"
+  ],
+  "trait_label_status": "Cover and criterion pages 31,33,36,37 visually verified.",
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01",
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-18-p29.png",
+      "sha256": "7accd0626531c25336d5cfe333e3e825d5027e1ed857eb74f3748e9730efdf4b"
+    }
+  ],
+  "word_count_computed": 195,
+  "extraction": "Original-answer pages transcribed from the retained page images by OCR; all pages were visually checked on 2026-09-25. Headers, footers and watermarks were removed."
+}

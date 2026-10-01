@@ -1,0 +1,54 @@
+{
+  "id": "blog-4bd74caf7853",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-4bd74caf7853.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-9/ielts-report-topic-table-and-pie-chart-describing-day-and-overnight-stays-in-public-and-private-hospitals-in-australia-from-ielts-high-scorers-choice-series-academic-set-2/",
+  "source_locator": {
+    "page_marker": "Sample Band 9 Report",
+    "source_file": "research/expansion/high-band-sources/blog-pages/dd7f0064b5bc7bfb.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog; High Scorer’s Choice IELTS Practice Tests",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page labels this response as a Band 9 model (\"close to\" or \"likely to score\" Band 9) from High Scorer’s Choice. This is a published teacher/examiner model label, not an official Cambridge TRF; the distinction is retained for calibration review.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "High Scorer’s Choice model author",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "7b3a563336141710",
+  "prompt_group": "2a41bf8ffa9e6b84",
+  "question": "High Scorer’s Choice IELTS Practice Tests book series (reprinted with permission). This answer is close to IELTS Band 9. Set 2 Academic book, Practice Test 8 Writing Task 1 You should spend about 20 minutes on this task. The table below shows the numbers of same day and overnight stays in public and private hospitals in 5 Australian states for last year. The pie chart below shows percentages of same day and overnight stays in public and private hospitals in the same 5 Australian states. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/table-pie-chart-task-1-test-8.jpg",
+      "path": "library/assets/5d3fe5a892c5864c.jpg",
+      "sha256": "25a46e9fd5f587ae8d9779d955ac21fae26636ff8a5ee8e6d1daceda37fd468c"
+    }
+  ],
+  "essay": "The table and the pie chart both show last years’ visits to hospitals in Australia. The table shows the number of days that patients stayed at either public or private hospitals, while the pie chart shows the percentage of patients that stayed overnight or left the same day. Both charts present information for the same Australian states, New South Wales, Victoria, Queensland, Western Australia and South Australia.\nThe table shows the number of days patients stayed at general and psychiatric hospitals in the public and private sectors. The public general hospitals had far more patient days than public psychiatric hospitals for every state, with New South Wales having the highest general hospital patient stays at 5,816 days and South Australia having the fewest at 1,495 days. New South Wales also had the highest public psychiatric hospital patient stays at 281 days, although Victoria had the fewest at 59 days.\nPatient days at private general hospitals were highest in Victoria (2,047 days) and lowest in South Australia (560 days). Patient days at private psychiatric hospitals were highest in New South Wales and Queensland at 213 days each, and lowest in South Australia (57 days).\nTotal numbers were highest for New South Wales (8,323 days) and lowest for South Australia (2,209 days), in line with their population sizes.\nThe pie chart divides the stays of the patients into overnight stays and same day stays for both private and public hospitals. From the chart it can be seen that the majority of the stays were in public hospitals both overnight and same day stays, both of these taking up 30% each of the hospital stays.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Published source label: individual Band 9 model response; no four-trait numerical breakdown published.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 272,
+  "extraction": "HTML original prompt and model response; source label and module context retained.",
+  "source_sha256": "771db31f7dfc1fd3b28e81dc9aec7b85296fac63df56893cc368da23645b7570",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

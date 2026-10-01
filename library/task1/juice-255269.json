@@ -1,0 +1,93 @@
+{
+  "id": "juice-255269",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-255269.json",
+  "question": "The chart below gives information about how families in one country spent their weekly income in 1968 and in 2018.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The bar chart illustrates how families in one country allocated their weekly income to various categories in 1968 and 2018.  Overall, there were notable shifts in spending patterns over the 50 year period. In 1968 food was the largest expenditure, while in 2018, leisure took the lead.\n\nIn 2018, spending on certain categories increased compared to 1968. Housing saw a significant rise, increasing from about 10% to approximately 19% of weekly income. Transport expenditure also increased considerably, moving from just under 8% to around 14%. Clearly, the highest increase was for leisure expenses which went from 9% to 23%.\n\nConversely, several categories saw a decrease in spending by 2018. The proportion of income spent on food dropped significantly from around 35% to approximately 17%. Clothing and footwear expenditure also notably declined, reducing from about 10% to under 5%. Additionally, spending on fuel and power decreased slightly over the period.\n\nIn summary, while household goods’ spending remained relatively stable over the 50 years, there were significant increases in housing, leisure, and transport expenditures, alongside notable decreases in spending on food, personal goods, and clothing and footwear.",
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TA": 7.0,
+    "CC": 7.0,
+    "LR": 7.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you for writing this report. Task Achievement (TA): The task is addressed appropriately, with clear introduction, detailed body paragraphs focused on specific trends, and a concise conclusion. Coherence and Cohesion (CC): The response is well-organized, with a logical flow of information and clear comparisons. The body paragraphs are structured to highlight increases and decreases separately. Lexical Resource (LR): The vocabulary used is appropriate and varied, effectively describing trends. However, some more complex or precise words could further improve the score. Grammatical Range and Accuracy (GRA): The grammar is generally accurate with a good range of sentence structures. Minor errors are present, and more complex structures could enhance the score.\nVideo Feedback",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "8.0\tcovers all requirements of the task sufficiently",
+      "8.0\tpresents, highlights and illustrates key features clearly and appropriately",
+      "7.0\tcould be more fully extended",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "7.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "7.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "9.0\twith very natural and sophisticated control of lexical features",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "9.0\twith full flexibility and accuracy",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "9.0\tcommunication is completely natural",
+      "7.0",
+      "7.0"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-255269-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2024/07/IELTS-Writing-Task-1-report-sample-3395-Band-7.0.jpg",
+      "sha256": "1d791fc180ef9448d8cf5d93a17100b0b6c3858a3283e41dc45d8c40d774bf5e"
+    }
+  ],
+  "question_image": "library/assets/juice-255269-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3395-band-7-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-255269.html",
+  "source_sha256": "4785828ab38a99e9bc91d197d1bba8043051d9592769351d920aca709e97eb27",
+  "source_locator": {
+    "wordpress_post_id": 255269,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "5616e6309ac33667",
+  "prompt_group": "6d269a3066396eba",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

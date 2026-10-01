@@ -1,0 +1,42 @@
+{
+  "id": "blog-33c4b01da549",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-33c4b01da549.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-many-people-do-not-exercise-and-eat-unhealthy-reasons-solutions/",
+  "source_locator": "research/blog/ielts-essay-topic-many-people-do-not-exercise-and-eat-unhealthy-reasons-solutions.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "teacher_model",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "1ea8598e71094318",
+  "prompt_group": "dfd571b87538b13e",
+  "question": "Nowadays, many people do not exercise enough and eat an unhealthy diet. Why is this happening? What can be done to help them improve their lifestyle?",
+  "essay": "The popularity of fast food and prevalence of sedentary lifestyles makes it easy to understand why so many people today don’t get enough physical activity or consume nutritious meals. Unfortunately, this is often compounded by a lack of education regarding proper nutrition and exercise habits.\n\nConvenience has become a major issue in today’s society, with quick and easy processed foods becoming increasingly more prevalent. People have become accustomed to reaching for convenient, unhealthy snacks when they are feeling hungry instead of making healthier choices. Similarly, busy schedules have become a typical, common excuse for not exercising regularly. The ease of ordering in food or eating out also contributes to this problem; take-away meals are usually high in calories and contain large amounts of fat that could cause long-term health issues if not monitored carefully.\n\nFortunately, there are measures we can take to help those who do not exercise enough or eat an unhealthy diet improve their lifestyle habits. One important step is to educate people on nutrition; teaching them which foods offer more nutritional value than others and why it is essential for us to choose them in order to stay healthy should be encouraged at all levels of schooling. Furthermore, public awareness campaigns regarding the benefits of regular physical activity should be targeted at those who might not understand just how beneficial it can be for both our mental and physical wellbeing. Providing this information could go a long way towards helping them adopt healthier life habits.\n\nUltimately, through adequate education regarding nutrition along with actionable advice on how individuals may integrate healthy habits into their everyday lifestyles, we can promote greater health awareness amongst all population groups. This will provide those who are prone to bad dietary decisions with an opportunity to improve wellbeing through sustainable means.",
+  "word_count_computed": 299,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay topic was seen in a recent IELTS tests in Nigeria.",
+  "corrections": [],
+  "quality_issues": [
+    "no_explicit_band_in_comment",
+    "teacher_model_not_scored_candidate"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "353aa6261c3d8f228b9c8a836c9a0dd93fe08dc0b58eafa3fdfc0154bc9d6679",
+  "model_evidence": "IELTS Model Essay Sample Band 8 April 2023 https://www.ielts-blog.com/images/featured/model-essay-sample-band-8-2.jpg  data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20336%20280'%3E%3C/svg%3E  https://www.ielts-blog.com/images/banners/target-band-7-banner-new.jpg"
+}

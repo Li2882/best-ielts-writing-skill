@@ -1,0 +1,94 @@
+{
+  "id": "insights-v03-p19-task1",
+  "task": "task1",
+  "task_type": "table",
+  "path": "library/task1/insights-v03-p19-task1.json",
+  "question": "The table details the international tourist arrivals in millions in eight countries in 2009 and 2010 and the changes in percentages.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-03-p19.png",
+      "sha256": "e0a4f9aac7768f741f61c628587c730cbdf1ee4388f8165abdd4fa69bca853ac"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-03-p20.png"
+  ],
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {
+    "TA": 9,
+    "CC": 8,
+    "LR": 8,
+    "GRA": 9
+  },
+  "comments": null,
+  "source_url": "https://cms.youpass.vn/assets/45f92fd0-d989-46cd-b451-5a8b91f1d75b",
+  "source_artifact": "research/expansion/insights/vol-03.pdf",
+  "source_sha256": "2cd3d9f3da38d2b2cb47721228de404e275dd367e9b59a6fc3eaae659991117b",
+  "source_locator": {
+    "volume": 3,
+    "cover_page": 19,
+    "original_pages": [
+      20
+    ],
+    "report_last_page": 27
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "Tony Grace is named in the correction report. The publisher says its academic team submits these originals to him for individual marking and describes him as a former IDP examiner. This is a practice assessment, not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "quality_issues": [],
+  "duplicate_group": "insights-v03-p19-task1",
+  "prompt_group": "cd1c5ce75560f5cd",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "teacher",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-03-p19.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-03-p19.png",
+    "research/expansion/insights/pages/vol-03-p21.png",
+    "research/expansion/insights/pages/vol-03-p22.png",
+    "research/expansion/insights/pages/vol-03-p23.png",
+    "research/expansion/insights/pages/vol-03-p24.png",
+    "research/expansion/insights/pages/vol-03-p25.png",
+    "research/expansion/insights/pages/vol-03-p26.png",
+    "research/expansion/insights/pages/vol-03-p27.png"
+  ],
+  "score_page": 19,
+  "score_evidence": [
+    {
+      "page": 19,
+      "text": "Overall band score\nSEE BELOW LR GRA\nWRITING TASK 1\n8.5\n9+8+8+9\nMODEL ANSWER\nYou should spend about 20 minutes on this task.\nThe table details the international tourist arrivals in millions in 8 countries\nin 2009 and 2010 and the changes (in percentages).\nSummarise the information by selecting and reporting the main features,\nand make comparisons where relevant.\nThe Inrernational tourist arrivals in millions in 8 countries in 2009 and 2010 and the\nchang es.\nCountry\nFra nee\nUS\nSpam\nItaly\nTurkey\nChina\nGermany\non Kon\n9\n_ 50/0\n+3 _ 60/0\n+3 30/0\n+55%\n+109%\nVOL.2 1 AUG 2023\n19"
+    },
+    {
+      "page": 21,
+      "text": "OVERALL BAND SCORE\nTA — Task Achievement nb — GRA and LR errors have not been corrected\nBand score 9\nExcellent answer.\nThe overview is clear.\nYou have summarised the information accurately and clearly, and in sufficient detail.\n• fully satisfies all the\nrequirements of the task\nBand score 9 TA\n• clearly presents a fully\ndeveloped response\nBand score 9 TA\nVOL2 1\nAUG 2023\n21"
+    }
+  ],
+  "extraction": "Use only the Your answer / Original answer section in the specified pages. Later TA/TR, CC, LR and GRA sections contain marked copies and rewrites. Front-of-magazine teaching versions are not the scored original. OCR only locates content; inspect original images.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "published_cover_traits": {
+    "TA": 9,
+    "CC": 8,
+    "LR": 8,
+    "GRA": 9
+  },
+  "trait_label_status": "Criterion pages cross-checked against cover and retained with full report; original and report images retained.",
+  "trait_evidence_path": "research/trait-calibration/insights-v03-p19-task1.json",
+  "question_data_note": "Prompt says eight countries but the actual table has nine rows including Hong Kong. Confirmed on original page 19; retain original prompt and chart, and do not call the essay count of nine a candidate error."
+}

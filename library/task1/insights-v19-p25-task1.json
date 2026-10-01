@@ -1,0 +1,75 @@
+{
+  "id": "insights-v19-p25-task1",
+  "task": "task1",
+  "task_type": "table",
+  "path": "library/task1/insights-v19-p25-task1.json",
+  "question": "The table below shows the percentage use of four different fuel types to generate electricity in five Asian countries in 2005.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-19-p25.png",
+      "sha256": "0dcddb3d6f04c36b1cf575953b3979c3f10c046b09637c45960a4eb6370a6cf0"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-19-p26.png"
+  ],
+  "source_url": "https://cms.youpass.vn/assets/87b96a8e-4931-425a-acf8-99b183fcfee5",
+  "source_artifact": "research/expansion/tony-2025.pdf",
+  "source_sha256": "0436a6ef4ae0701d26907a9a871947b6d2853cb2805a7df94c468bfeb4a76087",
+  "source_locator": {
+    "volume": 19,
+    "cover_page": 25,
+    "original_pages": [
+      26
+    ],
+    "report_last_page": 34
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "Tony Grace is named in the correction report. The publisher says its academic team submits these originals to him for individual marking and describes him as a former IDP examiner. This is a practice assessment, not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "holdout",
+  "sample_kind": "teacher_model",
+  "quality_issues": [],
+  "duplicate_group": "insights-v19-p25-task1",
+  "prompt_group": "6d355b711c4680eb",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "teacher",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-19-p25.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "score_page": 25,
+  "score_evidence": [
+    {
+      "page": 25,
+      "text": " \nIELTS Corrections \nPage 1 of 10 \nFor more IELTS advice go to Succeed in IELTS with Tony  \n15 March 2025 \nOVERALL BAND SCORE   \n8.5  \n9+8+8+9 \nSEE BELOW C&C LR GRA \n \nMODEL ANSWER \nWRITING TASK 1 \nThe table below shows the percentage use of four different \nfuel types to generate electricity in five Asian countries in \n2005. \n \n \n \n"
+    },
+    {
+      "page": 27,
+      "text": " \nIELTS Corrections \nPage 3 of 10 \nFor more IELTS advice go to Succeed in IELTS with Tony  \n15 March 2025 \nOVERALL BAND SCORE   \n8.5  \n9+8+8+9 \nTA – Task Achievement nb – GRA and LR errors have not been \ncorrected \nBand score 9 \nThe overview is clear. \nYou have summarised the information accurately.   \n \n \n \n \nRECOMMENDED LAYOUT FOR TASK 1 ANSWERS \n•  Write an introduction paraphrasing the information provided.  If \npossible, change the structure from a noun phrase to a noun clause \n(change the chart gives information about the number of to the \nchart shows how many […] ). \n• Write a clear overview of the main trends, differences, and stages.  \nIf there are trends and differences (ie if there are changes over \ntime), give some information about both.  If there are only \ndifferences, as in questions with no time scale, provide differences \nof more than one type.   \n• Put the overview after the introduction in a separate paragraph.  \nDon’t hide it in the introduction or at the end, as it’s the first thing \nthe examiner looks for. \n• Separate your paragraphs with blank lines. It looks better and there \ncan be no doubt that it is a new paragraph. \n• Write one or more paragraphs about the information itself and \norganise it logically.  Use signposting phrases to show your \norganisation to the examiner.  Eg Looking first at the most popular \nreasons, […] \n"
+    }
+  ],
+  "extraction": "Use only the Your answer / Original answer section in the specified pages. Later TA/TR, CC, LR and GRA sections contain marked copies and rewrites. Front-of-magazine teaching versions are not the scored original. OCR only locates content; inspect original images.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "published_cover_traits": {
+    "TA": 9,
+    "CC": 8,
+    "LR": 8,
+    "GRA": 9
+  },
+  "trait_label_status": "Cover labels retained separately; reconcile all criterion pages before treating traits as validated labels.",
+  "evaluation_role": "reserved_unscored_v14",
+  "reserved_for_evaluation": "future_v14_complete_run",
+  "assessment_evidence_path": "evaluations/labels/v14-01.json"
+}

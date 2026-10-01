@@ -1,0 +1,59 @@
+{
+  "id": "juice-255136",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-255136.json",
+  "question": "The maps below show an industrial area in the town of Norbiton, and planned future development of the site.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The maps illustrate the current state and the future development plans for an industrial area in the town of Norbiton. Currently, the area consists mainly of factories arranged around a central roundabout, with farmland located to the north beyond a river.\n\nIn the future development plan, significant changes are proposed. The central roundabout will remain, but it will be surrounded by housing instead of factories. The existing factories will be replaced by various facilities including a playground, a medical center, shops, and a school to the east. Additionally, the river will remain as a natural boundary, but new housing developments will extend across it.\n\nMoreover, the area around the main roundabout will see the addition of more housing units, and the introduction of a playground suggests an emphasis on creating a more family-friendly environment. The establishment of a medical center and shops further indicates a shift from an industrial zone to a mixed-use development catering to residential needs.\n\nOverall, the planned future development of Norbiton’s industrial area is focused on transforming the site into a residential neighborhood with various amenities to support the community.",
+  "images": [
+    {
+      "path": "library/assets/juice-255136-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2024/07/ELTS-Writing-Task-1-report-sample-3386-Band-7.0.jpg",
+      "sha256": "1c84ee4dfee0dc18e22a5ab091a6187fe0a03d73ecf27e1ae08b96c1555d4971"
+    }
+  ],
+  "question_image": "library/assets/juice-255136-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3386-band-7-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-255136.html",
+  "source_sha256": "ca41601b8cccdb0d94c9a87b6d20f7d288baac4b69acb5ddd695f021154a1d11",
+  "source_locator": {
+    "wordpress_post_id": 255136,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "holdout",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "4887dab75890beb3",
+  "prompt_group": "81c1e724b87e94cb",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "reserved_for_evaluation": "shared-criteria-01",
+  "label_paths": {
+    "ta_tr": "evaluations/labels/shared-criteria-01-ta-tr.json",
+    "cc": "evaluations/labels/shared-criteria-01-cc.json",
+    "lr": "evaluations/labels/shared-criteria-01-lr.json",
+    "gra": "evaluations/labels/shared-criteria-01-gra.json",
+    "provenance": "evaluations/labels/shared-criteria-01-provenance.json"
+  }
+}

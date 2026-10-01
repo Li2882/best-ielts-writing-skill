@@ -1,0 +1,94 @@
+{
+  "id": "iff-2c1655d832b5",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/iff-2c1655d832b5.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-academic-task-1-band-6-sample-answer-3/",
+  "source_locator": "research/forfree/ielts-academic-task-1-band-6-sample-answer-3.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "ce349f02208b87de",
+  "prompt_group": "85877eb0b33531a0",
+  "question": "You should spend about 20 minutes on this task.\nThe chart below shows the percentage of the population who lived in urban area in 2003 and an estimated figure for 2030.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The charts provides information about the percentages of population living in rural and urban areas in different areas and the whole world in 2003 and 2030.\n\nIn 2003, 48% of the population was living in urban areas in the whole world as average. The percentages in Africa and Asia were clearly lower than average, standing at 38% and 42% respectively. Meanwhile, the people in other areas, including Europe, South America and North America, were more keen to live in the city . The proportion was between 70-80%. And the North American had the highest urban population proportion at 80%, roughly double to the percentages of African and Asian.\n\nIn 2030, it is estimated that more people will move to city. It will be 59% in average in the whole world. The increase in Africa and Asia will be dramatical thanks to the relatively low percentages in 2003, which will be 54% and 55% respectively. Though only little changes is expected in the other 3 areas, they will be still higher than the formor 2 areas, which will be between 79-85%. However, the highest proportion of urban population will be found in South America, which is likely to be 85% in 2030.",
+  "word_count_computed": 200,
+  "images": [],
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Academic Task 1 Band 6 sample answer 3\nThis report is over 70 words longer than the requirement. The risk of writing so much over the word limit is that more errors are shown to the examiner, and points can be lost for not being coherent and cohesive. The writer needs to use a wider variety of expressions when talking about data. For example, 48% could be described as 'nearly half'. Showing a range of ways to express the information is important for a high result. It is also important to only write exactly what is shown in the graph to don't add any personal opinions or value judgements about the graph.\nSome of the sentences are a little short, and would have been better combined to create longer, more academic sentences.\nThe writer uses 'will' to refer to the future, whereas the graph indicates that this is only estimated, so 'will' is too strong.\nHowever, the report summarises all of the essential information, provides a clear overview of the trends and is written in a suitable academic style.",
+  "corrections": [
+    {
+      "original": "charts provides",
+      "suggestion": "\"chart provides\" - it is only one chart"
+    },
+    {
+      "original": "different areas",
+      "suggestion": "be a little more specific - \"…five different areas…\""
+    },
+    {
+      "original": "were more keen to live in the city",
+      "suggestion": "we don't know if they were keen - their feelings are not given in the graph"
+    },
+    {
+      "original": "And the North American",
+      "suggestion": "don't start a sentence with And. This could just begin with \"…North America had…\""
+    },
+    {
+      "original": "in average",
+      "suggestion": "\"on average\""
+    },
+    {
+      "original": "be dramatical",
+      "suggestion": "\"dramatic\""
+    },
+    {
+      "original": "which will be",
+      "suggestion": "this is a relative clause. It is good grammar, but the \"which will\" section refers to 2003 as that is what it follows. Of course, this is not correct - it actually relates to 2030. Better would have been \"…in 2003, rising to 54% and 55% respectively.\""
+    },
+    {
+      "original": "little",
+      "suggestion": "\"slight\" would be more academic"
+    },
+    {
+      "original": "is expected",
+      "suggestion": "\"are expected\""
+    },
+    {
+      "original": "will be",
+      "suggestion": "\"are predicted to be\""
+    },
+    {
+      "original": "formor",
+      "suggestion": "spelling - former"
+    },
+    {
+      "original": "will be",
+      "suggestion": "\"is estimated to be\""
+    },
+    {
+      "original": "will be",
+      "suggestion": "\"is anticipated to be\""
+    }
+  ],
+  "quality_issues": [
+    "missing_chart",
+    "source_word_count_mismatch_possible_truncation"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "a4d77de0d4ecadac074e814615778b852673dc622a4d8a52a26569bb81f6854a"
+}

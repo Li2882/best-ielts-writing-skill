@@ -1,0 +1,51 @@
+{
+  "id": "cambridge-17-t1-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/cambridge-17-t1-task2.json",
+  "question": "It is important for people to take risks, both in their professional lives and their personal lives.\nDo you think the advantages of taking risks outweigh the disadvantages?",
+  "question_image": null,
+  "images": [],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c17-p128.png",
+    "research/expansion/book-pages/c17-p129.png"
+  ],
+  "reading_transcript": "It is said that taking risks brings a lot of benefits. However, it also gives us some drawbacks.\n\nFirst of all, it is obvious that taking risks will cause a great loss if people do it and fail. In personal life, this loss might not be so harmful. However, it will be really harmfull in professional life, because people take a responsibility not only for themselves but also others such as colleages, customers and their families. It will even damage the society from the economic point.\n\nOn the other hand, we can receive huge benefits by taking risks. Firstly, we can learn how to prepare for one goal through this process. In order to achieve the aim, people will make all the efforts to think about it and try to find more efficient way. If they do this in the professional circumstances, they will recognise the responsibility and importance of cooperation.\n\nAlso, it will be completely meaningful even though people can’t achieve the goal after taking risks. They will learn the reason why they have failed and how to change it. The failure will enable them to improve their skills and to achieve their object next time.\n\nAs I mentioned, it is true that taking risks give us both advantages and disadvantages. However, it can be argued that the benefits outweighed the drawbacks in that we can obtain advantages not only from the result but also from the process of taking risks.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {},
+  "comments": "This response discusses the advantages and the disadvantages of taking risks. It puts much greater emphasis on risks in ‘professional life’. As this response is below 250 words (it is only 242), more could be added to include risks in ‘personal life’ along with some specific examples of risks that people commonly take. There is a clear progression through the response and ideas are logically organised; disadvantages are presented first and advantages second. Cohesive devices can be quite mechanical with examples at the start of most sentences [First of all | However | On the other hand | Firstly] but referencing is generally appropriate [it | this loss | They | The failure]. The first paragraph is very short and paragraphing is not entirely logical.\nVocabulary is effective with some less common items [damage the society | receive huge benefits | enable | obtain advantages … from the process]. Occasional errors remain [object / objective | point / perspective]. Sentence structure is good, with frequent error-free sentences. There is a variety of complex structures, including conditionals [if], but a few errors remain.\nTo improve this response, the word count of 250 should be reached and concrete example(s) of risk could be provided.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-17-academic/",
+  "source_artifact": "research/expansion/cam17-page.html",
+  "source_sha256": "3039e15fe488eebc538a9fdc01cfbd098d2c88669895e9c0a78ebf6540c735f9",
+  "source_locator": {
+    "book": 17,
+    "test": 1,
+    "pdf": "research/expansion/cambridge17.pdf",
+    "response_pages": [
+      128,
+      129
+    ],
+    "score_line": "achieved a Band 6.5"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-17-t1-task2",
+  "prompt_group": "cambridge-17-t1-task2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

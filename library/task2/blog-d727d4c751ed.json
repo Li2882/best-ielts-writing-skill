@@ -1,0 +1,92 @@
+{
+  "id": "blog-d727d4c751ed",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-d727d4c751ed.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-is-financial-education-at-school-a-must/",
+  "source_locator": "research/blog/ielts-essay-topic-is-financial-education-at-school-a-must.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "500451c0be6297d7",
+  "prompt_group": "8686d92e2fe9e1a2",
+  "question": "Financial education should be a mandatory component of the school program. To what extent do you agree or disagree with this statement?",
+  "essay": "In many countries the discussion about financial education are getting more serious due to financial problems of young generation. Some people believed that financial education should be considered a mandatory subject at school. read comment The common problem for those young people is that they don’t know how to spend money in right way. As we can see many advertisements often carry out the message, “Only 10 dollars a week, no deposits” which is misleading those young one think that living in debt is normal. Financial education is one of the solutions for this problem we mention above. The basic idea of financial education as a core school subject is to teach those young ones to understand the concept of using money and to estimate a risk of borrowing money to buy something in the future. ...\n\nHowever, there's another factor we need to consider about. In my opinion, the role of financial education is getting more important and it should be a part of the school program but the parents are also important and have responsibility to teach their child to learn how to manage the money. More than 70% of young people’s money is come from their parents. In addition, it has to be considered that a student might become money-mind person, talking about money all the time in class or even in a public place. It can be harmful for some students and affect their normal social life.\n\nIn conclusion, I believed that financial education will have a positive effect on all young ones and other subject such social commutations should be considered just as important as financial education.",
+  "word_count_computed": 271,
+  "images": [],
+  "overall": null,
+  "band_low": 6.0,
+  "band_high": 6.5,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay needs work. It covers the task and presents enough arguments for and against, the structure on the essay level is fine. However there are many poorly structured sentences, many inappropriate expressions and many grammatical errors (see comments underlined in blue for more details). Overall, this looks like a band 6 – 6.5 essay.",
+  "corrections": [
+    {
+      "original": "are",
+      "suggestion": "is"
+    },
+    {
+      "original": "believed",
+      "suggestion": "believe"
+    },
+    {
+      "original": "read comment",
+      "suggestion": "Continue and mention the other side of the argument"
+    },
+    {
+      "original": "those young one ",
+      "suggestion": "and causes those young ones"
+    },
+    {
+      "original": "this problem we mention above",
+      "suggestion": "the above-mentioned problem"
+    },
+    {
+      "original": "...",
+      "suggestion": "poor structure makes this sentence hard to understand"
+    },
+    {
+      "original": "there's",
+      "suggestion": "write ‘there is’, do not use contractions in your essay"
+    },
+    {
+      "original": "to consider about",
+      "suggestion": "to think about / to consider"
+    },
+    {
+      "original": "teach their child to learn",
+      "suggestion": "teach their children"
+    },
+    {
+      "original": "come",
+      "suggestion": "coming"
+    },
+    {
+      "original": "money-mind",
+      "suggestion": "a money-minded"
+    },
+    {
+      "original": "believed",
+      "suggestion": "believe"
+    },
+    {
+      "original": "subject",
+      "suggestion": "subjects"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "0877348168ad67ac492faa2f93e0fde2964c64cd23dc4bac8ec1a53c3e9a7060",
+  "model_evidence": null
+}

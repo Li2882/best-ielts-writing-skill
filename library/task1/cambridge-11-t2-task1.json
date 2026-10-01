@@ -1,0 +1,55 @@
+{
+  "id": "cambridge-11-t2-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-11-t2-task1.json",
+  "question": "You should spend about 20 minutes on this task.\nThe charts below show the proportions of British students at one university\nin England who were able to speak other languages in addition to English, in\n2000 and 2010.\nSummarise the information by selecting and reporting the main features,\nand make comparisons where relevant.\nWrite at least 150 words.",
+  "question_image": "research/expansion/book-pages/c11-p55.png",
+  "images": [
+    {
+      "path": "research/expansion/book-pages/c11-p55.png",
+      "sha256": "f9f3fb7bd03810d9b023a1a1ee90093cf0d753c2aa81f04dc07709b163c4a8f9"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c11-p135.png"
+  ],
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {},
+  "comments": null,
+  "comments_images": [
+    "research/expansion/book-pages/c11-p135.png"
+  ],
+  "source_url": "https://www.hasanboy.uz/wp-content/uploads/2018/06/Cambridge-Practice-Tests-for-IELTS-11.pdf",
+  "source_artifact": "research/expansion/cambridge11.pdf",
+  "source_sha256": "75a58db8583af03179754a5630428d957c9fadc1deb1873ebe7a9cdb58d59c97",
+  "source_locator": {
+    "book": 11,
+    "test": 2,
+    "question_page": 55,
+    "response_pages": [
+      135
+    ],
+    "score_line": "achieved a Band 6"
+  },
+  "publisher": "Cambridge University Press; public mirror",
+  "score_source": "official",
+  "rater_evidence": "Original book page identifies a scored candidate answer, not an examiner model. Published score checked in scan OCR.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-11-t2-task1",
+  "prompt_group": "cambridge-11-t2-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Original complete publisher page retains response and examiner comment. Read the image; question OCR is only a locator and original page is authoritative."
+}

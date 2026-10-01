@@ -1,0 +1,57 @@
+{
+  "id": "cambridge-16-t3-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-16-t3-task1.json",
+  "question": "The plans below show the site of an airport now and how it will look after redevelopment next year.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": "library/assets/cambridge-16-t3-task1-question.webp",
+  "images": [
+    {
+      "url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-16-academic-test-3-task-1-a8ab4365966f.webp",
+      "path": "library/assets/cambridge-16-t3-task1-question.webp",
+      "sha256": "a8ab4365966f785368e6ad561db2adba5f39a963c3a638a6d7257cae2c140b98"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c16-p136.png"
+  ],
+  "reading_transcript": "The South West airport had some changes after its redevelopment. The departures area was modified to have a bag drop service, along with a cafe and check-in module that were already there before the redevelopment. However, both the cafe and the check-in module changed places to make room for the bag drop. After going through security passport control, passengers and airport staff will be able to purchase stuff at the new stores before their flight. After doing some shopping, the boarding gates wait ahead. There are now 18 gates, which were 8 before the redevelopment. For this reason, the walkaway installed between the gates has been replaced for a sky train, which will be able to transport people along the different gates. But if you're not leaving the South West airport, you’ll be glad to know the arrivals area has also been redeveloped. After going through passport control customs, passengers and airport staff will be able to hire different services. This area was empty before the redevelopment, but now it has an ATM, a cafe and a car hire service that will gladly take you to your destination.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {},
+  "comments": "This response covers the key details required; however, it describes the changes in the past tense instead of using future verb forms for the development 'next year'. Overall, it could be improved by adding a summary of the main changes.\nThe response has been organised logically by describing the changes to the journey through the redeveloped airport: firstly departures, then arrivals. There are some good cohesive features [However | After | But] and some referencing [which | This area]. Organisation could be improved by breaking the response down into two or three paragraphs.\nVocabulary is a strength, with some effective collocation [changed places | take you to your destination] and flexibility [modified | installed between].\nIn terms of grammar, this response has a variety of structures, but it describes some of the changes in the past simple [was modified] and in the present perfect [has been replaced by] whereas the question asked for a description of the future changes. To improve the score, there should be a wider range of future structures to address the changes 'next year'.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-16-academic/",
+  "source_artifact": "research/expansion/cam16-page.html",
+  "source_sha256": "3a7c22accc6e9d451361adc70721b590144cf510c5af8a4eaed095aa73cb7225",
+  "source_locator": {
+    "book": 16,
+    "test": 3,
+    "pdf": "research/expansion/cambridge16.pdf",
+    "response_pages": [
+      136
+    ],
+    "score_line": "achieved a Band 6.5"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-16-t3-task1",
+  "prompt_group": "cambridge-16-t3-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs.",
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01"
+}

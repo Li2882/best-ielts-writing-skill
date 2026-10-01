@@ -1,0 +1,12 @@
+[
+  {"id":"miller","file":"01-miller.txt","name":"米勒学长公开提示词","source_url":"https://www.bilibili.com/video/BV1yPk4BXEcL/","popularity_basis":"用户指定；Bilibili 公开传播"},
+  {"id":"reddit-examiner","file":"02-reddit-examiner.txt","name":"Reddit Essay Feedback & Band Estimator","source_url":"https://www.reddit.com/r/EnglishAIPrompts/comments/1wfd8b0/essay_feedback_band_estimator_for_task_2_ielts/","popularity_basis":"公开可复制提示词；社区使用反馈"},
+  {"id":"dekd-thailand","file":"03-dekd-thailand.txt","name":"Dek-D 留学经验分享提示词","source_url":"https://www.dek-d.com/article/68973/","popularity_basis":"大型学生社区公开分享"},
+  {"id":"lingo-copilot","file":"04-lingo-copilot.txt","name":"Lingo Copilot Task 2 prompt","source_url":"https://speaking.lingo-copilot.com/nl/blog/ielts-writing-feedback-ai-prompt","popularity_basis":"公开备考网站复制模板"},
+  {"id":"scribd-detailed","file":"05-scribd-detailed.txt","name":"Scribd detailed Task 2 evaluation prompt","source_url":"https://www.scribd.com/document/1020925131/New-Prompt-Writing-T-1-and-2","popularity_basis":"完整分档评分提示词公开文档"},
+  {"id":"linkedin-strict","file":"06-linkedin-strict.txt","name":"LinkedIn strict IELTS examiner prompt","source_url":"https://eg.linkedin.com/in/kinan-abdulla","popularity_basis":"社交平台公开分享及使用说明"},
+  {"id":"vietnam-course","file":"07-vietnam-course.txt","name":"100 Ngày IELTS course prompt","source_url":"https://www.scribd.com/document/1076367811/100-Ngay-Ielts-Speaking-and-Writing","popularity_basis":"公开 IELTS 学习资料中的成套模板"},
+  {"id":"3d-academy","file":"08-3d-academy.txt","name":"3D Academy Task 2 marking prompt","source_url":"https://3d-universal.com/zh-cn/ielts-blog/chatgpt-ielts-writing-task2-guide","popularity_basis":"IELTS 培训学校公开教程"},
+  {"id":"teacher-guide","file":"09-teacher-guide.txt","name":"TBS teacher guide prompt","source_url":"https://tbsgraduates.net/writeup/smart-ielts-preparation-a-teachers-guide-to-hassle-free-preparation/","popularity_basis":"英语教师公开备考指南"},
+  {"id":"mr-ielts-github","file":"10-mr-ielts-github.txt","name":"Mr IELTS GitHub prompt","source_url":"https://github.com/KovachYuriy/BlackFriday-GPTs-Prompts/blob/main/gpts/mr-ielts.md","popularity_basis":"GitHub 公开 GPT 提示词库"}
+]

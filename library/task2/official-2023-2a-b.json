@@ -1,0 +1,49 @@
+{
+  "id": "official-2023-2a-b",
+  "task": "task2",
+  "task_type": "opinion",
+  "path": "library/task2/official-2023-2a-b.json",
+  "source_url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+  "download_url": "https://unihousecms.mediaplusdemos.com/sites/default/files/2024-08/ielts-academic-writing-sample-tasks-2023.pdf",
+  "source_locator": {
+    "pdf": "library/official/academic-writing-samples-2023.pdf",
+    "question_page": 6,
+    "response_pages": [
+      19,
+      20
+    ]
+  },
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS",
+  "score_source": "official",
+  "rater_evidence": "Official IELTS sample pack states each response has an examiner band and comment. Mirror title, 26-page structure, prompts and extracted comments compared with primary IELTS URL retrieved through web search.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "official-2023-2a-b",
+  "prompt_group": "official-2023-2a",
+  "question": "Page 6 of 26  \n \n  \nIELTS.org \nAcademic Writing Sample Task – 2A \n \n \nWRITING TASK 2 \nYou should spend about 40 minutes on this task. \nWrite about the following topic: \n \n \n \nGive reasons for your answer and include any relevant examples from your \nown knowledge or experience. \n \nWrite at least 250 words. \nChildren who are brought up in families that do not have large amounts of money are \nbetter prepared to deal with the problems of adult life than children brought up by \nwealthy parents. \nTo what extent do you agree or disagree with this opinion?",
+  "essay": null,
+  "essay_images": [
+    "library/official/pages/page-19.png",
+    "library/official/pages/page-20.png"
+  ],
+  "images": [],
+  "question_image": "library/official/pages/page-06.png",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Band 6.5 \nThe arguments in this response are generally well developed, ideas are appropriate and there is a clear \nposition. (It is a shame that the first paragraph, and beginning of the second are mainly copied from the \nrubric.) Better use of paragraphing would have allowed a clearer focus to some of the supporting points \nand prevented the lapse into generalisation towards the end. Nevertheless, there is a generally clear \nprogression with a good arrangement of opposing arguments. Referencing is usually accurate and \neffective, but better use of linkers would have improved the cohesion. Vocabulary is varied and used \nwith some flexibility. The choice is not always precise but the test taker can evidently incorporate less \ncommon/idiomatic phrases into the argument and there is a good range that is generally accurate. The \nrepetition of language from the rubric, while integrated, reveals a lack of ability to paraphrase. Regular \nerrors detract from the use of a range of structures, although they do not detract from overall clarity. This \nis a generally good response to the task, but the weaknesses in organisation and grammatical control \nlimit the rating to Band 6.5.",
+  "quality_issues": [],
+  "extraction": "Handwritten response retained as page images. View all response pages; no unverified OCR transcript. Pages include examiner comments; reference use only.",
+  "source_sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "iff-fbae825e853f",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/iff-fbae825e853f.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-task-2-band-5-sample-answer-1/",
+  "source_locator": "research/forfree/ielts-task-2-band-5-sample-answer-1.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "dd70eafecd8d2da2",
+  "prompt_group": "3802ab80b64b3551",
+  "question": "Many countries around the world have conventions for the people who have committed miner crimes to be sent involving community services such as working in the community houses, neighbourhood houses, cleaning and take care of public parks. This is a positive way of dealing with the miner criminals in order to push them in right direction. When people commit certain cremes , it's not a wise decision for them to give prison sentence due to many negative reasons . Even though some people do believe that these individuals should be in the prison, it's not possible to agree with them .\n(256 words)",
+  "essay": "Comments:\n\nThe main problem here is paragraphing. The introduction is too long, accounting for nearly 100 words, followed by a single paragraph. There needs to be at least two body paragraphs (preferably 3) and a conclusion, all clearly differentiated from each other.\n\nThere is also a lot of repetition in your work to minor crimes, for example appears multiple times in the essay.\n\nThe final sentences suggests that the writer was about to prepare a concession paragraph (' still ') but this isn't clearly given.\n\nThe essay does not balance the arguments with considering either the victims' point of view or how the local community can benefit from the work the criminals are required to do under community service.",
+  "word_count_computed": 117,
+  "images": [],
+  "overall": 5.0,
+  "band_low": 5.0,
+  "band_high": 5.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Task 2 Band 5 sample answer 1\nFor more student answers, click here",
+  "corrections": [],
+  "quality_issues": [
+    "essay_length_needs_review",
+    "feedback_in_essay_or_incomplete_source",
+    "missing_or_misplaced_comments"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "ee55073c957231bc714453478c9b0a9e61ddd1f6d5aaae9218c2b22048e9afb5"
+}

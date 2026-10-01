@@ -1,0 +1,55 @@
+{
+  "id": "cambridge-19-t4-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-19-t4-task1.json",
+  "question": "The charts below give information on the location and types of dance classes young people in a town in Australia are currently attending.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": "library/assets/cambridge-19-t4-task1-question.webp",
+  "images": [
+    {
+      "url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-19-academic-test-4-task-1-7c6787ead224.webp",
+      "path": "library/assets/cambridge-19-t4-task1-question.webp",
+      "sha256": "7c6787ead224e48fdb33c6057738029ac40c6d01b9b5a1f45165eda2b7b98faf"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c19-p137.png"
+  ],
+  "reading_transcript": "The table and chart provide information about the location and different types of dance class undertaken by young people in Australia.\n\nThe chart says In Private Studios 48% young people are taking dance classes.\n\nAnd in community halls and other 18% folks are taking dance classes And other location. After school classes 24% people are taking classes and other last one location college based studios these are 10% percent people Taking classes. The table reveal in Ballet type dance 600 students under age of 11 learning. And 300 age of 11-16 are learning. And 420 students age of 11-16 learning and last type of Dance Modern these are 515 students are learning who are under age of 11 and 300 other students who are age of 11-16.\n\nTo conclusion in Private Studio the numbers of people much higher than other locations. And type of ballet dance classes number of student Much higher in under age of 11 than other type of dance classes.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 5.0,
+  "band_low": 5.0,
+  "band_high": 5.0,
+  "traits": {},
+  "comments": "This candidate has worked hard to report all data contained in the graphs. The key areas are covered, but the overall effect is rather mechanical, as each point is presented in a linear sequence. The ideas are set out in the correct order, following the order of the graphs in the question, but linking between and within the sentences is not strong. The format is quite repetitive [taking classes | learning] because of the lack of linking devices. Similarly, vocabulary is limited and a wider range would be needed for a higher score. Grammatical range is also minimal. There is a noticeable level of error, but the reader is still able to understand the message. To improve the score, this candidate should use a wider range of linking devices and take a less mechanical approach. A stronger and wider range of vocabulary and grammar would also be beneficial.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-19-academic/",
+  "source_artifact": "research/expansion/cam19-page.html",
+  "source_sha256": "1005517ddbf5e39461ffd0da90f2cefc6e4bc19f942a162d2c0e0f74397fe6df",
+  "source_locator": {
+    "book": 19,
+    "test": 4,
+    "pdf": "research/expansion/cambridge19.pdf",
+    "response_pages": [
+      137
+    ],
+    "score_line": "achieved a Band 5.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-19-t4-task1",
+  "prompt_group": "cambridge-19-t4-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

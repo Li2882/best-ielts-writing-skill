@@ -1,0 +1,59 @@
+{
+  "id": "blog-cf1d1e6e19b9",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-cf1d1e6e19b9.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-pie-charts-reasons-why-students-chose-particular-university/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/c935707a2e24b8f5.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "833337dc613603fc",
+  "prompt_group": "81b5674bada8948c",
+  "question": "The charts below show the main reasons why students chose a particular university in the UK, in 1997 and 2007. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/featured/model-report-sample-band-8-pie-chart.jpg",
+      "path": "library/assets/6e1f6f11585fce71.jpg",
+      "sha256": "1ca66831b9172bb1eda023bdfd0045ea34b17ad12785181f070d3ac82bc2d00f"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/writing-1-main-reasons-students-chose-uni-uk.jpg",
+      "path": "library/assets/ad2deb5fc28045b7.jpg",
+      "sha256": "82493ddccbf585c98c19346b525c8c3398827e62b03de480b576399dd0b1967c"
+    }
+  ],
+  "essay": "The chart compares the primary reasons why students chose specific universities in the United Kingdom in two years, 1997 and 2007.\n\nA general overview of the data suggests that the suitability of degree courses remained the main consideration throughout the period. However, there was a notable shift towards considering proximity to the parental home as a deciding factor, while interest in universities’ social and sports facilities experienced a sharp decline.\n\nA more detailed examination reveals that the proportion of students seeking proximity to parental homes doubled from 10 to 22%. In contrast, the importance given to good sports and social activities fell from 19 to just 6%.\n\nMeanwhile, the emphasis on quality of teaching and resources showed marginal increases that ranged between 15 and 21% for both categories, suggesting a steady but not pivotal interest among students. The most popular reason, the suitability of degree courses, remained relatively stable with a slight increase from 35 to 37%.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 157,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "59e2ea4b58f6cc9f28e8d6bbb583c53caef34d8ae740a9d45c72ecf16082eb61",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5
+}

@@ -1,0 +1,11 @@
+Act as a strict IELTS Writing examiner.
+1. Give me an estimated band score with clear justification (Task Achievement, Coherence & Cohesion, Lexical Resource, Grammar).
+2. Put ALL my grammar and spelling mistakes into a clear organized table with:
+- My sentence
+- Correct version
+- Type of mistake (grammar, spelling, vocabulary, structure)
+Each category under the other, all in one table (Original Sentence, Correct Version, Error Type, Explanation).
+3. Identify my MOST COMMON mistake patterns.
+4. Rewrite my answer to a Band 7+ version using my ideas and break each part (paragraph with my version and the corrected version under it).
+5. Give me a short personalized improvement plan based ONLY on my mistakes.
+

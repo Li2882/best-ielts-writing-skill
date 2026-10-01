@@ -1,0 +1,40 @@
+{
+  "version": "2026-09-21-6plus-25",
+  "tasks": [
+    "task1",
+    "task2"
+  ],
+  "bands": [
+    6.0,
+    6.5,
+    7.0,
+    7.5,
+    8.0,
+    8.5,
+    9.0
+  ],
+  "minimum_exact_references_per_band": 25,
+  "minimum_source_families_per_band": 2,
+  "minimum_prompt_groups_per_band": 3,
+  "evaluation_minimum_per_task_per_band": 2,
+  "evaluation_samples_additional_to_references": true,
+  "preferred_candidate_region": "China",
+  "region_required": false,
+  "eligible_author_types": [
+    "student",
+    "teacher",
+    "unknown"
+  ],
+  "teacher_authored_rule": "Count teacher originals with traceable individual independent human scores and comments. Preserve original version, author type and rater evidence; a self-described Band 9 model is insufficient.",
+  "exclude": [
+    "holdout",
+    "interval_only",
+    "lower_bound_only",
+    "unscored_or_self_claimed_model",
+    "ai_generated",
+    "unverified_user_report",
+    "unresolved_quality_issue"
+  ],
+  "notes": "User-approved collection minimum, not a statistical accuracy guarantee. Evaluation goal is a first stratified check, not sufficient for a precise population estimate. Preserve existing lower-band evidence without counting it toward 6-plus quotas.",
+  "evaluation_gate": "Do not begin until references, diagnostic readings and a complete 28-case packet are ready."
+}

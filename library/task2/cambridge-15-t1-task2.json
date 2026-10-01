@@ -1,0 +1,49 @@
+{
+  "id": "cambridge-15-t1-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/cambridge-15-t1-task2.json",
+  "question": "In some countries, owning a home rather than renting one is very important for people.\nWhy might this be the case?\nDo you think this is a positive or negative situation?\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.",
+  "question_image": null,
+  "images": [],
+  "essay": null,
+  "essay_images": [
+    "evaluations/labels/pilot-02-sources/c15-p130.png"
+  ],
+  "reading_transcript": "In some countries the ownership of peoples’ home is an important matter. In these countries it is very important to own your own home rather than renting it. It might be indifferent for some, but for these people it matter.\n\nWhy is that the case? you might wonder. I think it is because your home is supposed to be exactly what it sounds like, your home. As a human I think we long after having stuff to call our own, doesn’t matter what it is, but humans will always want to claim ownership. This is nothing new and it has been like this through human history, like colonies for example, which later once again became the same country as before lead by its own inhabitants. People will always want to be the one to decide what happens to them and when you rent your home you can't even paint it without the owners permission.\n\nIf you as a person are renting an apartment there might be a lot of stressors in your life. A scratched wall can cause you a major headache, because the wall was not yours. The bedroom you are currently sleeping in might not be available as long as you hope, things happen in life and maybe the next landlord won't want to have you as a tenant.\n\nIn other perspective, not owning your home could be a relief when it comes to your finance. As a renter you won't have to pay mortgage, take loans or spend an awful lot of money on buying the property. You wouldn't have to worry about the house market crashing or a natural disaster destroying your expensive home.\n\nBottom line, as a human I feel like we need to have a home and calling it your own can make that more special. I personally would rather own my house, because then whatever happens it is on me and no one else.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {},
+  "comments": "The candidate clearly explains why home ownership may be of importance to some people. She or he also explores the positive and negative sides of owning your own home before putting forward his or her own opinion. The task is well addressed and ideas are explored in some depth. Organisation is clear, with good use of cohesive devices and paragraphing and the message is easy to follow. The range of vocabulary is appropriate, with examples of less common items [long after / for | house / housing market] and good use of collocations [claim ownership | a major headache | pay mortgage | natural disaster | The bottom line]. There is a variety of complex sentence structures, with a high level of accuracy and only a minor error in punctuation [owners / owner's].",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-15-academic/",
+  "source_artifact": "evaluations/labels/pilot-02-sources/cambridge-15.html",
+  "source_sha256": "abee9eaf55d90ace978e16dc6132ed5a1cda9240465edd8aafb2fd9e399d667e",
+  "source_locator": {
+    "book": 15,
+    "test": 1,
+    "pdf": "research/expansion/cambridge15-original.pdf",
+    "response_pages": [
+      130
+    ],
+    "score_line": "achieved a Band 7.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-15-t1-task2",
+  "prompt_group": "cambridge-15-t1-task2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

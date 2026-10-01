@@ -1,0 +1,90 @@
+{
+  "id": "blog-0a35d99b84b2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-0a35d99b84b2.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-7/ielts-essay-topic-should-wealthy-nation-share-wealth/",
+  "source_locator": "research/blog/ielts-essay-topic-should-wealthy-nation-share-wealth.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "cb85cd17f8af4665",
+  "prompt_group": "aead6ebd3ed89338",
+  "question": "Should wealthy nations be required to share their wealth with poorer nations by providing them with things such as food and education? Or is this the responsibility of the governments of poorer nations to look after their citizens?",
+  "essay": "I think that wealthy nations should be required to share their wealth with poorer nations. But their helping should only stop at providing such things as food and education because of the three following reasons.\n\nFirstly, citizens of both wealthy nations and poorer nations are human beings. Therefore, we can not look at, hear of, or talk about people who lack food, education, etc... without compassion and sympathy. Sharing wealth with poorer nations is not only a good deed but is also a task .\n\nSecondly, many nations in Africa and Asia are very very poor. Famine, diseases, crime and illiteracy are killing the citizens of these countries. In the contrary, many nations in Europe and America are too rich. If there are no actions taken, this inequality will increase dramatically. Poor countries will become more and more poorer while rich countries will become more and more richer. As a result, the poorest countries will become slaves of the richest countries. So, sharing wealth is an useful way to prevent people from that bad future.\n\nThirdly, although sharing wealth with poorer nations is very necessary but this help should only stop at providing such things as food, medicine and education. Or else, poor nations may become dependent on the aid. They may lose enthusiasm to build their countries by themselves. Moreover, rich nations can take advantage of sharing wealth to interfere with the governance of poor nations’. This can’t be considered a humane action and should be prevented.\n\nIn my opinion, sharing wealth with poorer nations has both a bad side and a good side. What we have to do is avoiding its bad side and practicing its good side.",
+  "word_count_computed": 279,
+  "images": [],
+  "overall": null,
+  "band_low": null,
+  "band_high": null,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is an excellent essay, your arguments are convincing and very well presented. There are only a few minor mistakes, please read and consider the comments. Well done!",
+  "corrections": [
+    {
+      "original": "But their helping should only stop",
+      "suggestion": "However, their help should stop"
+    },
+    {
+      "original": "etc... ",
+      "suggestion": "Do not use etc in essay, give examples instead"
+    },
+    {
+      "original": "task ",
+      "suggestion": "duty"
+    },
+    {
+      "original": "very very ",
+      "suggestion": "extremely"
+    },
+    {
+      "original": "In the contrary",
+      "suggestion": "On the contrary"
+    },
+    {
+      "original": "too ",
+      "suggestion": "very"
+    },
+    {
+      "original": "more and more ",
+      "suggestion": "poorer and"
+    },
+    {
+      "original": "more and more",
+      "suggestion": "richer and"
+    },
+    {
+      "original": "an",
+      "suggestion": "a"
+    },
+    {
+      "original": " but ",
+      "suggestion": ","
+    },
+    {
+      "original": "avoiding",
+      "suggestion": "avoid"
+    },
+    {
+      "original": "practicing",
+      "suggestion": "practice"
+    }
+  ],
+  "quality_issues": [
+    "no_explicit_band_in_comment"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "1c991ba8b3d65ab9f6a2f441fea0efd8b0054f6cb6b868a89ac03bed237ee1a9",
+  "model_evidence": null
+}

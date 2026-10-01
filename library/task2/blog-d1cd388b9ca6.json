@@ -1,0 +1,42 @@
+{
+  "id": "blog-d1cd388b9ca6",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-d1cd388b9ca6.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-very-few-people-walk-nowadays-reasons-solutions/",
+  "source_locator": "research/blog/ielts-essay-topic-very-few-people-walk-nowadays-reasons-solutions.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "unknown",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "c6aac91a5d06e76a",
+  "prompt_group": "bfe9d1ccb33d0a5e",
+  "question": "Even though experts believe that walking is a great way to improve one’s health, very few people walk nowadays. Why aren’t people walking? What can be done to encourage them to walk more?",
+  "essay": "The benefits of walking are numerous, and experts recommend it as a good way to keep healthy and fit. Despite this, the number of people who walk on a daily basis is on the decline. The reasons for this are manifold, but there are also several solutions that may help people walk more.\n\nLack of time is the most common reason people cite for not engaging in any form of physical activity. These days most people have hectic schedules that involve juggling their work and home responsibilities. As a result, they are often too exhausted or pressed for time and therefore opt for faster and more comfortable forms of transport, such as cars, bikes or public transport. Another major reason for the reduced number of pedestrians on the roads is a lack of safety. Most full-time workers are not free to walk during the day, and will skip it in the evenings or early morning hours, if they do not feel safe enough to do so.\n\nFortunately, there are quite a few solutions to this issue. One is making walkers safe, which means the government should ensure that there are enough sidewalks and streetlights available in every suburb, so that pedestrians can walk or jog safely whenever time allows. Another useful option is to create special walking tracks and parks in neighbourhoods where people can get some much-needed exercise in the evenings. The added benefit of promoting the healthy lifestyle and walking in the community makes this solution even more attractive.\n\nTo conclude, the pressures of daily life and lack of safely while walking reduce the popularity of this healthy practice. Governments can reverse this trend by creating more green spaces for people to walk in and addressing their safety concerns.",
+  "word_count_computed": 291,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay topic was seen in a recent IELTS test in the USA.",
+  "corrections": [],
+  "quality_issues": [
+    "no_explicit_band_in_comment",
+    "teacher_model_not_scored_candidate"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "42f35f3deb36f09b9b79c416ddfbfd7fc36ef325923086c7d2893a379befbfff",
+  "model_evidence": null
+}

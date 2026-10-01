@@ -1,0 +1,53 @@
+{
+  "id": "cambridge-14-t1-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-14-t1-task1.json",
+  "question": "The charts below show the average percentages in typical meals of three types of nutrients, all of which may be unhealthy if eaten too much.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": null,
+  "essay_images": [
+    "evaluations/pilot-02/inputs/pilot02-c14-t1-task1-original-1.png"
+  ],
+  "reading_transcript": "The diagrams illustrate the average proportions of three types of nutrients in typical meals, which can be unhealthy if consumed too much. The three types include sodium, saturated fats and added sugar. The data is taken from the United States of America.\n\nThe first chart shows the average percentages of sodium. Dinner contains the most sodium (43%). Breakfast and snacks include an equal proportion of sodium consumed, with each of them adding up 14% of sodium. Through eating lunch, 29% sodium is consumed. The second chart shows the percentages of saturated fat in meals. By eating dinner, 37% saturated fat is consumed. Lunch contributes to a consumption of 26% saturated fat, followed by snacks with 21% and breakfast with 16%. The last chart illustrates the proportions of added sugar. Snacks contain the highest amount of added sugar (42%). A typical dinner includes 23% added sugar, while lunch contains 19% and breakfast includes 16%.\n\nAll in all, the diagrams show that every typical meal consumed in the USA contains a percentage of at least 14% of nutrients that can be unhealthy if eaten too much.",
+  "transcript_status": "secondary_reading_aid_original_images_authoritative",
+  "images": [
+    {
+      "path": "evaluations/pilot-02/inputs/pilot02-c14-t1-task1-question.webp",
+      "sha256": "5b3ac39ff4020e890bf59bfe14f7e5b192aed10b07fc67f76e489025bee6fcc3"
+    }
+  ],
+  "question_image": "evaluations/pilot-02/inputs/pilot02-c14-t1-task1-question.webp",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {},
+  "comments": "The candidate has accurately reported the data for each chart and has presented a summary of the information, but could achieve a higher score by making comparisons across the charts, e.g. breakfast contains the lowest amounts of sodium, saturated fats and added sugar. The information is logically organised and there is a clear progression throughout the script. The main points are clearly signalled [The first chart | The second chart | All in all] and there are examples of other cohesive devices [each of them]. The range of vocabulary is varied [data | contains | an equal proportion of | consumed | consumption | illustrates]. Minor errors do not cause misunderstanding [adding up 14% of sodium]. There is a mix of simple and complex sentence structures, using active, passive and modal verb forms and there is also subordination through the use of participles [Through eating lunch | By eating dinner | followed by]. More variety in grammatical structures would perhaps achieve a higher score.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-14-academic/",
+  "source_locator": {
+    "book": 14,
+    "test": 1,
+    "score_page": "evaluations/labels/pilot-02-sources/c14-p118.png",
+    "ocr": "evaluations\\labels\\pilot-02-sources\\c14-p118.ocr.json"
+  },
+  "source_artifact": "evaluations/labels/pilot-02-sources/cambridge-14.html",
+  "source_sha256": "deda5d5f9b3847282f3d0f33abbfe8eaab88780fca9732efa11906afb8318761",
+  "publisher": "Cambridge University Press; public mirror",
+  "score_source": "official",
+  "rater_evidence": "Published Cambridge candidate response; mirror label cross-checked against original book score line.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-14-t1-task1",
+  "prompt_group": "cambridge-14-t1-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "used_in_evaluation": "pilot-02",
+  "evaluation_role": "revealed_development_sample",
+  "extraction": "Original answer images visually reviewed before scoring. Mirror prose is only a reading aid; it may normalize paragraphs."
+}

@@ -1,0 +1,49 @@
+{
+  "id": "cambridge-13-t2-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/cambridge-13-t2-task2.json",
+  "question": "Some people believe that nowadays we have too many choices.\nTo what extent do you agree or disagree with this statement?\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.",
+  "question_image": null,
+  "images": [],
+  "essay": null,
+  "essay_images": [
+    "evaluations/labels/pilot-02-sources/c13-p127.png"
+  ],
+  "reading_transcript": "The answer is complex since there are a lot of choices in our life and all of them are different kinds. In some cases I would say that it is a good thing to have the ability to choose from a wide variety. Take for example gastronomy. Every single person has different meals on their list of favourites. Actually if you have a bigger family it is almost impossible to cook something that everyone would like. Therefore I would say that it is great that you can go to a shopping center and choose from a dozen different food types. I can always find something that looks delicious.\n\nNaturally, there are some people who say that it is against evolution. They claim to say that back in the old days we had a perfect life when technically everybody was farming. I personally disagree with that. I am happy that I could choose a job that fits best to my abilities. I mean no one is the same, why would we want to do the same? Different kinds of universities give us the opportunity to beome who we are meant to be. We have the right to choose.\n\nHowever there is one topic where, according to my opinion, we have too many choices. This specific area is television. There are hundreds of channels, therefore you can always find something that is worth watching. Literally you could sit in your sofa the whole day and watch films. I think that people doing less outdoor activities are the results of the many available channels. From this point of view I would agree that we have too many choices.\n\nIn conclusion I would say that we can't generally talk about choices since they could be different. In some cases it is good to have many of them while in other areas they could have a negative effect.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {},
+  "comments": "The candidate explains why s/he both agrees and disagrees with the statement, meeting the requirements of ‘To what extent do you agree or disagree with this statement?’ S/he singles out two areas of disagreement (food and jobs) and provides clear examples to support these opinions, then goes on to identify an area of agreement (TV channels), again providing support and then some development of the example. Organisation is logical and there is clear progression throughout the writing. There is a range of cohesive devices, used appropriately [Take for example | Actually | Therefore | Naturally | However | This specific area | From this point of view | In conclusion]. The range of vocabulary is sufficient to show some flexibility and precision, as well as less common items and an awareness of style and collocation [Complex | list of favourites | fits ... my abilities | specific area | many available channels]. There is only one spelling error [beome], probably a slip of the pen. Control over grammar and punctuation is generally good and there is a variety of complex structures with frequent error-free sentences.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-13-academic/",
+  "source_artifact": "evaluations/labels/pilot-02-sources/cambridge-13.html",
+  "source_sha256": "6d0eda3c93a5bf015547d608a43aa626cd959a418dfa7a0f6ce5aacfdadcc6bd",
+  "source_locator": {
+    "book": 13,
+    "test": 2,
+    "pdf": "research/expansion/cambridge13.pdf",
+    "response_pages": [
+      127
+    ],
+    "score_line": "achieved a Band 7.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-13-t2-task2",
+  "prompt_group": "cambridge-13-t2-task2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

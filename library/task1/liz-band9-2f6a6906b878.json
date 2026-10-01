@@ -1,0 +1,59 @@
+{
+  "id": "liz-band9-2f6a6906b878",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/liz-band9-2f6a6906b878.json",
+  "source_url": "https://ieltsliz.com/ielts-line-graph-and-bar-chart-model-answer-band-9/",
+  "source_locator": {
+    "page_marker": "dual",
+    "source_file": "research/expansion/high-band-sources/liz-band9-pages/374d01cdb9852e78.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS Liz",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS Liz page explicitly presents this Academic Task 1 response as an estimated Band 9 model; the page author is an IELTS teacher and preserves the prompt, response and comments where available. This is not an official Cambridge TRF.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS Liz / Tony Grace",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "328071aff4423773",
+  "prompt_group": "00f51176081a4610",
+  "question": "The line graph shows visits to and from the UK from 1979 to 1999. The bar chart shows the most popular countries visited by UK residents in 1999.",
+  "images": [
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2015/07/ielts-Line-and-bar-graph-sample-300x281.jpg",
+      "path": "library/assets/db30f46b1db63848.jpg",
+      "sha256": "9c365462ac447d0358c936771454b99b2a938156c3895e72cbd21806e2f02892"
+    },
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2015/07/ielts-Line-and-bar-graph-sample-300x281.jpg",
+      "path": "library/assets/db30f46b1db63848.jpg",
+      "sha256": "9c365462ac447d0358c936771454b99b2a938156c3895e72cbd21806e2f02892"
+    }
+  ],
+  "essay": "The line graph illustrates the number of UK residents going abroad from the UK and overseas residents visiting the UK between 1979 and 1999. The bar chart gives information about how many UK residents travelled to five of the most popular countries in 1999. Units are measured in millions of people.\n\nOverall, there was an increase in the number of visits to and from the UK and there were more visits abroad by UK residents than visits to the UK by overseas residents over the period given. Furthermore, the most popular country to visit by UK residents was France in 1999.\n\nAccording to the line graph, the number of UK residents visiting overseas began at just under 15 million in 1979 and rose significantly to reach over 50 million in 1999. Around 10 million overseas residents visited the UK in the first year before climbing steadily to just under 30 million by the final year.\n\nRegarding the bar chart, in 1999, the two most popular countries were France and Spain (visited by 10 million UK residents and approximately 9 million respectively). The USA and Greece had about 4 million and 3 million visitors. The least popular country visited was Turkey, which had only about 2 million UK residents going there.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Examiner Comments This IELTS writing task 1 report describing both a chart and a graph is organised into logical paragraphs. The introduction introduces both charts and the overview contains the key features of both chart. Detail in the body paragraphs is supported by data. The right language is used for the line graph and there are a range of sentence structures used throughout. Paraphrasing shows = illustrates / gives information about the number = how many visits abroad by UK residents = UK residents going abroad = UK residents travelling to… from 1979 to 1999 = between 1979 and 1999 = over the period given rose = climbed about = approximately = around",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 210,
+  "extraction": "HTML prompt and model response; author estimate and comments retained.",
+  "source_sha256": "89b7abdf68d2daca8191a15482c8897b1ead9b240950dfa62ff7ffe4f82f772f",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

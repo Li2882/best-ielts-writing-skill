@@ -1,0 +1,66 @@
+{
+  "id": "iff-c86586153392",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/iff-c86586153392.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-task-2-band-6-sample-answer-2/",
+  "source_locator": "research/forfree/ielts-task-2-band-6-sample-answer-2.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "0db99784d6098ac4",
+  "prompt_group": "276c4d1a5b190f37",
+  "question": "You should spend about 40 minutes on this task.\nWrite about the following topic:\nIn some countries, people who commit less serious crimes are made to undertake community service* instead of a prison sentence. Some people believe that all people who have committed a crime should be sent to prison.\nDo you agree or disagree?\n*compulsory work helping the community, such as decorating public facilities, which they must carry out in their spare time for a given period.\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\nWrite at least 250 words.",
+  "essay": "There is a significant difference between all sorts of crimes; as a consequent , there should be a variety in punishment system .\n\nTo sum up, People have different reasons why they commit a crime; also there are ranks of crimes. In addition undertaking community service as an example of punishment for less serious criminals is a very good step which must be taken seriously. Furthermore, it's cruel that all people who have committed differing crimes are punished equally by putting them in prison.",
+  "word_count_computed": 82,
+  "images": [],
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Task 2 Band 6 sample answer 2\nThe essay uses simple linking words (first, second third), rather than the more academic options of 'Primarily' and 'In addition'.\nThe writer has touched on some ideas, but they are not fully developed. For example, in the first body paragraph, the writer states that there are different motives for criminal actions but then doesn't relate this to community service, only that criminals should be treated according to their actions. Paragraphs need to specifically tie in with the question.\nA Task II conclusion should be the writer's final statement on the matter, not simply a restatement of earlier points to there should be a recommendation or a speculation.\nHowever, the writer does use some good vocabulary and some accurate grammar, although a higher score would be awarded for more academic structures such as relative clauses (sentences that add extra information with who, that or which).",
+  "corrections": [
+    {
+      "original": "consequent",
+      "suggestion": "\"consequence\""
+    },
+    {
+      "original": "variety",
+      "suggestion": "\"variation\""
+    },
+    {
+      "original": "system",
+      "suggestion": "\"options\" - they are not really systems"
+    },
+    {
+      "original": "People",
+      "suggestion": "no need for a capital \"P\""
+    },
+    {
+      "original": "addition",
+      "suggestion": "this needs to be followed by a comma"
+    },
+    {
+      "original": "cruel",
+      "suggestion": "this isn't academic - \"unjust\""
+    }
+  ],
+  "quality_issues": [
+    "essay_length_needs_review",
+    "source_word_count_mismatch_possible_truncation"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "ef5418dedfad46be330022de39e298ae29542d708140bcabaa45c06639a8e3e4"
+}

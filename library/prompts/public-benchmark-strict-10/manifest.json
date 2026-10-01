@@ -1,0 +1,558 @@
+{
+  "schema_version": 1,
+  "accessed_at": "2026-09-23",
+  "policy": {
+    "qualified_count": 10,
+    "control_count": 3,
+    "same_project_task1_task2_count_as_one": true,
+    "accuracy_tested": false,
+    "note": "Qualified means structurally eligible for benchmarking, not proven accurate."
+  },
+  "qualified": [
+    {
+      "id": "01-aaronl725-review-skills",
+      "name": "AaronL725 IELTS Writing Review Skills",
+      "repo": "https://github.com/AaronL725/ielts-writing-review-skills",
+      "metrics": {
+        "stars": 34,
+        "forks": 3
+      },
+      "background": "公开 AI agent skill 开发者；仓库含教师批改样例，但未发现可核实的 IELTS 考官资质声明。",
+      "scope": "Academic Task 1 and Task 2",
+      "files": [
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/01-aaronl725-review-skills/source/skills/ielts-task1-review/SKILL.md",
+          "sha256": "2d5438cffbddf6fb57f6d185a679fa7b1d8e4e9970018d080527cbf02346b6e7"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/01-aaronl725-review-skills/source/skills/ielts-task1-review/references/ielts_task1_band_descriptors.md",
+          "sha256": "5d0dc114520d32dff80703f0d56476f16572b24790f67645ea45760e65c8069a"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/01-aaronl725-review-skills/source/skills/ielts-task1-review/references/teacher_style.md",
+          "sha256": "f1fb32c5db860e033fffd2e688d3e887d3aab01a119bda5f67d732824421a3d7"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/01-aaronl725-review-skills/source/skills/ielts-task1-review/references/visual_analysis_protocol.md",
+          "sha256": "bf5088056dc5945dc0105b4abf711809d2e09218d622b232780463a3b3a9c8db"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/01-aaronl725-review-skills/source/skills/ielts-task2-review/SKILL.md",
+          "sha256": "ef0502bba8494b3faaaf2fa43974201a1a8fb8eea02b76d4c2944cf7b8dc8ae4"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/01-aaronl725-review-skills/source/skills/ielts-task2-review/references/ielts_task2_band_descriptors.md",
+          "sha256": "00139b91253ebafb9a93250f2d510e34bfc7c8a10344388d96890a1849591281"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/01-aaronl725-review-skills/source/skills/ielts-task2-review/references/teacher_style.md",
+          "sha256": "a77ce9138077c0be314bd72208a83c93feb558fb48535b0ead8714b2b1372b7b"
+        }
+      ],
+      "audit": {
+        "criteria_present": {
+          "TR_TA": true,
+          "CC": true,
+          "LR": true,
+          "GRA": true
+        },
+        "bands_6_9_present": {
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true
+        },
+        "evidence_to_band_process_present": true,
+        "passes_mechanical_gate": true
+      }
+    },
+    {
+      "id": "02-gishguo-claude-skill",
+      "name": "Gishguo IELTS Examiner Claude Skill",
+      "repo": "https://github.com/Gishguo/your_ielts_writing_examiner_claude_skill",
+      "metrics": {
+        "stars": 2,
+        "forks": 0
+      },
+      "background": "公开 Claude skill 开发者；仓库明确声明不是 IELTS 官方或认证考官服务。",
+      "scope": "Academic/General Task 1 and Task 2",
+      "files": [
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/02-gishguo-claude-skill/source/.claude/skills/ielts-grade.md",
+          "sha256": "1e6bf46d191a827f0e72e148f53be8cab89a8e39c3cc6d64e87c5292b23f42f8"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/02-gishguo-claude-skill/source/ielts_writing_band_descriptors.md",
+          "sha256": "768054843b70f24ed801c48ab13ad5453ead970b49255539d3fc1a94ebff4b9c"
+        }
+      ],
+      "audit": {
+        "criteria_present": {
+          "TR_TA": true,
+          "CC": true,
+          "LR": true,
+          "GRA": true
+        },
+        "bands_6_9_present": {
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true
+        },
+        "evidence_to_band_process_present": true,
+        "passes_mechanical_gate": true
+      }
+    },
+    {
+      "id": "03-unrealinux-writing-coach",
+      "name": "unrealinux IELTS Writing Coach",
+      "repo": "https://github.com/unrealinux/ielts-writing-coach",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "background": "公开 Codex/agent skill 开发者；项目披露了自身校准误差，未声称认证考官身份。",
+      "scope": "Academic Task 1 and Task 2",
+      "files": [
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/03-unrealinux-writing-coach/source/SKILL.md",
+          "sha256": "ccbeb1932a1007463ab3faf456240a296fa590fd884c2b7429a34f912eb23a5a"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/03-unrealinux-writing-coach/source/references/band-descriptors.md",
+          "sha256": "07a06e55ea739b77222698d29f530f909602f5bbba6c686bfdea5885c2a01a13"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/03-unrealinux-writing-coach/source/references/scoring-protocol.md",
+          "sha256": "99662e011549fe578e7127419c12df6bc0a6bd09b8f20013295c5dcc72a70801"
+        }
+      ],
+      "audit": {
+        "criteria_present": {
+          "TR_TA": true,
+          "CC": true,
+          "LR": true,
+          "GRA": true
+        },
+        "bands_6_9_present": {
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true
+        },
+        "evidence_to_band_process_present": true,
+        "passes_mechanical_gate": true
+      }
+    },
+    {
+      "id": "04-quyen244-ai-evaluator",
+      "name": "quyen244 IELTS AI Evaluator",
+      "repo": "https://github.com/quyen244/IELTS-AI-Evaluator",
+      "metrics": {
+        "stars": 4,
+        "forks": 0
+      },
+      "background": "Nguyen Van Quyen；仓库 README 标注为 UIT 学生项目 Developer，未发现 IELTS 考官资质声明。",
+      "scope": "Academic Task 1 and Task 2",
+      "files": [
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/04-quyen244-ai-evaluator/source/src/llm/prompts/builders.py",
+          "sha256": "3694d4a30f9a57a1a3143538ae4686ae00db96454d90e9dd88ba742aa8b991f7"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/04-quyen244-ai-evaluator/source/src/llm/rubrics/rubrics.py",
+          "sha256": "ae5c8a80cc284635737bed98860962cf90d284b6a87799fcc029eae5dd766155"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/04-quyen244-ai-evaluator/source/docs/02-technical/prompt-engineering.md",
+          "sha256": "89f227c8ef79ecfcc9e07850a124b1edc68911507b293c8eadf05b0cd12657d6"
+        }
+      ],
+      "audit": {
+        "criteria_present": {
+          "TR_TA": true,
+          "CC": true,
+          "LR": true,
+          "GRA": true
+        },
+        "bands_6_9_present": {
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true
+        },
+        "evidence_to_band_process_present": true,
+        "passes_mechanical_gate": true
+      }
+    },
+    {
+      "id": "05-ryangwn-vtm-assessment",
+      "name": "ryangwn VTM IELTS Writing Assessment",
+      "repo": "https://github.com/ryangwn/vtm-ietls-writing-assessment",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "background": "公开软件项目作者；未发现可核实的 IELTS 教师或考官资质声明。",
+      "scope": "Task 1 and Task 2",
+      "files": [
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/05-ryangwn-vtm-assessment/source/prompts.py",
+          "sha256": "769578bf1d4ea9c7f71b60e7cbbfd79bdd1d37c787dae946ea4b490173a8111f"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/05-ryangwn-vtm-assessment/source/docs/design.md",
+          "sha256": "e6d510b4d50b849b99dbcbe966b06b45deebee934647b5a959fe2fd1cf26658b"
+        }
+      ],
+      "audit": {
+        "criteria_present": {
+          "TR_TA": true,
+          "CC": true,
+          "LR": true,
+          "GRA": true
+        },
+        "bands_6_9_present": {
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true
+        },
+        "evidence_to_band_process_present": true,
+        "passes_mechanical_gate": true
+      }
+    },
+    {
+      "id": "06-austinwang668-writing-scorer",
+      "name": "AustinWang668 IELTS Writing Scorer",
+      "repo": "https://github.com/AustinWang668/ielts-writing-scorer",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "background": "公开 Codex skill 开发者；项目明确将输出标为非官方 AI 估分。",
+      "scope": "Academic/General Task 1 and Task 2",
+      "files": [
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/06-austinwang668-writing-scorer/source/SKILL.md",
+          "sha256": "1848515f28d5680b85527a04c7f7fbe69eb9b2fda88326b616151b44828d17dc"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/06-austinwang668-writing-scorer/source/references/scoring-guide.md",
+          "sha256": "b68a4e2c750b8128af35dec72e5258802742063dc95cb093c40b5889f147503e"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/06-austinwang668-writing-scorer/source/references/task-checklists.md",
+          "sha256": "7280cefe7f36a83c8ceff29652397041a08a894fb2baa9c0937ff8b7f3a045f4"
+        }
+      ],
+      "audit": {
+        "criteria_present": {
+          "TR_TA": true,
+          "CC": true,
+          "LR": true,
+          "GRA": true
+        },
+        "bands_6_9_present": {
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true
+        },
+        "evidence_to_band_process_present": true,
+        "passes_mechanical_gate": true
+      }
+    },
+    {
+      "id": "07-imgzw-writing-marker",
+      "name": "imgzw IELTS Writing Marker",
+      "repo": "https://github.com/imgzw/ielts-writing-marker",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "background": "公开个人 Codex skill 作者；未发现可核实的 IELTS 教师或考官资质声明。",
+      "scope": "Academic/General Task 1 and Task 2",
+      "files": [
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/07-imgzw-writing-marker/source/ielts-writing-marker/SKILL.md",
+          "sha256": "58d0091c5aca802e8aa0cb7f9583f52a2e28b4ab9434757fb45c3d59e9e939da"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/07-imgzw-writing-marker/source/ielts-writing-marker/references/official-rubric.md",
+          "sha256": "53a3e8d604d21c2e131cc299fce466fa827a9f9498cfaa0ca0676b1666b02543"
+        }
+      ],
+      "audit": {
+        "criteria_present": {
+          "TR_TA": true,
+          "CC": true,
+          "LR": true,
+          "GRA": true
+        },
+        "bands_6_9_present": {
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true
+        },
+        "evidence_to_band_process_present": true,
+        "passes_mechanical_gate": true
+      }
+    },
+    {
+      "id": "08-hippone-writing-diagnostic",
+      "name": "hippone IELTS Writing Diagnostic",
+      "repo": "https://github.com/hippone/ielts-writing-diagnostic",
+      "metrics": {
+        "stars": 0,
+        "forks": 0
+      },
+      "background": "公开诊断 skill 作者；项目明确人类考官判断优先，未发现认证考官资质声明。",
+      "scope": "Academic Task 1 and Task 2",
+      "files": [
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/08-hippone-writing-diagnostic/source/SKILL.md",
+          "sha256": "c3859e253dd43c158120dcb3802f84fcf9ebfa9ad43913d5b9ef79f7da977e03"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/08-hippone-writing-diagnostic/source/references/scoring-rules.md",
+          "sha256": "a69e84a13a6bc1ed9a4d1119e08b21ecd33fb1205618418635909668bd8a96b0"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/08-hippone-writing-diagnostic/source/references/blockers-and-output.md",
+          "sha256": "0d032f94e3d707f82e28ea32bc95f7844c7d4aea200adf559c0cae010225d9d9"
+        }
+      ],
+      "audit": {
+        "criteria_present": {
+          "TR_TA": true,
+          "CC": true,
+          "LR": true,
+          "GRA": true
+        },
+        "bands_6_9_present": {
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true
+        },
+        "evidence_to_band_process_present": true,
+        "passes_mechanical_gate": true
+      }
+    },
+    {
+      "id": "09-dungnotnull-cert-scorer",
+      "name": "dungnotnull Language Cert Prep Scorer",
+      "repo": "https://github.com/dungnotnull/language-cert-prep-scorer-agent-skill",
+      "metrics": {
+        "stars": 5,
+        "forks": 0
+      },
+      "background": "公开多考试评分 skill 开发者；项目明确只提供非官方学习估分。",
+      "scope": "IELTS Writing (task type not separately constrained)",
+      "files": [
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/09-dungnotnull-cert-scorer/source/skills/sub-scoring-engine.md",
+          "sha256": "8eca1b9e6f7b5e314786359ec6cfcdce631700cc180f75884c129e3d01d9eab5"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/09-dungnotnull-cert-scorer/source/SECOND-KNOWLEDGE-BRAIN.md",
+          "sha256": "a73955f546456dbe8949d8671864127316f85afcfca28f7e4e391184627ac5e5"
+        }
+      ],
+      "audit": {
+        "criteria_present": {
+          "TR_TA": true,
+          "CC": true,
+          "LR": true,
+          "GRA": true
+        },
+        "bands_6_9_present": {
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true
+        },
+        "evidence_to_band_process_present": true,
+        "passes_mechanical_gate": true
+      }
+    },
+    {
+      "id": "10-mustafa-writing-evaluator",
+      "name": "Mustafa IELTS Writing Evaluator",
+      "repo": "https://github.com/MustafaAhmedMahfoodhBinOthman/IELTS_Writing_Evaluator",
+      "metrics": {
+        "stars": 1,
+        "forks": 1
+      },
+      "background": "公开 Streamlit/LLM 项目作者；未发现可核实的 IELTS 教师或考官资质声明。",
+      "scope": "Academic/General Task 1 and Task 2",
+      "files": [
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/10-mustafa-writing-evaluator/source/tas_prompt.py.txt",
+          "sha256": "0c9debd10311fe40ec135fc66d7f893b18814ac4ba79fec3342165d8faa5f4bf",
+          "source_locator": "ielts_writing.py:1627-1736"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/10-mustafa-writing-evaluator/source/co_prompt.py.txt",
+          "sha256": "fefa9df604efee421598d3cea4848f6a78e04f8c71d0f8febafd0a9d849f8df4",
+          "source_locator": "ielts_writing.py:1812-1938"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/10-mustafa-writing-evaluator/source/lex_prompt.py.txt",
+          "sha256": "53ebde7199ac4b335a9cf7ab6f7e471f137bb4563fd7827af9b4b6bd39402348",
+          "source_locator": "ielts_writing.py:2020-2143"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/10-mustafa-writing-evaluator/source/gr_prompt.py.txt",
+          "sha256": "95f40e75a2dcc697c6c0e6f09bd9381d9204abcec5f4afb3e3009202166b26a3",
+          "source_locator": "ielts_writing.py:2145-2234"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/10-mustafa-writing-evaluator/source/tas_academic_task1.py.txt",
+          "sha256": "1ad20e8f90a5f453e6f4310b4282c4f92ddcc48590d96a1e38b03689c8087029",
+          "source_locator": "ielts_writing.py:2305-2424"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/10-mustafa-writing-evaluator/source/tas_general_task1.py.txt",
+          "sha256": "ecf5ed99fe96043fba79b2951f0bbea02a0b29dcc083d51e06d5c92c9601d8ad",
+          "source_locator": "ielts_writing.py:2515-2614"
+        }
+      ],
+      "audit": {
+        "criteria_present": {
+          "TR_TA": true,
+          "CC": true,
+          "LR": true,
+          "GRA": true
+        },
+        "bands_6_9_present": {
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": true
+        },
+        "evidence_to_band_process_present": true,
+        "passes_mechanical_gate": true
+      }
+    }
+  ],
+  "popular_controls": [
+    {
+      "id": "control-01-openielts-ai",
+      "name": "OpenIELTS-AI",
+      "repo": "https://github.com/Shpaldik/OpenIELTS-AI",
+      "metrics": {
+        "stars": 99,
+        "forks": 88
+      },
+      "background": "Hack Admission 产品中拆出的开源评估核心；项目不声称 IELTS 官方身份。",
+      "reason": "有四项、证据输出和结构化流程，但没有逐项列出 Band 6/7/8/9 的分档差异。",
+      "files": [
+        {
+          "path": "library/prompts/public-benchmark-strict-10/controls/control-01-openielts-ai/source/configs/writing-task-2.yaml",
+          "sha256": "32d1417eec842c9bb2aa4e3a65d3342fa3380b9f2f955040ce8fb32d645e3009"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/controls/control-01-openielts-ai/source/src/prompts.ts",
+          "sha256": "8c6be1785a8b9654f6a8cb8fc35be219c1bc78cab5e52190c1c07d50f2156920"
+        }
+      ],
+      "audit": {
+        "criteria_present": {
+          "TR_TA": true,
+          "CC": true,
+          "LR": true,
+          "GRA": true
+        },
+        "bands_6_9_present": {
+          "6": false,
+          "7": false,
+          "8": false,
+          "9": false
+        },
+        "evidence_to_band_process_present": false,
+        "passes_mechanical_gate": false
+      }
+    },
+    {
+      "id": "control-02-ieltsgpt",
+      "name": "ieltsGPT",
+      "repo": "https://github.com/araloak/ieltsGPT",
+      "metrics": {
+        "stars": 32,
+        "forks": 5
+      },
+      "background": "公开 GPT 写作批改项目作者；未发现可核实的 IELTS 考官资质声明。",
+      "reason": "四项分开，但公开分档只到 Band 5–8，缺 Band 9，且部分描述明显简化。",
+      "files": [
+        {
+          "path": "library/prompts/public-benchmark-strict-10/controls/control-02-ieltsgpt/source/prompts/ielts/ielts_writing_2_prompt_ta.txt",
+          "sha256": "d19bba2af707aa29d1f80b578918c4a6e88bcf6d4e09cc0e434c3c3b05891d8d"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/controls/control-02-ieltsgpt/source/prompts/ielts/ielts_writing_2_prompt_cc.txt",
+          "sha256": "ea2ae78634ece91bf566fa1b2eeac272dd53285c55e3785f2e82df4e8cb72d31"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/controls/control-02-ieltsgpt/source/prompts/ielts/ielts_writing_2_prompt_lr.txt",
+          "sha256": "45d52ccbaf16f87363402c06853cb4d6b50f8df111af80b7b86b690b9d12cadf"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/controls/control-02-ieltsgpt/source/prompts/ielts/ielts_writing_2_prompt_gra.txt",
+          "sha256": "33c4d424777829ad7deb792fb70ed6f6fe99697c2742b60b34f527cfb90c4baa"
+        }
+      ],
+      "audit": {
+        "criteria_present": {
+          "TR_TA": true,
+          "CC": true,
+          "LR": true,
+          "GRA": true
+        },
+        "bands_6_9_present": {
+          "6": true,
+          "7": true,
+          "8": true,
+          "9": false
+        },
+        "evidence_to_band_process_present": false,
+        "passes_mechanical_gate": false
+      }
+    },
+    {
+      "id": "control-03-aielts-writing",
+      "name": "AIELTS-WRITING",
+      "repo": "https://github.com/maruf009sultan/AIELTS-WRITING",
+      "metrics": {
+        "stars": 22,
+        "forks": 0
+      },
+      "background": "公开 React/OpenAI 写作评估项目作者；未发现可核实的 IELTS 考官资质声明。",
+      "reason": "输出四项分数和详细反馈，但公开完整提示词没有四项 Band 6/7/8/9 分档，也没有相邻档证据判定过程。",
+      "files": [
+        {
+          "path": "library/prompts/public-benchmark-strict-10/controls/control-03-aielts-writing/source/src/lib/openai-service.ts",
+          "sha256": "6fd03edf2847f1b7db25010ef02eccb552b459adb4e597172ba0ad000b02ebfa"
+        }
+      ],
+      "audit": {
+        "criteria_present": {
+          "TR_TA": true,
+          "CC": false,
+          "LR": false,
+          "GRA": false
+        },
+        "bands_6_9_present": {
+          "6": true,
+          "7": true,
+          "8": false,
+          "9": false
+        },
+        "evidence_to_band_process_present": false,
+        "passes_mechanical_gate": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "juice-248247",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-248247.json",
+  "question": "The plans below show a public park when it first opened in 1920 and the same park today.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The provided plans draw a comparison on how the public park called “Grange Park” looked like in its opening year (1920) and its appearance nowadays. Overall, this recreation area has undergone significant changes during the period in question.\n\nTo begin with, the fountain that was built in the center of the park has been taken off and replaced by a rose garden surrounded by seats. In the past there were three installments of rose grounds, from which only the one situated in the left-hand upper side remained untaken. The park contains also a special facility for musicians. In the recent plan, on the left side it is seen an amphitheater for concerts that has taken the place of the stage.\n\nSignificant modifications have been made to the far right part of the park, too. Namely, in the place of pond for water plants we can notice a children’s play area and the water feature on the opposite side that replaced the glasshouse once built there. Under the water feature there has been added an underground car parking.\n\nIt is noteworthy to mention that the park entrances are still in the same areas as they were in 1920; The visitors can enter the ground either from the Arnold avenue or from the opposite side through Eldon street. If entered via the former side, one can see a café on the left that has taken the place of one of the aforementioned rose gardens.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TA": 8.0,
+    "CC": 7.0,
+    "LR": 7.0,
+    "GRA": 8.0
+  },
+  "comments": "Thank you indeed for writing this report. The report’s strongest suit is how logically almost all features are reported and developed. As for cohesion, some sentences have not-very-smooth transitions, but it does not mean they are inaccurate. Vocabulary-wise, maybe more correct word order and word formation is needed.",
+  "images": [
+    {
+      "path": "library/assets/juice-248247-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2023/10/ielts-juice-writing-task-1-sample-3323-band-7-5.jpg",
+      "sha256": "53b856e1d99461271aa4071d4acecb9eb359a1e599d63e77fb3bda752afeb9a4"
+    }
+  ],
+  "question_image": "library/assets/juice-248247-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3323-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248247.html",
+  "source_sha256": "8445c24c59f17939d41fe4ff8c393e869b91a047858fadbaa62b0d47eb608605",
+  "source_locator": {
+    "wordpress_post_id": 248247,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "952167fc17b5121b",
+  "prompt_group": "1cf4ad8f782d2bb0",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "9.0\tfully satisfies all the requirements of the task",
+      "8.0\tpresents, highlights and illustrates key features clearly and appropriately",
+      "9.0\tdetails are fully and clearly extended.",
+      "8.0",
+      "8.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "9.0\tuses a wide range of structures",
+      "8.0\tthe majority of sentences are error-free",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "9.0\tcommunication is completely natural",
+      "8.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

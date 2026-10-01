@@ -1,0 +1,114 @@
+{
+  "id": "blog-34f2469a3321",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-34f2469a3321.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-7/ielts-essay-topic-children-and-rules/",
+  "source_locator": "research/blog/ielts-essay-topic-children-and-rules.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "c097af2e3b2b6c6e",
+  "prompt_group": "d6289bff7e66bc7a",
+  "question": "In some countries children have very strict rules of behavior, in other countries they are allowed to do almost anything they like. To what extent should children have to follow rules?",
+  "essay": "Freedom plays a pivotal role in everybody’s life. We can see in today’s modernized era that nobody likes to be restricted, whether it is a child or an adult. Some people think that there should have some strict rules of behavior for children, but I disagree with this statement. Wherever it is a reality that sometimes more restrictions can cause more frustration in children, which leads to many other mental problems as well. Morever they can be, behave like a stubborn. Sometimes they feel themselves under pressure, which can be the main reason for their poor performance in their field. In some cases children may insist on doing these things from where we?ll try to keep them away.\n\nIn other words _ we have to look for other aspects as well, like if we usually ignore our children’s bad habits, then they can't be good human beings in their future life. Moreover_ if we never draw attention upon the children’s main activities then they might end up in a bad company. They can know regarding the value of respect for their elders. They can know the importance of relationships. They can know regarding their cultural values as well.\n\nIn a nutshell, I would like to say that children should be teach the value of their customs, rituals and respect towards their elders for their future life, but most of the additional restriction should be being avoided. It would be better to make them good human beings in their future.",
+  "word_count_computed": 250,
+  "images": [],
+  "overall": null,
+  "band_low": null,
+  "band_high": null,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a good, well-written essay. Some sentences are too short and could be combined together to create a more complex structure. There is also some repetition of words, which should be avoided. Overall, nicely done.",
+  "corrections": [
+    {
+      "original": "have ",
+      "suggestion": "be"
+    },
+    {
+      "original": "Wherever it is a reality",
+      "suggestion": "It is the reality"
+    },
+    {
+      "original": "Morever ",
+      "suggestion": "Moreover,"
+    },
+    {
+      "original": "be, behave like a stubborn",
+      "suggestion": "be very stubborn"
+    },
+    {
+      "original": "themselves",
+      "suggestion": "remove this word, it is unnecessary"
+    },
+    {
+      "original": "these things from where we?ll try to keep them away",
+      "suggestion": "the things we try to prevent them from doing"
+    },
+    {
+      "original": "_ ",
+      "suggestion": ","
+    },
+    {
+      "original": "for ",
+      "suggestion": "at"
+    },
+    {
+      "original": "like ",
+      "suggestion": "because"
+    },
+    {
+      "original": "can't be",
+      "suggestion": "might not become"
+    },
+    {
+      "original": "_ ",
+      "suggestion": ","
+    },
+    {
+      "original": "upon ",
+      "suggestion": "to"
+    },
+    {
+      "original": "can know regarding",
+      "suggestion": "should learn"
+    },
+    {
+      "original": ". They can know the ",
+      "suggestion": "and the"
+    },
+    {
+      "original": "can know regarding",
+      "suggestion": "must understand"
+    },
+    {
+      "original": "teach ",
+      "suggestion": "taught"
+    },
+    {
+      "original": "be being avoided",
+      "suggestion": "be avoided"
+    },
+    {
+      "original": "be better to make them",
+      "suggestion": "help them become"
+    }
+  ],
+  "quality_issues": [
+    "no_explicit_band_in_comment"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "60368339f32b9f4f32f959ff0495a5e7aa7c6ffe5dcb9c30808e8343d189c105",
+  "model_evidence": null
+}

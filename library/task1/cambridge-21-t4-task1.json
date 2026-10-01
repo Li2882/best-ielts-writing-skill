@@ -1,0 +1,54 @@
+{
+  "id": "cambridge-21-t4-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-21-t4-task1.json",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-21-academic/",
+  "source_locator": {
+    "book": 21,
+    "test": 4,
+    "page": "HTML reference-task",
+    "score_line": "Official Band 6"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "Cambridge University Press; public mirror",
+  "score_source": "official",
+  "rater_evidence": "The public Cambridge IELTS 21 reference page identifies this as an officially scored candidate response and reproduces examiner comments.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "cambridge-21-t4-task1",
+  "prompt_group": "cambridge-21-t4-task1",
+  "question": "The chart and table below show the results of a survey of library users at a university.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": null,
+  "images": [
+    {
+      "source_url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-21-academic-test-4-task-1-0f69ef3b5449.webp",
+      "path": "library/assets/cambridge-21-academic-test-4-task-1-0f69ef3b5449.webp",
+      "sha256": "0f69ef3b5449af96da9ccf0381122c908662c67cb26affda68c00f06bf86ff34"
+    }
+  ],
+  "essay": "In this chart, we can see a representation of categories and satisfaction of library users, the first feature that we pay attention is the users majority take part of full-time undergraduate and full-time post-graduate, such as they probably are the biggest data of library satisfaction, since very satisfied until not satisfied, also post-graduate students would need more special materials to hardest researchs and learning method, Even thought undergraduates students, fresh or veteran, are o their initial academic career, both categaries look satisfied with the library between another may, as the fact they use it more than once during a day.\n\nOn the other hand, academic staff is the lowest data categorie that use the library, with a percentage of 17%, the reason beyond this effect is because the staffs must to focus on their work, so they probally use the library on their free-time, however, distance learning students have a 8% percentage, both categaries have a 1% difference percentage, which explain they took a little part of satisfaction research, distance learning have a low percentage because the fact they also access online materials.\n\nFinally, part-time postgraduate students are the medium date, with a 16% percentage. where they would use the libraray to classroom researchs or homeworks.",
+  "reading_transcript": null,
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is generally a good response, there is an introduction at the start, and an attempt at an overview […the users majority take part of full-time undergraduate and full-time post-graduate, such as they probably are the biggest data of library satisfaction]. To improve the overview, there should be a summary across both charts. Key data from the pie chart is presented quite well but the ‘Library user satisfaction’ data is not sufficiently covered. There are also examples of irrelevant information [would need more special materials | use it more than once during a day | use the library on their free-time] which can detract from task achievement.\nIdeas are mostly arranged logically. There are some nice linking expressions [since | also | so | Finally | On the other hand] with some slips [Even thought / Even though], and some good examples of reference [their | they].\nVocabulary is mainly appropriate and spelling is generally well managed [representation | pay attention]; some errors remain but don't affect understanding. Grammatical structures are mixed, but there are multi-clause sentences and examples of a range of structures, including modal verbs used correctly [would need], and with some errors [must to focus].\nThis response could be improved by including an overview that covers both charts (so, including the ‘Library user satisfaction’ table,) and eliminating the irrelevant content. A wider range of vocabulary and grammatical structure would also help improve the score.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 206,
+  "extraction": "HTML reference page; original paragraph text and examiner comment retained.",
+  "source_sha256": "f4ed6964181637d583ff5dfafea3541a259f2341fc49038122f676485e5ba532",
+  "label_scope": "individual",
+  "label_review_status": "source_checked"
+}

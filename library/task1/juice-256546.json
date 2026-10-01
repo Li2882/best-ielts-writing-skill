@@ -1,0 +1,93 @@
+{
+  "id": "juice-256546",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-256546.json",
+  "question": "The charts below give information on the location and types of dance classes young people in a town in Australia are currently attending.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The pie chart illustrates where dance classes are located in one Australian town. The horizontal bar chart gives data on the type of the aforementioned dance classes young Australians are currently participating in.\n\nThere are four major locations for these dance classes. Private studios comprise almost half of all locations (48 percent). Standing at the second step are school halls, which in essence are halls used after the conventional school hours, occupying roughly a quarter of locations. Thirdly are community halls and other at 18%, standing not far from he least section, i.e. college-based studios at exactly 10 percent.\n\nConcerning the bar chart, it is evident that ballet and tap dance are more popular among the 11-year-olds and younger, whereas modern dance appeals to 11 to 16-year-olds. There are almost 600 students under 11, doubling the older age group. Conversely, about 300 students aged 11 or younger gravitate towards modern dance, that is almost half the participants of the older age group. Tap dance is almost the same at around 420 students with a small margin in favor of the under 11 age group.",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TA": 9.0,
+    "CC": 8.0,
+    "LR": 8.0,
+    "GRA": 8.0
+  },
+  "comments": "Thank you for writing this report. Here are some parts that can enhance the report: Instead of \"Standing at the second step are school halls,\" a clearer expression would be: \"School halls constitute the second most common location at 24%.\" and Minor grammatical slips in sentence structure, e.g., article usage or prepositions (\"type of the aforementioned dance classes\" → \"types of dance classes\").\nVideo Feedback",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "9.0\tfully satisfies all the requirements of the task",
+      "9.0\tclearly presents a fully developed response",
+      "9.0\tdetails are fully and clearly extended.",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "9.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "8.0\tmanages all aspects of cohesion well",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "8.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "9.0\tuses a wide range of structures",
+      "8.0\tthe majority of sentences are error-free",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "9.0\tcommunication is completely natural",
+      "8.0",
+      "8.0"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-256546-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2025/03/IELTS-Writing-Task-1-report-sample-3429-Band-7.5.jpg",
+      "sha256": "242240172a23eb7179c2a6e86dac389bd590473882d43bee6c08ef0b5533e59d"
+    }
+  ],
+  "question_image": "library/assets/juice-256546-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3434-band-8-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-256546.html",
+  "source_sha256": "c80d4f4764b3c1a1fd6edefd7366739199bf3b3f770d8667a54729877424e5e6",
+  "source_locator": {
+    "wordpress_post_id": 256546,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "f8cd4266dd658bd0",
+  "prompt_group": "8aec19e44edc86b8",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

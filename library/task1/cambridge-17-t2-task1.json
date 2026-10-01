@@ -1,0 +1,57 @@
+{
+  "id": "cambridge-17-t2-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-17-t2-task1.json",
+  "question": "The table and charts below give information on the police budget for 2017 and 2018 in one area of Britain. The table shows where the money came from and the charts show how it was distributed.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": "library/assets/cambridge-17-t2-task1-question.webp",
+  "images": [
+    {
+      "url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-17-academic-test-2-task-1-6b9338732257.webp",
+      "path": "library/assets/cambridge-17-t2-task1-question.webp",
+      "sha256": "6b93387322574aa73cb66121ccc1cefe9b0d4b1f2a485812c762c8e1e0dde6ee"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c17-p130.png"
+  ],
+  "reading_transcript": "The table illustrates the data on the police budget in which the money came from and the two pie charts describe the distribution of the amount of money in the two of year 2017 and 2018 in an area of Britain. Overall, there was an upward trend in all three different sources while the money spent on salaries was always the majority of contribution.\n\nLooking into more details, the highest amount of money on the police budget belonged to ‘National Government’, 175.5 million pounds in 2017 and it kept rising to 177.8 million pounds. Thus was followed by ‘Local Taxes’, at 91.2 million pounds in 2017, after one year, it increase significantly to 102.3 million pounds.\n\nIn term of the how the money was spent, the majority of police budget goes to salaries which was for officers and staff, dropping slightly from 75% in 2017 to 69% in 2018. Meanwhile, the proportion of ‘Buildings and transport’ remained constantly, at 17% each year. An opposite pattern can be seen in the category of technology, its figure rose sharply from 8% in 2017 to 14% in 2018, which was always the lowest rate during the given period.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {},
+  "comments": "This is a strong response. The candidate provides a clear overview at the end of the first paragraph which highlights the consistently increasing trend from the table and identifies the largest category from the pie charts. Full details are given for the first two sources of the budget but, to achieve a higher rating, key features in the table could be more fully extended.\nInformation is presented in the order of the table first and then the charts, in a logical manner. The test taker demonstrates a good range of cohesive devices [while | which was] and uses three paragraphs appropriately to organise and sequence the required data.\nThere is a wide range of vocabulary [figure rose sharply | during the given period] with accurate spelling, although there are occasional errors in word choice. The range of grammatical structures is wide, including modal [can] and continuous forms [kept rising] – although there are occasional errors e.g. using present tenses [goes on] to describe data from 2017 and 2018.\nTo improve this response, the key features presented from the table could be more fully extended. The candidate could also reduce the few errors in sentence structure.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-17-academic/",
+  "source_artifact": "research/expansion/cam17-page.html",
+  "source_sha256": "3039e15fe488eebc538a9fdc01cfbd098d2c88669895e9c0a78ebf6540c735f9",
+  "source_locator": {
+    "book": 17,
+    "test": 2,
+    "pdf": "research/expansion/cambridge17.pdf",
+    "response_pages": [
+      130
+    ],
+    "score_line": "achieved a Band 7.5"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-17-t2-task1",
+  "prompt_group": "cambridge-17-t2-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs.",
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01"
+}

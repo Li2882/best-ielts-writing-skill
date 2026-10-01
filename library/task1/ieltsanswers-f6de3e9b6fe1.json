@@ -1,0 +1,73 @@
+{
+  "id": "ieltsanswers-f6de3e9b6fe1",
+  "task": "task1",
+  "task_type": "pie",
+  "path": "library/task1/ieltsanswers-f6de3e9b6fe1.json",
+  "question": "The charts show energy consumption and carbon dioxide emissions by energy type in the USA in 2010.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/correction-pages/f6de3e9b6fe1-p1.png",
+      "sha256": "f2b2f337e8522e1dd774d50f9a39a09ec0918a7719ce5f46899dff7fe8feadf3"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/correction-pages/f6de3e9b6fe1-p1.png",
+    "research/expansion/correction-pages/f6de3e9b6fe1-p2.png"
+  ],
+  "overall": 7,
+  "band_low": 7,
+  "band_high": 7,
+  "traits": {},
+  "comments": null,
+  "source_url": "https://www.ieltsanswers.com/reports/ielts-reports-energy-consumption.pdf",
+  "source_artifact": "research/expansion/answers/f6de3e9b6fe1.pdf",
+  "source_sha256": "c88422610d4d4ee776b8815fee608aafaca3ebc598fa81748d1c6d3116f234f0",
+  "source_locator": "research/expansion/answers/f6de3e9b6fe1.pdf",
+  "score_source": "verified_human",
+  "rater_evidence": "Mike Wattie publishes these as individually corrected writing samples on IELTSAnswers. His examiner credentials are a publisher claim; these are practice estimates.",
+  "publisher": "IELTSAnswers / Mike Wattie",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "ieltsanswers-f6de3e9b6fe1",
+  "prompt_group": "ba0f00481983cbf6",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "student",
+  "author_type_evidence": "Publisher describes these as writing correction samples; individual author is unnamed.",
+  "question_text_status": "Searchable prompt transcription or summary; original question image is authoritative.",
+  "question_image": "research/expansion/correction-pages/f6de3e9b6fe1-p1.png",
+  "comments_images": [
+    "research/expansion/correction-pages/f6de3e9b6fe1-p1.png",
+    "research/expansion/correction-pages/f6de3e9b6fe1-p2.png",
+    "research/expansion/correction-pages/f6de3e9b6fe1-p3.png"
+  ],
+  "score_page": 2,
+  "score_evidence": [
+    {
+      "score": 7.0,
+      "row": [
+        "",
+        "overall",
+        "",
+        "7",
+        null,
+        null,
+        "It is vital you signal where your overall summary is because if the examiner does\nfive for task response. When you first look at the task try to rephrase keywords.",
+        null,
+        "n't notice it. You will only get",
+        null,
+        null
+      ]
+    }
+  ],
+  "extraction": "Read the marked original: retain struck-out original words, omit inserted corrections and teacher comments. Do not concatenate the native PDF text, which interleaves both versions. Assessment tables are not essay text.",
+  "teacher_advice_caveat": "Publisher layout preferences, stylistic substitutions and word-count advice are not official deductions. Preserve the published overall; ranged criterion estimates have not been converted to exact scores."
+}

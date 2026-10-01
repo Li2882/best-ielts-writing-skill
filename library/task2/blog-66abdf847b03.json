@@ -1,0 +1,72 @@
+{
+  "id": "blog-66abdf847b03",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-66abdf847b03.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-financial-education-at-school/",
+  "source_locator": "research/blog/ielts-essay-topic-financial-education-at-school.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "459147ecbdf0a45a",
+  "prompt_group": "8686d92e2fe9e1a2",
+  "question": "Financial education should be a mandatory component of the school program. To what extent do you agree or disagree with this statement?",
+  "essay": "Children in this modern era have all the magnificent toys, food and many more other interesting things thanin the past. They are bound to have a craving on all this stuff that they see. In other words children will be spending money on anything they want or find it interesting to them. Even some adults these days have some kind of craving to the thing they find it amazing. If financial education starts at the very beginning of the school years, this will help them to understand the value of money. Children should also be taught to manage their expenses and ways to spend wisely. When a child is being taught this in the school program, the child will be able to apply it when they are out to purchase or when they have left the school. They will not be cheated when they are young and this will not only benefit their families but also the whole country where they live when they are older.\n\nHowever, there are some children that are capable of handle the their financial in a very positive way even before they learned it at school. This children would have learnt from their families or people around them. They manage money better, compared to the other children from wealthier families for whom spending is not a problem.\n\nMy conclusion is, children regardless of their background should be taught financial education from school at the very beginning then only parents guide them from home as well.",
+  "word_count_computed": 250,
+  "images": [],
+  "overall": null,
+  "band_low": 6.0,
+  "band_high": 6.5,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay needs work. In the first paragraph you should have introduced the problem and mentioned what the two opinions are. Some of your sentences are unclear and their structure needs improvement (see comments underlined in blue for details). Also, there are arguments for financial education and no arguments against, which means that the task is only partially covered. Overall, looks like a Band 6 – 6.5 essay.",
+  "corrections": [
+    {
+      "original": "in the past",
+      "suggestion": "they used to have"
+    },
+    {
+      "original": "on ",
+      "suggestion": "for"
+    },
+    {
+      "original": "find it interesting to them",
+      "suggestion": "find interesting"
+    },
+    {
+      "original": "they find it amazing. ",
+      "suggestion": "The meaning of this sentence is unclear"
+    },
+    {
+      "original": "handle the their financial ",
+      "suggestion": "handling their finances"
+    },
+    {
+      "original": "positive",
+      "suggestion": "smart"
+    },
+    {
+      "original": "This",
+      "suggestion": "These"
+    },
+    {
+      "original": "__",
+      "suggestion": "This sentence is not clear because of its poor structure"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "891bda612448df7c54f3ec48cce52d8d85031a0fd42423dda15964f7ec42d774",
+  "model_evidence": null
+}

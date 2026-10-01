@@ -1,0 +1,11 @@
+{
+  "id": "composite-calibrated-v1",
+  "date": "2026-09-24",
+  "source_prompt": "library/prompts/composite-best-traits-v1.md",
+  "boundaries": "research/trait-calibration/lr-gra-boundaries-v1.json",
+  "fixed_compensation": {
+    "task_response": 1.0,
+    "CC": 0.5
+  },
+  "development_only_until_holdout": true
+}

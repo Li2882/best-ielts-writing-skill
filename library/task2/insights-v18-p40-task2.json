@@ -1,0 +1,60 @@
+{
+  "id": "insights-v18-p40-task2",
+  "task": "task2",
+  "question": "Because most information about culture and history can be found on the Internet today, museums are not necessary. To what extent do you agree or disagree?",
+  "essay": "Opinions are divided on whether museums are still necessary to provide cultural and historical knowledge, as, nowadays, such information is readily available online. Although this belief can, indeed, seem reasonable to a certain extent, I believe that museums still hold great significance for several reasons.\n\nIndeed, online access to historical and cultural knowledge can offer greater convenience to learners since they can search for a wide variety of websites that provide them with high-quality learning materials, such as historical artifacts, virtual museum tours, and historical documentation from their homes. This allows people to cultivate knowledge in this field more conveniently without the need for travelling to museums. However, the prevalence of online information in these fields has the potential to blur the line between established facts with personal views, as not every source is objective and reliable. Such unverified information can be uploaded by anyone, regardless of their understanding of history or cultural heritage, making it difficult for people to seek accurate historical and cultural knowledge.\n\nFurthermore, museums offer unique benefits through real-life interactions with historical and cultural exhibits, while simultaneously providing significant research value. At a museum, visitors can directly interact with historical objects, as these establishments house authentic objects and ancient relics. These physical displays showcase the true scale, size, and craftsmanship of the exhibits for people to admire and examine, allowing them to gain a deeper insight into human’s history and culture, providing a unique learning experience that cannot be matched by online resources. In addition, museums play an important role in documentation by preserving historical evidence for scientists to access at a later date. The collection and storage of historical artifacts, photographs and written records allows researchers to thoroughly understand how people lived and their cultural activities throughout history.\n\nIn conclusion, while online resources may offer greater convenience, museums remain irreplaceable as they provide both a more immersive learning environment and research opportunities for academic studies.",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {},
+  "score_source": "verified_human",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "rater_evidence": "Publisher submits academic-team originals to Tony Grace; original, explicit overall and correction report verified in the public PDF. Practice assessment, not an official test result.",
+  "author_group": "unknown",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "source_url": "https://cms.youpass.vn/assets/f6c24013-680f-4028-977e-db0d989c6bff",
+  "source_artifact": "research/expansion/insights/vol-18.pdf",
+  "source_sha256": "c4aae95918784325babe0c2967a0fd4d0921a9117bc0de2ceeb25aa064936d6b",
+  "source_locator": {
+    "volume": 18,
+    "cover_page": 40,
+    "original_pages": [
+      41
+    ]
+  },
+  "path": "library/task2/insights-v18-p40-task2.json",
+  "task_type": "essay",
+  "duplicate_group": "insights-v18-p40-task2",
+  "prompt_group": "5b1445d0021abeb8",
+  "quality_issues": [],
+  "accessed_at": "2026-09-21",
+  "essay_images": [
+    "research/expansion/insights/pages/vol-18-p41.png"
+  ],
+  "question_image": "research/expansion/insights/pages/vol-18-p40.png",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-18-p40.png",
+    "research/expansion/insights/pages/vol-18-p42.png",
+    "research/expansion/insights/pages/vol-18-p43.png",
+    "research/expansion/insights/pages/vol-18-p44.png",
+    "research/expansion/insights/pages/vol-18-p45.png",
+    "research/expansion/insights/pages/vol-18-p46.png",
+    "research/expansion/insights/pages/vol-18-p47.png",
+    "research/expansion/insights/pages/vol-18-p48.png",
+    "research/expansion/insights/pages/vol-18-p49.png",
+    "research/expansion/insights/pages/vol-18-p50.png",
+    "research/expansion/insights/pages/vol-18-p51.png",
+    "research/expansion/insights/pages/vol-18-p52.png"
+  ],
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01"
+}

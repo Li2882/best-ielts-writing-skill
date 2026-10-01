@@ -1,0 +1,64 @@
+{
+  "id": "blog-cfadc1303d6b",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-cfadc1303d6b.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-obesity-is-becoming-common-among-children-give-reasons-and-solutions-from-target-band-7-book/",
+  "source_locator": "research/blog/ielts-essay-topic-obesity-is-becoming-common-among-children-give-reasons-and-solutions-from-target-band-7-book.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "f6bdb5fd66f02573",
+  "prompt_group": "d9232832b8df036b",
+  "question": "Obesity was once considered a disease of adults; however, it is becoming increasingly common among children. Why do you think this is happening? What can be done to help children stay healthy?",
+  "essay": "For many years obesity was perceived as a condition occurring only in adult life. However, in recent years the number of children suffering from obesity has grown significantly. There are several causes and numerous solutions which can be used to tackle this worrying phenomenon, and this essay will present a couple of them.\n\nWhile some reasons for childhood obesity are genetic, others include poor food choices exacerbated by easy availability of fast food, insufficient physical activity and a history of family members being overweight. Unlike the former, the latter factors can be changed, if the adults in the child’s life gain awareness and are willing to take action.\n\nTo begin with, health is a complex matter which requires a balanced approach. In other words, there isn’t a single solution to maintain health, on the contrary, it is rather a mixture of multiple factors, such as healthy dieting and regular physical activity. For this reason, increasing the awareness of healthy habits among children is a responsibility of utmost importance. What is more, it can be easily achieved through the education system.\n\nOn the other hand, children’s education might be not sufficient enough to stop the situation from worsening. Along with well designed health education schemes, we should also try to stop food companies from overusing sugar in products dedicated to the young ones. It has been proven that more than 70% of the products available in an average supermarket contain dangerously high levels of white sugar. Sugar rich diet not only causes a significant weight gain, but also contributes to diseases, such as diabetes in young population.\n\nTo summarize, emphasis put on the awareness of healthy living among children is invaluable. Furthermore, combining healthy habits with stopping food companies from overdosing sugar in products which are easily accessible for children can be effectively implemented by the governments. Positive outcomes of such measures taken today will definitely have a long lasting effect on the future generations.",
+  "word_count_computed": 324,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a well developed response to the question. Relevant key points are included in the answer. Appropriate examples are also used to corroborate the writer’s point of view. Paragraphing is skillfully managed, information and ideas are logically sequenced. A wide range of vocabulary is used to allow certain flexibility and precision. Also, a variety of sentence structures is used. Accuracy of expression needs some attention (see corrections underlined in blue). Overall, the essay could achieve Band 8 in IELTS.",
+  "corrections": [
+    {
+      "original": "healthy dieting",
+      "suggestion": "‘a healthy diet’ is the right expression here"
+    },
+    {
+      "original": "be not sufficient enough",
+      "suggestion": "‘not be sufficient’ is the right way to say this"
+    },
+    {
+      "original": "dedicated to",
+      "suggestion": "‘intended for’ is the right expression here"
+    },
+    {
+      "original": "overdosing sugar",
+      "suggestion": "‘using too much sugar’ is the right expression here"
+    },
+    {
+      "original": "accessible for",
+      "suggestion": "‘available to’ is a better way to say this"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "b45f00734ab2c9236540be132b66c51b98024e02baae9214ed66d3d001fc60b4",
+  "model_evidence": null,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "source_context_region": "unknown",
+  "classification_revision": "Book-title advertisement is not evidence of model authorship; explicit sample/model declarations remain excluded."
+}

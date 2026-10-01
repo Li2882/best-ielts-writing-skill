@@ -1,0 +1,87 @@
+{
+  "id": "juice-253483",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-253483.json",
+  "question": "In some cultures, children are often told that they can achieve anything if they try hard enough.\nWhat are the advantages and the disadvantages of giving children this message?",
+  "essay": "In some societies, juveniles are being taught that they can do anything if they grind and put enough effort into it. While this approach can help secure a high-paying job and instill a competitive mentality, drawbacks such as burnout and depression should not be taken lightly.\n\nTeaching toddlers and adolescents good work ethics and never to give up when facing an obstacle will play a vital part in their future career success. Hard-working individuals usually have the best careers, and most of them have been taught since childhood that one of the keys to success is to strive for the top no matter what the cost is. Furthermore, helping children develop a competitive mentality will be of great assistance, especially when it comes to personal and professional challenges; this ambitious mindset imprinted in young minds will help them tackle all kinds of obstacles and hardships that they will eventually face in their lives. For instance, studies have shown that youngsters who have been brought up with a resilient mentality are more likely to perform better in school and their future jobs.\n\nAlthough those traits are quite beneficial for one’s life, there are negative effects that could potentially stem from this way of living. Burnout is becoming more common nowadays, and the severe consequences this could cause for individuals’s physical and mental well-being should not be overlooked. Physical effects such as hypertension and cardiac arrhythmias caused by increased stress on the cardiovascular system have been proven to shorten life-spans and decrease the quality of life. Moreover, mental health illnesses such as anxiety and major depressive disorder are becoming more prevalent, and one of the primary etiologies is stress; it is proven that those diseases might lead to thoughts of self-harm, and studies have shown that suicide rates are at an all-time high, and immediate actions should be taken to help the younger generation.\n\nIn conclusion, encouraging children to aim for the top and secure their future by working hard is advantageous, and helping them develop a competing mentality will help secure this goal. However, care should be taken when trying to do so; burnout which could cause dire health effects, and depression which might lead to suicidal tendencies are to be taken seriously.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TR": 9.0,
+    "CC": 7.0,
+    "LR": 8.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this essay. The two strongest points in this essay are the vocabulary range and the organization of ideas throughout. There are only minor punctuation errors that do not affect the reader's mind. As for coherence and cohesion,\" and \"is used towards the end.\nVideo Feedback",
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3359-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-253483.html",
+  "source_sha256": "abb4e99228ddca060d81ac707c0cdcb5a0bfb2ffedaac2e9ccdd976a25cd27f0",
+  "source_locator": {
+    "wordpress_post_id": 253483,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "a9a7c720ced4e00a",
+  "prompt_group": "b029ae70598bdf64",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "9.0\tfully addresses all parts of the task",
+      "9.0\tpresents a fully developed position in answer to the question",
+      "9.0\twith relevant, fully extended, and well-supported ideas",
+      "9.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "8.0\tmanages all aspects of cohesion well",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "8.0\tthe majority of sentences are error-free",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "9.0\tcommunication is completely natural",
+      "7.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

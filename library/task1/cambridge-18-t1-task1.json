@@ -1,0 +1,57 @@
+{
+  "id": "cambridge-18-t1-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-18-t1-task1.json",
+  "question": "The graph below gives information about the percentage of the population in four Asian countries living in cities from 1970 to 2020, with predictions for 2030 and 2040.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": "library/assets/cambridge-18-t1-task1-question.webp",
+  "images": [
+    {
+      "url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-18-academic-test-1-task-1-8210a157312d.webp",
+      "path": "library/assets/cambridge-18-t1-task1-question.webp",
+      "sha256": "8210a157312d33ad55cb65532ca2dc1a89374b290212ddde5743afb9de10899e"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c18-p129.png"
+  ],
+  "reading_transcript": "The line graph illustrates the proportion of urban citizens in Philippines, Malaysia, Thailand and Indonesia between 1970 and 2020, with the expected population in 2030 and 2040.\n\nOverall, it can be easily seen that all four countries has a dramatic rise in population, starting at the lowest point in 1970 and being projected to reach the peak in 2040.\n\nMalaysia and Indonesia saw a slightly rise in population, respectively from 30 to about 45 and around 12 to over 20 percent from 1970 to 1990. After that, both countries has climbed rapidly until now before being predicted to continue increasing for the next 20 years.\n\nAfter almost remaining in the 70s, Philippines percentage increased dramatically to reach about 47 percent on 1990 and dropped to 40% in 2010. Then, this country faced slightly rise in 2020.\n\nMeanwhile, Thailand reached approximate 30% in 1990 and saw not much changes until 2020. Both two countries are projected to increase in population in 2030 and 2040.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {},
+  "comments": "This response covers the requirements of the task. There is an overview in the second paragraph and key features are presented for each country, with main trends identified. Ideas are grouped together with a clear overall progression: countries with a similar trend are presented in the same paragraph, first Malaysia and Indonesia, then Thailand and the Philippines. There is some effective use of linkers [Overall | After that | Meanwhile] and other cohesive devices [respectively | this country], but a few errors remain [Both two]. Vocabulary includes a range, with some less common examples [proportion | expected population | dramatic rise | projected to reach the peak]. There are some errors [slightly I slight | almost remaining | approximate / approximately], which do not impede communication. The mix of grammatical structures is good, with some complex sentence forms [being predicted to continue increasing for the next 20 years]. Some errors remain, but they rarely reduce communication. To improve the Band Score for this response, there could be more detail on the similarity of the trends on the graph, more detail on data from 1990 onwards and fewer errors in spelling and grammar. However, this is a good response that does address the requirements of the task.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-18-academic/",
+  "source_artifact": "research/expansion/cam18-page.html",
+  "source_sha256": "a54974b7fe86bd12f23423f20692856b756a83360cb0ba6ad13f2ff07c131e83",
+  "source_locator": {
+    "book": 18,
+    "test": 1,
+    "pdf": "research/expansion/cambridge18.pdf",
+    "response_pages": [
+      129
+    ],
+    "score_line": "achieved a Band 6.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-18-t1-task1",
+  "prompt_group": "cambridge-18-t1-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs.",
+  "evaluation_role": "interrupted_v14_initial_rating_development",
+  "used_in_evaluation": "v14-01-incomplete"
+}

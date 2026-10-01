@@ -1,0 +1,93 @@
+{
+  "id": "juice-256336",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-256336.json",
+  "question": "The line graph shows the percentages of Australian exports with four countries.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The line graph illustrates the proportion of Australian export trades across four nations from 1990 to 2012. Accordin g to the data, it is clear that China’s percentage strikingly incresed over time, while the other countries’ proportion decreased overall .\n\nFrom 1990 to 2000 , India reamined remained steady, with a persentage percentage of less than 5%, while China reached 5% in 2000, after reamining remaining under 5% until 1995. The US slightly decreased from more than 10% in 1990 to less than 10% in 1995, before growing again to more than 10% in 2000. On the other hand, Japan experienced a more evident downward trend: starting from more than 25% in 1990, it decreased to 20% in 1995 and to less than 20% in 2000.\n\nDespite having a low proportion in the first part of the decade, China experienced an evident growth from 2000 to 2012: starting from 5%, it rised rose to 10%, before peaking to 25% in 2010. Moreover, it slightly increased to almost 30% in 2012. On the contrary, Japan remained steady between 2000 and 2005, but slightly decreased to around 15% in 2010, before remaining steady again until l 2012. While India slightly increased to more than 5% from 2000 to 2010, before decreasing again to 5% in 2012, the US slightly decreased from around 10% in 2000 to 2010, before a very little growth in 2012.",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TA": 6.0,
+    "CC": 6.0,
+    "LR": 7.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you for writing this report. The candidate generally addresses the task, summarizing the main trends and making some relevant comparisons. There is a notable factual inaccuracy, which is underlined, i.e. two countries increased whereas the two other ones decreased in the given period. There are many spelling mistakes none of which affects the reader's understanding. Transitional phrases (like \"on the other hand\") are used, but sometimes they do not effectively guide the reader through the progression of information.\nVideo Feedback",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "7.0\tcovers the requirements of the task",
+      "7.0\tclearly presents and highlights key features",
+      "6.0\tdetails may be irrelevant, inappropriate, or inaccurate",
+      "6.0\tpresents an overview with information appropriately selected",
+      "6.0"
+    ],
+    "CC": [
+      "6.0\tarranges information and ideas coherently",
+      "6.0\tthere is a clear overall progression",
+      "6.0\tuses cohesive devices effectively, but cohesion within and/or between sentences may be faulty or mechanical",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "6.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "6.5"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-256336-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2024/11/IELTS-Writing-Task-1-report-sample-3419-Band-6-5.jpg",
+      "sha256": "f09b326c111698e90a2416f32d49bfc3e42726dd6f336d9c2e855001f241343d"
+    }
+  ],
+  "question_image": "library/assets/juice-256336-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3419-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-256336.html",
+  "source_sha256": "542a5cfa42c467a8e25d9883016bbc6be0570d9a129b7a23e3d8be1a043247b2",
+  "source_locator": {
+    "wordpress_post_id": 256336,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "f14d622674539f25",
+  "prompt_group": "29dbe056fe895ae8",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

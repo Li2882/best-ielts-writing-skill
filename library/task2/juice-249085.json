@@ -1,0 +1,87 @@
+{
+  "id": "juice-249085",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-249085.json",
+  "question": "Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important or too invaluable to be shared freely.\nDiscuss both views and give your opinion.",
+  "essay": "There is now an argument as to whether knowledge in science and business should be accessible to all people or charged for some notable and groundbreaking results. I personally believe that every piece of information that can have a life-changing effect should be shared immediately, no matter how important or valuable it is.\n\nProponents of knowledge share say that with the imminent positive effect of some scientific discoveries or economic theories, it would be far immoral to hamper the pass of information to people in need. A prime example of this is medical breakthroughs such as vaccine developments that are in close connection with humans lives and can save millions of people. Providing that richer developed countries become willing to transfer their experience and knowledge to less developed countries, not only positive strides in establishing an equally benefited world is made, but also thousands of hundreds of individuals can be saved from deadly diseases such as the COVID-19 virus.\n\nOn the other side of the argument, a group of people believes that not every type of information should be provided chargeless to everyone. Some scientific results were yielded at a significant cost with someone’s ingenuity involved. Consequently, companies and genius people behind such discoveries have the right to ask for money for their efforts. Furthermore, without sufficient financial support in place, researchers will soon become demotivated to work, and there will be severe ramifications for the science and knowledge generation cycle.\n\nTo sum up, as much as people in science and economy are deserving receiving support in the form of funds and product selling, but in some areas that life of peoples is in danger, there should be no limitation in exchange of research.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TR": 8.0,
+    "CC": 7.0,
+    "LR": 8.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this essay. The advanced grammatical structures used need more accuracy and practice.\nVideo Feedback",
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3271-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-249085.html",
+  "source_sha256": "78370b0557a76c385b6bc2dc260f6af567fb953bd3e4cd6ceb611f0d3cc71595",
+  "source_locator": {
+    "wordpress_post_id": 249085,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "1480152e4b36547d",
+  "prompt_group": "7cdca1c660711b55",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "9.0\tfully addresses all parts of the task",
+      "9.0\tpresents a fully developed position in answer to the question",
+      "8.0\twith relevant, extended, and supported ideas",
+      "8.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "8.0\tmanages all aspects of cohesion well",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "8.0\tproduces rare errors in spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "9.0\tuses a wide range of structures",
+      "7.0\tproduces frequent error-free sentences",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

@@ -1,0 +1,93 @@
+{
+  "id": "juice-256378",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-256378.json",
+  "question": "The graph shows the number of people taking parts in four kinds of sports in a particular region between 1985 and 2005.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The line chart illustrates the amount of people participating in four different types of physical activitiy activity in a certain region from 1985 to 2005. According to the data, while the number of people playing badminton and basketball remained quite stable over the time, the amount of tennis and rugby players fluctuated consistently, with rugby as the most practiced sport in 1985.\n\nJust above 50 people played badminton in 1985, but this number fell slightly under 50, to around 48, by 1990. However, it moved back to about 50 players in 1995, and from that point on, the number was steady until 2005. Similarly, despite the amount of players being higher overall, basketball followed a very similar trend: starting from almost 100 people playing at the beginning of the period, they subtly decreased to around 75 in 1990. As well as for badminton, from that point on the number of people rose to less than 100 by 1995, remaining the same in 2000, but then it experienced a minor fluctuation to around 75 by the end of the period.\n\nTennis experienced a progressive increase over the period, starting from 150 players at the beginning, it rose to around 170 in 1990 and it reached 200 players in 1995. Then, it continued to grow to just above 200 in 2000, before peaking to around 230 by 2005. Although rugby had the higher highest number of players in 1985, almost 250, among the four sports considered, it experienced a downward trend overall. It decreased to almost 200 by 1990, before moving back to 200 in 1995, the same number as tennis. henceforth, it fell down to 150 in 2000, before a sharp decline to 50 by 2005.",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TA": 6.0,
+    "CC": 7.0,
+    "LR": 7.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you for writing this report. The structure is logical, with an overview followed by a detailed description of each sport. However, the organization could improve by grouping similar trends (e.g., stable vs fluctuating sports). Linking phrases are present but sometimes repetitive (\"from that point on,\" \"before moving back\"). Additionally, the connections between paragraphs and ideas could be smoother.\nVideo Feedback",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "8.0\tcovers all requirements of the task sufficiently",
+      "7.0\tclearly presents and highlights key features",
+      "6.0\tdetails may be irrelevant, inappropriate, or inaccurate",
+      "6.0\tpresents an overview with information appropriately selected",
+      "6.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "7.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.5"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-256378-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2024/11/IELTS-Writing-Task-1-report-sample-3424-Band-6-5.jpg",
+      "sha256": "4448f39ca0d532b4dab1b42a49637ac3f75be66e02ae70f7cd48428c018049fc"
+    }
+  ],
+  "question_image": "library/assets/juice-256378-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3424-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-256378.html",
+  "source_sha256": "7eb56043d65145a42e79eb26164f7dc19965c2edea3369ae3b638fa31eae4e37",
+  "source_locator": {
+    "wordpress_post_id": 256378,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "1564b8a0d09d1e8a",
+  "prompt_group": "fabc9c675070d0c7",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

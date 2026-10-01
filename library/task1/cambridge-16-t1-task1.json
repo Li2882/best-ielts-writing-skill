@@ -1,0 +1,57 @@
+{
+  "id": "cambridge-16-t1-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-16-t1-task1.json",
+  "question": "The charts below show the changes in ownership of electrical appliances and amount of time spent doing housework in households in one country between 1920 and 2019.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": "library/assets/cambridge-16-t1-task1-question.webp",
+  "images": [
+    {
+      "url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-16-academic-test-1-task-1-61ec32532179.webp",
+      "path": "library/assets/cambridge-16-t1-task1-question.webp",
+      "sha256": "61ec32532179fb2690b9c79c454646dd145b00bfeb5272e47830a906290f329a"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c16-p130.png",
+    "research/expansion/book-pages/c16-p131.png"
+  ],
+  "reading_transcript": "This charts shows about percentage of households with electrical appliances and Number of hour at housework per week, per household between 1920 and 2019.\n\nIn the first chart washing machine. Refrigerator. Vacuum cleaner all rise from 1920 to 2019. Refrigerator and Vacuum cleaner increase faster than washing machine. In 1920, Refrigerator just zero percentage of households and Refrigerator is 30 percentage of households, but in 2019 they all increase 100 percentage of household. Washing machine is to percantage of households in 1920, however in 2019 is just increase about 15 percantage at households, and washing mashine is overed by Pefrigerator and Vacuum cleaner in 1940 and 1960. Vacuum cleaner is overed by Pefrigerator in 1942.\n\nIn the second chart Houses per week is 50 Number of hours per week, but it decline to 10 Number of hours per week in 2019.\n\nOver than, percentang of households with electical appliance increase however Number of hours per week decline from 1920 to 2019.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 5.0,
+  "band_low": 5.0,
+  "band_high": 5.0,
+  "traits": {},
+  "comments": "This is an attempt to present the information from both graphs. However, there is inaccurate data, e.g. washing machine use increased by 15%. It actually increased from 40% in 1920 to just over 70% in 2019. The response focuses on the detail of when the lines on the graph intersect but there is a lack of clarity in these details. The description of the second chart lacks detail. This limits the task achievement. There is an attempt to present the information in order, and the last line attempts an overview. However, there is a lack of coherence caused by missing or inaccurate cohesive features [Over than] and there is repetition [percentage of household | number of hours per week] caused by the lack of cohesion.\nVocabulary is minimally adequate for the task but there are errors in word choice [overed by / overtaken by] which mean the response is difficult to understand. The frequency of errors in spelling is also high [percantage / percentang / percentage | mashine / machine | Pefrigerator / refrigerator | electical / electrical]. The range of grammatical structures is limited. There are some correct examples [all rise from 1920 to 2019 | they all increase (to) 100 percentage]; however, the errors in grammar and punctuation mean the response is not clear.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-16-academic/",
+  "source_artifact": "research/expansion/cam16-page.html",
+  "source_sha256": "3a7c22accc6e9d451361adc70721b590144cf510c5af8a4eaed095aa73cb7225",
+  "source_locator": {
+    "book": 16,
+    "test": 1,
+    "pdf": "research/expansion/cambridge16.pdf",
+    "response_pages": [
+      130,
+      131
+    ],
+    "score_line": "achieved a Band 5.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-16-t1-task1",
+  "prompt_group": "cambridge-16-t1-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

@@ -1,0 +1,54 @@
+{
+  "id": "blog-7af2de93c96b",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-7af2de93c96b.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-bar-chart-spending-research-development-five-countries-2001-2011/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/e3eac58a5c6beddb.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "92ba471d47919b0c",
+  "prompt_group": "cfebde2eecc1f343",
+  "question": "The bar chart below describes the gross domestic spending on Research and Development in five countries between 2001 and 2011. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/writing-1-bar-chart-5-countries.jpg",
+      "path": "library/assets/5cba75dd3b70e643.jpg",
+      "sha256": "ea2bd46a728374f28b46e6e3654454cfd7de97c5c1a96bdd4563b898fd437f74"
+    }
+  ],
+  "essay": "Band 8.5 Model Answer\n\nThe bar chart describes the gross domestic expenditure on research and development by China, France, Spain, the UK and the USA during the years 2001, 2005 and 2011.\n\nOverall, it can be seen that there was a general upward trend in the spending of all of 5 countries, albeit to varying degrees.\n\nThe USA spent the most on R&D in all three years, with the annual expenditure slightly increasing from 2.5% in 2001 to 2.8% of the country’s GDP in 2011. On the other end of the spectrum, Spain spent the least, starting at just below 1% in 2001 and finishing at around 2.3%.\n\nChina’s spending grew more than that of other countries, about 0.5% each year, and increased from about 0.9% in 2001 to around 2.8% in 2011. The remaining two countries, France and the UK, showed a similar pattern and their spending held relatively steady throughout the decade, at around 2% and 1.5% of GDP, respectively.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 162,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "d16a69cad50fb2aac4bde8eeea86739072cf11298c19d14712412aaf292375f6",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5
+}

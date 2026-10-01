@@ -1,0 +1,59 @@
+{
+  "id": "blog-8cef1a533253",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-8cef1a533253.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-diagram-fire-exit-plan-college-accommodation/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/e72ecacd521e25b0.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "d17bfbf5f1fe48b1",
+  "prompt_group": "94dd78a6f745b6de",
+  "question": "The diagram below shows a fire exit plan in a college accommodation. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/featured/model-report-sample-band-8-diagram.jpg",
+      "path": "library/assets/9598b053efb1228d.jpg",
+      "sha256": "0afabaddf1eb44de0897e7ab72fb836fc4b03f3109cba161cedd8b4801779238"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/writing-1-fire-exit-plan-college-accommodation.jpg",
+      "path": "library/assets/84ac13d429d62533.jpg",
+      "sha256": "dbe53509ebd6f4dfc1d2a0190b541ce97287a3457dcc3316fb7b24635f6fce7d"
+    }
+  ],
+  "essay": "* Note: this isn’t the actual diagram given in the test, it was recreated for the purpose of demonstration.\n\nBand 8.5 Model Answer\n\nThe diagram illustrates the fire exit route for residents in a college accommodation in the event of a fire.\n\nIt can be clearly seen that the fire exit plan is strategically designed with two separate routes leading to distinct meeting points to ensure a quick and organised evacuation.\n\nThe layout of the college accommodation shows seven bedrooms, a corridor, and two staircases, with one of them located at the western end of the building and the other adjacent to the lift in the central part of the building.\n\nSince the list is not to be used in case of a fire, occupants of bedrooms 1, 2, and 3 are directed to use the western staircase to exit the building. After descending the stairs, they are to gather at Meeting Point 1, which is located outside on the western side of the accommodation. In contrast, residents of bedrooms 4, 5, 6, and 7 are instructed to head towards the staircase on the northern side of the building. Those from bedrooms 4 and 5 have direct access to this staircase, whereas individuals from bedrooms 6 and 7 need to walk down the corridor to reach it. Upon exiting, they should gather at Meeting Point 2 located outside the building in close proximity to the staircase.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 236,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "3470b4596b7f780039823364890cd834e8744d3e696363c0bde7a3f32e76e050",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5
+}

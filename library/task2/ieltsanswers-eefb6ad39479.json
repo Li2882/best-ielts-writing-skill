@@ -1,0 +1,60 @@
+{
+  "id": "ieltsanswers-eefb6ad39479",
+  "task": "task2",
+  "task_type": "problem_solution",
+  "path": "library/task2/ieltsanswers-eefb6ad39479.json",
+  "question": "Alcohol abuse is becoming more and more common in many countries. What are some of the problems associated with alcohol abuse, and what are some of the possible solutions?",
+  "essay": null,
+  "images": [],
+  "essay_images": [
+    "research/expansion/correction-pages/eefb6ad39479-p1.png",
+    "research/expansion/correction-pages/eefb6ad39479-p2.png"
+  ],
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {},
+  "comments": null,
+  "source_url": "https://www.ieltsanswers.com/essays/ielts-essays-alcohol-abuse-is-becoming-popular-in-many-countries.pdf",
+  "source_artifact": "research/expansion/answers/eefb6ad39479.pdf",
+  "source_sha256": "8646ec0a1a59f80e4c0c9603632b4975c0d06853bbcb409e3071b2e2af5832ff",
+  "source_locator": "research/expansion/answers/eefb6ad39479.pdf",
+  "score_source": "verified_human",
+  "rater_evidence": "Mike Wattie publishes these as individually corrected writing samples on IELTSAnswers. His examiner credentials are a publisher claim; these are practice estimates.",
+  "publisher": "IELTSAnswers / Mike Wattie",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "ieltsanswers-eefb6ad39479",
+  "prompt_group": "8a680a1075cdf55d",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "student",
+  "author_type_evidence": "Publisher describes these as writing correction samples; individual author is unnamed.",
+  "question_text_status": "Searchable prompt transcription or summary; original question image is authoritative.",
+  "question_image": "research/expansion/correction-pages/eefb6ad39479-p1.png",
+  "comments_images": [
+    "research/expansion/correction-pages/eefb6ad39479-p1.png",
+    "research/expansion/correction-pages/eefb6ad39479-p2.png"
+  ],
+  "score_page": 2,
+  "score_evidence": [
+    {
+      "score": 8.5,
+      "row": [
+        "overall",
+        "8.5",
+        "The only real area to work on is the last sentence of your introduction.\nThis is an excellent essay and I wouldn’t expect any better from a native writer. You ju\nyou can do it on test day. Make sure you limit your time when you are doing writing pr",
+        "st need to make sure\nactice."
+      ]
+    }
+  ],
+  "extraction": "Read the marked original: retain struck-out original words, omit inserted corrections and teacher comments. Do not concatenate the native PDF text, which interleaves both versions. Assessment tables are not essay text.",
+  "teacher_advice_caveat": "Publisher layout preferences, stylistic substitutions and word-count advice are not official deductions. Preserve the published overall; ranged criterion estimates have not been converted to exact scores."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "blog-72048ee3e190",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-72048ee3e190.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-bar-chart-of-average-house-prices/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/70a685d8ab9a538c.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "e33853105d574155",
+  "prompt_group": "d24f0676072e1dc6",
+  "question": "The chart below shows information about average house prices in five different cities between 1990 and 2002 compared with average house prices in 1989. Summarise the information by selecting and reporting the main features and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/average-house-prices.jpg",
+      "path": "library/assets/626e2f8a8e3a8bde.jpg"
+    }
+  ],
+  "essay": "The illustrates the figures of average house prices in the five different cities during the period from 1990 to 2002, in comparison with the data in 1989. Overall, there was an upward trend in the percentage of change of house prices during the period shown in almost all of the cities except for Frankfurt.\n\nAs can be clearly seen, there was a considerable fall by approximately 5% in the proportion change of estate prices in New York between 1990 and 1995. Likewise, Tokyo and London, which had the same figures, witnessed a dramatic decrease by about 7% over the same period. However, the figures for Madrid and Frankfurt were around 2% and 3%, respectively.\n\nDuring the period from 1996 to 2002, the figure for London was the highest with more than 10% in the percentage of change of house prices. During the same period, the rates at which the house prices increased were about 5% in New York and 4% in Madrid. This rate in Frankfurt was 2%, lower than the first 5-year period. Finally, the percentage change in Tokyo fell by around 5% between 1996 and 2002.\n\nAll the requirements of the task were covered fairly well. The key features were identified, emphasized and illustrated in a suitable and logical way. The ideas are presented in a logical order. All aspects of cohesion are taken care of well. The paragraphing is handled suitably and appropriately. The range of vocabulary allows the writer to communicate the exact meanings. Some sophisticated words/expressions are used in a clever way, with only occasional errors in word choice/expression choice. A wide range of grammatical structures are used. Most sentences are free of errors. Inappropriate use of grammar is very infrequent. Overall this report seems worthy of IELTS Band 8.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 295,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "78bafda9cb0b7c0b3a1ae6109749a75fa18701897d417e0d26f3e6b09179d0d9",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

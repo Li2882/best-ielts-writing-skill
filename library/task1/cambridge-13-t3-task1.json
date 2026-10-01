@@ -1,0 +1,53 @@
+{
+  "id": "cambridge-13-t3-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-13-t3-task1.json",
+  "question": "The bar chart below shows the top ten countries for the production and consumption of electricity in 2014.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": null,
+  "essay_images": [
+    "evaluations/pilot-02/inputs/pilot02-c13-t3-task1-original-1.png"
+  ],
+  "reading_transcript": "From the bar chart that show the top ten countries for the production and consumption of electricity in 2014. For the production of electricity, the 1st rank is China that have 5,398 billion kwh, the 2nd rank is United States that have 4,099 billion kwh, the 3rd rank is Russia that have 1,059 billion kwh, the 4th rank is Japan that have 936.2 billion kwh, the 5th rank is India that have 891 billion kwh, the 6th rank is Canada that have 618.9 billion kwh, the 7th rank is France that have 561.2 billion kwh, the 8th rank is Brazil that have 530.9 billion kwh, the 9th rank is Germany that have 526.6 billion kwh and the 10th rank is Republic of Korea that have 485.1 billion kwh. For the comsumption of electricity, the 1st rank is China that have 5,322 billion kwh, the 2nd rank is United States that have 3,866 billion kwh, the 3rd is Russia that have 1,038 billion kwh, the 4th rank is Japan that have 856.9 billion kwh, the 5th rank is India that have 698.8 billion kwh, the 6th rank is Germany that have 582.5 billion kwh, the 7th rank is Canada that have 499.9 kwh, the 8th rank is France that have 462.9 billion kwh, the 9th rank is Brazil that have 455.8 kwh and the 10th is Republic of Korea that have 449.5 billion kwh.\n\nFrom the information. The country that have the most in production and consumption is China. The country that have the least in production and consumption is Republic of Korea.\n\nAlmost all the country have production more than consumption, exept Germany that have consumption more than production.",
+  "transcript_status": "secondary_reading_aid_original_images_authoritative",
+  "images": [
+    {
+      "path": "evaluations/pilot-02/inputs/pilot02-c13-t3-task1-question.webp",
+      "sha256": "029abede315385aa824bc53a46cf27eb4d5e97a50f0555b6ab915bfb89ee516c"
+    }
+  ],
+  "question_image": "evaluations/pilot-02/inputs/pilot02-c13-t3-task1-question.webp",
+  "overall": 5.0,
+  "band_low": 5.0,
+  "band_high": 5.0,
+  "traits": {},
+  "comments": "This response is rather mechanical as it lists the countries in order of production and consumption of electricity, identifies the countries that produce and consume most and least and notes the fact that all the countries except Germany produce more than they consume. However, the writing is supported by data, although there are some errors in the figures (the figures for production in Russia, India and Brazil are inaccurate as is the figure for consumption in Japan). Organisation is limited and there are few examples of cohesive devices; similarly the range of vocabulary is limited although just adequate for the task. There is a mix of simple and complex sentence structures, but complex forms are mainly inaccurate [that have /has | Almost all the country have / Almost all the countries have].",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-13-academic/",
+  "source_locator": {
+    "book": 13,
+    "test": 3,
+    "score_page": "evaluations/labels/pilot-02-sources/c13-p128.png",
+    "ocr": "evaluations\\labels\\pilot-02-sources\\c13-p128.ocr.json"
+  },
+  "source_artifact": "evaluations/labels/pilot-02-sources/cambridge-13.html",
+  "source_sha256": "6d0eda3c93a5bf015547d608a43aa626cd959a418dfa7a0f6ce5aacfdadcc6bd",
+  "publisher": "Cambridge University Press; public mirror",
+  "score_source": "official",
+  "rater_evidence": "Published Cambridge candidate response; mirror label cross-checked against original book score line.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-13-t3-task1",
+  "prompt_group": "cambridge-13-t3-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "used_in_evaluation": "pilot-02",
+  "evaluation_role": "revealed_development_sample",
+  "extraction": "Original answer images visually reviewed before scoring. Mirror prose is only a reading aid; it may normalize paragraphs."
+}

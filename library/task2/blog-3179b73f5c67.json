@@ -1,0 +1,52 @@
+{
+  "id": "blog-3179b73f5c67",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-3179b73f5c67.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-in-the-past-people-wore-their-traditional-clothes-but-these-days-most-people-wear-similar-clothes-is-this-a-positive-or-negative-development/",
+  "source_locator": "research/blog/ielts-essay-topic-in-the-past-people-wore-their-traditional-clothes-but-these-days-most-people-wear-similar-clothes-is-this-a-positive-or-negative-development.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "02a4ef4a9139c586",
+  "prompt_group": "e33907c6ba6cb628",
+  "question": "In the past, people wore their traditional clothes and followed their culture. These days, most people wear similar clothes and therefore look very similar to one another. Do you think this is a positive or a negative development?",
+  "essay": "These days, people’s perspectives on the value of clothing are changing, and individuals tend to wear similar clothing compared to people in the past who opted for their traditional clothing. I believe this tendency exerts a positive influence on the society.\n\nIt is certainly true that there are some drawbacks to this tendency because it may lead to a loss of global diversity. It can be argued those who wear ordinary clothes such as T-shirts and jeans cannot feel a connection to their roots, and they are likely to neglect their culture and the contribution of their ancestors. Therefore, these people may not take pride in their region, and they might migrate to an urban location rather than contribute to the development of their community. Consequently, many ethnic minorities could suffer from the depopulation and eventually disappear.\n\nHowever, I believe that there are more positives than negatives in people opting for similar clothes. The first explanation is that individuals can feel a sense of unity with people all over the world even though they have different religions and ways of life. This mind would motivate people in the world to support one another, instead of thinking that different parts of the world should deal with their own problems when natural disasters and other terrible problems occur in different nations. Furthermore, this tendency is economically profitable. Generally speaking, as ordinary clothes are automatically manufactured, they can be produced faster and more affordably than traditional clothing such as Japanese Kimono, which is hand-crafted.\n\nIn conclusion, although people today tend to wear similar clothes instead of traditional ones and this trend will cause several problems, I believe that the society as a whole can reap more benefits of this tendency.",
+  "word_count_computed": 287,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "All parts of the task have been covered. The writer presents a well‐developed position that addresses all parts of the task prompt with suitable, widely covered and sufficiently supported ideas. The paragraphing is handled appropriately. The range of vocabulary allows the writer to convey the intended meaning. The overall control of grammar and punctuation is fine, with only a few errors mostly related to word choice (hover/tap on corrections in blue for details). Well done! Overall, this essay seems worthy of IELTS Band 8.",
+  "corrections": [
+    {
+      "original": "the",
+      "suggestion": "‘the’ is not needed here"
+    },
+    {
+      "original": "mind",
+      "suggestion": "‘idea’ or ‘mindset’ would be a better word choice here"
+    },
+    {
+      "original": "will",
+      "suggestion": "‘may’ is a better word choice here because the writer is speculating"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "df7b8f50905196f42645e6b94a29e087d12ef7023cee0624d4ef0678ba5f6b07",
+  "model_evidence": null
+}

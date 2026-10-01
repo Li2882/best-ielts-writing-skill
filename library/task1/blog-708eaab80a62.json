@@ -1,0 +1,106 @@
+{
+  "id": "blog-708eaab80a62",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-708eaab80a62.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-7/ielts-report-topic-line-graph-describing-the-consumption-of-fish-and-meat/",
+  "source_locator": "research/blog/ielts-report-topic-line-graph-describing-the-consumption-of-fish-and-meat.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "eb57f0fa3a3f794a",
+  "prompt_group": "b094059a8d59a2ea",
+  "question": "The graph below shows the consumption of fish and different kinds of meat in a European country between 1979 and 2004.\nSummarise the information by selecting and reporting the main features and make comparisons where relevant.",
+  "essay": "The graph illustrates the quantities of fish and different kinds of meats consumed in a European country between the time period of 1979 and 2004. Over this span of 25 years, the consumption of beef, lamb and fish have all decreased while the consumption of chicken has dramatically risen.\n\nThe biggest consumption in 1979 was beef (about 220 grams per person was consumed every week) while the lowest consumption in 1979 was fish (around 60 gram per week was consumed by a person). The amount of fish which was eaten has remained almost constant at about 50 grams from 1979 and 2004. The trends of beef and lamb consumption were similar, with decreases in amount in between the years. While beef consumption had declined from over 200 grams per person per week to around 100 grams during 25 years, lamb’s was starting 150 grams to approximately 50 grams at the same period.\n\nIn contrast, chicken consumption had grown up gradually to year of 194, reaching a peak at 250grams per person every week in between 1994 and 2004.",
+  "word_count_computed": 178,
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/graph-fish-meat-consumption.jpg",
+      "path": "library/assets/4e041b59f9f75156.jpg",
+      "sha256": "69ced472deaf0ac091306e1b1d2c5946105ca13a4974a73fa6788bef748def4d"
+    }
+  ],
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This report covers the requirements of the task. The main trends and features were sufficiently developed. The candidate has arranged ideas coherently, though at times they report data in a repetitive way. The range of vocabulary is adequate. There are a few errors in grammar and word choice (mouse over the underlined words shows suggestions for improvement). Overall, this task response meets the expectations and seems good enough to achieve Band 7.",
+  "corrections": [
+    {
+      "original": "between",
+      "suggestion": "in"
+    },
+    {
+      "original": "of",
+      "suggestion": "between"
+    },
+    {
+      "original": "have all",
+      "suggestion": "has"
+    },
+    {
+      "original": "beef",
+      "suggestion": "that of beef"
+    },
+    {
+      "original": "fish",
+      "suggestion": "that of fish"
+    },
+    {
+      "original": "per week was consumed by a person",
+      "suggestion": "you can write ‘per person per week’ to avoid repetition"
+    },
+    {
+      "original": "has",
+      "suggestion": "delete this"
+    },
+    {
+      "original": "and",
+      "suggestion": "until"
+    },
+    {
+      "original": "lamb’s was starting",
+      "suggestion": "lamb consumption fell from"
+    },
+    {
+      "original": "at",
+      "suggestion": "during"
+    },
+    {
+      "original": "grown up",
+      "suggestion": "risen"
+    },
+    {
+      "original": "to year of 194, reaching",
+      "suggestion": "and reached"
+    },
+    {
+      "original": "every",
+      "suggestion": "per"
+    },
+    {
+      "original": "in",
+      "suggestion": "delete this"
+    }
+  ],
+  "quality_issues": [
+    "Reference quarantined: manually confirmed same prompt as a reserved holdout; different website IDs hid the overlap. Original human assessment remains preserved."
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "39bdb8c77c8c9041406761fbd3af8dba5311bf45bae3af380a786209ff9b9918",
+  "model_evidence": null,
+  "reference_quarantine_date": "2026-09-21",
+  "prompt_alias_evidence": "research/prompt-aliases.json"
+}

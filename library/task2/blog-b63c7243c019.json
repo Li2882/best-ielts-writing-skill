@@ -1,0 +1,100 @@
+{
+  "id": "blog-b63c7243c019",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-b63c7243c019.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-aspects-of-globalization/",
+  "source_locator": "research/blog/ielts-essay-topic-aspects-of-globalization.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "80c415c1a5874ed9",
+  "prompt_group": "6de59feccc9a8222",
+  "question": "Even though globalization affects the world’s economy in a very positive way, its negative side should not be forgotten. Discuss.",
+  "essay": "Globalization is a process of advancement and increase in interaction between the worlds’ countries and people. It involes in locomotion, communication, knowledge and skills. Globalazation is gaining speen over the entire world. It has attract enough world attention needed from international organization in promoting and encouraging human right and freedom , opportunities, economic, social and culture rights.\n\nHowever, there are some countries that are missing out the opportunities that are offered and its taken as a big problem to their country. They are the poorer countries that are not connected to the people globally and their people are unskilled due to the lack of knowledge and equipments. They are also unable to trade with the other countries which are richer and larger as they are unable to meet the demand propose of them. They also will not have the opportunities and the challenges that are require. Globalization has also encourage crimes like the illegal drug trafficking around the world through the air, sea and land. This has involved human smuggling and stuffing it in anything they come across. This has affected a lot of problems to the country and the families of the drug addicts. This will also lead to other crimes like robbery and violence in the country.\n\nAnother negative side of globalization is the dumping of the dangerous waste to the river, sea or the ocean. This will effect the aquactic creature, contaninate the water and cause harm to the people too.\n\nTo conclude, globalization has contributed a lot to the world’s econnmics but the international organization should also not forget the poorer countries and the countries should also tackle its other negative sides that affect the world.",
+  "word_count_computed": 279,
+  "images": [],
+  "overall": null,
+  "band_low": 6.0,
+  "band_high": 6.5,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay doesn’t have a paragraph about the positive side of globalization, and it should – so the task is only partially covered. The structure is fine, the paragraphs are logically connected and linking words are used effectively enough. However, there are many spelling and grammatical errors (see comments underlined in blue). Overall, this looks like a Band 6 – 6.5 essay.",
+  "corrections": [
+    {
+      "original": "involes in",
+      "suggestion": "involves"
+    },
+    {
+      "original": "Globalazation",
+      "suggestion": "globalization"
+    },
+    {
+      "original": "speen",
+      "suggestion": "speed"
+    },
+    {
+      "original": "attract",
+      "suggestion": "attracted"
+    },
+    {
+      "original": "the",
+      "suggestion": "on the"
+    },
+    {
+      "original": "equipments",
+      "suggestion": "equipment (no plural form)"
+    },
+    {
+      "original": "propose",
+      "suggestion": "expected"
+    },
+    {
+      "original": "require",
+      "suggestion": "required"
+    },
+    {
+      "original": "encourage",
+      "suggestion": "encouraged"
+    },
+    {
+      "original": "affected",
+      "suggestion": "caused"
+    },
+    {
+      "original": "river",
+      "suggestion": "rivers"
+    },
+    {
+      "original": "effect the aquactic creature",
+      "suggestion": "affect the aquatic creatures"
+    },
+    {
+      "original": "contaninate",
+      "suggestion": "contaminate"
+    },
+    {
+      "original": "too",
+      "suggestion": "as well"
+    },
+    {
+      "original": "econnmics",
+      "suggestion": "economy"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "25c9dd9f67aa15df4b1e02707c1c171d12db9cfcce66ce4152458e55f5f9da89",
+  "model_evidence": null
+}

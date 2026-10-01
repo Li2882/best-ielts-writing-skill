@@ -1,0 +1,69 @@
+{
+  "id": "insights-v16-p36-task2",
+  "task": "task2",
+  "question": "Once children start school, teachers have more influence on their intellectual and social development. To what extent do you agree or disagree?",
+  "essay": null,
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {
+    "TR": 8,
+    "CC": 9,
+    "LR": 8,
+    "GRA": 9
+  },
+  "score_source": "verified_human",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "rater_evidence": "Publisher submits academic-team originals to Tony Grace; original, explicit overall and correction report verified in the public PDF. Practice assessment, not an official test result.",
+  "author_group": "unknown",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "source_url": "https://cms.youpass.vn/assets/de225b2f-6b8c-494f-97fc-f230f59e3570",
+  "source_artifact": "research/expansion/insights/vol-16.pdf",
+  "source_sha256": "7c7da30ab01eb832b3b172e3a03f48b3fe6dd530df2189a3ae87b2308fe0b098",
+  "source_locator": {
+    "volume": 16,
+    "cover_page": 36,
+    "original_pages": [
+      37,
+      38
+    ]
+  },
+  "path": "library/task2/insights-v16-p36-task2.json",
+  "task_type": "essay",
+  "duplicate_group": "insights-v16-p36-task2",
+  "prompt_group": "608dc99f30cab279",
+  "quality_issues": [],
+  "accessed_at": "2026-09-21",
+  "essay_images": [
+    "research/expansion/insights/pages/vol-16-p37.png",
+    "research/expansion/insights/pages/vol-16-p38.png"
+  ],
+  "question_image": "research/expansion/insights/pages/vol-16-p36.png",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-16-p36.png",
+    "research/expansion/insights/pages/vol-16-p39.png",
+    "research/expansion/insights/pages/vol-16-p40.png",
+    "research/expansion/insights/pages/vol-16-p41.png",
+    "research/expansion/insights/pages/vol-16-p42.png",
+    "research/expansion/insights/pages/vol-16-p43.png",
+    "research/expansion/insights/pages/vol-16-p44.png",
+    "research/expansion/insights/pages/vol-16-p45.png",
+    "research/expansion/insights/pages/vol-16-p46.png",
+    "research/expansion/insights/pages/vol-16-p47.png",
+    "research/expansion/insights/pages/vol-16-p48.png",
+    "research/expansion/insights/pages/vol-16-p49.png"
+  ],
+  "trait_label_status": "Cover visually checked; explicit criterion headers cross-checked in native PDF text.",
+  "teacher_advice_caveat": "Paragraph and word-count advice in the correction report is teacher guidance, not extra official band rules.",
+  "extraction": "Use the preserved original images. No teacher corrections inserted into the original.",
+  "added_after_test_input_lock": true
+}

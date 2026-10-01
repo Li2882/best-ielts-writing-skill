@@ -1,0 +1,92 @@
+{
+  "id": "insights-v11-p39-task1",
+  "task": "task1",
+  "task_type": "bar",
+  "path": "library/task1/insights-v11-p39-task1.json",
+  "question": "The charts below give information about the price of tickets on one airline between Sydney and Melbourne, Australia, over a two-week period in 2013.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-11-p39.png",
+      "sha256": "f6dc91d4dfecdacee8ffa26c66a65c0bc83eac16b4d21ea0b9249e0c68e7a076"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-11-p40.png"
+  ],
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TA": 7,
+    "CC": 7,
+    "LR": 8,
+    "GRA": 9
+  },
+  "comments": null,
+  "source_url": "https://cms.youpass.vn/assets/28835829-efbd-44ed-9cbf-fe0c377828e6?",
+  "source_artifact": "research/expansion/insights/vol-11.pdf",
+  "source_sha256": "45ac7c4b0303e1a93a402ef237fafb27d6daf60a7babe0dd298e224ba4c272e1",
+  "source_locator": {
+    "volume": 11,
+    "cover_page": 39,
+    "original_pages": [
+      40
+    ],
+    "report_last_page": 46
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "Tony Grace is named in the correction report. The publisher says its academic team submits these originals to him for individual marking and describes him as a former IDP examiner. This is a practice assessment, not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "quality_issues": [],
+  "duplicate_group": "insights-v11-p39-task1",
+  "prompt_group": "0c5bb4ac802db5af",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "author_type": "teacher",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-11-p39.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-11-p39.png",
+    "research/expansion/insights/pages/vol-11-p41.png",
+    "research/expansion/insights/pages/vol-11-p42.png",
+    "research/expansion/insights/pages/vol-11-p43.png",
+    "research/expansion/insights/pages/vol-11-p44.png",
+    "research/expansion/insights/pages/vol-11-p45.png",
+    "research/expansion/insights/pages/vol-11-p46.png"
+  ],
+  "score_page": 39,
+  "score_evidence": [
+    {
+      "page": 39,
+      "text": " \nIELTS Corrections \nPage 1 of 8 \nFor more IELTS advice go to Succeed in IELTS with Tony  \n15 June 2024 \nĐây là nội dung được xuất bản bởi trung tâm IELTS 1984. Các bạn có thể \nđọc thêm nhiều bài mẫu, với hướng dẫn viết bài chi tiết từ số 0, tại \nwebsite trung tâm nha. \nhttps://ielts1984.vn/tong-quan-ve-ielts/ielts-writing-task-2 \nQR code: \n \n \nOVERALL BAND SCORE   \n7.5  \n7+7+8+9 \nSEE BELOW C&C LR GRA \n \nMODEL ANSWER \nWRITING TASK 1 \nThe charts below give information about the price of tickets on one \nairline between Sydney and Melbourne, Australia, over a two-week \nperiod in 2013. \n \n"
+    },
+    {
+      "page": 41,
+      "text": " \nIELTS Corrections \nPage 3 of 8 \nFor more IELTS advice go to Succeed in IELTS with Tony  \n15 June 2024 \nOVERALL BAND SCORE   \n7.5  \n7+7+8+9 \nTA – Task Achievement nb – GRA and LR errors have not been corrected \nBand score 7 \nThis is a difficult question.  It’s different to most questions and it’s difficult \nto avoid making the description of the daily changes sound mechanical – \nbottoming out at $35, then rising to $60 by Friday and leveling off at $50 \ntowards the weekend.  See my comments and suggestions under C&C. \nYou covered the requirements of the task.   \nThere is a clear overview but I’d give more information – note my \nsuggestions. \nYou summarised the information accurately. \n \n \n \nRECOMMENDED LAYOUT FOR TASK 1 ANSWERS \n•  Write an introduction paraphrasing the information provided.  If \npossible, change the structure from a noun phrase to a noun clause \n(change the chart gives information about the number of to the chart \nshows how many […] ). \n• Write a clear overview of the main trends, differences, and stages.  \nIf there are trends and differences (ie if there are changes over time), \ngive some information about both.  If there are only differences, as \nin questions with no time scale, provide differences of more than \none type.   \n• Put the overview after the introduction in a separate paragraph.  \nDon’t hide it in the introduction or at the end, as it’s the first thing \nthe examiner looks for. \n"
+    }
+  ],
+  "extraction": "Use only the Your answer / Original answer section in the specified pages. Later TA/TR, CC, LR and GRA sections contain marked copies and rewrites. Front-of-magazine teaching versions are not the scored original. OCR only locates content; inspect original images.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "published_cover_traits": {
+    "TA": 7,
+    "CC": 7,
+    "LR": 8,
+    "GRA": 9
+  },
+  "trait_label_status": "Criterion pages cross-checked against cover and retained with full report; original and report images retained.",
+  "trait_evidence_path": "research/trait-calibration/insights-v11-p39-task1.json"
+}

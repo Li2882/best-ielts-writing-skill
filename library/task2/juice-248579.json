@@ -1,0 +1,86 @@
+{
+  "id": "juice-248579",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248579.json",
+  "question": "Today, more and more tourists are visiting places where conditions are difficult such as the Sahara Desert or the Antarctic.\nWhat are the benefits and disadvantages for tourists who visit such places?",
+  "essay": "These days, there is an unquenchable thirst for travelling to inhospitable terrain and wildlife. While in recent years, these expeditions have increased due to the advance of transportation, they can result in life-threatening issues. In the following essay, I will discover both positives and negatives of these areas.\n\nTo begin with, most adventurous individuals are engaged to becoming familiar with less-visited terrains and they have a strong desire to know some unknown species. Moreover, fauna and flora can always captivate all viewers across the globe. For instance, large areas of Amazon Forests are untouched, and humans can view wildlife through flying over the forests which offers not only a breath-taking scenery to all spectaculars, but also developing the humans’ environmental knowledge regarding the less-visited nature.\n\nTurning to other side of the argument, because of the pressure forces on traveler’s body, these expeditions could lead to some threatening issues and deteriorate peoples’ prior health conditions, such as blood pressure. In addition, some wild species can attack the humans as people are trespassing their territory. For instance, the poison of most snakes is lethal and the one who has been bitten could be in danger of death. However, these expeditions have been facilitated with professional and expert tour leaders who knows the areas and could save people’s lives.\n\nTo sum up, although there are inherent drawbacks in viewing fierce nature, especially life-threatening ones, I believe it could be more advantageous due to captivating viewers and knowledge development in environmental areas.",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TR": 8.0,
+    "CC": 6.0,
+    "LR": 5.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you indeed for writing this essay. Here’s a good read:",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "8.0\tsufficiently addresses all parts of the task",
+      "8.0\tpresents a well-developed response to the question",
+      "8.0\twith relevant, extended, and supported ideas",
+      "8.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "6.0\tmay not always use referencing clearly or appropriately",
+      "6.0\tuses paragraphing, but not always logically",
+      "6.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "6.0\tattempts to use less common vocabulary but with some inaccuracy",
+      "6.0\tmakes some errors in spelling and/or word formation",
+      "5.0\tthat may cause some difficulty for the reader",
+      "5.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.0"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3218-band-6-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248579.html",
+  "source_sha256": "da0a2079b7dee8621bd95b30469e58ca265da16f0dd3e042853ebde55def8a17",
+  "source_locator": {
+    "wordpress_post_id": 248579,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "7230bc749da5f7f5",
+  "prompt_group": "4e78fa5b21259dcf",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

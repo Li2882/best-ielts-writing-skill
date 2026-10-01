@@ -1,0 +1,56 @@
+{
+  "id": "blog-8ecb4400a83c",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-8ecb4400a83c.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-people-should-not-work-beyond-the-retirement-age-agree-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-people-should-not-work-beyond-the-retirement-age-agree-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "9af93b885d066a70",
+  "prompt_group": "761946f1a9d88d81",
+  "question": "Some believe that people should not continue to work once they reach the age of retirement. Do you agree or disagree? Give reasons for your answer and include relevant examples from your experience.",
+  "essay": "In recent years, with the improvement in healthcare sector and better living standards, people are able to live longer and contribute to the economic progress of a nation more, compared to the past. Some see this as an entirely positive development, while others point out the drawbacks of working beyond the retirement age.\n\nDelaying retirement enables individuals to actively contribute to the society. On a personal level, working past retirement age provides an avenue for individuals to remain not only physically but also mentally active. Moreover, this option empowers the ageing population to be financially independent and economically self-sustainable past retirement age. In countries with growing ageing population such as Singapore, for instance, citizens are given an option to work beyond their retirement age based on the demands of their job and their capability to handle these tasks. Hence, working beyond retirement age empowers workers, ensures economic progression of the nation, and alleviates the challenges faced by an ageing population.\n\nOn the flip side, working beyond the retirement age may result in adverse health impacts on workers and a decrease in productivity levels. In Japan, the suicide rates have recently been increasing due to rising stress levels at work faced by the ageing population who are pushed to work beyond their optimal capacity. Escalating stress levels from work leads to various health complications putting a strain on the healthcare system. Hence, working beyond retirement age may worsen the overall welfare of individuals and adversely impact the economy.\n\nTo sum up, though working beyond retirement age imposes health hazards leading to reduction in productivity levels, it seems to me that the benefits far outweigh the disadvantages. In my opinion, by assessing the capability of individuals and tailoring their jobs to their health profile, firms and companies should actively involve their workers to be productive beyond their retirement age.",
+  "word_count_computed": 307,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay is an excellent example of IELTS Band 8 writing. The author presents sound arguments making his/her point of view very clear, examples are being used to support the writer’s points and the organisation of information is handled very well. There are some minor inaccuracies, however, they wouldn’t affect the score much in the real test. Well done!",
+  "corrections": [
+    {
+      "original": "living standards",
+      "suggestion": "use ‘standards of living’ instead"
+    },
+    {
+      "original": "leads",
+      "suggestion": "the correct verb form here is ‘lead’ because it refers to ‘stress levels’"
+    },
+    {
+      "original": "imposes",
+      "suggestion": "it is better to say ‘may impose’ because the outcome is not 100% certain"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "1537aa5ff99575debfd2bfe34bdac2874d9d8db28f51ae8cc8525520b47b5d97",
+  "model_evidence": null,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "source_context_region": "unknown",
+  "classification_revision": "Book-title advertisement is not evidence of model authorship; explicit sample/model declarations remain excluded."
+}

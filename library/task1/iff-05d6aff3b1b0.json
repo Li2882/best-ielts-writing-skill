@@ -1,0 +1,169 @@
+{
+  "id": "iff-05d6aff3b1b0",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/iff-05d6aff3b1b0.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-academic-task-1-band-5-sample-answer-1/",
+  "source_locator": "research/forfree/ielts-academic-task-1-band-5-sample-answer-1.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "7ca38d284132803a",
+  "prompt_group": "8900c11f9c0ab6a1",
+  "question": "You should spend about 20 minutes on this task.\nThe chart below shows how people travelled to work in 1996 and 2001.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "As can we seen on this chart, there is a dramatic increased of people who used car or truck in compare to other kind of transport on both years with almost 70% on 2001 and just below 60% in 1996. With the other type of transport there were far behind of less than 15% on the same years.\n\nPeople who based their job at home and rides bicycle in 2001 for work are slightly higher in compare to other periods and all other type of transport are dominated by 1996 period . Personnel who are using there own car in 1996 are up by more than 10% in compare to approximately 5%. With the same year the number of people who walked, public transport user and other way of transport are higher compared to other year.",
+  "word_count_computed": 135,
+  "images": [
+    {
+      "source_url": "https://www.ieltsforfree.com/wp-content/uploads/2026/08/task-1-grahamston.png",
+      "path": "library/assets/54ce267aeb5c8019.png",
+      "sha256": "f105663a1efdb180d861282ce38bda3877eabd2dd1126b3ba9929d1fa5374a95"
+    }
+  ],
+  "overall": 5.0,
+  "band_low": 5.0,
+  "band_high": 5.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Academic Task 1 Band 5 sample answer 1\nThis report is too short for the requirements of the task, and there is no clear academic structure (no introduction, no ending statement and no 'overall' description).\nAlthough some sentences are quite long, they are not clear and often lose meaning. It would be better to write shorter, clearer sentences divided into paragraphs.\nAs the graph has two past dates, the tenses used should be the past forms, but the writer uses a mix of past and present forms.",
+  "corrections": [
+    {
+      "original": "we",
+      "suggestion": "\"be\""
+    },
+    {
+      "original": "on",
+      "suggestion": "\"in\""
+    },
+    {
+      "original": "is",
+      "suggestion": "\"was\" (it's in the past)"
+    },
+    {
+      "original": "increased of people",
+      "suggestion": "\"increase in the percentage of people\""
+    },
+    {
+      "original": "car or truck",
+      "suggestion": "either \"cars or trucks\" or \"a car or a truck\""
+    },
+    {
+      "original": "compare",
+      "suggestion": "\"comparison\""
+    },
+    {
+      "original": "kind",
+      "suggestion": "\"kinds\""
+    },
+    {
+      "original": "on",
+      "suggestion": "\"in\""
+    },
+    {
+      "original": "With",
+      "suggestion": "delete this"
+    },
+    {
+      "original": "type",
+      "suggestion": "\"types\""
+    },
+    {
+      "original": "there",
+      "suggestion": "delete this"
+    },
+    {
+      "original": "of",
+      "suggestion": "\"with\""
+    },
+    {
+      "original": "on",
+      "suggestion": "\"in\""
+    },
+    {
+      "original": "and rides",
+      "suggestion": "\"or rode\""
+    },
+    {
+      "original": "bicycle",
+      "suggestion": "\"a bicycle\""
+    },
+    {
+      "original": "for",
+      "suggestion": "\" to work, not for it\""
+    },
+    {
+      "original": "are",
+      "suggestion": "\"were\""
+    },
+    {
+      "original": "compare",
+      "suggestion": "\"comparison\""
+    },
+    {
+      "original": "type",
+      "suggestion": "\"types\""
+    },
+    {
+      "original": "1996 period",
+      "suggestion": "this isn't clear - how did it \"dominate\" the year?"
+    },
+    {
+      "original": "Personnel",
+      "suggestion": "a good attempt at avoiding repetition, but this means that all of the people were employees , which is not given in the graph - they could be self-employed"
+    },
+    {
+      "original": "are using",
+      "suggestion": "\"used\""
+    },
+    {
+      "original": "there",
+      "suggestion": "\"their\""
+    },
+    {
+      "original": "up by",
+      "suggestion": "\"increased by\""
+    },
+    {
+      "original": "in compare",
+      "suggestion": "\"compared\""
+    },
+    {
+      "original": "With",
+      "suggestion": "\"in\""
+    },
+    {
+      "original": "public transport user",
+      "suggestion": "\"used public transport\""
+    },
+    {
+      "original": "and",
+      "suggestion": "\"or\""
+    },
+    {
+      "original": "way",
+      "suggestion": "\"ways\""
+    },
+    {
+      "original": "are",
+      "suggestion": "\"were\""
+    },
+    {
+      "original": "other",
+      "suggestion": "\"the other\""
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "ab40024a7f5822e815519525b1f7e3a82e7857e27007b20679dc7370f8efe17c"
+}

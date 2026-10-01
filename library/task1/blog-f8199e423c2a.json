@@ -1,0 +1,59 @@
+{
+  "id": "blog-f8199e423c2a",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-f8199e423c2a.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-two-bar-graphs-showing-how-often-people-exercised-europe-2016/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/b9ffdfa8b574c38a.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "e059f449ddf936d1",
+  "prompt_group": "a8a92f6d769e7939",
+  "question": "The graphs below show how often people exercised in Europe in 2016, by age group and gender. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/taiwan-ac-writing-t1-exercise-europe-men.jpg",
+      "path": "library/assets/5d86cae3501a2b7b.jpg",
+      "sha256": "14704715d87acee0fc980535f13593afa81624c5a442a038a60327189d87e82a"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/taiwan-ac-writing-t1-exercise-europe-women1.jpg",
+      "path": "library/assets/5feedfd2f234ee47.jpg",
+      "sha256": "a88edbe73aaa7d1a43f0730cd8f51382334d531648fa48e3d65a083a7df26678"
+    }
+  ],
+  "essay": "Band 8.5 Model Answer\n\nThe bar graphs describe the frequency with which men and women in Europe engaged in physical activity in 2016. The participants are split into 4 age groups (15-24, 25-30, 40-54 and 55+ years old) and the data is presented in percentages.\n\nIt can be clearly seen that for both men and women regularity of exercise dropped with age, and the percentage of people who never engaged in physical activity increased, peaking in the oldest age group.\n\nTaking a closer look at men, the highest percentage (60%) of the youngest men aged 15-24 exercised semi-regularly and the rest were split into almost equal shares, with 12% exercising regularly, 13% seldom and 15% never. In the other age groups, regular exercise was the least common at roughly 7%. Exercising semi-regularly was the dominant proportion in the 25-39 year old group at 43%, and the shares of people who seldom or never exercised were quite close at 20% and 27% respectively. Most of the 40-54 year olds either exercised semi-regularly (36%) or not at all (39%). In the oldest age group only 21% exercised semi-regularly and the vast majority (nearly 60%) didn’t train at all.\n\nCompared to men, women engaged in physical activity less, with only about 37% of the youngest age group doing semi-regular exercise and 27% avoiding physical activity. It was rare for women of all ages to exercise regularly, as only 2%-4% did it. In the 25-39 year old cohort the proportions of women doing sports semi-regularly and never were very close, at 37% and 45% respectively. Half of the 45-54 year olds never exercised and only 26% trained semi-regularly. The 55+ year old women were most likely to never exercise (63%) and just about 18% being physically active semi-regularly.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 294,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "839e0ddf8ed65a152971f2c228dc297a74902ec441f399328407307e6c334d72",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5
+}

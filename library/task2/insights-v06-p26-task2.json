@@ -1,0 +1,69 @@
+{
+  "id": "insights-v06-p26-task2",
+  "task": "task2",
+  "question": "In many countries, people like to eat a wider variety of food than can be grown in their local area. As a result, much of the food people eat today has to come from other regions. Do you think the advantages of this development outweigh disadvantages?",
+  "essay": null,
+  "overall": 8,
+  "band_low": 8,
+  "band_high": 8,
+  "traits": {
+    "TR": 8,
+    "CC": 8,
+    "LR": 8,
+    "GRA": 9
+  },
+  "score_source": "verified_human",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "rater_evidence": "Publisher submits academic-team originals to Tony Grace; original, explicit overall and correction report verified in the public PDF. Practice assessment, not an official test result.",
+  "author_group": "unknown",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "source_url": "https://cms.youpass.vn/assets/6d18069d-3832-431e-bce6-161dee8626af",
+  "source_artifact": "research/expansion/insights/vol-06.pdf",
+  "source_sha256": "21520c8327b8a26e33ce4ca08db6952e343be16e72b6454f89a0f4a344af6a8d",
+  "source_locator": {
+    "volume": 6,
+    "cover_page": 26,
+    "original_pages": [
+      27,
+      28
+    ]
+  },
+  "path": "library/task2/insights-v06-p26-task2.json",
+  "task_type": "essay",
+  "duplicate_group": "insights-v06-p26-task2",
+  "prompt_group": "b5769f2a837d3451",
+  "quality_issues": [],
+  "accessed_at": "2026-09-21",
+  "essay_images": [
+    "research/expansion/insights/pages/vol-06-p27.png",
+    "research/expansion/insights/pages/vol-06-p28.png"
+  ],
+  "question_image": "research/expansion/insights/pages/vol-06-p26.png",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-06-p26.png",
+    "research/expansion/insights/pages/vol-06-p29.png",
+    "research/expansion/insights/pages/vol-06-p30.png",
+    "research/expansion/insights/pages/vol-06-p31.png",
+    "research/expansion/insights/pages/vol-06-p32.png",
+    "research/expansion/insights/pages/vol-06-p33.png",
+    "research/expansion/insights/pages/vol-06-p34.png",
+    "research/expansion/insights/pages/vol-06-p35.png",
+    "research/expansion/insights/pages/vol-06-p36.png",
+    "research/expansion/insights/pages/vol-06-p37.png",
+    "research/expansion/insights/pages/vol-06-p38.png",
+    "research/expansion/insights/pages/vol-06-p39.png"
+  ],
+  "evaluation_role": "v14_diagnostic_development",
+  "teacher_advice_caveat": "Assessor paragraph preferences and personal agreement are not extra official criteria.",
+  "trait_label_status": "Criterion pages cross-checked against cover and retained with full report; original and report images retained.",
+  "trait_evidence_path": "research/trait-calibration/insights-v06-p26-task2.json"
+}

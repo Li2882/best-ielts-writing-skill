@@ -1,0 +1,114 @@
+{
+  "id": "blog-4533ab4fe0b8",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-4533ab4fe0b8.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-7/ielts-essay-topic-internet-connecting-people/",
+  "source_locator": "research/blog/ielts-essay-topic-internet-connecting-people.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "a05b4f69b8e5b9a7",
+  "prompt_group": "18fd85b6b5d80be1",
+  "question": "Some people say that the Internet is making the world smaller by bringing people together. To what extent do you agree that the internet is making it easier for people to communicate with one another?",
+  "essay": "In today’s world due to the advancement of technology new inventions are coming into existence. It is true that ‘Necessity is a mother of invention’. Internet is just like a wonder box, which contains every type of information. Besides it has also proved as a very important tool to connect people with one another. In other hand today’s young generation mostly prefers to do chatting through the Internet. During such chatting we can write messages and get replies straight away. Moreover voice chatting is going to be very popular day-by-day.\n\nIn today’s modernized era nobody has sufficient time to write letters to their loved ones. Moreover it also takes longer to send or receive any information. But the Internet is the easiest way to send messages to our loved ones. Communication can be either in the form of e-mail or through text messages sent via internet to mobile phones. We can send and receive messages straight way.\n\nTo conclude, I would like to say that the Internet is one of the most modernized and most successful tools, not only for communication, even to get most relevant information regarding every field in a very short period of time.",
+  "word_count_computed": 197,
+  "images": [],
+  "overall": null,
+  "band_low": null,
+  "band_high": null,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a great essay, well done! Remember, ‘the Internet’ is a proper noun, currently, there is only one. Pay attention to your punctuation – many commas are missing after linking words. Otherwise, the essay is well argued and set out.",
+  "corrections": [
+    {
+      "original": "_",
+      "suggestion": ","
+    },
+    {
+      "original": "_",
+      "suggestion": "The"
+    },
+    {
+      "original": "Besides ",
+      "suggestion": "Besides,"
+    },
+    {
+      "original": "as",
+      "suggestion": "to be"
+    },
+    {
+      "original": "Moreover",
+      "suggestion": "Moreover,"
+    },
+    {
+      "original": ". But ",
+      "suggestion": ", but"
+    },
+    {
+      "original": "internet ",
+      "suggestion": "the Internet"
+    },
+    {
+      "original": "way",
+      "suggestion": "away"
+    },
+    {
+      "original": "In other hand",
+      "suggestion": "On the other hand,"
+    },
+    {
+      "original": "Moreover ",
+      "suggestion": "Moreover,"
+    },
+    {
+      "original": "going to be very popular day-by-day",
+      "suggestion": "becoming more popular every day"
+    },
+    {
+      "original": "As it is a reality",
+      "suggestion": "In reality"
+    },
+    {
+      "original": "which usually runs parallel. So like other things internet",
+      "suggestion": "so as any other thing the Internet"
+    },
+    {
+      "original": "have ",
+      "suggestion": "has"
+    },
+    {
+      "original": "like ",
+      "suggestion": "such as"
+    },
+    {
+      "original": "for example,",
+      "suggestion": "including"
+    },
+    {
+      "original": "to participating",
+      "suggestion": "to participate"
+    },
+    {
+      "original": "communication, even to get most relevant information",
+      "suggestion": "communication, but also for getting the most relevant information"
+    }
+  ],
+  "quality_issues": [
+    "no_explicit_band_in_comment"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "1ddbbb226b4ae311427ed572e4aeff999e705220b11ed56481b9da56b360aeca",
+  "model_evidence": null
+}

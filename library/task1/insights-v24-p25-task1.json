@@ -1,0 +1,82 @@
+{
+  "id": "insights-v24-p25-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/insights-v24-p25-task1.json",
+  "question": "The diagrams below show the development of the horse over a period of 40 million years. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_transcription": "Transcribed from original prompt cover; original page remains authoritative.",
+  "essay": "The diagrams give information about horse evolution from 40 million years ago to today. Overall, over the past 40 million years, the horse has evolved from a small quadruped into a much larger one, with the most noticeable changes being those to the foot structure, which gradually evolved into a hoof. The first ancestor shown is called the Eohippus, which existed 40 million years ago. It was a small four-legged animal, bearing little resemblance to the modern horse and featuring four separate digits on each foot After 10 million years, it had been superseded by Mesohippus, which was slightly larger and had a longer neck. In addition, it had evolved to walk on only three toes, with its middle on being slightly enlarged. The subsequent ancestor is called the er chippus, which lived around 15 million years ago. Its size had increased urther, and it had a pronounced mane. Its middle digit had also grown significantly, becoming a markedly larger proportion of the foot. The modern horse is by far the largest of its lin»g,syvith a long thick tail and full mane. Finally, its toes appear have merged into a single hoof. c",
+  "essay_images": [
+    "research/expansion/insights/pages/vol-24-p26.png"
+  ],
+  "reading_transcript": null,
+  "transcript_status": "Image original only; watermark causes OCR errors, so OCR is not a replacement essay.",
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-24-p25.png",
+      "sha256": "9722ebb953bdf9b2ae95c281b9c530faf87f46e338d5347aaca3387c81b5cd31"
+    }
+  ],
+  "question_image": "research/expansion/insights/pages/vol-24-p25.png",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {
+    "TA": 9,
+    "CC": 8,
+    "LR": 9,
+    "GRA": 9
+  },
+  "comments": "See original marked criterion pages. Cover and section scores have been cross-checked; conflicts are recorded separately.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-24-p25.png",
+    "research/expansion/insights/pages/vol-24-p27.png",
+    "research/expansion/insights/pages/vol-24-p28.png",
+    "research/expansion/insights/pages/vol-24-p29.png",
+    "research/expansion/insights/pages/vol-24-p30.png",
+    "research/expansion/insights/pages/vol-24-p31.png",
+    "research/expansion/insights/pages/vol-24-p32.png"
+  ],
+  "source_url": "https://insight.ielts1984.vn/vol/24/#page-25",
+  "source_artifact": "research/expansion/insights/pages/vol-24-p25.png",
+  "source_sha256": "9722ebb953bdf9b2ae95c281b9c530faf87f46e338d5347aaca3387c81b5cd31",
+  "source_locator": {
+    "volume": 24,
+    "cover_page": 25,
+    "original_pages": [
+      26
+    ],
+    "criterion_pages": [
+      27,
+      29,
+      31,
+      32
+    ],
+    "report_end": 32
+  },
+  "publisher": "IELTS 1984 / IELTS Insights",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher-authored original separately assessed by Tony Grace in the attached IELTS Corrections report; practice assessment, not a certified examination result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_type": "teacher",
+  "author_group": "IELTS 1984 editorial team",
+  "sample_kind": "teacher_model",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "status": "verified",
+  "split": "reference",
+  "quality_issues": [
+    "OCR transcription was visually checked but remains a transcription of the image original."
+  ],
+  "duplicate_group": "insights-v24-p25-task1",
+  "prompt_group": "8db1374ba1c3f6fb",
+  "accessed_at": "2026-09-21",
+  "trait_evidence_path": "research/trait-calibration/insights-v24-p25-task1.json",
+  "teacher_advice_caveat": "Personal views, mandatory paragraph layouts, complex-structure checklists and requests for additional optional ideas are not additional official scoring requirements.",
+  "score_aggregation_note": "Preserve the teacher overall exactly; this publisher often rounds a quarter-band mean downward.",
+  "word_count_computed": 193,
+  "extraction": "Original-answer pages transcribed from the retained page images by OCR; all pages were visually checked on 2026-09-25. Headers, footers and watermarks were removed."
+}

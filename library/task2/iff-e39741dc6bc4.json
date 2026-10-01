@@ -1,0 +1,109 @@
+{
+  "id": "iff-e39741dc6bc4",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/iff-e39741dc6bc4.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-task-2-band-7-sample-answer-3/",
+  "source_locator": "research/forfree/ielts-task-2-band-7-sample-answer-3.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "52f17e538f228b60",
+  "prompt_group": "33bf0475105aa9ef",
+  "question": "Task: Task 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nSome people believe that children spend too much time watching television or playing computer games. They feel that this time could be used more productively. Do you agree? How do you think children should spend their free time?\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\nWrite at least 250 words.",
+  "essay": "In the present scenario of a urban life style where both member of the family are often working long hours to cope up with the financial commitments.\n\nIn this situation, a child who is happy to spent time watching television or playing on a computer leaves the busy parent with more free time, and therefore can ease the angriness that may otherwise develop.\n\nIn addition, children always learn useful skills, especially with regards computer use. As information technology is increasedly important in our daily lives and professional lives, the ability to operate digitial devices with easily is increasingly important and as such is a skill best learned at young age.\n\nHowever, there is arguable that the child will not develop important social skills, as well as having a horrible effect on their health, as they spend increasing amounts of time inside. Yet this can be destroyed somewhat by parents setting time limits on using , and encouraging children to spend at least some time outside in more energetic pursuits or errands.\n\nTo conclude it is in our hands in directing children's to the right areas than having to let them choose and criticise them for their actions. Although technology can potentially be overused, it also has a useful place in the developed and entertained of young people.",
+  "word_count_computed": 216,
+  "images": [],
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Task 2 Band 7 sample answer 3\nThis essay is well structured and well presented with a good range of grammar.\nHowever, some of the vocabulary could be more academically presented ('a horrible effect on health').\nThere are repeated errors with the word family used (developed instead of development).",
+  "corrections": [
+    {
+      "original": "a",
+      "suggestion": "\"an\""
+    },
+    {
+      "original": "life style",
+      "suggestion": "\"lifestyle\""
+    },
+    {
+      "original": "member",
+      "suggestion": "\"members\""
+    },
+    {
+      "original": "cope up with the",
+      "suggestion": "\"meet their\""
+    },
+    {
+      "original": "spent",
+      "suggestion": "\"spend\""
+    },
+    {
+      "original": "angriness",
+      "suggestion": "\"tension\" would be more academic"
+    },
+    {
+      "original": "always",
+      "suggestion": "this is too strong - \"can\""
+    },
+    {
+      "original": "increasedly",
+      "suggestion": "\"increasingly\""
+    },
+    {
+      "original": "easily",
+      "suggestion": "\"ease\""
+    },
+    {
+      "original": "at young",
+      "suggestion": "\"at a young\""
+    },
+    {
+      "original": "there is arguable",
+      "suggestion": "\"it is arguable\""
+    },
+    {
+      "original": "horrible",
+      "suggestion": "too informal for IELTS - \"poor\""
+    },
+    {
+      "original": "destroyed",
+      "suggestion": "\"negated\""
+    },
+    {
+      "original": "using",
+      "suggestion": "\"usage\""
+    },
+    {
+      "original": "conclude",
+      "suggestion": "this needs to be followed by a comma"
+    },
+    {
+      "original": "our",
+      "suggestion": "too personal - you could say \"the parents\""
+    },
+    {
+      "original": "developed and entertained",
+      "suggestion": "\"development and entertainment\""
+    }
+  ],
+  "quality_issues": [
+    "source_word_count_mismatch_possible_truncation"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "2e5264a62b82e562818319ecb9438d40d431acfbcfe2dc6bb755b07bb4b64753"
+}

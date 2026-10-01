@@ -1,0 +1,93 @@
+{
+  "id": "juice-247965",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-247965.json",
+  "question": "The graph compares the percentage of international and the percentage of UK students gaining second class degrees or better at a major UK University.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The bar chart given illustrates the percentage of the UK and international learners who acquired second class degrees or higher in 8 courses at a major UK university in 2009. Evidently, the graph shows that the home students did considerably better in humanistic and social-based disciplines, whereas international postgraduates were more successful in programs related to technology.\n\nEvery four Britons out of five gained master’s degree or higher in sociology and art history, making these two disciplines reach the highest percentages for them. English came next with roughly 75 per cent of all UK students succeeding in academic study of their native language, followed by international law with approximately 70 per cent (versus fewer than one out of two for students from abroad).\n\nConcerning the scholars from abroad, they reached 85 per cent success ratio in information technology, the highest rate across all fields of the studies given. The majority of International postgraduates (80 per cent) acquired second degree or higher also in electrical engineering; whereas in nursing and accountancy, learners of both categories achieved the same shares (75 per cent and 60 per cent respectively).\n\nIn brief, the success rate of both groups of students was 45 per cent or higher in all disciplines in question.",
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TA": 6.0,
+    "CC": 7.0,
+    "LR": 7.0,
+    "GRA": 8.0
+  },
+  "comments": "Thank you indeed for writing this report. This report suffers from a couple of factual mistakes. The report must completely reflect the data presented on the visual; in addition to that, all IELTS reports must not include information from external sources, i.e. personal or professional experience, judgement, or interpretation.",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "8.0\tcovers all requirements of the task sufficiently",
+      "8.0\tpresents, highlights and illustrates key features clearly and appropriately",
+      "6.0\tdetails may be irrelevant, inappropriate, or inaccurate",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "6.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "8.0\tmanages all aspects of cohesion well",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "7.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "9.0\tuses a wide range of structures",
+      "8.0\tthe majority of sentences are error-free",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tcommunication is completely natural",
+      "8.0",
+      "7.0"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-247965-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2023/09/ielts-juice-writing-task-1-sample-3310-band-7.jpg",
+      "sha256": "fa9573cd120c9489a40d8ca90e1e89459572ef1bbdea353cfaecf0028d5c6d43"
+    }
+  ],
+  "question_image": "library/assets/juice-247965-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3310-band-7-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-247965.html",
+  "source_sha256": "dd25f9f6178092c3b2969a8e74b001a05bbcbcfa721e03ae76eabdbdd49c23e5",
+  "source_locator": {
+    "wordpress_post_id": 247965,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "d53f4e451dc97353",
+  "prompt_group": "a652cf82cbff88bf",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

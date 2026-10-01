@@ -1,0 +1,42 @@
+{
+  "id": "blog-1c07f81fba26",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-1c07f81fba26.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-in-many-countries-food-is-wasted-reasons-solutions/",
+  "source_locator": "research/blog/ielts-essay-topic-in-many-countries-food-is-wasted-reasons-solutions.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "teacher_model",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "69bfd025d614d656",
+  "prompt_group": "daa5563fb75e31a0",
+  "question": "In many countries, a lot of food is wasted. Why do people waste food? How can we reduce the amount of food waste?",
+  "essay": "Despite the fact that millions of people in the world go hungry every day, a surprisingly large amount of food gets wasted daily in certain parts of the world. In my opinion, the main reason for this is that people in the first-world countries tend to only buy food that is aesthetically pleasing, and fortunately, there are some ways to tackle this issue.\n\nIt is shockingly sad to know that large amounts of perfectly edible food in the form of fresh produce get sent to landfills, and the main reason for this is that these foods do not meet the standards of perfection set for fruits and vegetables by consumers and grocery stores. For example, veggies and fruit that are misshapen or have a few spots on them are still good enough to eat, yet they are often left on shelves to rot in favour of something that looks less damaged. In addition, a lot of customers confuse the ‘best by’ and ‘use by’ dates, thinking that foods that have passed their ‘best by’ dates are no longer fit to eat. Another major reason for food wastage is that people often overestimate the amount of produce they require on a weekly or monthly basis, and most of it ends up getting thrown out instead of being used.\n\nThere are many ways to reduce the amount of food being wasted, and I think one of the best ideas is to increase people’s awareness of just how much good food is disposed of, only because of our superficial biases as to how food should look. Raising the awareness of the staggering number of people that go hungry in third-world countries would make it harder to throw away an apple just because it is a little bruised. Also, teaching people how to better plan their monthly food requirements would help them not to overspend on food that they do not need; it would be great for the environment and their budget. The role of the government in this endeavour is indispensable as such task would be too great for any smaller organisation.\n\nTo conclude, the wasting food is a serious issue that merits increased awareness from both people and the leaders of the world. It is unacceptable to discard any food when there are so many people who are starving, and hopefully our joint effort can help improve the current situation.",
+  "word_count_computed": 398,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay topic was seen in a recent IELTS test in South Korea",
+  "corrections": [],
+  "quality_issues": [
+    "no_explicit_band_in_comment",
+    "teacher_model_not_scored_candidate"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "36635032e37795c21b0a609ba981238d972c5dbeced007760f54049f5187eae7",
+  "model_evidence": " data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20336%20280'%3E%3C/svg%3E  https://www.ielts-blog.com/images/banners/target-band-7-banner-new.jpg"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "blog-76612edfb620",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-76612edfb620.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-childcare-training-courses-should-be-mandatory-for-all-parents-agree-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-childcare-training-courses-should-be-mandatory-for-all-parents-agree-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "ba0262cebc71c637",
+  "prompt_group": "42866055fabd2768",
+  "question": "Childcare training courses should be mandatory for all parents. Do you agree or disagree with this statement? Give your own opinion and include relevant examples.",
+  "essay": "It is true that parents need some knowledge and experience in order to raise their kids in an appropriate way. In this regard, many families attend different training courses. While I agree that these courses might be useful for some of them, I totally disagree with the recommended obligatory pattern of such training.\n\nOn the one hand, training courses usually offered by governments could be very useful for those guardians who have a kid with special needs. For example, if a child has a birth defect or has been diagnosed with any mental or musculoskeletal disorders, these kinds of training could be lifesaving. Additionally, as we know, the first few months after birth are really a crucial period of a child’s life; parents should obtain different information related to their child’s vaccinations, common health problems, different developmental issues and so on, which can be delivered through such training courses.\n\nOn the other hand, I believe that making these programs as a mandatory option would cause several problems for societies and individuals as well. To begin with, in order to achieve this goal, many professionals should be trained which may not be affordable for some governments. From an individual’s point of view, this kind of mandatory programs could be very time-consuming for some families who have other kids at home or who work long hours. The other important consideration is that parent training courses may not provide all the necessary information for each and every family. To be more specific, parents could get more beneficial information through different websites such as YouTube according to their own preferences.\n\nIn conclusion, although I believe that many families can take advantage from training courses, I do believe that making them as a compulsory option for everyone is too time and money-consuming for individuals and governments.",
+  "word_count_computed": 301,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "The introduction is very good and relevant. The writer’s position is balanced, relevantly and properly developed in two body paragraphs. The conclusion summarizes both sides of the argument and logically finished the essay. To maintain the necessary level of formality the word ‘kids’ should be replaced with ‘children’ everywhere in this essay. The use of prepositions needs more attention as some are inappropriate or incorrect. The length could be reduced – it’s not necessary to write a very long essay to get a higher score, and often it is better to write a shorter essay (no shorter than 250 words though!) but spend more time proofreading, correcting errors and improving the quality of writing. Overall this essay is likely to score Band 8 in IELTS.",
+  "corrections": [
+    {
+      "original": "kids",
+      "suggestion": "use the word ‘children’ to maintain the necessary level of formality in your essay"
+    },
+    {
+      "original": "pattern",
+      "suggestion": "‘nature’ or ‘character’ is the right word to use here"
+    },
+    {
+      "original": "kid",
+      "suggestion": "child"
+    },
+    {
+      "original": "as",
+      "suggestion": "‘as’ isn’t needed here"
+    },
+    {
+      "original": "mandatory",
+      "suggestion": "using the word ‘compulsory’ will help to avoid repetition of ‘mandatory’"
+    },
+    {
+      "original": "kids",
+      "suggestion": "use ‘children’ to maintain formality"
+    },
+    {
+      "original": "from",
+      "suggestion": "‘of’ is the right preposition to use here"
+    },
+    {
+      "original": "as",
+      "suggestion": "‘as’ isn’t needed here"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "b1fa92684ad58257ae014bc0d9952aba5ae7cbfb21ce116bc8fbc366cba27a11",
+  "model_evidence": null,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "source_context_region": "unknown",
+  "classification_revision": "Book-title advertisement is not evidence of model authorship; explicit sample/model declarations remain excluded."
+}

@@ -1,0 +1,93 @@
+{
+  "id": "juice-249754",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-249754.json",
+  "question": "The graph below shows different sources of air pollutants in the UK from 1990 to 2005.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The three sources of fumed gases polluting the air in the UK in the period of 1990 to 2005 is compared in the given line chart.\n\nOverall , it is abundantly clear that during the 15 years , total air pollutants were decreased . While the majority of greenhouse gases were originated from industry in the entire survey , households were minor responsible for producing these contaminants.\n\nIf we look at the total air pollutants , we can see that in 1990 seven million tonnes of pollutants were emitted into the air . Although this amount was remained almost stable from 1990 to 2002 , the figure reached to about the half of the initial amount (to about 3.5 million tonnes) . The industry was the main sector which produced the main fumed gases , with almost 5.5 million tonnes in 1990 . From 1993 to 1996 , the number significantly decreased to about three million tonnes , and then countinued to dip slowly to the final two million tonnes.\n\nLooking at the domestic sectors , we observe that the figure fluctuated between just below one and just above zero . However , in the whole study , the gases , releasing from transport sectors , was remained unchanged at account one million tonnes .",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TA": 8.0,
+    "CC": 7.0,
+    "LR": 6.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you indeed for writing this report. The response requires attention to subject-verb agreement, word choice, sentence structure, and grammatical accuracy. Making these adjustments will enhance the clarity and precision of the report. For instance, Original: \"However, in the whole study, the gases, releasing from transport sectors, was remained unchanged...\" Suggested: \"However, throughout the entire study, the gases released from the transport sectors remained unchanged...\" or Original: \"The three sources of fumed gases polluting the air in the UK in the period of 1990 to 2005 is compared...\" Suggested: \"The three sources of gases polluting the air in the UK from 1990 to 2005 are compared...\" The subject \"three sources\" is plural, so the verb should also be plural (\"are compared\"). Also, the verbs \"originate\" and \"remain\" are intransitive in their sentences.\nVideo Feedback",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "8.0\tcovers all requirements of the task sufficiently",
+      "8.0\tpresents, highlights and illustrates key features clearly and appropriately",
+      "9.0\tdetails are fully and clearly extended.",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "8.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "7.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "6.0\tmakes some errors in spelling and/or word formation",
+      "6.0\tthey do not impede communication",
+      "6.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.5"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-249754-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2023/11/IELTS-JUICE-IELTS-Writing-Task-1-report-sample-3105–-Band-7.0.jpg",
+      "sha256": "da43ebe67fec1d3194f721b758eb4c97e4fe8e37de52dcd74a116fafb2cb13be"
+    }
+  ],
+  "question_image": "library/assets/juice-249754-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3105-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-249754.html",
+  "source_sha256": "82e0e1edd9899ee1e277de9c1914f4521024afe71856932013dc4eed2472249c",
+  "source_locator": {
+    "wordpress_post_id": 249754,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "35d540492c61913d",
+  "prompt_group": "a932a9e436a08909",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

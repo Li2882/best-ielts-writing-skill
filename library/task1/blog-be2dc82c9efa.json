@@ -1,0 +1,74 @@
+{
+  "id": "blog-be2dc82c9efa",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-be2dc82c9efa.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-7/ielts-report-topic-bar-graph-describing-trends-in-consumption-of-fast-food/",
+  "source_locator": "research/blog/ielts-report-topic-bar-graph-describing-trends-in-consumption-of-fast-food.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "a3fa316f687572de",
+  "prompt_group": "b6eeb42da8f4d197",
+  "question": "The chart below shows the amount of money per week spent on fast foods in Britain. The graph shows trends in consumption of fast foods. Write a report for a university lecturer describing the information shown below.\nSummarise the information by selecting and reporting the main features and make comparisons where relevant.",
+  "essay": "The bar chart illustrates the expenditure on three different types of fast food such as hamburgers, fish and chips and pizza in people in different level of income.\n\nFrom the chart, it is clear that in a high-income group, 40 pence is spent on hamburgers a week, which is the largest among the expenditures on all the three types of fast food. This expenditure is also the greatest one in the average income group, but the amount of money spent is only about 33 pence a week, much less than that in the high-income group. As for the low-income group, the largest expenditure is on fish and chips, about 18 pence a week.\n\nThe line graph compares the trends of the amount of three type of fast food consumed between 1970 and 1990. It is clear that the amount of hamburgers and fish and chips consumed showed an increasing trend, while pizza consumed gradually decreased from 300g in 1970 to 700g in 1985, before it grew to about 240g in 1990. The consumption of fish and chips overtook that of pizza and hamburgers in 1982 and 1988 respectively.",
+  "word_count_computed": 188,
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/fast-food-expenditure-britain.jpg",
+      "path": "library/assets/9b13b9f484213d73.jpg",
+      "sha256": "646b1e9e07f6da6346cf2600aa8b7417b3cd37950f8c40b0232740636ea7d476"
+    }
+  ],
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This report covers the requirements of the task. The main trends and features were presented but should be developed better. The candidate has arranged ideas coherently, though the data is reported in a repetitive way. The range of vocabulary is adequate. There are a few errors in grammar and word choice, and one instance of inaccurate data (mouse over the underlined words shows corrections). Overall, this task response meets the expectations and seems good enough to achieve Band 7.",
+  "corrections": [
+    {
+      "original": "such as",
+      "suggestion": "namely"
+    },
+    {
+      "original": "in people",
+      "suggestion": "by people"
+    },
+    {
+      "original": "level of income",
+      "suggestion": "income groups"
+    },
+    {
+      "original": "much",
+      "suggestion": "significantly"
+    },
+    {
+      "original": "type",
+      "suggestion": "types"
+    },
+    {
+      "original": "consumed",
+      "suggestion": "consumption"
+    },
+    {
+      "original": "700g",
+      "suggestion": "200g"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "fe97f2a1ca72d95808447aa6b2d2187ddac73a0fc97a2a48495e5df106fd49e4",
+  "model_evidence": null
+}

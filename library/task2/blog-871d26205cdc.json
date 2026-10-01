@@ -1,0 +1,42 @@
+{
+  "id": "blog-871d26205cdc",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-871d26205cdc.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-some-people-believe-that-women-should-be-treated-as-equal-to-men-when-applying-for-a-job-with-the-police-or-the-military-while-others-disagree-opinion/",
+  "source_locator": "research/blog/ielts-essay-topic-some-people-believe-that-women-should-be-treated-as-equal-to-men-when-applying-for-a-job-with-the-police-or-the-military-while-others-disagree-opinion.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "teacher_model",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "36f0ab61a45d051b",
+  "prompt_group": "43de4b94acc426c2",
+  "question": "Some people believe that women should be treated as equal to men when applying for a job with the police or the military. Others think that women are less suitable for this kind of job. Discuss both views and give your opinion.",
+  "essay": "In recent years gender equality in employment has been the topic of heated debate. While some may argue that women are less suited for certain jobs such as with the police or the military, I believe that female candidates should be treated the same as their male counterparts.\n\nThose who consider women to be unsuited for some kinds of jobs including the police or the military often hold that opinion because such jobs are extremely physically demanding. As the female body has smaller muscles and less physical strength compared to male body, women may have difficulty engaging in strenuous activity which can be exhausting even for men. In military service, female soldiers are more likely to struggle while defending themselves than their male peers when they are forced to move around carrying heavy firearms in the battle, which can increase their risk of mission failure. Because of the hazards and extreme conditions they may encounter, some people advocate that women are not suitable for work in these fields.\n\nNevertheless, I believe that female applicants should be considered for police or military placements without a gender bias, because women are more suited to certain tasks. In the police service, female officers can perform important roles on some occasions such as a body search where male officers are restricted from touching female convicts. In the military service, female nursing staff are more likely to care better for injured soldiers since maternal instinct makes them dedicated and heart-warming professionals. Furthermore, for the sake of fairness to all, job seekers should have an equal opportunity to choose their jobs freely, regardless of gender. Many women have the desire to work in the police and the military and some of them have relevant expertise and qualifications. Therefore, they should not be discriminated against in employment opportunities for these jobs.\n\nIn conclusion, although some say that women are incompatible with police and military duties because of the high physical demands, I believe that they should be treated as equal to men. This is because there are certain roles with the police and the military that are more suitable for women than men, and therefore both genders should have equal employment opportunities.",
+  "word_count_computed": 365,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "",
+  "corrections": [],
+  "quality_issues": [
+    "no_explicit_band_in_comment",
+    "teacher_model_not_scored_candidate"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "da53554a562d9e9089d1e5e09a0815ef4f3b9f5d2ad8ad7f472d989626f5d5e1",
+  "model_evidence": " data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20336%20280'%3E%3C/svg%3E  https://www.ielts-blog.com/images/banners/target-band-7-banner-new.jpg"
+}

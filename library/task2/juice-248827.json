@@ -1,0 +1,86 @@
+{
+  "id": "juice-248827",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248827.json",
+  "question": "In many places, new homes are needed, but the only space available for building them is in the countryside. Some people believe it is more important to protect the countryside and not build new homes there.\nWhat is your opinion on this?",
+  "essay": "With growth in population, the demand of constructing new living places such as apartments and houses is surging. Countryside may be a suitable option to build new homes due to limitation of city expansion in metropolitan areas while some are concerned that it is essential to prevent building new living places in suburbs to protect. I am of the opinion that supports the idea of new construction in the countryside.\n\nTo begin with, the priority of people should be supporting other humankind to have a place to live. People might be forced to migrate to huge cities like Toronto to find a well-paid job, and they may have to pay over 2000 CAD to rent an apartment in downtown. With similar amount of money, they can pay the mortgage of buying a living place in suburbs like Mississauga. Considering the job security and productivity of an individual in working life, it is fair that most people would like to buy homes throughout their life; therefore, taking into account all parameters like available budget and space for building new homes with lower price, constructing in suburbs can be a reasonable option.\n\nAnother reason why constructing in the countryside is a tenable view would be the demand distributing the population in the suburb to avoid future side effects of concentrated development. By this I mean, there is a limit for metropolitans like New York and Los Angeles to expand with regard to population. If people would not distribute in less populated countryside, there would be projected disasters like sewage blowout, public health concerns, traffic lockdowns, and so forth. By constructing suburbs, there is a potential for rural and remote areas to be connected to metropolitans and grow in the next decades because people who are going to live there need facilities and welfare to be supported. Consequently, these suburbs will also gradually develop with the migration of people and constructing new buildings for living.\n\nTo recapitulate, As far as I am concerned, there can be a good decision to construct new living places in the countryside due to supporting people to have a permanent place to live as well as protecting huge metropolitans from possible disasters in future associated with population growth.",
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TR": 8.0,
+    "CC": 7.0,
+    "LR": 6.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this essay. Here’s a good read:",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "8.0\tsufficiently addresses all parts of the task",
+      "8.0\tpresents a well-developed response to the question",
+      "8.0\twith relevant, extended, and supported ideas",
+      "8.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "6.0\tthey do not impede communication",
+      "6.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "8.0\tthe majority of sentences are error-free",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "7.0"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3226-band-7-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248827.html",
+  "source_sha256": "a9ab6995e3e1c8406c3dba7f739703a8aa53b1430e60452f578c8a239a60405a",
+  "source_locator": {
+    "wordpress_post_id": 248827,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "72732d0452fee341",
+  "prompt_group": "174fa5d07b57f44c",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "juice-248065",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248065.json",
+  "question": "In recent years, many small local shops have closed because customers travel to large shopping centers or malls to do their shopping.\nIs this a positive or a negative development?",
+  "essay": "These days a lot of small shops has closed because clients would go for Mega shopping malls to buy their necessities. this phenomenon would be a negative Trend which I will explain in this essay.\n\non the one hand, this attitude has several negative impacts. firstly the small local shops’  owners will miss their capitals which have  invested in this business. these include Buddhism and the place where the businessman has rented. thus, such a person would suffer from unemployment, which affects its family. the whole family would be a burden on the government. furthermore, local people experience a difficulty for going to the large shopping malls which usually are far away from locality. they should utilize a vehicle for arriving the  Malls, Which could be a private car or a public transportation.\n\nthis is really harder than going to a local shop which could be  done on foot. it leads to having a stressful lifestyle. Moreover, the rate of accidents will be risen. as people use a vehicle for getting their destination, the possibility of the accidents  would be inevitable. please increase the cost of people when they  should compensate those damages, including the cost for fixing their own car or repairing for another public transportation to get the final place.\n\non the one hand, although this development could be  could have two positive points like access to the whole material in one place and the discount which are common in there, the drawbacks that cause the strength brings to the  locality outweigh the benefits. losing the capitals and experiencing difficulty in lifestyle as well as Transportation could be serious in long term.\n\nin conclusion, I believe that this way will have the negative outcomes for local people to purchase the Necessities from small shops and also the shops’ owners would suffer from this development because they pass these problems today family who are part of these local people.",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TR": 6.0,
+    "CC": 6.0,
+    "LR": 6.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you indeed for writing this essay. The topic is understood and addressed to some extent. An easier strategy to follow would be to consider this topic as a negative development and then write 2 paragraphs in support of the claim: 1- distance 2- shop owners’ issues. Instead, what we see is an attempt to mention both the negative and positive sides and then convince the reader that the negative side is more significant; this attempt, however, was sadly not executed fully. The conclusion must also reflect what mentioned in the previous paragraphs, but here, we can see that only the first body paragraph receives all the attention in the conclusion.",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "6.0\taddresses all parts of the task although some parts may be more fully covered than others",
+      "6.0\tpresents a relevant position although the conclusions may become unclear or repetitive",
+      "6.0\tpresents relevant main ideas but some may be inadequately developed/unclear",
+      "6.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "6.0\tthere is a clear overall progression",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "6.0\tmay not always use referencing clearly or appropriately",
+      "6.0\tuses paragraphing, but not always logically",
+      "6.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "6.0\tmakes some errors in spelling and/or word formation",
+      "6.0\tthey do not impede communication",
+      "6.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.0"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3305-band-6-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248065.html",
+  "source_sha256": "666d8efcf612b8443d443cdd1ecfce2d72c0fb4c99051c4a55bf3d38ddda7816",
+  "source_locator": {
+    "wordpress_post_id": 248065,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "0a6b87710c49dbe7",
+  "prompt_group": "91c03837c8de95bb",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

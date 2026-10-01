@@ -1,0 +1,59 @@
+{
+  "id": "liz-band9-0c53e5108291",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/liz-band9-0c53e5108291.json",
+  "source_url": "https://ieltsliz.com/ielts-diagram-model-answer-score-9/",
+  "source_locator": {
+    "page_marker": "diagram",
+    "source_file": "research/expansion/high-band-sources/liz-band9-pages/2214c7d7de6f1be3.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS Liz",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS Liz page explicitly presents this Academic Task 1 response as an estimated Band 9 model; the page author is an IELTS teacher and preserves the prompt, response and comments where available. This is not an official Cambridge TRF.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS Liz / Tony Grace",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "ceb418cdbd6dac3f",
+  "prompt_group": "a46146d28423f11c",
+  "question": "The diagram below shows the stages and equipment used in the cement-making process, and how cement is used to produce concrete for building purposes. Source: IELTS Cambridge English Test Book",
+  "images": [
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2014/11/cement-and-concrete.jpg",
+      "path": "library/assets/a676f3827d395bfa.jpg",
+      "sha256": "1b18ba24268df3b1e862ee5fd43cd5529a762f88366c850b8c1dbce0e2900cf5"
+    },
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2014/11/cement-and-concrete.jpg",
+      "path": "library/assets/a676f3827d395bfa.jpg",
+      "sha256": "1b18ba24268df3b1e862ee5fd43cd5529a762f88366c850b8c1dbce0e2900cf5"
+    }
+  ],
+  "essay": "The diagrams illustrate the steps and equipment involved in the production of cement and the way in which cement is then used to make concrete.\n\nOverall, limestone and clay pass through four stages before being bagged ready for use as cement. Cement is then combined with three other materials to create concrete. While the process of making cement uses a number of tools, the production of concrete is simpler and requires only a concrete mixer.\n\nIn the first stage of making cement, limestone and clay are crushed together to form a powder using a crusher. This powder is then combined in a mixer before passing into a rotating heater which has constant heat applied at one end of the tube. The resulting mixture is ground in order to produce cement. The final product is afterwards put into bags ready to be used.\n\nRegarding the second diagram, concrete consists of mainly gravel, which is small stones, and this makes up 50% of the ingredients. The other materials used are sand (25%), cement (15%) and water (10%). These are all poured into a concrete mixer which continually rotates to combine the materials and ultimately produces concrete.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Comments: This diagram gives a concise introduction. The overview contains key features of both diagrams and also highlights the connection between them. The body paragraphs are organised well and linking devices are used flexibly and accurately. Each body paragraphs explained the steps of each process in a logical order. Complex sentences are accurate and there is also passive voice used. Collocations are well used.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 194,
+  "extraction": "HTML prompt and model response; author estimate and comments retained.",
+  "source_sha256": "fa87e1b51e08d24a03ec1f38d03ce8fe616eaf4eff5bd543f7100aa3f5000c7f",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

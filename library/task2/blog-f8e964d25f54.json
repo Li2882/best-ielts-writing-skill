@@ -1,0 +1,42 @@
+{
+  "id": "blog-f8e964d25f54",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-f8e964d25f54.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-who-should-be-responsible-for-protecting-the-environment-individuals-or-the-government/",
+  "source_locator": "research/blog/ielts-essay-topic-who-should-be-responsible-for-protecting-the-environment-individuals-or-the-government.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "unknown",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "38f20b61f54974f0",
+  "prompt_group": "b6be21cb828d12fa",
+  "question": "Scientists believe that the world is in danger due to environmental changes. Some people say that personal lifestyle changes should be made to reduce the damage to environment, while others think that the government should do something to help. Discuss both views and give your own opinion.",
+  "essay": "Environmental problems are clearly something that is often discussed in today’s world. One part of the society claims that individuals should change their habits and lifestyle to improve the ecological situation. Others, on the other hand, believe that this issue should be solved on the governmental level. This essay will discuss both sides of the argument and my perspective will be offered.\n\nIt is hard to deny that human kind is responsible for the current environmental situation, and it seems impossible to achieve any noticeable result in this field without the participation of vast majority of individuals. For instance, a simple lifestyle change such as introducing the separation of household rubbish can make recycling projects more convenient and efficient. Moreover, consumers can reduce their usage of plastic items and, in turn, less plastic waste will contaminate the environment.\n\nHowever, many people still feel that the government has more tools to prevent environmental changes. One option that the authorities have is to discourage citizens from using personal vehicles by charging high taxes and additional fees. Moreover, politicians usually have access to resources to educate people about environmental problems and promote the most important ecological projects on all levels, ranging from special courses at schools to TV shows and websites related to this topic. Furthermore, it is a key responsibility of the government to protect the environment by spending state funds on research and modern equipment. Countries where legislation protects the ecology, for example Norway, have achieved visible results and overcame most environmental problems.\n\nIn conclusion, I believe that a combined approach will work best to prevent or reverse environmental changes. A contribution of every individual is just as important as the intervention from the government in order to fix existing issues and save our planet for future generations.",
+  "word_count_computed": 297,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "",
+  "corrections": [],
+  "quality_issues": [
+    "no_explicit_band_in_comment",
+    "teacher_model_not_scored_candidate"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "3e4c3be71fa33a088597a86fa40420fe478d2adf6af0a22686bc6849d6809449",
+  "model_evidence": null
+}

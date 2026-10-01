@@ -1,0 +1,42 @@
+{
+  "id": "blog-f78821253f5d",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-f78821253f5d.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-newspapers-influence-peoples-opinion-reasons-solutions/",
+  "source_locator": "research/blog/ielts-essay-topic-newspapers-influence-peoples-opinion-reasons-solutions.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "teacher_model",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "50563e2d0b50607a",
+  "prompt_group": "2a7908dbf0e4eced",
+  "question": "Newspapers have a significant influence on people’s ideas and opinions. Why is this happening? Is it a positive or negative situation?",
+  "essay": "Many people believe that newspapers play a pivotal role in shaping the way we think. There are numerous ways in which this affects our society, and I believe that this influence is mostly negative.\n\nNewspapers have long been a source of valuable information that has kept societies abreast of the latest happenings in the world. Since the average citizen has minimal knowledge about the information in expert analysis articles, well-established newspapers are powerfully poised to form public opinion through attention-grabbing images and carefully worded commentary. This leaves the reader no choice but to trust the accuracy of what they have read.\n\nSadly, unbiased objectivity, which used to be the core idea behind journalism, seems to be a thing of the past. The arrival and spread of social media platforms has caused a gradual decline in print media subscriptions and their circulation, since readers tend to favor the internet and social media to stay informed about current affairs. This gave rise to a worrying trend of newspapers using sensationalist and controversial tactics to improve their sales. As a result, the constant barrage of bad news has led to a society that sees itself as more vulnerable and powerless than ever. To make matters worse, there are plenty of well-documented instances where newspapers have been used to spread false propaganda which is usually politically motivated.\n\nAll in all, although newspapers are our lifeline to the world around us, the recent trend of publishing misinformation has had a mostly negative impact on readers. It is my hope that newspapers will go back to publishing impartial accounts of the latest news in the future.",
+  "word_count_computed": 270,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay topic was seen in a recent IELTS test in India",
+  "corrections": [],
+  "quality_issues": [
+    "no_explicit_band_in_comment",
+    "teacher_model_not_scored_candidate"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "8d5cd5e26b47ba897a20d0cde1f544e4950ac62fb8a1434a5bcd0c6fa6e7fc10",
+  "model_evidence": " data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20336%20280'%3E%3C/svg%3E  https://www.ielts-blog.com/images/banners/target-band-7-banner-new.jpg"
+}

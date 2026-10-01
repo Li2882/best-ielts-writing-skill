@@ -1,0 +1,57 @@
+{
+  "id": "cambridge-17-t3-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-17-t3-task1.json",
+  "question": "The chart below gives information about how families in one country spent their weekly income in 1968 and in 2018.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": "library/assets/cambridge-17-t3-task1-question.webp",
+  "images": [
+    {
+      "url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-17-academic-test-3-task-1-6d90f98367d5.webp",
+      "path": "library/assets/cambridge-17-t3-task1-question.webp",
+      "sha256": "6d90f98367d56683d6c70c71c4ec4c1f4a4b219789d4e8fd6907c0fd88d1acb2"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c17-p133.png",
+    "research/expansion/book-pages/c17-p134.png"
+  ],
+  "reading_transcript": "The chart describes the data about families weekly expenditure prospects in 1968 and in 2018.\n\nThe most significant spent rate is on food with a 35% ratio in the year 1968. Housing and clothing come next with the same prospect of 10% of the weekly income. Expenditure on leisure, transport, personal goods and household goods are almost same percentage, the former one is slightly more. Lastly, spent rates on fuel and the others are recorded the least with a 6% in the year of 1968.\n\nTurning to 2018, food expenditure of families had dropped dramatically to a percentage between 15 to 20. On the other hand, housing spent had rised significantly with an almost 20% slightly more than food expenditures. The most crucial rise was recorded on leisure spent rates. It had soared abut 10% in 50 years. Transportation expeditures comes after and followed by Household goods and the othe categories respetively. Last three had remained the least just as in 1968 which is fuel and power, clothing and footware and personal goods.\n\nOverall, weekly expenditure averages of families had dramatically changed over 50 years. Some spent rates had remained the same whereas some of the alterations are quite noticable.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 5.5,
+  "band_low": 5.5,
+  "band_high": 5.5,
+  "traits": {},
+  "comments": "This response clearly presents the data from the bar graph. The candidate presents all the data for 1968 first and then the data for 2018. There is an overview in the final sentence, but it should summarise the main changes from the bar chart rather than just saying that expenditure ‘had … changed’. Information is arranged coherently into four paragraphs, and there is clear overall progression. A range of cohesive devices is used [Turning to 2018 | followed by | whereas] with an awareness of referencing [former one | the othe categories | Last three].\nThere are some less common examples of vocabulary [dropped dramatically to | rised significantly | soared]. Errors remain [spent rates / expenditure | housing spent / housing costs] but do not impede communication. Similarly, grammatical structures include some complex forms [had dropped … to] and sentences with multiple clauses; however, there are errors, including inconsistent use of articles and with past tenses.\nTo improve the response, a summary of the main trends from the bar chart is needed in the overview; for example, the candidate could say that there has been a significant decrease in spending on food over the 50-year period, but the cost of leisure, housing and transport has significantly increased.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-17-academic/",
+  "source_artifact": "research/expansion/cam17-page.html",
+  "source_sha256": "3039e15fe488eebc538a9fdc01cfbd098d2c88669895e9c0a78ebf6540c735f9",
+  "source_locator": {
+    "book": 17,
+    "test": 3,
+    "pdf": "research/expansion/cambridge17.pdf",
+    "response_pages": [
+      133,
+      134
+    ],
+    "score_line": "achieved a Band 5.5"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-17-t3-task1",
+  "prompt_group": "cambridge-17-t3-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

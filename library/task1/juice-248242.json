@@ -1,0 +1,94 @@
+{
+  "id": "juice-248242",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-248242.json",
+  "question": "The charts below show the average percentages in typical meals of three types of nutrients, all of which may be unhealthy if eaten too much.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The pie charts given illustrate how much of three nutrients, which may be harmful for health if consumed exceeding the norms, are contained in standard meals in the USA. The nutrients in question are: Sodium, saturated fat, and added sugar. Apparently, dinner accounts for the highest level of Sodium and saturated fat, whereas snacks contain the biggest share of sugar that was added. Breakfast, on the other hand, accounts for the lowest percentage of all three nutrients combined.\n\nSodium and saturated fat consumption have similar patterns; namely, dinner includes them at 43% and 37%, respectively. It is followed by lunch, with 29% of salt and 26% of fat. Proportions of Sodium is the same in breakfast and snacks (14%), while the latter accounts for significantly higher share of saturated fat (21% versus 16%).\n\nThe highest level carrier of added sugar are snacks with 42 per cent. Followed by dinner that accounts for 23%, lunch (19%), and finally breakfast (16%).",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TA": 9.0,
+    "CC": 7.0,
+    "LR": 8.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this report. The report could use more accuracy in grammar, specifically noun-verb agreement. Also, there is an underuse of discourse markers, that is why many paragraphs do not start giving the reader a clear description of the information coming next.\nVideo Feedback",
+  "images": [
+    {
+      "path": "library/assets/juice-248242-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2024/01/ielts-juice-writing-task-1-sample-3322-band-7-5.jpg",
+      "sha256": "06e8faee3d5fb0e6115144578d0caf1283ef9292e323c035e4ee7e126410cf96"
+    }
+  ],
+  "question_image": "library/assets/juice-248242-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3322-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248242.html",
+  "source_sha256": "953fff639a003e8b5c2fb1b7fa55c59fd6b1dcfd1127e7d7cbd7a4433f6e10a4",
+  "source_locator": {
+    "wordpress_post_id": 248242,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "f3d3921b204edfea",
+  "prompt_group": "1b84ed0564feda33",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "9.0\tfully satisfies all the requirements of the task",
+      "9.0\tclearly presents a fully developed response",
+      "9.0\tdetails are fully and clearly extended.",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "9.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "8.0\tmanages all aspects of cohesion well",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "8.0\tproduces rare errors in spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "9.0\tuses a wide range of structures",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

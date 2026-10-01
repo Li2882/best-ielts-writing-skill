@@ -1,0 +1,92 @@
+{
+  "id": "blog-1e19110eeeb6",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-1e19110eeeb6.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-leisure-time-activities/",
+  "source_locator": "research/blog/ielts-essay-topic-leisure-time-activities.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "cf2161836684b8b0",
+  "prompt_group": "6a66877f402fc73d",
+  "question": "Some people think that it is important to use leisure time for activities that develop the mind, such as reading and doing crossword puzzles. Others feel that it is important to give one’s mind a rest in leisure time. Discuss.",
+  "essay": "As we are human we naturally need to rest on leisure time to recover thestress of work and everyday life. In fact, every individual need to do what they want and belong to them. Personally, I prefer to be active during this time because it is feel right to me better. Moreover, people are free for what they do on their leisure time, and nobody can say what it is the best.\n\nSome people want to relax after their day of work. These people may prefer to relax by watching movies, reading or getting a massage. People who have a physically jobs such as doctors, teachers and builders may choose these types of activities. If you are a doctor, you may feel that you want to let your body rest after work and you don’t want to do a five kilometer run after work, because you are already physically tired.\n\nOn the other hand, some people choose to be active in their leisure time because they do very sitting jobs. For example, these people many spend all day sitting on a chair and do their work. At the end of a working day, they may be have a backache, and all of their body become tired so they need to stretch their arms and improve their health by doing some activity such as going to the gym or swimming.\n\nTo sum up, the important thing is that people want to stay healthy by choosing what is best for them. In my view, the wrong way is to stay at home in your leisure time if you have a setting job.",
+  "word_count_computed": 270,
+  "images": [],
+  "overall": null,
+  "band_low": 6.0,
+  "band_high": 6.5,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay needs work. It has the right structure and covers the task. However there are many poorly structured sentences, many of the sentences are too simple and don’t have enough complexity, there are grammatical errors and some prepositions are use incorrectly (see comments underlined in blue). Overall, this looks like a Band 6 – 6.5 essay.",
+  "corrections": [
+    {
+      "original": "on",
+      "suggestion": "in our"
+    },
+    {
+      "original": "recover the",
+      "suggestion": "recover from the"
+    },
+    {
+      "original": "belong to them",
+      "suggestion": "this expression is confusing"
+    },
+    {
+      "original": "it is feel right to me better",
+      "suggestion": "confusing expression, may be you mean “because it feels better”?"
+    },
+    {
+      "original": "for",
+      "suggestion": "to choose"
+    },
+    {
+      "original": "on",
+      "suggestion": "in"
+    },
+    {
+      "original": "it",
+      "suggestion": "activity"
+    },
+    {
+      "original": "physically jobs",
+      "suggestion": "physically active jobs"
+    },
+    {
+      "original": "very sitting jobs",
+      "suggestion": "not move much on their jobs"
+    },
+    {
+      "original": "do",
+      "suggestion": "doing"
+    },
+    {
+      "original": "may be have",
+      "suggestion": "might have"
+    },
+    {
+      "original": "become",
+      "suggestion": "might become"
+    },
+    {
+      "original": "setting",
+      "suggestion": "sitting"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "7f64d306cc81341025539e3509419717dc8985dc1082c9872d73bad03584dd4b",
+  "model_evidence": null
+}

@@ -1,0 +1,86 @@
+{
+  "id": "juice-248208",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248208.json",
+  "question": "Some people think that it is better to educate boys and girls in separate schools. Others, however, believe that boys and girls benefit more from attending mixed schools.\nDiscuss both views and give your opinion.",
+  "essay": "In different countries around the world, there are two types of schools, one where male and female students are mixed and those which are uni-sex. There are two opposite views regarding the benefits of each of these typed of schools. I personally believe that schools registering both genders are more adantagous.\n\nConsidering educating pupils together two main benefits can be mentioned. The first and foremost upside is that students in a mixed gender schhool have an opportunity to educate themselves about the other gender’s characteristics. This is , in turn can help them to build successful relationships in the future. Another positive point with this educational system is that it stimulate an environment for students which is very similar to what they will encounter at their work place in their adulthood. This can definitely help both girls and boys to have more successful job experience. These two points are very strong supports showing how mixed education can positively affect student’s life in the future.\n\nOn the other hand, there are people who support the idea of separating boys and girls at schools. One of the positive aspects at this approach is that such schools can better educated their students by focusing on  their unique needs and talents in terms of their gender. In addition, when boys and girls, are separated, their level of distraction will obviously decrease during their learning sessions. This point has been actually concluded by a survey conducted in 2010 by ministry of education among teenagers with an age range of 13 to 17. Given the above reasons, one may argue that separated schools are more affective to reach theirs educational role.\n\nIn conclusion, both of these educational systems have their own benefits. However, I believe that education in a mix environment is by far more beneficial than education in a schools where  pupils of different sex are seperated.",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TR": 7.0,
+    "CC": 7.0,
+    "LR": 6.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this essay. There are a few spelling errors, but one error is repetitive, making it even more damaging to the lexical score. In addition, the conclusion, which holds the writer’s own opinion, could be improved: first, the opinion is only stated as a separate entity without clear connections to the favorable school of thought.",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "7.0\taddresses all parts of the task",
+      "7.0\tpresents a clear position throughout the response",
+      "7.0\tpresents, extends, and supports main ideas, but there may be a tendency to over-generalize and/or supporting ideas may lack focus",
+      "7.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "8.0\tmanages all aspects of cohesion well",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "7.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "6.0\tmakes some errors in spelling and/or word formation",
+      "6.0\tthey do not impede communication",
+      "6.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "6.5"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3313-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248208.html",
+  "source_sha256": "24288134e4975f7fc97f4e77ecceca6a42c8460c65067856e24f56910a84c052",
+  "source_locator": {
+    "wordpress_post_id": 248208,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "6bc3fd7d1b725106",
+  "prompt_group": "b6f5b84de9b38444",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

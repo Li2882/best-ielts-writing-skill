@@ -1,0 +1,51 @@
+{
+  "id": "cambridge-17-t3-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/cambridge-17-t3-task2.json",
+  "question": "Some people believe that professionals, such as doctors and engineers, should be required to work in the country where they did their training. Others believe they should be free to work in another country if they wish.\nDiscuss both these views and give your own opinion.",
+  "question_image": null,
+  "images": [],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c17-p135.png",
+    "research/expansion/book-pages/c17-p136.png"
+  ],
+  "reading_transcript": "As the number of professionals workking abroad increases, it is often discussed whether they should stay where hey did their trainings or they should be free to move to another country if they desired to. While I believe theat a person should be free to migrate, I agree that it has negative effects on the country of training.\n\nOn the one hand, professionals who decide to work abroad are seeking for a different lifestyle and career opportunities. Therefore, they should be allowed to improve their lives outside the limitations of their country of origin. For example, whilst in Spain residents in a hospital do not have hands-on experience due to safety measures, in other countries such as Argentina, residents actually practice their skills with patients. Besides, cultural exchanges have proven to increase efficiency, since different nationalities mean different believes and the introduction of new methods.\n\nOn the other hand, when professionals leave the country where they trained, countries are damaged socially and economically. In countries where the government provides free education and healthcare, many people think that the population should compensate the country with their skills and abilities. Furthermore, as a study fo South African emigration has pointed out when a professional lease the country it results in the loss of 10 unskilled jobs. Therefore it affect the economy and the community.\n\nTaking everything into account, it can be said that miving out from the country of training should not be taken lightly, given the adverse effects on the population. However, I firmly believe that someone’s professional development should not depend on their country of origin and professionals should be allowed to look for better opportunities overseas.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {},
+  "comments": "This response addresses both parts of the question. Both views are considered and an opinion is given. For a higher rating, fuller coverage on the first point, the requirement to ‘work in the country where they did their training’ could be included. Organisation is logical and there is clear progression thorough the four paragraphs.\nThe range of vocabulary is good with examples of higher-level items [hands-on experience | compensate | better opportunities overseas], but there are a number of errors [theat / that | believes / beliefs | lease / leaves | miving / moving]. Similarly, the range of grammatical structures is reasonable, but the level of error means the Band Score cannot be higher than 6.5.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-17-academic/",
+  "source_artifact": "research/expansion/cam17-page.html",
+  "source_sha256": "3039e15fe488eebc538a9fdc01cfbd098d2c88669895e9c0a78ebf6540c735f9",
+  "source_locator": {
+    "book": 17,
+    "test": 3,
+    "pdf": "research/expansion/cambridge17.pdf",
+    "response_pages": [
+      135,
+      136
+    ],
+    "score_line": "achieved a Band 6.5"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-17-t3-task2",
+  "prompt_group": "cambridge-17-t3-task2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

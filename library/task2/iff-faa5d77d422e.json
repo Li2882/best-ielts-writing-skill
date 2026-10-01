@@ -1,0 +1,79 @@
+{
+  "id": "iff-faa5d77d422e",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/iff-faa5d77d422e.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-task-2-band-8-sample-answer-1/",
+  "source_locator": "research/forfree/ielts-task-2-band-8-sample-answer-1.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "26de97536aac79d8",
+  "prompt_group": "958a1fb725daff30",
+  "question": "You should spend about 40 minutes on this task.\nWrite about the following topic:\nAn increasing number of families have computers at home.\nWhat are the advantages and disadvantages of internet access for minors?\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\nWrite at least 250 words.",
+  "essay": "Although there are a number of disadvantages in relation to the usage of internet by youngsters, the positive effects are outweighed by the negatives, as will be discussed below.\n\nPrimarily, access to internet in the comfort of home is likely to be a factor that leads to the increase of knowledge in a variety of fields. Not only is scheduling homework made easier in the case of families owning a computer with internet access, but, in addition, there is no field where the proper information is not available online ; in some cases, the way it is presented is even more appealing to a youngster. To illustrate, many websites are interactive , brightly coloured, offering the youngster a multitude of ways of learning. Moreover, knowledge of how to use the internet effectively is fast becoming an essential skill throughout , so is best learned early.\n\nThere are reasons to suggest there are also disadvantages to online access, in particular if it is facilitated within a known environment . It could be argued that youngsters are less prone to engage in face-to-face social activities, as a result of spending too much time indoors.\n\nHowever, a number of solutions could be proposed to limit the negative effects of the internet access ; the use of software that registers or limits the availability of certain types of websites is often recommended. Furthermore, the amount of time spent indoors could be easily limited by parents.\n\nIn brief, provided there is an adequate control on the part of the children's older relatives, in relation to the amount of time spent online and the content accessed, the technology in question is not only beneficial, but also necessary, and it allows the youngsters to broaden their education and perspectives.",
+  "word_count_computed": 287,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Task 2 Band 8 sample answer 1\nIn the second body paragraph, the argument isn't very clear with regards being 'facilitated within a known environment', but in general the response is well constructed and supported.\nThere are some errors with using the article and the word 'internet' ('access to internet') and also some areas where the vocabulary is either missing or inappropriate ('youngsters are less to engage'). However, there are some academically constructed complex sentences.",
+  "corrections": [
+    {
+      "original": "the usage of internet",
+      "suggestion": "\"internet usage\""
+    },
+    {
+      "original": "scheduling homework",
+      "suggestion": "this is a little unclear - families don't schedule homework"
+    },
+    {
+      "original": "is no",
+      "suggestion": "\"is almost no\""
+    },
+    {
+      "original": ";",
+      "suggestion": "This sentence is getting overly long - start a new sentence here"
+    },
+    {
+      "original": ",",
+      "suggestion": "replace the comma with \"and\""
+    },
+    {
+      "original": "throughout",
+      "suggestion": "throughout what? the world? life? This needs a little more development"
+    },
+    {
+      "original": "",
+      "suggestion": "this isn't clear - if it's a known environment, why is it a disadvantage?"
+    },
+    {
+      "original": ";",
+      "suggestion": "change this to \"such as\" or similar"
+    },
+    {
+      "original": "be easily limited",
+      "suggestion": "\"easily be limited\""
+    },
+    {
+      "original": "on the part of the children's",
+      "suggestion": "\"of children by\""
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "2eff322636d3d85f6371c76179282b975d15fe270fcf210d45c4d78edfd63a96"
+}

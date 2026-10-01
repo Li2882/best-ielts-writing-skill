@@ -1,0 +1,136 @@
+{
+  "id": "blog-8746dc7b340e",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-8746dc7b340e.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-5/ielts-essay-topic-natural-resources-cannot-sustain-economic-growth-agree-or-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-natural-resources-cannot-sustain-economic-growth-agree-or-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "a6914e0d64949567",
+  "prompt_group": "82a4b32f20db631e",
+  "question": "There is no longer enough natural resources to sustain current levels of economic growth. To what extent do you agree or disagree with this statement?",
+  "essay": "Recently, the demands of natural resources have risen dramatically across the world due to population growth. Some people state that we have not enough resources. However, there are some individuals who disagree with this opinion. In this essay, the issues behind this phenomenon will be examined.\n\nOn the one hand, some people state that if the number of natural resource will continue to degrease we cannot have a comfortable life because natural resources are limited. According to a government research in the USA shows that if this situation will continue, the petrol will lose in 2050. Moreover, it is widely said that the number of population in the world will increase. This will make the amount of natural resource decrease.\n\nOn the other hand, there are some individuals who disagree with above-mentioned perception. The demands of natural resources will be lessen owning to improving the technology. For example, the developments of technology such as electronic cars gave a positive impact in the society. By using this, we can decline the consumption of natural resources. Eventually, we will not need natural fuel. In my opinion, decreasing of natural resource is quite crisis, I think the loss of it give a negative impact in the society because even we won’t have a comfortable life any more.\n\nIn conclusion, I agree with the idea that there is no longer enough natural resources to sustain this situation. In order to defense our life, the governments every countries should tackle this issue.",
+  "word_count_computed": 247,
+  "images": [],
+  "overall": 5.5,
+  "band_low": 5.5,
+  "band_high": 5.5,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay needs work, in particular in the areas of grammar, sentence structure and word choice (mouse over the words in blue will show suggested corrections). The arguments could have been more convincing. The word count is only 245, whereas at least 250 words are required to avoid being penalised. Overall, this looks like a Band 5.5 essay.",
+  "corrections": [
+    {
+      "original": "demands of",
+      "suggestion": "demand for"
+    },
+    {
+      "original": "have",
+      "suggestion": "has"
+    },
+    {
+      "original": "have not",
+      "suggestion": "do not have"
+    },
+    {
+      "original": "the number of natural resource",
+      "suggestion": "natural resources"
+    },
+    {
+      "original": " degrease",
+      "suggestion": "deplete"
+    },
+    {
+      "original": "government research in the USA shows that",
+      "suggestion": "research conducted by the US Government,"
+    },
+    {
+      "original": "lose",
+      "suggestion": "run out"
+    },
+    {
+      "original": "number of population in the world",
+      "suggestion": "world population"
+    },
+    {
+      "original": "resource decrease",
+      "suggestion": "resources insufficient"
+    },
+    {
+      "original": "demands of ",
+      "suggestion": "demand for"
+    },
+    {
+      "original": "be lessen owning to improving the",
+      "suggestion": "reduce owing to the improvement of"
+    },
+    {
+      "original": "developments",
+      "suggestion": "development"
+    },
+    {
+      "original": "electronic",
+      "suggestion": "electric"
+    },
+    {
+      "original": "gave",
+      "suggestion": "has"
+    },
+    {
+      "original": "in",
+      "suggestion": "on"
+    },
+    {
+      "original": "decline",
+      "suggestion": "reduce"
+    },
+    {
+      "original": "decreasing",
+      "suggestion": "depletion"
+    },
+    {
+      "original": "resource",
+      "suggestion": "resources"
+    },
+    {
+      "original": "quite crisis",
+      "suggestion": "a serious problem"
+    },
+    {
+      "original": "give",
+      "suggestion": "will have"
+    },
+    {
+      "original": "in",
+      "suggestion": "on"
+    },
+    {
+      "original": "even we",
+      "suggestion": "we"
+    },
+    {
+      "original": "defense",
+      "suggestion": "sustain"
+    },
+    {
+      "original": "every",
+      "suggestion": "of all"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "1cb1317edac5dc86c84531871a36be5e3a7221982889ed49b75f2bb7e314699c",
+  "model_evidence": null
+}

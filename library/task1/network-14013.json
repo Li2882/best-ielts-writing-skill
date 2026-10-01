@@ -1,0 +1,57 @@
+{
+  "id": "network-14013",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/network-14013.json",
+  "source_url": "https://www.ieltsnetwork.com/viewtopic.php?t=14013",
+  "source_locator": {
+    "forum_topic": "network-14013",
+    "teacher_reply": "goldcoastielts",
+    "source_file": "research/expansion/network-staged.json"
+  },
+  "accessed_at": "2026-09-23",
+  "publisher": "IELTSNetwork / This Course",
+  "score_source": "verified_human",
+  "rater_evidence": "The public topic preserves the original response and a named teacher reply with four criterion scores and criterion-specific comments. This is a third-party practice assessment, not an official IELTS result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "independent_human_rating": true,
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "network-14013",
+  "prompt_group": "network-14013",
+  "question": "The question is in the attachments.",
+  "question_image": "library/assets/network-network-14013-1.php",
+  "images": [
+    {
+      "source_url": "https://www.ieltsnetwork.com/download/file.php?id=1222&sid=c9b6186c0c820b994de458d450b9697c",
+      "path": "library/assets/network-network-14013-1.php",
+      "sha256": "06013cbb0fbc58d2f8e7e6bad47b9005a8d60b66ff03f8f2c8abde636e7e48cc"
+    }
+  ],
+  "essay": "The question is in the attachments.\n\n\n\nAnswer:\n\n\n\nThe pie chart illustrates what Anthropology students of a certain university ended up doing after graduating, while the table outlines the average salaries these graduates earn 5 years after the start of their employment.\n\n\n\nOverall, it can be observed that a great proportion of Anthropology graduates opted for full-time work, whereas the least proportion decided to pursue postgraduate studies along with part-time work. Additionally, the majority of the salaries of graduates with 5 years of experience fall under the category of 100 thousand dollars and above.\n\n\n\nWhile just over a half of Anthropology graduates chose to get a full-time job, only 8% were interested in pursuing full-time further studies, which was matched by those with unknown careers. The figure for part-time workers was 15%. Similarly, those who tried to combine postgraduate studies and part-time work were a minority, at only 5%. Finally, just over a tenth of these graduates remained unemployed.\n\n\n\nAs for money earnings after 5 years of employment, half of the people working in the government sector earn 100,000 dollars or more, whereas, just under a third of the people in private companies make the same amount of money. Freelance workers, however, have pretty high earnings, where 40% of them earn between $75,000 – $99,999 and another 40% earn over this amount. A small proportion of workers earn between $25,000 – $49,999 in the three types of employment.",
+  "essay_images": [],
+  "comments": "Visit ThisCourse for IELTS and PTE!!\n\n\n\nHomepage: https://www.this-course.com\n\n\n\nYouTube: https://www.youtube.com/channel/UCbVrKy ... LmQirBfSTw\n\n\n\nInstagram: https://www.instagram.com/thiscoursesocial/\n\n\n\n\n\nThanks for your submission dinosaur2007!! Please see my rewrite below ...\n\n\n\nThe pie chart illustrates what Anthropology students of a certain university ended up doing after graduating, while the table outlines the average salaries these graduates earn ARE ABLE TO EARN 5 years after the start of their employment. Overall, it can be observed that a LARGE proportion of Anthropology graduates opted for full-time work, whereas the smallest proportion decided to pursue postgraduate studies along with part-time work. Additionally, A LARGE PROPORTION of graduates with 5 years of experience WERE ABLE TO OBTAIN SALARIES of 100,000 dollars and above.\n\n\n\nWhile just over (delete 'a') half of Anthropology graduates chose to get a full-time job, only 8% were interested in pursuing FURTHER full-time studies, A NUMBER THAT WAS matched by those with unknown careers. The figure for part-time workers was 15%. Similarly, those who tried to combine postgraduate studies and part-time work were a minority, at only 5%. Finally, just over a tenth of these graduates remained unemployed.\n\n\n\nAs for money earnings after 5 years of employment, half of the people working in the government sector earn 100,000 dollars or more, whereas (delete this comma) just under a third of the people in private companies make the same amount of money. Freelance workers, however, have pretty high earnings; 40% of them earn between $75,000 – $99,999 and another 40% earn over this amount. A small proportion of workers earn between $25,000 – $49,999 in the three types of employment.\n\n\n\n\n\nADVICE:\n\n1. Add the introductory sentence (\"The pie chart illustrates...) and key trend sentence (Overall ...) together in the first sentence.\n\n2. Perhaps move the third sentence of the intro (\"Additionally ...\") to the details and comparison section. It makes the intro a little too long.\n\n3. Try to keep your tenses the same. Sometimes you use present tense and sometimes past tense. This can be a bit confusing for the reader.\n\n\n\nBand-Score:\n\nTA: 8.0\n\nG: 8.0\n\nV: 7.5\n\nCC: 7.0 (try to use three paragraphs ... intro - details/comparison - summary)",
+  "comments_images": [],
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "overall_label_source": "derived_from_explicit_four_criteria",
+  "traits": {
+    "TA": 8.0,
+    "GRA": 8.0,
+    "LR": 7.5,
+    "CC": 7.0
+  },
+  "published_overall": null,
+  "comments_source": "Teacher reply retained verbatim; rewrite text is not substituted for the original.",
+  "quality_issues": [],
+  "label_scope": "derived",
+  "label_review_status": "content_checked",
+  "extraction": "Original forum post and teacher reply preserved. Overall half band is a transparent mean-derived retrieval label, not a published total.",
+  "word_count_computed": 237
+}

@@ -1,0 +1,90 @@
+{
+  "id": "insights-v12-p24-task1",
+  "task": "task1",
+  "task_type": "line",
+  "path": "library/task1/insights-v12-p24-task1.json",
+  "question": "The graph shows the number of people taking parts in four kinds of sports in a particular region between 1985 and 2005.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-12-p24.png",
+      "sha256": "681df5c7a5f082ea75095a37424412561b4f8323d0d732faee69d10d5f6280c0"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-12-p25.png"
+  ],
+  "overall": 8,
+  "band_low": 8,
+  "band_high": 8,
+  "traits": {},
+  "comments": null,
+  "source_url": "https://cms.youpass.vn/assets/d01d687f-d425-4f51-a3f2-9d90e4a5bc47",
+  "source_artifact": "research/expansion/insights/vol-12.pdf",
+  "source_sha256": "55735bf43fb362e86f95bb9cb28fe928fdb2598807cfb6e0bc7b8b454ae08f0f",
+  "source_locator": {
+    "volume": 12,
+    "cover_page": 24,
+    "original_pages": [
+      25
+    ],
+    "report_last_page": 32
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "Tony Grace is named in the correction report. The publisher says its academic team submits these originals to him for individual marking and describes him as a former IDP examiner. This is a practice assessment, not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "duplicate",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "quality_issues": [
+    "Same visible sports original as insights-v02-p18-task1; do not count a reprint as another essay."
+  ],
+  "duplicate_group": "insights-v02-p18-task1",
+  "prompt_group": "0ba662f28e390357",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "author_type": "teacher",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-12-p24.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-12-p24.png",
+    "research/expansion/insights/pages/vol-12-p26.png",
+    "research/expansion/insights/pages/vol-12-p27.png",
+    "research/expansion/insights/pages/vol-12-p28.png",
+    "research/expansion/insights/pages/vol-12-p29.png",
+    "research/expansion/insights/pages/vol-12-p30.png",
+    "research/expansion/insights/pages/vol-12-p31.png",
+    "research/expansion/insights/pages/vol-12-p32.png"
+  ],
+  "score_page": 24,
+  "score_evidence": [
+    {
+      "page": 24,
+      "text": " \nIELTS Corrections \nPage 1 of 9 \nFor more IELTS advice go to Succeed in IELTS with Tony  \n27 March 2024 \nĐây là nội dung được xuất bản bởi trung tâm IELTS 1984. Các bạn \ncó thể đọc thêm nhiều bàu mẫu, với hướng dẫn viết bài chi tiết \ntừ số 0, tại website trung tâm nha. \nhttps://ielts1984.vn/tong-quan-ve-ielts/ielts-writing-task-1 \nQR code: \n \n \nOVERALL BAND SCORE   \n8 \n \n8+8+8+8 \nSEE BELOW C&C LR GRA \n \nMODEL ANSWER \nWRITING TASK 1 \nTask 1: The graph shows the number of people taking parts in 4 kinds of \nsports in a particular region between 1985 and 2005. \n \nCommented [TG1]: Surely this \nshould be school \n"
+    },
+    {
+      "page": 26,
+      "text": " \nIELTS Corrections \nPage 3 of 9 \nFor more IELTS advice go to Succeed in IELTS with Tony  \n27 March 2024 \nOVERALL BAND SCORE   \n8 \n \n8+8+8+8 \nTA – Task Achievement nb – GRA and LR errors have not been corrected \nBand score 8 \nThis is a badly designed and very easy question.  Apart from the numbers \nbeing ridiculous – you’d get similar numbers in a school – they missed the \nopportunity to challenge candidates with collocation usage in different \nsports, like swimming/athletics, neither of which you “play”. \nThe overview is clear. \nYou covered the requirements of the task. \nAll the key features and details are given clearly with sufficient detail and \naccuracy. \nMinor inaccuracies limit your score to 8 for TA. \n \n \n \nRECOMMENDED LAYOUT FOR TASK 1 ANSWERS \n•  Write an introduction paraphrasing the information provided.  If \npossible, change the structure from a noun phrase to a noun clause \n(change the chart gives information about the number of to the chart \nshows how many […] ). \n• Write a clear overview of the main trends, differences, and stages.  \nIf there are trends and differences (ie if there are changes over time), \ngive some information about both.  If there are only differences, as \nin questions with no time scale, provide differences of more than \none type.   \n• Put the overview after the introduction in a separate paragraph.  \nDon’t hide it in the introduction or at the end, as it’s the first thing \nthe examiner looks for. \n"
+    }
+  ],
+  "extraction": "Use only the Your answer / Original answer section in the specified pages. Later TA/TR, CC, LR and GRA sections contain marked copies and rewrites. Front-of-magazine teaching versions are not the scored original. OCR only locates content; inspect original images.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "published_cover_traits": {
+    "TA": 8,
+    "CC": 8,
+    "LR": 8,
+    "GRA": 8
+  },
+  "trait_label_status": "Cover labels retained separately; reconcile all criterion pages before treating traits as validated labels.",
+  "source_discrepancy": "Native PDF text substitutes a Melbourne social-centre introduction, but rendered pages 24-25 show the sports question and original from volume 2. Images were visually compared; native text is not authoritative."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "official-2023-1b-b",
+  "task": "task1",
+  "task_type": "line_chart",
+  "path": "library/task1/official-2023-1b-b.json",
+  "source_url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+  "download_url": "https://unihousecms.mediaplusdemos.com/sites/default/files/2024-08/ielts-academic-writing-sample-tasks-2023.pdf",
+  "source_locator": {
+    "pdf": "library/official/academic-writing-samples-2023.pdf",
+    "question_page": 4,
+    "response_pages": [
+      12
+    ]
+  },
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS",
+  "score_source": "official",
+  "rater_evidence": "Official IELTS sample pack states each response has an examiner band and comment. Mirror title, 26-page structure, prompts and extracted comments compared with primary IELTS URL retrieved through web search.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "official-2023-1b-b",
+  "prompt_group": "official-2023-1b",
+  "question": "Page 4 of 26  \n \n  \nIELTS.org \nAcademic Writing Sample Task – 1B \n \n \nWRITING TASK 1 \n \nYou should spend about 20 minutes on this task. \n \n \n \n \nWrite at least 150 words. \n \n \nThe graph below shows radio and television audiences throughout the day in 1992. \nSummarise the information by selecting and reporting the main features, and make \ncomparisons where relevant.",
+  "essay": null,
+  "essay_images": [
+    "library/official/pages/page-12.png"
+  ],
+  "images": [
+    {
+      "path": "library/official/pages/page-04.png",
+      "source_url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+      "sha256": "34fef1c2756fc2fe2f23a2c9629f6307a9583bfc846e756c4c3dc37de4cd2a6d"
+    }
+  ],
+  "question_image": "library/official/pages/page-04.png",
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Band 7 \nThe answer deals well with both the individual media trends and the overall comparison of these trends. \nThe opening could be more fully developed with the inclusion of information relating to the groups \nstudied and the period of time during which the study took place. There is a good variety of cohesive \ndevices and the message can be followed quite easily although the expression is sometimes a little \nclumsy. Structures are complex and vocabulary is varied but there are errors in word forms, tense and \nvoice though these do not impede communication.",
+  "quality_issues": [],
+  "extraction": "Handwritten response retained as page images. View all response pages; no unverified OCR transcript. Pages include examiner comments; reference use only.",
+  "source_sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+}

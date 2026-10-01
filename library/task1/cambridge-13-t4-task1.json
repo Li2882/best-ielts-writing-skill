@@ -1,0 +1,53 @@
+{
+  "id": "cambridge-13-t4-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-13-t4-task1.json",
+  "question": "The plans below show the layout of a university’s sports centre now, and how it will look after redevelopment.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": null,
+  "essay_images": [
+    "evaluations/pilot-02/inputs/pilot02-c13-t4-task1-original-1.png"
+  ],
+  "reading_transcript": "The following plans illustrate the layout of the university's sports centre at the present moment and the way it will look after a reconstruction.\n\nAccording to the new layout, the redeveloped sports centre is going to become bigger. First, the gym is going to be larger and an additional changing room is going to appear. Besides, there is going to be a sports shop and a cafe in the reception zone. Apart from that, 2 dance studios are going to work opposite the gym. Finally, the sports centre is going to get a new leisure pool. It is going to be located in the place where the outdoor courts used to be. As can be seen from the new layout, both outdoor courts are going to be replaced by other facilities in the renovated sports centre. Furthermore, a sports hall is going to appear in the university sports centre. It is also clear from the second layout that the redeveloped sports centre is going to be a fully indoor one.",
+  "transcript_status": "secondary_reading_aid_original_images_authoritative",
+  "images": [
+    {
+      "path": "evaluations/pilot-02/inputs/pilot02-c13-t4-task1-question.webp",
+      "sha256": "33eaab65e931c3520004e68b9c89cdab6ea54a25fc6e1ae82bfc36303224fe61"
+    }
+  ],
+  "question_image": "evaluations/pilot-02/inputs/pilot02-c13-t4-task1-question.webp",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {},
+  "comments": "This answer addresses the main features of the redeveloped sports centre, but it could be improved by adding a brief description of the centre as it is at present. Another aspect of the response that could be improved would be to indicate where the various facilities will be situated in relation to each other: from the description above the reader cannot know where for example the gym, the leisure pool and the dance studios will be located. The range of vocabulary is above average, however: [illustrate | reconstruction | redeveloped | additional | replaced by other facilities | renovated] and shows flexibility and precision. There is a variety of complex structures such as present and future verb forms, passive forms and relative clauses [the place where... | It is also clear... that]. There could be more variety in the language used to express future plans: [going to] is over-used.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-13-academic/",
+  "source_locator": {
+    "book": 13,
+    "test": 4,
+    "score_page": "evaluations/labels/pilot-02-sources/c13-p131.png",
+    "ocr": "evaluations\\labels\\pilot-02-sources\\c13-p131.ocr.json"
+  },
+  "source_artifact": "evaluations/labels/pilot-02-sources/cambridge-13.html",
+  "source_sha256": "6d0eda3c93a5bf015547d608a43aa626cd959a418dfa7a0f6ce5aacfdadcc6bd",
+  "publisher": "Cambridge University Press; public mirror",
+  "score_source": "official",
+  "rater_evidence": "Published Cambridge candidate response; mirror label cross-checked against original book score line.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-13-t4-task1",
+  "prompt_group": "cambridge-13-t4-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "used_in_evaluation": "pilot-02",
+  "evaluation_role": "revealed_development_sample",
+  "extraction": "Original answer images visually reviewed before scoring. Mirror prose is only a reading aid; it may normalize paragraphs."
+}

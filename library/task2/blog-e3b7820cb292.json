@@ -1,0 +1,100 @@
+{
+  "id": "blog-e3b7820cb292",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-e3b7820cb292.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-change-is-always-a-good-thing-agree-or-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-change-is-always-a-good-thing-agree-or-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "d5a198ca4dc67f72",
+  "prompt_group": "45e0696aa0b14c66",
+  "question": "Some people prefer to spend their lives doing the same things and avoiding changes. Others, however think that change is always a good thing. Discuss both sides and give your own opinion.",
+  "essay": "Nowadays, people are arguing whether an ideal lifestyle should be a stable one or should it include a wide ranges of changes. In my opinion, whether changes are needed -- should be determined -- the stages of lives you are at.\n\nApparently, alternations in life are favorable to the development of young people, in regards to their careers. Primarily, an abundant experience in varieties of jobs enables the young to master a broad range of techniques and skills, leading to -- significant edge over the counterparts in the competition for employment. Meanwhile, trying various roles in life and work provides -- wide selections of lifestyles for the young in the future. Only after this comparison can they realize what the real goals of their lives should be striven for.\n\nHowever, other than frequent changes, the elderly who have undergone all these challenges may pursue a steady lifestyle. For the elders, concentration on their favorite activities would give rise to a sense of enjoyment and security, which is helpful to physical and psychological health. Due to a stable life, the elderly are less exposed to stress, leading to a decrease in adrenal hormones and resulting in their well-beings.\n\nFurthermore, degeneration of mental and physical function would make the elderly unlikely to adapt to external changes, causing frustrations and depressions, which are not contributing to their health.\n\nAbove all, it is unlikely to describe the changes in life with a positive or negative term. Accommodation for personal needs and goals is more important than the changes themselves.",
+  "word_count_computed": 251,
+  "images": [],
+  "overall": null,
+  "band_low": 6.0,
+  "band_high": 6.5,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "All the parts of the task were covered, although some were covered better than others. The main ideas are relevant but not all of them are developed well enough. The information is presented coherently, it is evident that the writer progresses from one idea to another. The linking words and phrases are used, however at times they are incorrect, repetitive or seem forced (not natural). Paragraphing needs to be done more logically. The writer’s occasional word-formation errors detract from the good impression, but overall the response is still easy enough to understand. Even though there are some errors in grammar and punctuation, they don’t make the meaning much harder to understand. Overall, this essay seems to be worthy of Band 6 – 6.5.",
+  "corrections": [
+    {
+      "original": "--",
+      "suggestion": "or not"
+    },
+    {
+      "original": "--",
+      "suggestion": "by"
+    },
+    {
+      "original": "stages",
+      "suggestion": "stage"
+    },
+    {
+      "original": "lives",
+      "suggestion": "life"
+    },
+    {
+      "original": "alternations in life",
+      "suggestion": "alterations/changes to life"
+    },
+    {
+      "original": "to",
+      "suggestion": "for"
+    },
+    {
+      "original": "regards",
+      "suggestion": "regard"
+    },
+    {
+      "original": "--",
+      "suggestion": "a"
+    },
+    {
+      "original": "the",
+      "suggestion": "their"
+    },
+    {
+      "original": "--",
+      "suggestion": "a"
+    },
+    {
+      "original": "selections",
+      "suggestion": "selection"
+    },
+    {
+      "original": "lives should be striven for",
+      "suggestion": "life are"
+    },
+    {
+      "original": "beings",
+      "suggestion": "being"
+    },
+    {
+      "original": "frustrations",
+      "suggestion": "frustration"
+    },
+    {
+      "original": "depressions",
+      "suggestion": "depression"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "84638cfc1270320b2c8e43b6cf1e7a1f2cbe8d6a268d62ab69c5f0947f9beebe",
+  "model_evidence": null
+}

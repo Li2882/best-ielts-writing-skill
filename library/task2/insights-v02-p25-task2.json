@@ -1,0 +1,64 @@
+{
+  "id": "insights-v02-p25-task2",
+  "task": "task2",
+  "question": "If old people are no longer physically, mentally or financially able to look after themselves, younger family members should be legally responsible for supporting them. To what extent do you agree or disagree?",
+  "essay": null,
+  "overall": 8,
+  "band_low": 8,
+  "band_high": 8,
+  "traits": {
+    "TR": 8,
+    "CC": 8,
+    "LR": 8,
+    "GRA": 9
+  },
+  "score_source": "verified_human",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "status": "candidate",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "disputed",
+  "rater_evidence": "Publisher submits academic-team originals to Tony Grace; original, explicit overall and correction report verified in the public PDF. Practice assessment, not an official test result.",
+  "author_group": "unknown",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "source_url": "https://cms.youpass.vn/assets/bb8e1043-af9d-48e9-bd95-c49ad1fbd8c2",
+  "source_artifact": "research/expansion/insights/vol-02.pdf",
+  "source_sha256": "b63de3e1b68e1fc0324579ea012ceff46818385a74a7e213d30af1c595c081cc",
+  "source_locator": {
+    "volume": 2,
+    "cover_page": 25,
+    "original_pages": [
+      26
+    ]
+  },
+  "path": "library/task2/insights-v02-p25-task2.json",
+  "task_type": "essay",
+  "duplicate_group": "insights-v02-p25-task2",
+  "prompt_group": "31b910296f159a8d",
+  "quality_issues": [
+    "Original page 26 includes an unrelated final paragraph about criminal re-offending; criterion correction pages omit it. Original-versus-scored-version mismatch unresolved, visually confirmed."
+  ],
+  "accessed_at": "2026-09-21",
+  "essay_images": [
+    "research/expansion/insights/pages/vol-02-p26.png"
+  ],
+  "question_image": "research/expansion/insights/pages/vol-02-p25.png",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-02-p25.png",
+    "research/expansion/insights/pages/vol-02-p27.png",
+    "research/expansion/insights/pages/vol-02-p28.png",
+    "research/expansion/insights/pages/vol-02-p29.png",
+    "research/expansion/insights/pages/vol-02-p30.png",
+    "research/expansion/insights/pages/vol-02-p31.png",
+    "research/expansion/insights/pages/vol-02-p32.png"
+  ],
+  "evaluation_role": "excluded_original_version_conflict",
+  "teacher_advice_caveat": "Assessor paragraph preferences and personal agreement are not extra official criteria.",
+  "trait_label_status": "Criterion pages cross-checked against cover and retained with full report; original and report images retained.",
+  "trait_evidence_path": "research/trait-calibration/insights-v02-p25-task2.json"
+}

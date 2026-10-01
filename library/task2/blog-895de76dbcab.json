@@ -1,0 +1,52 @@
+{
+  "id": "blog-895de76dbcab",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-895de76dbcab.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-some-believe-that-modern-technology-is-increasing-the-gap-between-the-rich-and-poor-while-others-disagree-discuss/",
+  "source_locator": "research/blog/ielts-essay-topic-some-believe-that-modern-technology-is-increasing-the-gap-between-the-rich-and-poor-while-others-disagree-discuss.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "9eefcf7741f8cbff",
+  "prompt_group": "820b55c450fae53e",
+  "question": "Some believe that modern technology is increasing the gap between rich and poor people, while others disagree. Discuss both views and give your own opinion.",
+  "essay": "There is no doubt that modern technology is reshaping our planet and affecting every aspect of human lives. From a social perspective, many people argue that the gap between the upper class and lower classes is widening as a result of technological advancements. Others, however, believe the opposite.\n\nThere are several reasons why one could think that the wealth inequality is, indeed, increasing. The most common reason is the automation. Driven by technology, automation reduces the need for manual labour. As a result, less work opportunities are available for unskilled people. With each iteration of the cycle the competition increases and wages decrease. Secondly, technology has increased the minimum level of needs that should be satisfied. Nowadays, everybody should have a mobile phone and an internet connection, including the poor. This increases the monetary burden on them as they must borrow to cover these new needs.\n\nHowever, I firmly believe that the aforementioned opinion is ludicrous. The most obvious reason is that modern technology has facilitated the road to riches in an unprecedented manner. For instance, many of the internet billionaires are from lower and middle classes. Moreover, the major leaps in agricultural technologies has magnified food production. As a result, food has become more affordable and available. Finally, leveraging technology has dramatically increased workers’ productivity. Consequently, compensations and salaries have increased.\n\nIn conclusion, I strongly believe that technology could possibly narrow the difference between social classes. Increased food production, opportunities and productivity are just few examples of technology’s contribution to bridging the wealth gap.",
+  "word_count_computed": 255,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay adequately covers all parts of the task. The ideas expressed in this written response are relevant, well-developed, ordered in a logical way and supported. The paragraphing is suitable and cohesion is maintained throughout the essay. A good range of vocabulary and the writer’s fluency are evident. There are no spelling errors and very few mistakes in word choice and grammar, most sentences are error-free. The essay is likely to get Band 8 in IELTS.",
+  "corrections": [
+    {
+      "original": "the",
+      "suggestion": "‘the’ isn’t needed here"
+    },
+    {
+      "original": "Secondly",
+      "suggestion": "‘Secondly’ isn’t a good word choice because there is no ‘Firstly’, a better choice would be ‘Also’, or ‘In addition’"
+    },
+    {
+      "original": "has",
+      "suggestion": "‘have’ is the correct verb form"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "5ef8ac16de32ef8d457d40b84e97235318948a362b5705174ebd8807c9eacde4",
+  "model_evidence": null
+}

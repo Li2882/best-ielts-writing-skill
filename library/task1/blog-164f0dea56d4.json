@@ -1,0 +1,128 @@
+{
+  "id": "blog-164f0dea56d4",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-164f0dea56d4.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-7/ielts-report-topic-table-of-home-schooled-students/",
+  "source_locator": "research/blog/ielts-report-topic-table-of-home-schooled-students.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "31d52b7410936f25",
+  "prompt_group": "6db667f6f1c16262",
+  "question": "The table below describes percentages of home schooled students in SomeCountry in 1999-2004. Write a report for a university lecturer describing the information shown.",
+  "essay": "This table shows homeschooled students in Somecountry in years 1999-2004 in percenages.\n\nThe main trend is that all grades including kindergarten is growing for every year. Kindergarten started highest at 2.4 and ended highest at 2.9 percent with a constant increase. But grades 1-2 and grades 5-6 shows a little different trend, both starts at 1,5 percent in 1999 and declines a little bit in 2000. Both of them increased slowly in 2002 and both it holds that course to 2004 where grades 1-2 ends at 2,1 percent and grades 5-6 ends at 2.6 percent.\n\nGrades 3-4 has a slow but steady growth througt all six years. It starts at 1.6 percent in 1999 and increases 0.1 every year except in 2003 when it peaks up 0.2 percent. Grades 7-8 starts at 1.6 percent and stays there for three years until they rapidly rose up to 2.2 and peaked at 2.5 in 2004.\n\nOverall, all grades including kindergarten has had a rise at rougly minimum 1 percent or more in 6 years.",
+  "word_count_computed": 183,
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/homeschooled.GIF",
+      "path": "library/assets/ecd0ed0ac1083b72.gif",
+      "sha256": "d84a738cc48fdd0fe0cf12d0dfd61737c8ee398140869d5c0d9197b459c176ee"
+    }
+  ],
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a good report; here is how you can make it better: the coherence needs improvement, meaning the logical connection between sentences inside a paragraph and between paragraphs. Use more connective words (Furthermore, However, etc).\n\nThe grouping you’ve done is fine, but try to use more variations describing those statistics: use words such as numbers, figures, percentages, etc. The grammar and the spelling need some extra attention.Overall, this report seems worthy of Band 7",
+  "corrections": [
+    {
+      "original": "homeschooled",
+      "suggestion": "home schooled"
+    },
+    {
+      "original": "percenages",
+      "suggestion": "percentages"
+    },
+    {
+      "original": "is",
+      "suggestion": "were"
+    },
+    {
+      "original": "for",
+      "suggestion": "remove ‘for’"
+    },
+    {
+      "original": "highest at",
+      "suggestion": "with percentage of"
+    },
+    {
+      "original": "But",
+      "suggestion": "Not quite similarly"
+    },
+    {
+      "original": "shows",
+      "suggestion": "showed"
+    },
+    {
+      "original": "starts",
+      "suggestion": "started"
+    },
+    {
+      "original": "declines",
+      "suggestion": "declined"
+    },
+    {
+      "original": "it holds",
+      "suggestion": "held"
+    },
+    {
+      "original": "ends at",
+      "suggestion": "reached"
+    },
+    {
+      "original": "ends at",
+      "suggestion": "reached"
+    },
+    {
+      "original": "has",
+      "suggestion": "had"
+    },
+    {
+      "original": " througt",
+      "suggestion": "throughout"
+    },
+    {
+      "original": "starts",
+      "suggestion": "started"
+    },
+    {
+      "original": "increases",
+      "suggestion": "increased by"
+    },
+    {
+      "original": "peaks up",
+      "suggestion": "peaked up at"
+    },
+    {
+      "original": "starts",
+      "suggestion": "started"
+    },
+    {
+      "original": "stays",
+      "suggestion": "stayed"
+    },
+    {
+      "original": "rougly",
+      "suggestion": "roughly"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "5c944dd223d8f89b0e6454cb9fa29f1b2511efeff432104a75d79a5c35c795dd",
+  "model_evidence": null,
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01"
+}

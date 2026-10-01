@@ -1,0 +1,64 @@
+{
+  "id": "blog-a1fc73c0f74c",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-a1fc73c0f74c.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-four-pie-charts-sectors-of-employment-two-towns/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/2934741d05a59c8d.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "5d62571d0e7bbe84",
+  "prompt_group": "1c1e6037c1832f51",
+  "question": "The charts below describe 4 sectors of employment, in 2009 and 2020, in two towns. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/featured/model-report-sample-band-8-pie.jpg",
+      "path": "library/assets/d42e043b7b647161.jpg",
+      "sha256": "7218601059376385b075d5d7b203f77ca32aa6b788a7754143582478826c9af9"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/writing-1-employment-town-a.jpg",
+      "path": "library/assets/f71cc9c7e281b9cf.jpg",
+      "sha256": "5537faf2219387a62d93e124b80049e3d65c8eb62757adf91afc3b738152ff6e"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/writing-1-employment-town-b.jpg",
+      "path": "library/assets/bac38927055948d6.jpg",
+      "sha256": "4c68ffc9411cd215dd0781d5c3963c77d88d50bece022ca2fa0763f258cc7fc6"
+    }
+  ],
+  "essay": "* Note: these aren’t the actual charts given in the test, they were recreated for the purpose of demonstration.\n\nBand 8.5 Model Answer\n\nThe two pie charts show information about employment in Manufacturing, Hospitality, Engineering and Teaching in 2 towns in the years 2009 and 2020.\n\nOverall, it can be clearly seen that there was a significant increase in the number of people employed in Manufacturing in Town A, while Town B experienced a substantial decline in the same sector.\n\nTaking a closer look at Town A, the amount of people employed in the Manufacturing sector tripled from 20% in 2009 to 60% in 2020, while the Engineering sector experienced a sharp decrease during the same period, from 60% to 17%, in an inverse pattern to Manufacturing sector’s figures. The changes to Hospitality and Teaching sectors’ employment were quite minor in both years, with Hospitality slightly increasing from 11% to 15% and Teaching staff numbers shrinking from 9% to 8%.\n\nMoving on to Town B, Hospitality and Teaching experienced growth of similar proportions, with Teaching increasing twofold from 10% in 2009 to 20% in 2020 and Hospitality slightly less, from 15% in 2009 to 20% in 2020. The Manufacturing sector witnessed a large reduction in figures, from 40% to 25%, while Engineering had no changes.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 215,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "f12b36825ff0a6c8fdb40567a0a31f6bca05afbf512dae84a375c89315a1a4e6",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5
+}

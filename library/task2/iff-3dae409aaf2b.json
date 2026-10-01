@@ -1,0 +1,113 @@
+{
+  "id": "iff-3dae409aaf2b",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/iff-3dae409aaf2b.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-task-2-band-6-sample-answer-3/",
+  "source_locator": "research/forfree/ielts-task-2-band-6-sample-answer-3.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "e5f2652815dae694",
+  "prompt_group": "1e3e72c4fe7ab98a",
+  "question": "You should spend about 40 minutes on this task.\nWrite about the following topic:\nInternational air travel has a negative impact upon the environment and should therefore be restricted.\nDo you agree or disagree?\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\nWrite at least 250 words.",
+  "essay": "It is reasonable to argue that flying by plane has negatively affected the air quality. Despite this, the minimizing of plane services is not possible and there are many reasons to justify this point of view.\n\nAlso, one reason that makes it hard to limit the number of airplane flights is that individuals have made their choice when they choose flying instead of other travelling viable alternatives such as trains. Although it has scientifically been proved that aeroplanes are the most significant polluters because of the release of carbon dioxide in the atmosfere and the negitive effect it has on the ozone layer, people starting from presidents use the air travel mercilessly . To illustrate , travelling by plane domestically should be reduced whenever possible.\n\nAdmittedly, it is a point to be made in support of opinion that air travelling should be restricted by raising the prices of tickets because this would encourage people to travel less; however, this would exempt just certain segments of society from travelling by plane.\n\nIn brief, there are serious problems connected with air travelling such as release of carbon dioxide and the damage of ozone layer. In the meantime, there are many commodities offered by airplane services to individuals, therefore chances to limit the use of planes are rare now and are likely to continue to be rare in the future.",
+  "word_count_computed": 225,
+  "images": [],
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Task 2 Band 6 sample answer 3\nThe main problem here is that the writer's organisation is not clear. It seems that there is no clear point of view apart from the introduction, and the topics of the paragraphs are not addressing of whether air travel should be restricted but whether it can be restricted.\nThere are some good examples of vocabulary and grammar, but also some instances where the spelling is incorrect or language used is not sufficiently formal for a Task II essay ('use the air travel mercilessly' for example).\nThe introduction, however, is good.",
+  "corrections": [
+    {
+      "original": "plane",
+      "suggestion": "\"aeroplane/airplane\" - \"plane\" is an abbreviation"
+    },
+    {
+      "original": "possible",
+      "suggestion": "it is possible - better would be \"advisable\""
+    },
+    {
+      "original": "hard",
+      "suggestion": "\"challenging\" would be more academic"
+    },
+    {
+      "original": "proved",
+      "suggestion": "\"proven\""
+    },
+    {
+      "original": "atmosfere",
+      "suggestion": "\"atmosphere\""
+    },
+    {
+      "original": "negitive",
+      "suggestion": "\"negative\""
+    },
+    {
+      "original": "people starting from presidents",
+      "suggestion": "\"a wide range of people\" would be clearer"
+    },
+    {
+      "original": "the",
+      "suggestion": "delete \"the\""
+    },
+    {
+      "original": "mercilessly",
+      "suggestion": "\"frequently\""
+    },
+    {
+      "original": "To illustrate",
+      "suggestion": "the statement that follows does not illustrate the point about a wide range of people using air travel"
+    },
+    {
+      "original": "it",
+      "suggestion": "\"there\""
+    },
+    {
+      "original": "opinion",
+      "suggestion": "\"the opinion\""
+    },
+    {
+      "original": "air travelling",
+      "suggestion": "\"air travel\" or \"travelling by air\""
+    },
+    {
+      "original": "exempt just",
+      "suggestion": "\"only reduce\""
+    },
+    {
+      "original": "release",
+      "suggestion": "\"the release\""
+    },
+    {
+      "original": "of ozone",
+      "suggestion": "\"to the ozone\""
+    },
+    {
+      "original": "commodities",
+      "suggestion": "\"this isn't clear - what commodities?\""
+    },
+    {
+      "original": "rare",
+      "suggestion": "change this to \"continue to be so\" to avoid repetition"
+    }
+  ],
+  "quality_issues": [
+    "source_word_count_mismatch_possible_truncation"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "62fa3c54621eab776bf8444bd1da11f6ef121e4f7f5bdc4bdedf4bcbf7819648"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "juice-255580",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-255580.json",
+  "question": "The plans below show the site of an airport now and how it will look after redevelopment next year.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The diagrams illustrate the current layout of Southwest Airport and its changes next year.\n\nOverall, the airport will undergo significant changes, with the most notable being the number of gates and the addition of new facilities such as shops, a sky train, and a car hire service.\n\nCurrently, the airport has only 8 gates arranged in a straight line on the northwest side. After redevelopment, the number of gates will increase to 18, arranged in a Y-shape, providing more capacity for flights. Additionally, a sky train will be introduced to facilitate transportation between the gates.\n\nIn terms of other facilities, the current airport has basic services such as a café located in both the departures and arrivals sections. After redevelopment, there will be more services, including a new bag drop area in the departures section, ATM machines, and a car hire service in the arrivals section.\n\nFinally, the addition of shops along the walkway leading to the gates will enhance the overall passenger experience, offering more amenities for travelers as they make their way to their flights.\n\nIn summary, the airport will be more modern and efficient, with increased capacity and additional services to better accommodate passengers’ needs.",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TA": 6.0,
+    "CC": 6.0,
+    "LR": 7.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you for writing this report. This response describes the main features and changes between the current layout and the future development of the airport, including some specific details and comparisons. However, it could be improved by more clearly organizing the information and providing more precise language. The task response is fairly straightforward, with minor inappropriacy; there are occasional attempts to use more complex sentences, but the vocabulary and grammatical range remain limited, which aligns with a band 6.0 writing level.",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "6.0\taddresses the requirements of the task",
+      "6.0\tpresents and adequately highlights key features",
+      "6.0\tdetails may be irrelevant, inappropriate, or inaccurate",
+      "6.0\tpresents an overview with information appropriately selected",
+      "6.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "6.0\tthere is a clear overall progression",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "6.0\tuses paragraphing, but not always logically",
+      "6.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "8.0\tthe majority of sentences are error-free",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "6.5"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-255580-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2024/08/IELTS-Writing-Task-1-report-sample-3405-Band-6-5.jpg",
+      "sha256": "0df0196358074d09299e03a91a97033dda693a2025f151b7a409a79700f661dd"
+    }
+  ],
+  "question_image": "library/assets/juice-255580-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3405-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-255580.html",
+  "source_sha256": "f14f72e21adbb9d37e343a7eb236732ac068c9b53d9c226aeb3babb5fb15f68a",
+  "source_locator": {
+    "wordpress_post_id": 255580,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "a76ef7d75ef863e0",
+  "prompt_group": "6d7babaaafe32a43",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

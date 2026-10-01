@@ -1,0 +1,87 @@
+{
+  "id": "juice-255404",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-255404.json",
+  "question": "It is important for people to take risks, both in their professional lives and their personal lives.\nDo you think the advantages of taking risks outweigh the disadvantages?",
+  "essay": "Taking risks is an integral part of human life encompassing both professional and personal realms. This essay will argue that the advantages of taking risks outweigh the disadvantages due to the potential for significant personal growth, career advancement, and the development of resilience, despite the inherent uncertainties and potential for failure.\n\nFirstly, taking risks often leads to personal growth and self-discovery. When individuals step out of their comfort zones, they encounter new experiences and challenges that can lead to a deeper understanding of themselves. For example, traveling to a foreign country alone can be daunting, but it can also provide invaluable lessons in independence, adaptability, and cultural awareness. These experiences contribute to a person’s overall development, making them more well-rounded and capable individuals. Similarly, in the professional sphere, risk-taking is often synonymous with innovation and career advancement. Many successful entrepreneurs and professionals attribute their achievements to bold decisions that involved significant risks. For instance, leaving a stable job to start a new business may seem risky, but it can lead to substantial financial rewards and personal satisfaction if the venture succeeds.\n\nMoreover, taking risks helps develop resilience and the ability to cope with setbacks. Failure is an inevitable part of life, but those who take risks learn to handle it constructively. They develop a mindset that views failure as a learning opportunity rather than a setback. This resilience is crucial in both personal and professional contexts, as it enables individuals to bounce back from disappointments and continue striving towards their goals. However, it is essential to acknowledge the disadvantages of taking risks. The most apparent downside is the potential for failure, which can result in financial loss, emotional distress, and a temporary setback in one’s career or personal life. For example, investing in a high-risk stock market can lead to significant financial loss if the market crashes. Additionally, taking risks without proper planning and consideration can lead to hasty decisions that have long-term negative consequences.\n\nIn conclusion, while taking risks involves inherent uncertainties and potential downsides, the advantages of personal growth, career advancement, and the development of resilience significantly outweigh the disadvantages. By embracing calculated risks, individuals can unlock new opportunities and achieve their full potential in both their professional and personal lives. Therefore, it is vital for people to take risks, provided they do so thoughtfully and strategically.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TR": 7.0,
+    "CC": 7.0,
+    "LR": 8.0,
+    "GRA": 8.0
+  },
+  "comments": "Thank you for writing this essay. The essay could benefit from a more thorough discussion of the disadvantages, possibly with more varied examples to strengthen the argument. While the essay is cohesive, the transition between the paragraphs discussing the advantages and disadvantages could be smoother. Additionally, the introduction and conclusion could be more distinct in summarizing the main points.\nVideo Feedback",
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3399-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-255404.html",
+  "source_sha256": "798cdfb94aaff9d43ef1f79efef0b6037769102d004e4c04f494d7c44a03a139",
+  "source_locator": {
+    "wordpress_post_id": 255404,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "6a11971de870a2c8",
+  "prompt_group": "18570906ce7466da",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "8.0\tsufficiently addresses all parts of the task",
+      "8.0\tpresents a well-developed response to the question",
+      "7.0\tpresents, extends, and supports main ideas, but there may be a tendency to over-generalize and/or supporting ideas may lack focus",
+      "7.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "8.0\tmanages all aspects of cohesion well",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "8.0\tproduces rare errors in spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "9.0\tuses a wide range of structures",
+      "8.0\tthe majority of sentences are error-free",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "9.0\tcommunication is completely natural",
+      "8.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

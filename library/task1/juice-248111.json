@@ -1,0 +1,94 @@
+{
+  "id": "juice-248111",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-248111.json",
+  "question": "The diagram shows the main systems of writing used throughout the world.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The diagram given depicts World’s five major writing systems: the Logographic, Abjad, Abjuda, Alphabetic, and Syllabic. Overall, it is clearly shown that the most of them are based on sound characters.\n\nFour of these are similar to each other as their characters are represented by sounds. Abjad is the oldest one, which is used in Arabic, for instance, where each character is a consonant. Another one is Abjuda, the system where one letter is a combination of consonant and vowel. English language is an illustration of the third system called Alphabetic. Here, one character is either vowel or consonant sound. A key point in this type of writing is that spelling and pronunciation are sometimes not precisely the same. Finally, in the Syllabic, unlike the aforementioned systems, one figure refers to one syllable and is used in Japanese Kana.\n\nApart from sound-based systems, the diagram shows a Logographic method of writing with Chinese language referred as an example. In Logographic, character is represented by one word and notably the same system here might be used in two languages, like Chinese and Japanese.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TA": 9.0,
+    "CC": 7.0,
+    "LR": 7.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this report. This is an example of an excellent IELTS writing task 1 response. The visual is fully addressed, developed, and organized in 2 body paragraphs. The report can still improve by showing off a wide range of grammatical structures (conditionals, inversion, relative clauses, etc.) and a wide range of vocabulary related to the topic.",
+  "images": [
+    {
+      "path": "library/assets/juice-248111-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2023/10/ielts-writing-task-1-report-sample-3315-band-7-5.jpg",
+      "sha256": "296d501aaf77d48939636602650afb689dced3e7fa7b944245c89bd9b33e7382"
+    }
+  ],
+  "question_image": "library/assets/juice-248111-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3315-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248111.html",
+  "source_sha256": "59b3269b6adad146d9f6f92adeb3bd2d9d4c2e47c8104292e3e0489bb3d88a9e",
+  "source_locator": {
+    "wordpress_post_id": 248111,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "c8d1015140600f1e",
+  "prompt_group": "60fea8472a3b3b13",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "9.0\tfully satisfies all the requirements of the task",
+      "9.0\tclearly presents a fully developed response",
+      "9.0\tdetails are fully and clearly extended.",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "9.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "7.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "8.0\tthe majority of sentences are error-free",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tcommunication is completely natural",
+      "7.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

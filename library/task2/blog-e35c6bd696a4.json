@@ -1,0 +1,60 @@
+{
+  "id": "blog-e35c6bd696a4",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-e35c6bd696a4.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-the-positive-negative-side-of-globalization/",
+  "source_locator": "research/blog/ielts-essay-topic-the-positive-negative-side-of-globalization.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "24826aece26ae33e",
+  "prompt_group": "6de59feccc9a8222",
+  "question": "Even though globalization affects the world’s economy in a very positive way, its negative side should not be forgotten. Discuss.",
+  "essay": "Everything has two sides and the globalization is not the exception. Our first thoughts about this topic include the process of global “McDonaldisation” and, generally speaking, spreading the one, American, lifestyle across the whole Globe.\n\nFirstly, I would try to concentrate on the positive aspects of globalisation. As far as economy is concerned, institiutions like the Global Bank or IMF are always focused on developing the ‘Third World’ and helping poor people to combat their life obstacles (through loans and donations). Moreover, the world becomes an area of sharing thoughts (e.g. philosophical or economical doctrines), which become popular due to lack of barriers. However, disadvantages of globalization are also widely known. Some people insist that because of this process, the spirit of countries and nations rapidly disappears. The integrity, established houndreds years ago is on the verge of collapsing. Furthermore, there’s a strong lobby of communists who reckon, that the globalization indicates an uncontrolled reign of capitalists and slave work of lower labour-class. We should never forget about the detrimental impact of global investments on the environment – the green house effect or soar rains are triggered by globalization.\n\nTo sum up, globalization has both positive and negative influence on our everyday life. I can’t agree with the popular statement that we should try to avoid being affected by it. However, we must not forget about our surroundings and local communities. They have a great value which should last forever.",
+  "word_count_computed": 240,
+  "images": [],
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay is too short (233 words instead of mandatory 250), which may get it penalized. On the bright side, it covers the task and has a sound structure on the essay level. The paragraphs are coherent and are logically connected by linking words; the sentences are well-structured and the vocabulary is adequate. There were some inaccuracies, see comments underlined in blue. Overall, this looks like a band 6 essay.",
+  "corrections": [
+    {
+      "original": "the",
+      "suggestion": "an"
+    },
+    {
+      "original": "the one, American, lifestyle ",
+      "suggestion": "one specific, American, lifestyle"
+    },
+    {
+      "original": " institiutions",
+      "suggestion": "institutions"
+    },
+    {
+      "original": "houndreds",
+      "suggestion": "hundreds of"
+    },
+    {
+      "original": "reckon",
+      "suggestion": "think"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "afa70a9b535cbe60d8d2f4a6c061783b146ab6d1d616deaddc09ba2f878be706",
+  "model_evidence": null
+}

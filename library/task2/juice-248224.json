@@ -1,0 +1,87 @@
+{
+  "id": "juice-248224",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248224.json",
+  "question": "In recent years, many small local shops have closed because customers travel to large shopping centers or malls to do their shopping.\nIs this a positive or a negative development?",
+  "essay": "Nowadays, the  umber of shopping centers has in creased. However, this increase causes closing  local shops and businesses. There are some reasons why I believe this development is positive.\n\nSuch malls benefit communities in several ways. First of all, each mall has a parking, and it offers customers an opportunity to park their private vehicles rather than parking on a street. Not only does such parking space cause light traffic, but also it acts as a precursor to decreasing air pollution. Furthermore, ashopping centre cons of many small shops. It is clear that it require less space than those small shops built on streets. Further to these, building such centers is a best way to save electrical and heat energy. The number of small shops is directly correlated with the amount of energy consumed.\n\nPeople can gain benefits from large shopping centers in some ways. First, there are variety of products in large centers. So, shoppers can find any types of clothes instead of going  different local small shops. In this case, they are able to save time. Moreover, if individuals go to a mall at free time, this browsing will referesh them and act as a catalyst for increasing their efficiency. As a case in point some managers advise workers to do shopping on weekends and the high efficiency of such stuff at workspace well embodies this point.\n\nTo conclude, due to decreaing of traffic resulting in reducing air pollution saving electrical and heat energy as well as high efficiency of shoppers at their workspace and saving time, I strongly agree that such developments affects communities positively.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TR": 8.0,
+    "CC": 8.0,
+    "LR": 7.0,
+    "GRA": 8.0
+  },
+  "comments": "Thank you indeed for writing this essay. This is an excellent example of an IELTS task 2 response. The most noticeable point is that the topic is viewed from two angles: malls’ contribution to the community and what benefits people going there get. The main ideas are clear, addressed, and well-developed. To improve this essay, maybe fewer vocabulary errors can help.",
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3320-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248224.html",
+  "source_sha256": "8bb2ea7848ec50d37d7560f0bdf7abc40940687d601c4234e4aba381248a35d9",
+  "source_locator": {
+    "wordpress_post_id": 248224,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "0ab3c99401dce7af",
+  "prompt_group": "91c03837c8de95bb",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "8.0\tsufficiently addresses all parts of the task",
+      "8.0\tpresents a well-developed response to the question",
+      "8.0\twith relevant, extended, and supported ideas",
+      "8.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "8.0\tmanages all aspects of cohesion well",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "8.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "9.0\tuses a wide range of structures",
+      "8.0\tthe majority of sentences are error-free",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tcommunication is completely natural",
+      "8.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

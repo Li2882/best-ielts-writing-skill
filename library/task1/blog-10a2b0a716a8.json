@@ -1,0 +1,59 @@
+{
+  "id": "blog-10a2b0a716a8",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-10a2b0a716a8.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-line-graph-production-of-3-fuels-in-uk/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/1c7fb41deb15abd7.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "664c3ae89a33cc97",
+  "prompt_group": "1052e2761e12e99f",
+  "question": "The line graph below describes production of different fuels in the UK from 1981 to 2000. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/featured/model-report-sample-band-8-line.jpg",
+      "path": "library/assets/ed2fab2473d5006c.jpg",
+      "sha256": "d754bcdbdadcfee17e7a37dd3d2e24b7114067dd0578908de124c0e8b94dcd2b"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/writing-1-line-graph-fuels-uk-web.jpg",
+      "path": "library/assets/711cef9299691cd1.jpg",
+      "sha256": "d27715faa12faa2cd6a44c47615b317efaa5d286a56629248366a945e0ababde"
+    }
+  ],
+  "essay": "* Note: this isn’t the actual graph given in the test, it was recreated for the purpose of demonstration.\n\nBand 8.5 Model Answer\n\nThe line graph gives information about the production of coal, gas and petroleum in the UK from 1981 to 2001.\n\nIt is clear from the graph that there was a decline in the production of all three types of fuel over the given time period, especially coal.\n\nTo begin, coal started out with the highest value of 127 million tonnes produced in 1981, and then plummeted to 51 million tonnes in 1984. Thereafter, the ratio recovered significantly to 106 million tonnes in 1986. From then onwards, the ratio has been consistently declining and eventually reached a low of 35 million tonnes in 2001.\n\nThe production of petroleum showed a slight increase from 96 to 100 million tonnes at the very start of the period. From 1983, there was a gradual decrease in production to a low of 79 million tonnes in 1989. Later on, from 1991 to 2001 the numbers remained relatively stable, between 80 to 87 million tonnes.\n\nNatural gas production started at 72 bcm and increased for almost 10 years, reaching the high of 113 bcm in 1990. That point marked a start of gradual decline of around 5 bcm per year, to the low of 67 in 1999. Thereafter, there was a slight recovery to 72 bcm in 2001.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 235,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "8aafc1e0215e4e0264750ae8a80a24b5495f74d5097919262e3180dacfa05172",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5
+}

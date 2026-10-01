@@ -1,0 +1,86 @@
+{
+  "id": "juice-248062",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248062.json",
+  "question": "In many places, new homes are needed, but the only space available for building them is in the countryside. Some people believe it is more important to protect the countryside and not build new homes there.\nWhat is your opinion on this?",
+  "essay": "these days new buildings are needed, but the countryside is the only area for constructing them. some people hold the idea of protecting the countryside rather than building new homes. I believe that construction is essential, which I will outline here.\n\non the one hand, there are several reasons for building new homes in the countryside. firstly, it is a good way to prevent people from immigrating to other cities. as the population grows in cities, the essential for accommodation is undeniable,  the place in town is rare, and the best location for construction would be the countryside. it leads New Generation having a place for living in that city rather than searching in other cities, which would a burden for. in addition, the government decentralize resources from big cities to other places. because of construction in the Countryside,  the official authorities would have to bring new facilities to there.\n\nThese  would take from Big Towns, for example budget or Professional Workforce in hospital which shift to this area. thus equipment would be the same for all cities, especially, these that are small.\n\non the one hand, some people believe that prevention of building new houses in the countryside is of Paramount important.  because people in cities need to have fresh air, and this is possible by preventing trees from cutting in that area.  although having fresh air is essential for cities, this idea would be rejected because construction can be done in the parts of the countryside which is empty and devoid of plants.\n\nin conclusion, I hold the notion of building new homes in the countryside because of having some advantages which people benefit from, like prevention of immigration and  bringing new facilities to a small cities which are the verge of becoming over crowded.",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TR": 6.0,
+    "CC": 6.0,
+    "LR": 6.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you indeed for writing this essay. The thesis statement is the most important sentence in the essay, yet in this case, it needs clarity. The focus of the essay is not on the ability to construct houses; it should be on where these new houses ought to be constructed. Lack of clarity is evident at the end of the second paragraph. “Professional workforce in hospitals” is given as an example, but it is unclear why a hospital is under focus. The range of words and phrases are indeed rich. The grammatical range is wide enough but needs more accuracy.",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "7.0\taddresses all parts of the task",
+      "6.0\tpresents a relevant position although the conclusions may become unclear or repetitive",
+      "6.0\tpresents relevant main ideas but some may be inadequately developed/unclear",
+      "6.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "6.0\tthere is a clear overall progression",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "6.0\tmay not always use referencing clearly or appropriately",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "6.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "6.0\tmakes some errors in spelling and/or word formation",
+      "6.0\tthey do not impede communication",
+      "6.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.0"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3304-band-6-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248062.html",
+  "source_sha256": "cceaa9681cf7c3b802fb53ba2492f7bdb44610bbc34622be05110a8a443ab614",
+  "source_locator": {
+    "wordpress_post_id": 248062,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "93a3578a95357aca",
+  "prompt_group": "174fa5d07b57f44c",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

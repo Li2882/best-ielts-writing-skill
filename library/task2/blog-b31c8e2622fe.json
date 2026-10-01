@@ -1,0 +1,56 @@
+{
+  "id": "blog-b31c8e2622fe",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-b31c8e2622fe.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-the-development-of-technology-causes-traditional-skills-to-die-out-agree-or-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-the-development-of-technology-causes-traditional-skills-to-die-out-agree-or-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "5fe059fdc9841125",
+  "prompt_group": "ed5730cc3043520a",
+  "question": "When a country develops its technology, the traditional skills and ways of life die out. It is pointless to try and keep them alive.To what extent do you agree or disagree with this opinion?",
+  "essay": "Nowadays, technological advances and their rapid and wide applications are having a significant impact on a nation’s traditional skills and ways of life. Some argue that such impact is so extraordinary that it would make conventional skills and life styles obsolete. However, I believe they would continue to thrive by providing alternatives to modern ways of life, and innovative ideas for modern technologies.\n\nFirst of all, traditional skills and ways of life are becoming an alternative solution to the problems caused by “mainstreamed” ways of life which are greatly influenced by modern technologies. For instance, a cozy restaurant where traditional, home-brewed beer is served, offers another experience to people who are bored with branded beers that have the same flavor and come out of mass production with new technologies. It is in such a venue where traditional skills are preserved, people become relaxed and educated. Providing diversity and thus enriching modern ways of life, such traditional skills and ways of life would continue to have their place.\n\nFurthermore, conventional skills provide innovative ideas to the development of modern technologies. For example, sparkled by how the word “Love” is traditionally knitted into a sweater by some ethnic minority women in some parts of Asia, some business managers from textile industry have developed some production lines by applying the traditional skills to Computer-Aided Designs (CAD). The products have boosted the companies’ sales which in turn have increased their investment in preserving traditional skills for further developing their technologies.\n\nTo conclude, traditional skills and life styles are increasingly becoming a useful alternative to the homogeneity brought by global applications of modern technologies. However, the evolution of technologies is a selection process, whereby some would become obsolete, but there is no doubt that some would thrive when their roles are appreciated.",
+  "word_count_computed": 297,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a good essay. The requirements of the task statement are covered, the arguments make sense and are presented in a coherent, easy to follow way, the range of vocabulary is wide enough and the writer shows fluency and flexibility. There are only a few errors (mouse over the words underlined in blue shows suggested corrections). Overall this looks like an IELTS Band 8 essay.",
+  "corrections": [
+    {
+      "original": "life styles",
+      "suggestion": "lifestyle"
+    },
+    {
+      "original": "mainstreamed",
+      "suggestion": "mainstream"
+    },
+    {
+      "original": "and educated",
+      "suggestion": "educated about what?"
+    },
+    {
+      "original": "life styles",
+      "suggestion": "lifestyle"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "4dc8215c8ab342c3f63130ee6fbe599e7041156bc26ec17eb6a8d5c307f5fc7d",
+  "model_evidence": null
+}

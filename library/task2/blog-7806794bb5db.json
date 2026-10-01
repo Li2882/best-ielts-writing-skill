@@ -1,0 +1,60 @@
+{
+  "id": "blog-7806794bb5db",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-7806794bb5db.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-children-should-be-engaged-in-paid-work-agree-or-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-children-should-be-engaged-in-paid-work-agree-or-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "63d13c5b6eef0d58",
+  "prompt_group": "e22c285ace93c884",
+  "question": "In many countries children are engaged in different kinds of paid work. Some people regard this as completely wrong, while others consider it a valuable work experience, important for learning and taking responsibility. What is your opinion?",
+  "essay": "The issue of whether or not children should be engaged in some paid work has sparked a heated debate. While some argue that having some employment experience is conducive to a child’s learning and development, I contend that it would bring harm to the child’s heath and learning.\n\nFirst of all, a workplace designed for adults is normally shortage of child-friendly facilities. Desks and chairs are too high for a child; the light switches are installed on the walls unreachable by children; also emergency training and facilities such as phones are only provided to adults. Furthermore, various hazards such as polluted air and chemical fumes are still produced in factories and farms. Undoubtedly young people would suffer in such workplaces.\n\nAlso, children would find it frustrating when they are not properly inducted before starting a job. A child working in a cement factory would feel a setback when he could not get immediate support while struggling with the procedures of recording different raw materials that is required by the job. Further, without sufficient support, a child’s misunderstanding or inappropriately communicating with adults would only disappoint him and prevents him from active learning and interacting with other people.\n\nTo conclude, a child’s paid employment experience would lead to a negative impact on their health and active learning. However, recognizing the importance of children’s learning and their awareness of responsibility, it is advisable to encourage them to be involved in some volunteering opportunities where they can meaningfully learn and interact with other people with sufficient care and support in place for such jobs.",
+  "word_count_computed": 261,
+  "images": [],
+  "overall": null,
+  "band_low": 7.5,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a good essay. There are only a few errors (mouse over the words underlined in blue shows corrections), but otherwise this work seems worthy of Band 7.5 or 8. Remember to always proofread your essay before submitting it. Keep up the good work!",
+  "corrections": [
+    {
+      "original": "heath",
+      "suggestion": "health"
+    },
+    {
+      "original": "is",
+      "suggestion": "delete this"
+    },
+    {
+      "original": "shortage of",
+      "suggestion": "lacks"
+    },
+    {
+      "original": "by",
+      "suggestion": "for"
+    },
+    {
+      "original": "is",
+      "suggestion": "are"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "c75df55f53b1cdcfa97885ed05c382c4379654d96bb81df2312687bf87b0c8b7",
+  "model_evidence": null
+}

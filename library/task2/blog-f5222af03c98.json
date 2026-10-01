@@ -1,0 +1,60 @@
+{
+  "id": "blog-f5222af03c98",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-f5222af03c98.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-advertising-affects-what-people-think-is-important-and-has-a-negative-effect-on-their-lives-agree-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-advertising-affects-what-people-think-is-important-and-has-a-negative-effect-on-their-lives-agree-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "4d7692e8f4d45c40",
+  "prompt_group": "c77b7afd996600f9",
+  "question": "Today people are surrounded by advertising. This affects what people think is important and has a negative impact on people’s lives. To what extent do you agree or disagree?",
+  "essay": "With the advent of the Internet, advertisements, originally displayed only on TV, billboards, posters and so on, are becoming increasingly ubiquitous and commonplace for the general public. In my view, this kind of impact could be both crucial and, on a certain level, detrimental.\n\nOn the one hand, this phenomenon could denote that although we have already had a diverse range of advertisement, people are still capable of inventing innovative approaches catering for all kinds of requirements of advertising. It is a symbol that demonstrates the creativity rooted in human beings. Apart from that, it also represents that the speed of spreading information is conspicuously escalating. More purposeful is, therefore, the fact that, besides booming of the advertising, it constitutes a major reason why people could be so prosperous in this digital age.\n\nOn the other hand, there are various unpleasant consequences as well. Firstly, with the omnipresent advertisement, it could potentially cause people to do impulsive shopping. Secondly, the advertisement, if regulated in a mismanaged method, could make people constantly feel uncomfortable or annoyed. In this sense, instead of being an instrumental tool to promote amenities, advertisements could be considered a hindrance when people are frequently blocked by them. Furthermore, it would cost one precious time to have to sift the helpful ad from a host of others.\n\nIn conclusion, as far as I am concerned, advertising is a beneficial phenomenon for all with a number of insignificant drawbacks. I believe that in the future we can improve the way advertising is done at present, and embrace the positive influence of advertising even further in the long run.",
+  "word_count_computed": 269,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay is another example of what Band 8 writing may look like. It’s weak point is that the author goes slightly off-topic while trying to discuss whether advertising affects what people view as important and instead talks about the reason advertising is spreading and about human creativity. However, the other part of task type (negative effects of advertising) is covered well, the ideas are well-developed and supported. There is a clear logical flow of information and a range of transitional words is used appropriately to sequence ideas. The way author uses synonyms to rephrase the task topic in the intro paragraph demonstrates their lexical skill, which is also evident in other parts of this essay. There are many complex sentences and very few errors. Overall, this essay seems worthy of IELTS Band 8.0.",
+  "corrections": [
+    {
+      "original": "advertisement",
+      "suggestion": "the writer means ‘advertisements’"
+    },
+    {
+      "original": "advertisement",
+      "suggestion": "the writer means ‘advertising’"
+    },
+    {
+      "original": "advertisement",
+      "suggestion": "the writer means ‘advertising’"
+    },
+    {
+      "original": "method",
+      "suggestion": "the writer means ‘manner’ or ‘way’"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "78155a38b32658ca42828727d7eb12a79af1e5928c530b8e9ff263e3fa5afc1f",
+  "model_evidence": null,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "source_context_region": "unknown",
+  "classification_revision": "Book-title advertisement is not evidence of model authorship; explicit sample/model declarations remain excluded."
+}

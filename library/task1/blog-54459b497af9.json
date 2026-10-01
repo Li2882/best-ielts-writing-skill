@@ -1,0 +1,54 @@
+{
+  "id": "blog-54459b497af9",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-54459b497af9.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-9/ielts-report-topic-multiple-bar-chart-us-export-markets-from-ielts-high-scorers-choice-series-academic-set-3/",
+  "source_locator": {
+    "page_marker": "Sample Band 9 Report",
+    "source_file": "research/expansion/high-band-sources/blog-pages/9f735f3d9e7fd81c.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog; High Scorer’s Choice IELTS Practice Tests",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page labels this response as a Band 9 model (\"close to\" or \"likely to score\" Band 9) from High Scorer’s Choice. This is a published teacher/examiner model label, not an official Cambridge TRF; the distinction is retained for calibration review.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "High Scorer’s Choice model author",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "3a96ce4bca438730",
+  "prompt_group": "9ef08498345b7c1d",
+  "question": "High Scorer’s Choice IELTS Practice Tests book series (reprinted with permission). This answer is close to IELTS Band 9. Set 3 Academic book, Practice Test 14 Writing Task 1 You should spend about 20 minutes on this task. The bar chart below shows the US’ top ten processed food export markets for last year and six years ago. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/multi-bar-chart-writing-task-1-test-14-web.jpg",
+      "path": "library/assets/fabd1bf1983c459f.jpg",
+      "sha256": "19739893e62faef60b3d2be932a61d8f0f89319b7ad2586ba68afabd81c4b0fb"
+    }
+  ],
+  "essay": "The bar chart gives data on the top ten processed food export markets for the United States from last year and six years ago.\nIt can be clearly seen that all the countries in the bar chart imported more processed food from the US last year than 6 years ago.\nThe largest market by far for last year and six years ago was Canada, with income for the US of 13.2 billion US dollars and 9.3 billion US dollars, respectively. The second highest figures were for what is identified as the Rest of World at 11 billion US dollars and 6.3 billion US dollars, respectively.\nThe remaining eight countries ranged from Mexico with income for the US of 6.1 billion US dollars for last year and 4 billion US dollars for six years ago to Hong Kong with income for the US of 0.8 billion US dollars for last year and 0.3 billion US dollars for six years ago. Therefore, the two largest markets the US depends on for their processed food exports were the closest ones, Canada and Mexico.\nCompared to 6 years ago, last year US processed food exports to Australia experienced the most significant growth of 300%, to China, Hong Kong and the Philippines – just over 200%, and to the other countries – under 100%.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Published source label: individual Band 9 model response; no four-trait numerical breakdown published.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 219,
+  "extraction": "HTML original prompt and model response; source label and module context retained.",
+  "source_sha256": "3cba35a98aa5cd0537c80ca00ecf534b40b1f2f1f50b8714659a6a4f5fa0f545",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

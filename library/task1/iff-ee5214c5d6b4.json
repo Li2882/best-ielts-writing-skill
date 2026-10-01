@@ -1,0 +1,69 @@
+{
+  "id": "iff-ee5214c5d6b4",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/iff-ee5214c5d6b4.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-academic-task-1-band-8-sample-answer-1/",
+  "source_locator": "research/forfree/ielts-academic-task-1-band-8-sample-answer-1.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "2a1b1f6171944a89",
+  "prompt_group": "9e4c5474f8fcbeee",
+  "question": "You should spend about 20 minutes on this task.\nThe bar chart shows the number of children in two different age groups in an average class in different countries.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\nYou should write at least 150 words.",
+  "essay": "The bar chart compares the average number of pupils per class in four different countries: Japan, Hong Kong, Russia and the United States. The vertical axis shows the students per class from 0 to 40 and the two coloured columns present the children's ages, 9 and 13.\n\nAs can be seen in the graph, the significantly lowest number with just over 10 pupils regarding the age group 9, concerns Russia. It is followed by the United States (slightly more than 40 ) and by Japan with a number of around 30 pupils. In Hong Kong, there are about 35 students in a class. The number of students per class in all countries, except Russia, reaches or exceeds the global average (22).\n\nThe number of students in Japan and Hong Kong are inverse in comparing the age 9 with the age 13. In other words, Japanese classes are the biggest (35) and are succeeded by Hong Kong (marginally over 30 students).\n\nThe Russian (about 10) and American (17) figures are inferior to the global average (18).\n\nOverall, just Japan and Hong Kong are above, Russia is below and America correspond with the global average.",
+  "word_count_computed": 192,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Academic Task 1 Band 8 sample answer 1\nThe introduction is excellent, but the presentation of data in parenthesis (brackets) is not ideal.\nThere are one or two areas where the vocabulary could be improved, but in general this is very well written with only minor points to change to achieve a top score.",
+  "corrections": [
+    {
+      "original": "the significantly lowest number with just over 10 pupils regarding the age group 9, concerns Russia.",
+      "suggestion": "Although not grammatically wrong, we tend to put the subject first if the object phrase is long (i.e. \"Russia had the significantly lowest number with just over 10 pupils regarding the age group 9\""
+    },
+    {
+      "original": "40",
+      "suggestion": "\"20\""
+    },
+    {
+      "original": "in comparing",
+      "suggestion": "\"when comparing\""
+    },
+    {
+      "original": "the age",
+      "suggestion": "\"those students aged\""
+    },
+    {
+      "original": "the age",
+      "suggestion": "\"those aged\""
+    },
+    {
+      "original": "inferior to",
+      "suggestion": "this is a value judgement, meaning \"not as good as\" - avoid making judgements in Task I by using something like \"lower than\""
+    },
+    {
+      "original": "correspond",
+      "suggestion": "\"corresponds\""
+    }
+  ],
+  "quality_issues": [
+    "missing_chart"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "af92d27861c85f564b511ff750c2c6c5572ba933df901b9a5681b1f6247337bb"
+}

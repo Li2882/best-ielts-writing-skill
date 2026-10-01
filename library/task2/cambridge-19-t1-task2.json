@@ -1,0 +1,49 @@
+{
+  "id": "cambridge-19-t1-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/cambridge-19-t1-task2.json",
+  "question": "Some people think that competition at work, at school and in daily life is a good thing. Others believe that we should try to cooperate more, rather than competing against each other.\nDiscuss both these views and give your own opinion.",
+  "question_image": null,
+  "images": [],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c19-p130.png"
+  ],
+  "reading_transcript": "In my opinion competition at work, at school and in daily life can both be a good thing and a bad thing. Why? because I think too much of anything can be destructive. Yes, it’s a very good thing to be competitive but don’t overdo it! Having no competition in your life at all can be very depressing, because you have no motivation, no goals you want to achieve, everytime you wake up in the morning. I don’t believe that there is such thing as “co-operating” too much, when you work with someone you should work together as a team and co-operate, but also do things for yourself, like something career-wise. You should think of your future in your work. That goes the same if you are still in school, take my school life for example. If I am very good at one subject in particular, lots of other student may come up to me and ask for pointers. I would be very glad to help them. If there is any homework, school mates may come over to do it together. this is also fine and very good for building relationship. But sometimes there are people who think you are so nice and ask you to do their work for them. This is where you should draw the line, yes you are friends and you should help each other, but that doesn’t mean that you have to do their homework or give them answer when there is a test. Remember life is a competition, be a winner.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {},
+  "comments": "This response covers the task and is engaging to read. The candidate starts by saying competition can be good and bad, too much can be [destructive] and too little can be [depressing] as you would have [no motivation, no goals]. No specific examples are given, and they would improve the response. The rest of the response addresses ‘cooperation’ but is mostly about how people can cooperate rather than comparing ‘cooperation’ with ‘competition’ in line with the question. The conclusion [… be a winner] slightly contradicts the earlier point [/ don’t believe that there is such a thing as “co-operating” too much]. Unfortunately, there is no paragraphing to group ideas together or indicate main topics. This affects the rating for coherence and cohesion. There is some higher-level vocabulary [destructive | motivation | career-wise] with some idiomatic use [draw the line] which makes vocabulary the strongest area in this response. A wider range would be needed for a higher score. There is a range of grammatical structures, including comparative forms and conditional [if) structures. Although they do address the task and present relevant ideas, to achieve a higher score, the candidate should organise the response into paragraphs and discuss both views. They could also demonstrate a greater level of accuracy with vocabulary and grammatical structures.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-19-academic/",
+  "source_artifact": "research/expansion/cam19-page.html",
+  "source_sha256": "1005517ddbf5e39461ffd0da90f2cefc6e4bc19f942a162d2c0e0f74397fe6df",
+  "source_locator": {
+    "book": 19,
+    "test": 1,
+    "pdf": "research/expansion/cambridge19.pdf",
+    "response_pages": [
+      130
+    ],
+    "score_line": "achieved a Band 6.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-19-t1-task2",
+  "prompt_group": "cambridge-19-t1-task2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

@@ -1,0 +1,86 @@
+{
+  "id": "juice-248522",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248522.json",
+  "question": "Some people think that it is best to encourage children to leave their family home as soon as possible. Others believe children should stay at the family home for as long as they like.\nDiscuss both views and give your opinion.",
+  "essay": "Leaving home is an inseparable part of growing up and the only question is when is the best time to leave the house in which we grew up? Although some argue that children should be encouraged to part away from their family in a younger age, others, including me, believe that this is for the best to stay at the family home until you are ready to start your own life.\n\nLeaving family home as soon as possible is a great booster for building confidence. Individuals who are living on their own from an earlier age are more capable of dealing with problems and difficulties as they have to encounter them alone. They learn how to depend on themselves and not to wait for others to ressolve their issues. It is reported by various researches that there is a direct relationship between professional success and the age which a person leaves his/her family. It is shown, in general, the earlier someone starts living alone, the more successful they are likely to be in the future.\n\nOn the other hand, there are valuable benefits in staying with your family for a longer time. to begin with, it develops a deeper affection amoung family members. Families which its members spend longer time with each other tend to be more friendly and warm in their relationships. They help each others in different areas and share more memorable moments. Moreover, by staying with their parents, children can save more money and have a head start in competition with those who have to pay the rent and living expenses all by themselves. For instance, my older brother left home when he was 24, and he bought a house right away because he already saved plenty of money by working and not having to pay a fortune for rent.\n\nIn conclusion, while it is claimed that if children leave their family home sooner, they will be more competent and successful, I believe that there are more benefits, such as saving more money and developing a better relationship with family members, in leaving later.",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TR": 7.0,
+    "CC": 7.0,
+    "LR": 7.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you indeed for writing this essay. Sentence transition is important for cohesion, and in some cases for grammar too. The essay could use better command over “defining relative clause – advanced usage”.",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "8.0\tsufficiently addresses all parts of the task",
+      "8.0\tpresents a well-developed response to the question",
+      "7.0\tpresents, extends, and supports main ideas, but there may be a tendency to over-generalize and/or supporting ideas may lack focus",
+      "7.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.5"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3201-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248522.html",
+  "source_sha256": "f3b8ac60c5daee49cd3e4f96346efa21c0681e67350c99eaedec0732339d1b7b",
+  "source_locator": {
+    "wordpress_post_id": 248522,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "b9391801e333387c",
+  "prompt_group": "8203cd9bb78eaee5",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

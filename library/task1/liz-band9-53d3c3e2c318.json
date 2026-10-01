@@ -1,0 +1,69 @@
+{
+  "id": "liz-band9-53d3c3e2c318",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/liz-band9-53d3c3e2c318.json",
+  "source_url": "https://ieltsliz.com/ielts-writing-task-1-line-graph-model-score-9/",
+  "source_locator": {
+    "page_marker": "line2",
+    "source_file": "research/expansion/high-band-sources/liz-band9-pages/6f2936df7358dd4b.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS Liz",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS Liz page explicitly presents this Academic Task 1 response as an estimated Band 9 model; the page author is an IELTS teacher and preserves the prompt, response and comments where available. This is not an official Cambridge TRF.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS Liz / Tony Grace",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "04617608be0e5d1c",
+  "prompt_group": "446ab2d4ddc8582c",
+  "question": "The graph below shows the consumption of three spreads from 1981 to 2007.",
+  "images": [
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2014/11/consumption-of-spreads-line-graph.jpg",
+      "path": "library/assets/86bf155c76f0ce07.jpg",
+      "sha256": "76c4911d0b19390b9b71a5695c45bd7e28a4ea5d230194d1ad9228e626121636"
+    },
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2014/11/consumption-of-spreads-line-graph.jpg",
+      "path": "library/assets/86bf155c76f0ce07.jpg",
+      "sha256": "76c4911d0b19390b9b71a5695c45bd7e28a4ea5d230194d1ad9228e626121636"
+    },
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2020/01/IELTS-Line-Graph-Five-Lines-Writing-Task-1.jpg",
+      "path": "library/assets/09119068eeb8d649.jpg",
+      "sha256": "1f88f56bab332f82ee858040b33fe6c76600ad5f66a617b740bc6b9e830e85ca"
+    },
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2020/01/IELTS-Line-Graph-Five-Lines-Writing-Task-1.jpg",
+      "path": "library/assets/09119068eeb8d649.jpg",
+      "sha256": "1f88f56bab332f82ee858040b33fe6c76600ad5f66a617b740bc6b9e830e85ca"
+    }
+  ],
+  "essay": "The line graph illustrates how many weekly hospital admissions there were in Fortsmith, Adlin, Stanton, Bardley and Oxley, which are hospitals located in a European country, between 2004 and 2018.\n\nOverall, for most of the period given Bardley had the most admissions, while Stanton had the least. Oxley was the only hospital to see a decline in admissions and Fortsmith was unique in that their admission figures remained relatively stable over the period. Admissions to all other hospitals increased during the years given.\n\nAdmissions to Oxley hospital started at just under 250 a week in 2004 but more than halved by the final year (just over 100 admissions). Fortsmith weekly hospital admissions fluctuated at around 200 for the whole period.\n\nOn the other hand, the number of people admitted to Adlin hospital rose dramatically from just over 100 in the first year to 250 by 2018. Likewise, Bardley also saw a rise from 200 to peak at over 250, the highest for any hospital. In terms of Stanton hospital, only approximately 70 people were admitted in 2004 and this gradually climbed to slightly over 150 in 2018.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Words = 187",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 187,
+  "extraction": "HTML prompt and model response; author estimate and comments retained.",
+  "source_sha256": "8d2cdeef43018bd0a60c9fdea1d65a48a7be1e218d545cb903e7270d1b1f9f7a",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

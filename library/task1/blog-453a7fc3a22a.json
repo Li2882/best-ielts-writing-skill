@@ -1,0 +1,54 @@
+{
+  "id": "blog-453a7fc3a22a",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-453a7fc3a22a.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-9/ielts-report-topic-flow-charts-circles-poverty-from-ielts-high-scorers-choice-series-academic-set-3/",
+  "source_locator": {
+    "page_marker": "Sample Band 9 Report",
+    "source_file": "research/expansion/high-band-sources/blog-pages/c281eddd84077c1d.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog; High Scorer’s Choice IELTS Practice Tests",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page labels this response as a Band 9 model (\"close to\" or \"likely to score\" Band 9) from High Scorer’s Choice. This is a published teacher/examiner model label, not an official Cambridge TRF; the distinction is retained for calibration review.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "High Scorer’s Choice model author",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "b7720308031736a4",
+  "prompt_group": "e7b962c9a7b601dd",
+  "question": "High Scorer’s Choice IELTS Practice Tests book series (reprinted with permission). This answer is close to IELTS Band 9. Set 3 Academic book, Practice Test 15 Writing Task 1 You should spend about 20 minutes on this task. The flow charts below show the vicious circles of poverty at the institutional and individual levels. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/flow-charts-writing-task-1-test-15-web.jpg",
+      "path": "library/assets/ddb860703b3bb8a9.jpg",
+      "sha256": "02a24f3f98d6831c8b7f153ba2b3fbd0aa50c9446a6214933c7b0dee37a37a64"
+    }
+  ],
+  "essay": "The two flow charts describe circles of poverty, however, they look at them from different perspectives. The first flow chart looks at poverty from an institutional level, while the second looks at it from the perspective of an individual.\nOverall, it can be seen that at both levels, individual and institutional, poverty perpetuates itself.\nThe first flow chart explains how poverty results in the lack of a critical mass for service and infrastructure, which can lead to lower business creation. This in turn leads to fewer jobs and the moving away of workers, so they can find a job elsewhere. If workers begin to move away, then the population density of the cities decreases, which then again influences the lack of a mass needed for the infrastructure. And so the circle continues.\nThe second flow chart looks at the more personal hardships of poverty, starting with low income, low assets and low education in an individual. Low education leads to a lack of skills and a lack of capital, which makes it even harder for an individual to generate income. This provides an individual with only a low security against economic and health risks and can lead to debt and a further loss of income.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Published source label: individual Band 9 model response; no four-trait numerical breakdown published.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 205,
+  "extraction": "HTML original prompt and model response; source label and module context retained.",
+  "source_sha256": "18d568a4997da00d5f9b32be8895fd72212a4913bcadad08aa1cae669cf76e5b",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

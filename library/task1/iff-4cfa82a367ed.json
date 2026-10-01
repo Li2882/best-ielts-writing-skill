@@ -1,0 +1,86 @@
+{
+  "id": "iff-4cfa82a367ed",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/iff-4cfa82a367ed.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-academic-task-1-band-7-sample-answer-1/",
+  "source_locator": "research/forfree/ielts-academic-task-1-band-7-sample-answer-1.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "bb4dcd7c276aac63",
+  "prompt_group": "45212c707444a676",
+  "question": "You should spend about 20 minutes on this task.\nThe chart shows the sources of carbon dioxide emissions between 1970 and 2000.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The line graph illustrates the quantity of carbon dioxide released from different sources in UK, during 1970 to 2000.\n\nAs can be seen from the graph the tonnes released ranked from just over 10 million up to 65 million. From the 5 sources used 4 of them had fairly stable carbon dioxide emission till 1980 with an exception from industrial combustion which had the steady decline over these years.\n\nFrom 1980 to 1990 there were changes in all presented sources. Transport and industrial combustion had almost the same quantity at the end of 1990. Power stations account for the biggest quantity, releasing almost five times more than other sectors which again over this period of time remained the best releasers .",
+  "word_count_computed": 120,
+  "images": [],
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Academic Task 1 Band 7 sample answer 1\nThis is a clear and concise description of the graph. There is a good range of grammar and some appropriate vocabulary, although some language is a little too informal (e.g. 'biggest').\nThere are some issues with punctuation ('In the meantime in 1990 to 2000 the trend was…') as well as some repeated errors with articles (had the steady decline)\nThe closing sentence highlights the main trend well, and the introduction is clear. Most of the important sections of the graph have been highlighted, although the writer could have added that industrial combustion fell the most over the given period.",
+  "corrections": [
+    {
+      "original": "UK,",
+      "suggestion": "\"the UK\"]"
+    },
+    {
+      "original": "during",
+      "suggestion": "\"from\" - during is used for a single period of time, not as a starting point (e.g. during 1990)"
+    },
+    {
+      "original": "graph",
+      "suggestion": "this needs to be followed by a comma"
+    },
+    {
+      "original": "used",
+      "suggestion": "this needs to be followed by a comma"
+    },
+    {
+      "original": "an exception from",
+      "suggestion": "\"the exception of\""
+    },
+    {
+      "original": "the",
+      "suggestion": "\"a\""
+    },
+    {
+      "original": "",
+      "suggestion": "this needs to be followed by a comma"
+    },
+    {
+      "original": "had",
+      "suggestion": "\"emitted\" or \"were responsible for\""
+    },
+    {
+      "original": "account",
+      "suggestion": "\"accounted\""
+    },
+    {
+      "original": "biggest",
+      "suggestion": "\"largest\" would be more academic"
+    },
+    {
+      "original": "remained the best releasers",
+      "suggestion": "a good attempt at rephrasing, but not a common construction - better would be \"released the least\""
+    }
+  ],
+  "quality_issues": [
+    "missing_chart",
+    "source_word_count_mismatch_possible_truncation"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "992ef3c42b11e3a9cab57d624506d810207eaf3645a910cbce6b2e575f5734c5"
+}

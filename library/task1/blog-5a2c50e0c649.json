@@ -1,0 +1,59 @@
+{
+  "id": "blog-5a2c50e0c649",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-5a2c50e0c649.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-table-postgraduate-course-fees/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/2967bf7c78ff7f59.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "5e7b2d348232d8d3",
+  "prompt_group": "fa51e3d2cd36ea17",
+  "question": "The table below shows the postgraduate course fees that international students paid in three countries in 2007. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/featured/model-report-sample-band-8-table.jpg",
+      "path": "library/assets/37643f4d899bf756.jpg",
+      "sha256": "97e283b71f8258ec303f7477ce5608ba791c9cdf0e139d72d3810111dd2cb203"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/writing-1-table-course-fees.jpg",
+      "path": "library/assets/4fffec20d51819cf.jpg",
+      "sha256": "59c4275e6575f5f47f0bddb574b2737b306014454c1f4f344ad54f48ee7d78ff"
+    }
+  ],
+  "essay": "* Note: this isn’t the actual table given in the test, it was recreated for the purpose of demonstration.\n\nBand 8.5 Model Answer\n\nThe table provides information about the fees paid by foreign postgraduate students in three countries for different subjects, as well as meals and accommodation.\n\nIt is clear from the table that Country A had the lowest fees for all fields of study and meals and accommodation, while Country B and Country C had noticeably similar, higher fees. Of all the countries, Country B had the highest fees overall.\n\nTo begin, the Arts and Commerce courses not only had the exact same fees, but they were also the lowest in the table, with $8,000 for Country A, $18,000 for Country B and $19,000 for Country C. The course fees for Computing and Science were close in all the countries. In Country A they were identical at $11,000, whereas in Country B the Computing course was $27,000 and Science cost $2,000 more. The figures for Country C were slightly lower at $24,000 for Computing and $25,000 for Science.\n\nThe fees for meals and accommodation varied significantly across the 3 countries. The most affordable cost of $8,000 belonged to Country A, followed by $11,000 in country C and the most expensive meals and housing costs ($17,000) were recorded in Country B.\n\nSubmit your report for correction and find out how to improve your Writing score.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 235,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "f099c23dbb5113e588355fe62ee67b3d8932265a7d6e5a9379760b37e5955ca8",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5
+}

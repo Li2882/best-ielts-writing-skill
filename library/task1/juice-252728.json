@@ -1,0 +1,93 @@
+{
+  "id": "juice-252728",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-252728.json",
+  "question": "The charts below give Information on the ages of the populations of Yemen and Italy In 2000 and projections for 2050.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The pie charts compare the breakdown in percentages of people according to their age group (0-14 years, 15-59 years, and 60 plus) in Yemen and Italy in the year 2000 and a forecast for 2050. Units are measured in percentages. Overall, it is estimated that compared to the year 2000 there will be an increase in the percentage of people who are 60 or more in both countries in 2050.\n\nIn 2000, in Yemen, 0-14 years old comprised of almost half of the total population by 50.1%, as opposed to the group of 60 plus which only accounted for 3.6 %. 15-59 years old by 46.3% got the second place in the aforementioned year. However, it is predicted that the percentage of this group and 60 plus increasing to 57.3% and 5.7% respectively in 2050. In contrast, the percentage of 0-14 years old will fall to 37.0% in 2050.\n\nTurning to Italy, 15-59 year old made up less than two-thirds of the total by 61.6%. This percentage is estimated to decline to 46.2% in 2050. Similarly, in 2000, 0-14 years old was only 14.3%, and it is forecasted to drop to 11.5% in 2050. On the other hand, almost a quarter accounted for the group of 60+ in the year 2000. This percentage will experience a notable increase to 42.3% in 2050.",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TA": 7.0,
+    "CC": 6.0,
+    "LR": 7.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you indeed for writing this report. Task Achievement (TA): The report effectively summarizes the key features of the pie charts and makes relevant comparisons between the age groups in Yemen and Italy for the years 2000 and 2050. However, the descriptions are sometimes unclear or imprecise, and some details are misinterpreted. For instance, the phrase \"50.1%, as opposed to the group of 60 plus which only accounted for 3.6%\" could be clearer. Additionally, the summary could better highlight the significant trends and changes over time. Coherence and Cohesion (CC): The report is well-organized, with a logical flow that includes an introduction, detailed analysis for each country, and appropriate comparisons. The use of linking words and phrases is effective, and the paragraphs are connected smoothly. However, some sentences are overly complex, which can hinder readability. Simplifying these sentences and ensuring a more varied use of linking phrases could further enhance the coherence and cohesion of the text. Lexical Resource (LR): The vocabulary used is appropriate for the task and includes some variety, demonstrating a good range of lexical resource. However, there are some awkward word choices and repetitions. More sophisticated vocabulary and correct usage would improve the overall quality of the report. Phrases like \"comprised of almost half\" and \"got the second place\" are awkward and could be phrased better. Grammatical Range and Accuracy (GRA): The report uses a variety of grammatical structures, including complex sentences, and most sentences are grammatically correct. Nonetheless, there are errors in subject-verb agreement, prepositions, and punctuation, which affect readability. Improved grammatical accuracy and more careful proofreading are needed. For example, \"comprised of\" should be \"comprised almost half,\" and \"made up less than two-thirds of the total by 61.6%\" should be \"made up less than two-thirds of the total, at 61.6%.\"\nVideo Feedback",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "7.0\tcovers the requirements of the task",
+      "8.0\tpresents, highlights and illustrates key features clearly and appropriately",
+      "7.0\tcould be more fully extended",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "7.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "6.0\tuses cohesive devices effectively, but cohesion within and/or between sentences may be faulty or mechanical",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "6.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "6.0\tuses a mix of simple and complex sentence forms",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.5"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-252728-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2024/03/IELTS-Writing-Task-1-report-sample-2918-Band-6.5.jpg",
+      "sha256": "c2d2b5f04c886d512f7413b12ad467f0b68131920f76ac6a8dc8b059af7987bf"
+    }
+  ],
+  "question_image": "library/assets/juice-252728-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-2918-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-252728.html",
+  "source_sha256": "fd2989a398e71927800e80dead89f3be10352431fe6be13b85304108ed3b5763",
+  "source_locator": {
+    "wordpress_post_id": 252728,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "fbc63f542c173295",
+  "prompt_group": "8d06b83a1135f549",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

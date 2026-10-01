@@ -1,0 +1,86 @@
+{
+  "id": "juice-247810",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-247810.json",
+  "question": "Some people think it’s better to choose friends who always have the same opinions as them. Other people believe it’s good to have friends who sometimes disagree with them.\nDiscuss both views and give your opinion.",
+  "essay": "these days, having friends are of significance importance to everyone, but having friends with the same idea or opposite views are being debated by different people. I will outline these views here\n\non the one hand, having friends with the same idea can be useful and constructive in the process of friendship. if people can make friends with the same idea, they could devotees of their time to them. they would have some interests to share with each other and to spend their time by talking about their favorites. For example,  such friends can do the same activity like going to swimming pool at the morning before going to the work.  this planning  can be understood by   such friends who agree with each other’s opinions.  not only would this decision be useful for their healthiness,  it can boost their relationship because of the length of time which they would spend.\n\non the other hand, having friends with different viewpoints can broaden friends’ horizons.  when they have different ideas, They should discuss with each other for reaching a compromise.  this discussion can uncover parts of the debate which is hidden and this can cause individuals think about it in different way.  such thinking can extend friends’ views, thus ,  they would learn to accept opposite views with different look.  this way can help people to develop the friend’s circle.\n\nin my opinion,  having friends with same ideas would be better because we could spend a considerable of time on Entertainment without any struggle for selecting the Hobby or setting a suitable time for it.  however having friends with opposite beliefs can be appreciated and would be worth.\n\nin conclusion, Having friends with same interests can be positive because individuals can spend their time with each other and  some people have this idea. whereas other people  favored the friends with opposite views which can be applicable for learning how to reach a neutral on understanding in a discussion.",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TR": 7.0,
+    "CC": 6.0,
+    "LR": 7.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this essay. When the writer’s opinion does not fully and completely fall under any of the opposing opinions, it deserves a separate paragraph, which is a very good practice, and this essay observes that; however, it is now very important to make sure where exactly the writer’s opinion stops in between. Maybe, a more accurate language is needed to make sure when, for instance, having friends with opposite views can be of value, what the value is, or how it is compared to having friends with the same view.",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "8.0\tsufficiently addresses all parts of the task",
+      "8.0\tpresents a well-developed response to the question",
+      "7.0\tpresents, extends, and supports main ideas, but there may be a tendency to over-generalize and/or supporting ideas may lack focus",
+      "7.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "7.0\tthere is clear progression throughout",
+      "6.0\tuses cohesive devices effectively, but cohesion within and/or between sentences may be faulty or mechanical",
+      "6.0\tmay not always use referencing clearly or appropriately",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "6.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "8.0\tthe majority of sentences are error-free",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "6.5"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3329-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-247810.html",
+  "source_sha256": "eac5ec3a24065e97f3dc9a2008e6ab46ca45238513b0535340d7dc4cd21b8e54",
+  "source_locator": {
+    "wordpress_post_id": 247810,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "d86c0d0f57b03696",
+  "prompt_group": "58b13d05077501c7",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "juice-248965",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248965.json",
+  "question": "In recent years, many governments have brought in laws to ban smoking in public places, such as bars, restaurants, and offices.\nTo what extent do you agree or disagree with banning smoking in public places?",
+  "essay": "Nowadays, smoking has been restricted by authorities in many public closed spaces. I believe this is a bold, necessary move by lawmakers as it can greatly promote public health and at the same time preserve the rights of other members of society. It can also provide a chance for smokers to practice quit smoking for at least a short time.\n\nWithout question, governments have great responsibilities in improving their communities. They should always think and introduce laws for solving the biggest challenges of society. The percentage of smokers has now reached an alarming rate all around the world. Therefore, in an attempt to reduce the detrimental effects of smoking on the community, many legislators have decided to prohibit smoking cigarettes in closed public places such as cinemas, cafes, and libraries. This is an indispensable, but, of course, not enough decision by authorities to promote the health of all peoples in society. One study actually has shown that people who are in exposure to smoke fumes are even at higher risk of cardiovascular disease compared to smokers themselves. Consequently, this decision can significantly reduce the chance of heart diseases in the whole society.\n\nFurthermore, restriction of smoking for nicotine addicts in some places can give them a chance to stay away from their harmful habit of smoking or even allow them to think about quitting smoking. Many smokers argue that they are creatures of habit and they just have to smoke cigarettes at certain times of a day and when, for example, they forced not to smoke at certain places, they eventually become more resistant to smoking temptation, which would be beneficial for them as well.\n\nIn a nutshell, I think banning smoking in closed public space by governments is a really positive step towards improvement of whole society health.",
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TR": 8.0,
+    "CC": 8.0,
+    "LR": 6.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this essay. The rubric is very well addressed, and the essay is clearly organized. For high scores, the essay needs to focus more on producing word groups with the highest accuracy and clarity. The best way is to focus on improving collocations. Here’s a good read:",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "8.0\tsufficiently addresses all parts of the task",
+      "8.0\tpresents a well-developed response to the question",
+      "8.0\twith relevant, extended, and supported ideas",
+      "8.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "8.0\tmanages all aspects of cohesion well",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "8.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "6.0\tthey do not impede communication",
+      "6.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "8.0\tthe majority of sentences are error-free",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "7.0"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3258-band-7-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248965.html",
+  "source_sha256": "b7e71c888231a3bec0be61fe08635959973834ea405df6475dc938cca5b212e8",
+  "source_locator": {
+    "wordpress_post_id": 248965,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "541d85d9453ef99a",
+  "prompt_group": "63013bcc7363412f",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

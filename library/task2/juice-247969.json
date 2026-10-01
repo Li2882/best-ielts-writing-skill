@@ -1,0 +1,86 @@
+{
+  "id": "juice-247969",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-247969.json",
+  "question": "In some countries, the average weight of people is increasing and their level of health and fitness is decreasing.\nWhat do you think are the causes of these problems and what measures could be taken to solve them?",
+  "essay": "Rising the medium level of individuals’ weight and simultaneously dwindling of their well-being and physical fitness is a serious issue for some nations. In my opinion, modern lifestyle and the spread of fast-food restaurants are the primary reasons which can be resolve by a healthy way of life.\n\nLiving in a high competitive modern world brings a lot of stress and pressure to our lives. Being successful in such world requires time and efforts. Therefore, the more we attempt to have triumph in job market or social statues the less time we have for cooking and doing exercises. Thus, we had to eat fast food most of the time, in addition to this, more stress cause more desire for food which means  consuming extra unhealthy food such as junk food that mostly contain a great deal of fat. It is an undeniable fact that a lifestyle comprise a lot of fatty foods with no physical activity is responsible for gaining weight and jeopardizing a person’s health.\n\nIn order to address the trend mentioned above   solutions are twofold firstlya healthy way of life which includes an appropriate diet and daily exercise must be taught to the public via the social media, T.V, Seminars, and, etc. Secondly, doing exercise regularly boost peoples health as well as helping them in losing weight.\n\nIn both educating people about a healthy lifestyle and encourage them to engage in physical activities  the government plays a vital role with allocating enough money to producing educational programs as well as supporting or providing restaurants that produce organic foods, establishing and equipping sport centers.\n\nby way of conclusion, consuming fast-food and not having enough exercise lead to less healthier society, to tackle this trend we ought to change our lifestyle.",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TR": 7.0,
+    "CC": 6.0,
+    "LR": 6.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you indeed for writing this essay. There are two paragraphs devoted to the solutions. The focus, in these 2 paragraphs, is more on introducing the categories, leaving little room for developing each idea in each category. This is related to the writing style to ensure both clear categorization and enough support for each idea presented. On a different note, any error, even as small as a couple of missing punctuation marks, can immensely damage the reader’s understanding of the message and reduce readability. Here's a good read:",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "7.0\taddresses all parts of the task",
+      "7.0\tpresents a clear position throughout the response",
+      "7.0\tpresents, extends, and supports main ideas, but there may be a tendency to over-generalize and/or supporting ideas may lack focus",
+      "7.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "6.0\tuses cohesive devices effectively, but cohesion within and/or between sentences may be faulty or mechanical",
+      "6.0\tmay not always use referencing clearly or appropriately",
+      "6.0\tuses paragraphing, but not always logically",
+      "6.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "6.0\tmakes some errors in spelling and/or word formation",
+      "6.0\tthey do not impede communication",
+      "6.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.0"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3302-band-6-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-247969.html",
+  "source_sha256": "4214d16ae9df76791cb5ca227d073f32b700e03a765370b3479463ad3ee28e25",
+  "source_locator": {
+    "wordpress_post_id": 247969,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "148320e502991b6c",
+  "prompt_group": "88a0c75340925ae6",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ieltsanswers-e443997389d7",
+  "task": "task1",
+  "task_type": "bar",
+  "path": "library/task1/ieltsanswers-e443997389d7.json",
+  "question": "The chart shows percentages of the population living in urban areas in six regions in 1950, 2007 and 2050.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/correction-pages/e443997389d7-p1.png",
+      "sha256": "2d2327d3510e1877fcb2045406ee3b9023a006ca61194cb849b127cb4efce8f1"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/correction-pages/e443997389d7-p1.png",
+    "research/expansion/correction-pages/e443997389d7-p2.png"
+  ],
+  "overall": 6,
+  "band_low": 6,
+  "band_high": 6,
+  "traits": {},
+  "comments": null,
+  "source_url": "https://www.ieltsanswers.com/reports/ielts-reports-people-who-live-in-urban-area.pdf",
+  "source_artifact": "research/expansion/answers/e443997389d7.pdf",
+  "source_sha256": "d311b47dce10ba52c1da4929b6db6bac1159c3f1bfbc3bf1b7ae554431d9c946",
+  "source_locator": "research/expansion/answers/e443997389d7.pdf",
+  "score_source": "verified_human",
+  "rater_evidence": "Mike Wattie publishes these as individually corrected writing samples on IELTSAnswers. His examiner credentials are a publisher claim; these are practice estimates.",
+  "publisher": "IELTSAnswers / Mike Wattie",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "ieltsanswers-e443997389d7",
+  "prompt_group": "0bc95d320ea688ba",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "student",
+  "author_type_evidence": "Publisher describes these as writing correction samples; individual author is unnamed.",
+  "question_text_status": "Searchable prompt transcription or summary; original question image is authoritative.",
+  "question_image": "research/expansion/correction-pages/e443997389d7-p1.png",
+  "comments_images": [
+    "research/expansion/correction-pages/e443997389d7-p1.png",
+    "research/expansion/correction-pages/e443997389d7-p2.png",
+    "research/expansion/correction-pages/e443997389d7-p3.png"
+  ],
+  "score_page": 2,
+  "score_evidence": [
+    {
+      "score": 6.0,
+      "row": [
+        "overall",
+        "6",
+        "Overall, you have relatively few errors with\nvocabulary and grammar, but you need to structure\nyour task much better and you always need to have an\noverall summary for task one or you can get over five\nfor the task response."
+      ]
+    }
+  ],
+  "extraction": "Read the marked original: retain struck-out original words, omit inserted corrections and teacher comments. Do not concatenate the native PDF text, which interleaves both versions. Assessment tables are not essay text.",
+  "teacher_advice_caveat": "Publisher layout preferences, stylistic substitutions and word-count advice are not official deductions. Preserve the published overall; ranged criterion estimates have not been converted to exact scores."
+}

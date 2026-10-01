@@ -1,0 +1,94 @@
+{
+  "id": "blog-4893ac4e0d48",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-4893ac4e0d48.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-students-from-rural-areas-should-get-a-subsidized-university-education-agree-or-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-students-from-rural-areas-should-get-a-subsidized-university-education-agree-or-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "c356f214ffc73189",
+  "prompt_group": "a9afc0de07d4403f",
+  "question": "Students from rural areas often find it difficult to access university education. Some people think that it should become easier for them to study at universities. To what extent do you agree or disagree with this opinion?",
+  "essay": "Nowadays, it is acknowledged that students from suburban areas find it tough to receive higher education. Whether it should be made easier for them to access university education becomes an ongoing concern, which incurs a highly-charged debate.\n\nObviously, higher education opportunities bring about benefits to students in multiple ways. For example, to receive higher education becomes increasingly important to senior high school graduates, partly becasue it determines if they have the competitive edge in the job market, and partly because it is seen as a guarantee of a certain level of the mental ability, from the computer literacy that is required by the most employers to the capacities of acquiring new knowledge the soonest possible which is valued by the most workplaces. With a university degree, students from rural areas will obtain a job easily, thereby bettering their living conditions and their family as well.\n\nHigher education also, however, tend to impose a heavy burden on their families since the relenting rise in the tuition fees which are - increasingly beyond those families’ ability to afford. In addition, with the mounting evidence, a university degree is not always a guarantee of seizing a decent job; therefore, their living conditions are likely to worse off by not able to earn back their tuition fee after graduation. In this way, some people argue, students from rural areas are not well-advised to pursue a university degree. But I perceive their desire to further their education should not be disrespected and the government should subsidise them to receive higher education.\n\nIn conclusion, university education should be made fair to everyone, predicated only on their academic performance and mental abilities, rather than their financial capacities and the government should subsidise those students in need.",
+  "word_count_computed": 288,
+  "images": [],
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Teacher’s comment: Not all the parts of the task were covered. The writer’s position is relevant to task prompt, the main ideas are also relevant but not all of them are developed well enough. The information is presented coherently, it is evident that the writer progresses from one idea to another. The linking words and phrases are used in a correct way. The range of vocabulary is sufficient here. There are some attempts to use more sophisticated words but many of them are inaccurate. Even though there are some errors in grammar and punctuation, they don’t make the meaning much harder to understand. Overall, this essay seems worthy of IELTS Band 6.",
+  "corrections": [
+    {
+      "original": "to receive ",
+      "suggestion": "receiving"
+    },
+    {
+      "original": "becasue",
+      "suggestion": "because"
+    },
+    {
+      "original": "the",
+      "suggestion": "remove ‘the’, not necessary"
+    },
+    {
+      "original": "workplaces",
+      "suggestion": "the sentence is too long"
+    },
+    {
+      "original": "will",
+      "suggestion": "may"
+    },
+    {
+      "original": "tend",
+      "suggestion": "tends"
+    },
+    {
+      "original": "their",
+      "suggestion": "some"
+    },
+    {
+      "original": "relenting",
+      "suggestion": "relentless"
+    },
+    {
+      "original": "which",
+      "suggestion": "delete this"
+    },
+    {
+      "original": "-",
+      "suggestion": "becoming"
+    },
+    {
+      "original": "worse off",
+      "suggestion": "deteriorate"
+    },
+    {
+      "original": "by not",
+      "suggestion": "because of not being"
+    },
+    {
+      "original": "In this way, some",
+      "suggestion": "Some"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "68c3b72a048067933b7d5bb92cef27b9021fed8dd7b5e31245838cfb0c4da36d",
+  "model_evidence": null,
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01"
+}

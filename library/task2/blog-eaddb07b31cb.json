@@ -1,0 +1,72 @@
+{
+  "id": "blog-eaddb07b31cb",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-eaddb07b31cb.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-children-these-days-are-suffering-from-obesity-why-and-how-can-it-be-solved/",
+  "source_locator": "research/blog/ielts-essay-topic-children-these-days-are-suffering-from-obesity-why-and-how-can-it-be-solved.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "0f4088ac6eec0c86",
+  "prompt_group": "07316c9da9c8ba0f",
+  "question": "Modern children are suffering from the diseases that were once considered to be meant for adults only. Obesity is a major disease prevalent among children. What are its causes and what solutions can be offered?",
+  "essay": "Nowadays, the increasing rate of overweight children and adults is a worldwide health issue. Obesity is a major problem which is increasing day by day in school going children. There are various reasons behind it. This essay will discuss the causes of obesity and offer some solutions.\n\nThe first cause of obesity is junk food. It is often seen that mostly children are fond of burgers, pizzas, noodles and coke. These types of foods are easily available to them in school canteens. Children love to purchase chips, chocholates, - ice-cream for lunch. Moreover, in this modern era, parents are working and they do not have time to cook at home. Parents often buy dinner for their children instead of preparing food at home. This calorie-rich diet is making children obese. This problem can be solved by teaching children to cook healthy foods for themselves and banning junk foods and fizzy drinks in schools. This diet can be replaced by milk, juice and fruits for lunch.\n\nThe second cause of obesity is sedentry life style. It is true that the use of computers and television is increasing in children. They spend most of their time watching television or playing video games on a computer. This technological advancement has reduced the level of physical activity in this specific age group. This issue can be resolved by encouraging children to do physical exercises. Parents can take their children to park to encourage playing with friends. Furthermore, schools can add sports in their curriculum to maintain physical fitness in their students.\n\nTo sum up, it is clear that main causes of obesity are unhealthy eating and not enough physical activities. This ailment can be prevented and treated by healthy eating habbits and physical exercises.",
+  "word_count_computed": 289,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a good essay. There are only a few minor errors that could have been easily prevented by proofreading this essay one last time before submission (mouse over the words underlined in blue shows corrections). Overall, this work seems worthy of IELTS Band 8. Keep up the good work! Click here to see more IELTS essays of Band 8",
+  "corrections": [
+    {
+      "original": "school going",
+      "suggestion": "school-age"
+    },
+    {
+      "original": "coke",
+      "suggestion": "Coke"
+    },
+    {
+      "original": "chocholates",
+      "suggestion": "chocolates"
+    },
+    {
+      "original": "-",
+      "suggestion": "and"
+    },
+    {
+      "original": "sedentry life style",
+      "suggestion": "sedentary lifestyle"
+    },
+    {
+      "original": "in",
+      "suggestion": "among"
+    },
+    {
+      "original": "habbits",
+      "suggestion": "habits"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "54296118a1cbf622868f351c0ba0b698009a118fe8814a267a20a11455cf4d68",
+  "model_evidence": null,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "source_context_region": "unknown",
+  "classification_revision": "Book-title advertisement is not evidence of model authorship; explicit sample/model declarations remain excluded."
+}

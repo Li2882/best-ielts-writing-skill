@@ -1,0 +1,54 @@
+{
+  "id": "blog-521c7273b6d9",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-521c7273b6d9.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-shopping-centre-map-comparison/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/0b6bd6f07c5362a0.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "41d9149d8c71df19",
+  "prompt_group": "2c7b0c28cde76181",
+  "question": "The maps below show the Happy Valley Shopping Center in 1982 and 2012. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/happy-valley-shopping-centre-maps.jpg",
+      "path": "library/assets/732260ae559793eb.jpg",
+      "sha256": "ecf499ca2a1c7a2721f1c5715c56c618fd208a06532c6c0c65782a1e522b994b"
+    }
+  ],
+  "essay": "The two maps show the radical changes that Happy Valley Shopping Center underwent during the period between 1982 and 2012. Overall, it is clear that the redevelopment resulted in expansion of the shopping mall and rearrangement of its in-house facilities.\n\nBy 2012, the indoor shopping area spread to the west, and the outdoor lake was replaced by a furniture retailer. Additionally, considerable changes were made to the north-west part where a coffee shop was removed and an adjacent food store was relocated to the south-east corner of the mall. Two stores selling sports and electronic goods took over their previous locations along the northern wall. A linear array of themed restaurants moved in along the eastern wall of the shopping centre, replacing sports and electronics shops. On the western side, the lobby area at the main entrance was removed to allow for a bigger central entertainment area.\n\nYet another alteration was made outside, where a path leading to the main entrance of the mall was removed and instead a spacious car park was built. The entrance, however, was kept in the same location and the lines of trees surrounding the shopping centre remained largely unchanged where possible.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Teacher’s comment: This is a great report. All aspects were covered and a well-developed response was provided. The writer’s vocabulary could have been richer and word choice needs a bit more attention. Overall, seems worthy of Band 8.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 197,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "9e3263981e58db77e079a019820a7a8b42604bf2c031b9985be6a64be09f5642",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

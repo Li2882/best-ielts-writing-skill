@@ -1,0 +1,83 @@
+{
+  "id": "insights-v25-p26-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/insights-v25-p26-task1.json",
+  "question": "The plans show a college cafe before and after a redesign. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_transcription": "Task1 college-cafe prompt is a locator; authoritative visual and instructions remain in the source image.",
+  "essay": "The maps give information on the layout of a college cafe before and after being redesigned. Overall, there have been many changes made to the cafe, with the most noticeable ones being the addition of a new outdoor seating area and the reorganization of the food service area into dedicated sections. As for the indoor area, before the redesign, upon entering the cafe via the double door located in the top-right corner of the layout, visitors could immediately see the two staff dining rooms. These have been converted into a take-away food section and a coffee bar. There was a single bin to the left of the entrance, and toilets in the corner, while tables and chairs were placed in the middle of the building. The bin has been replaced with multiple recycling bins, while the toilets, tables, and chairs have remained unchanged. Additi new salad bar has been installed along the long end of the main building. Turning to the area in the top-left corner of the main building it contained a kitchen and a serving area for all food and drin. Alt ough the kitchen has stayed the same, the serving area has e onverted into a hot meals section. A new outdoor area h? bee added to the bottom of the layout, accessible throUgh t doors located on the left and right sides of the bottom wa ne outdoor seating section includes three tables for groups of six in the middle, with two tables for groups of four on both ends, with the former placed lengthwise and the latter widthwise. Moreover, there is now a barbecue in the bottom-left corner of the layout..40",
+  "essay_images": [
+    "research/expansion/insights/pages/vol-25-p27.png"
+  ],
+  "reading_transcript": null,
+  "transcript_status": "Image original only; watermark causes OCR errors, so OCR is not a replacement essay.",
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-25-p26.png",
+      "sha256": "336e13786ba39e6bebb727c7595b67420cf1f6c7ae56b567c526cbc44e7ec374"
+    }
+  ],
+  "question_image": "research/expansion/insights/pages/vol-25-p26.png",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {
+    "TA": 8,
+    "CC": 9,
+    "LR": 9,
+    "GRA": 9
+  },
+  "comments": "See original marked criterion pages. Cover and section scores have been cross-checked; conflicts are recorded separately.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-25-p26.png",
+    "research/expansion/insights/pages/vol-25-p28.png",
+    "research/expansion/insights/pages/vol-25-p29.png",
+    "research/expansion/insights/pages/vol-25-p30.png",
+    "research/expansion/insights/pages/vol-25-p31.png",
+    "research/expansion/insights/pages/vol-25-p32.png",
+    "research/expansion/insights/pages/vol-25-p33.png",
+    "research/expansion/insights/pages/vol-25-p34.png"
+  ],
+  "source_url": "https://insight.ielts1984.vn/vol/25/#page-26",
+  "source_artifact": "research/expansion/insights/pages/vol-25-p26.png",
+  "source_sha256": "336e13786ba39e6bebb727c7595b67420cf1f6c7ae56b567c526cbc44e7ec374",
+  "source_locator": {
+    "volume": 25,
+    "cover_page": 26,
+    "original_pages": [
+      27
+    ],
+    "criterion_pages": [
+      28,
+      30,
+      31,
+      33
+    ],
+    "report_end": 34
+  },
+  "publisher": "IELTS 1984 / IELTS Insights",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher-authored original separately assessed by Tony Grace in the attached IELTS Corrections report; practice assessment, not a certified examination result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_type": "teacher",
+  "author_group": "IELTS 1984 editorial team",
+  "sample_kind": "teacher_model",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "status": "verified",
+  "split": "reference",
+  "quality_issues": [
+    "OCR transcription was visually checked but remains a transcription of the image original."
+  ],
+  "duplicate_group": "insights-v25-p26-task1",
+  "prompt_group": "42f449760fccbefe",
+  "accessed_at": "2026-09-21",
+  "trait_evidence_path": "research/trait-calibration/insights-v25-p26-task1.json",
+  "teacher_advice_caveat": "Personal views, mandatory paragraph layouts, complex-structure checklists and requests for additional optional ideas are not additional official scoring requirements.",
+  "score_aggregation_note": "Preserve the teacher overall exactly; this publisher often rounds a quarter-band mean downward.",
+  "word_count_computed": 276,
+  "extraction": "Original-answer pages transcribed from the retained page images by OCR; all pages were visually checked on 2026-09-25. Headers, footers and watermarks were removed."
+}

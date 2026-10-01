@@ -1,0 +1,60 @@
+{
+  "id": "blog-a4c599b5a250",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-a4c599b5a250.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-some-think-that-children-should-leave-their-family-home-as-soon-as-possible-while-others-believe-they-should-stay-for-as-long-as-they-like-discuss/",
+  "source_locator": "research/blog/ielts-essay-topic-some-think-that-children-should-leave-their-family-home-as-soon-as-possible-while-others-believe-they-should-stay-for-as-long-as-they-like-discuss.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "c8634a21c08e422b",
+  "prompt_group": "5df94d993ea5255e",
+  "question": "Some people think that it is best to encourage children to leave their family home as soon as possible. Others believe children should stay at the family home for as long as they like. Discuss both views and give your own opinion.",
+  "essay": "Although it is thought by some that urging young people to abandon their family home at an early age is beneficial for them, others believe that it is better if children stay with their families for longer. In my opinion, I consider that leaving family home early has many advantages for children.\n\nOn the one hand. Some people think that youngsters ought to leave their parents’ house so as to learn life skills at an early age. Their reasoning is that it should push young people towards independence and make them learn from life lessons rather than merely rely on their parents. For example, students who tend to pursue tertiary study away from their home city might learn taking personal responsibility. Also, living independently will teach children a lot by presenting some difficulties, which, consequently, will add some more experience that may prove essential in their future lives.\n\nOn the other hand, it is argued that children should stay with their parents for longer for several reasons. Firstly, young people need advice from adults, and no one would be better suited to that than their parents. Secondly, life can be generally harsh, for children in particular. In other words, they might get involved in dangers or take unnecessary risks if they mix with the wrong crowd. It is commonly known that young people tend to be seduced easily by unethical people. To avoid that, being under parental supervision is utterly important for children.\n\nTo sum up, while people’s opinions may vary, I believe that young people should leave their family home at an early age, while parents ought to provide them with appropriate advice and keep an eye on their well-being.",
+  "word_count_computed": 281,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay covers the task by discussing the advantages and disadvantages of leaving the family home early in life, and the writer’s opinion has been clearly stated. The arguments for and against have been organised in paragraphs and supported by examples. Accuracy of expression needs some work (see suggested corrections underlined in blue) and in one case sentence structure needs more attention. Overall, assuming the errors were corrected, this essay could score Band 8 in IELTS.",
+  "corrections": [
+    {
+      "original": "I consider that",
+      "suggestion": "the words ‘I consider that’ are redundant because the sentence starts with ‘In my opinion’"
+    },
+    {
+      "original": "hand. Some",
+      "suggestion": "this should read ‘On the one hand, some…’ – the full stop should be replaced with a comma and ‘some’ should continue the sentence, instead of starting a new one"
+    },
+    {
+      "original": "tend to",
+      "suggestion": "the words ‘tend to’ are unnecessary and should be removed"
+    },
+    {
+      "original": "get involved in dangers",
+      "suggestion": "‘get in trouble’ is a better way to say this"
+    },
+    {
+      "original": "seduced easily",
+      "suggestion": "the correct way to say this is ‘easily influenced’"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "9e02951285428ec940c03bef1fa404d5afe9f3cce35ed479df7839107e93eb45",
+  "model_evidence": null
+}

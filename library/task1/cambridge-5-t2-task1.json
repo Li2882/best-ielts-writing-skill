@@ -1,0 +1,57 @@
+{
+  "id": "cambridge-5-t2-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-5-t2-task1.json",
+  "question": "You should spend about 20 minutes on this task.\nThe charts below show rhe main reasons for study among students of\ndifferent age groups and the amount Of support they received from\nemployers.\nSummarise the information by selecting and reporting the main features,\nand make comparisons where relevant.",
+  "question_image": "research/expansion/early-pages/c5-p53.png",
+  "images": [
+    {
+      "path": "research/expansion/early-pages/c5-p53.png",
+      "sha256": "b475e7e369d4e13117239c313c3678ba36b629ccdbba1bee7071d71629c5d817"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/early-pages/c5-p165.png"
+  ],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {},
+  "comments": null,
+  "comments_images": [
+    "research/expansion/early-pages/c5-p165.png"
+  ],
+  "source_url": "https://drive.usercontent.google.com/download?id=148dsX5evu1zM5Qg80VYHANfhk6lCrEwj&export=download&authuser=0&confirm=t",
+  "source_artifact": "research/expansion/cambridge5-original.pdf",
+  "source_sha256": "2ce1c44d6da7618c0825eb48edf8f56a2202dc73ac155155bfe8488ace4cb8ee",
+  "source_locator": {
+    "book": 5,
+    "test": 2,
+    "question_page": 53,
+    "response_pages": [
+      165
+    ],
+    "score_line": "achieved a Band 8"
+  },
+  "publisher": "Cambridge University Press; public mirror",
+  "score_source": "official",
+  "rater_evidence": "Original book identifies this as an individually scored candidate response; original full response and examiner comment retained.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-5-t2-task1",
+  "prompt_group": "cambridge-5-t2-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Read original question and response images. OCR is only a reading aid and must not supply language errors or chart values.",
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01"
+}

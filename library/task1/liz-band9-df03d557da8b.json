@@ -1,0 +1,59 @@
+{
+  "id": "liz-band9-df03d557da8b",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/liz-band9-df03d557da8b.json",
+  "source_url": "https://ieltsliz.com/bar-chart-sample-answer/",
+  "source_locator": {
+    "page_marker": "bar",
+    "source_file": "research/expansion/high-band-sources/liz-band9-pages/675f16c239685061.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS Liz",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS Liz page explicitly presents this Academic Task 1 response as an estimated Band 9 model; the page author is an IELTS teacher and preserves the prompt, response and comments where available. This is not an official Cambridge TRF.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS Liz / Tony Grace",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "cf69592f7178b07d",
+  "prompt_group": "cf69592f7178b07d",
+  "question": "The bar chart illustrates how many children, divided by gender, played six kinds of sports (tennis, badminton, cycling, swimming, football and hockey) in a town in England in 2012. Overall, the number of boys playing sport exceeded that of girls in the given period and the sport with the most significant difference between the genders was football. Football was also the most popular sport for boys, while the majority of girls preferred swimming. Furthermore, both males and females least preferred playing hockey. There were four sports in which boys participated more than girls. While 60 boys played football, the number of girls playing that sport was considerably lower (around 20). With regards to tennis, the figure for boys who played that sport was 50 as opposed to just under 40 for girls. Similarly, more boys cycled than girls (approximately 35and 20 respectively). The difference in hockey was minimal with only about 5 more boys playing that sport than girls. On the other hand, more girls took part in the two remaining sports which both showed a difference of about 10 between the genders. As many as 50 girls took part in swimming in comparison to 40 girls for badminton.",
+  "images": [
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2014/09/IELTS-bar-chart-300x164.jpg",
+      "path": "library/assets/18971f7c74717535.jpg",
+      "sha256": "dfbd3b331484c5c416313629491147df1bc19e1b1167ffce71725d1f1982013e"
+    },
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2014/09/IELTS-bar-chart-300x164.jpg",
+      "path": "library/assets/18971f7c74717535.jpg",
+      "sha256": "dfbd3b331484c5c416313629491147df1bc19e1b1167ffce71725d1f1982013e"
+    }
+  ],
+  "essay": "The bar chart illustrates how many children, divided by gender, played six kinds of sports (tennis, badminton, cycling, swimming, football and hockey) in a town in England in 2012.\n\nOverall, the number of boys playing sport exceeded that of girls in the given period and the sport with the most significant difference between the genders was football. Football was also the most popular sport for boys, while the majority of girls preferred swimming. Furthermore, both males and females least preferred playing hockey.\n\nThere were four sports in which boys participated more than girls. While 60 boys played football, the number of girls playing that sport was considerably lower (around 20). With regards to tennis, the figure for boys who played that sport was 50 as opposed to just under 40 for girls. Similarly, more boys cycled than girls (approximately 35and 20 respectively). The difference in hockey was minimal with only about 5 more boys playing that sport than girls.\n\nOn the other hand, more girls took part in the two remaining sports which both showed a difference of about 10 between the genders. As many as 50 girls took part in swimming in comparison to 40 girls for badminton.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Page author estimate: Band 9 model; no four-trait numerical breakdown published.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 199,
+  "extraction": "HTML prompt and model response; author estimate and comments retained.",
+  "source_sha256": "1338e43858e3c0dd54d24923cbe48d3e017795ca1c3aeefb113525c3d63b1481",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "blog-452828dfc30d",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-452828dfc30d.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-table-viewers-preferences-for-tv-programs/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/7fae0a613e1e71a3.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "6df7bdcd593f1bbb",
+  "prompt_group": "8704fa3f6b7c3c02",
+  "question": "The table below shows the results of a survey conducted in 2012 in a European country, where viewers were asked about their preferences for TV programs. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/writing-1-viewers-preferences-tv-programs-table-web.jpg",
+      "path": "library/assets/5fdd27980a2adc9d.jpg",
+      "sha256": "f3a350941395c29989205b5c1b8e1921d918d342ba429d8cac36d9fd513a3dee"
+    }
+  ],
+  "essay": "* Note: this isn’t the actual table given in the test, it was recreated for the purpose of demonstration.\n\nBand 8.5 Model Answer\n\nThe table summarises 2012 survey results about the favourite TV programs of people living in a European country, and the data is categorised by three different age groups, namely 11-15 years old, 16-20 years old and 21-25 years old.\n\nOverall, it can be clearly seen that people in the oldest age groups preferred to watch either sports or the news and had the least interest in cartoons. The youngest age group, on contrary, was mostly interested in cartoons.\n\nLooking at the table in greater detail, we can see that 29% of 11 to 15 year-olds enjoyed watching cartoons, which is more than any other age group, while the older viewers (16 to 20 and 21 to 25 year olds) were far less likely to watch such programs, at only 7% and 4% respectively.\n\nThe category of Feature films appealed to all the three age groups; 19% of the youngest viewers, 28% of the 16-20 year olds, and 20% of the oldest age group liked watching films. Sports programs have also been watched by a large proportion of viewers from all the three age groups, with the ratios ranging from 23% to 31%.\n\nOnly a small proportion of people from the youngest group watched Soap operas, just 9%, while an average of 20% of people from the other two groups watched this type of show.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 247,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "51f3da82641a04734e4bb3b652afb328bf5f6585d3204bdb7e45e3e8f2f03c8e",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5
+}

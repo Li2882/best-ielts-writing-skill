@@ -1,0 +1,53 @@
+{
+  "id": "blog-f638b09827d6",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-f638b09827d6.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-double-line-graph-high-tech-gadgets-prices-from-target-band-7/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/0a4be93b6bebc3af.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "48ca69bce16c8a91",
+  "prompt_group": "93e22bd2a2f8d1ca",
+  "question": "This report was written on a topic from “Target Band 7” book (page 41, reprinted with permission). The graph below shows how prices of “high-tech gadgets” changed over time in Somecountry. Write a report for a university tutor describing the information shown.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/ielts-band-8-report-gadget-prices.jpg",
+      "path": "library/assets/4361c5fdfcae27de.jpg"
+    }
+  ],
+  "essay": "The line graph outlines the selling price of two advanced products, namely navigation systems and smart phones, in Somecountry between the last six months of 2004 and the last six months of 2006. It can be clearly seen that there was a considerable decrease in the pricing of navigation systems compared to mobile phones.\n\nIn July-December of 2004, the overall price of navigation was higher than . The former started at nearly $4,000 USD while the latter sold at around $3,100 USD. In the next six months, both items were priced at a lower value slipping to $3,300 and $2,800 USD (navigation systems and phones respectively). The pricing for navigation systems continued to drop to $3,100 USD in the following 6 months. Conversely, mobile phone prices went up marginally by around $100 USD. In the first half of 2006, the pricing trend changed for both products as navigation devices saw a rise to $3,400 USD while phones dipped to $2,700 USD. By the end of the year 2006, both items were sold at exactly the same price of $2,700 USD.\n\nTo sum up, it is evident that over the course of 2 years high tech gadgets declined in price and the more expensive product suffered a more significant price drop.\n\nThe entire graph was described in this well-organised and developed response. There are some minor grammatical mistakes, but they are quite rare. The vocabulary could have been enhanced further. Overall, this report seems worthy of Band 8.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 247,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "e49cc6c18d40cf17eb88ce56009a822b9ffadfa0869830539a17f124abf4edc5",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

@@ -1,0 +1,22 @@
+You are an IELTS examiner. Evaluate my Task 2 essay.
+
+The task is:
+{{QUESTION}}
+
+My response:
+{{ESSAY}}
+
+Evaluate based on:
+- Task Response (Did I fully address all parts? Is my position clear throughout?)
+- Coherence and Cohesion (Is the essay well-organized? Are ideas logically connected?)
+- Lexical Resource (Is vocabulary varied and precise? Are there spelling errors?)
+- Grammatical Range and Accuracy (Are sentences varied? Are there grammatical errors?)
+
+Give me:
+1. Estimated band score for each criterion
+2. Overall band score
+3. What I did well
+4. Specific mistakes with corrections
+5. One paragraph rewritten at Band 8+ level
+6. Three vocabulary upgrades I could use next time
+

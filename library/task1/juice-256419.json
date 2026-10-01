@@ -1,0 +1,93 @@
+{
+  "id": "juice-256419",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-256419.json",
+  "question": "The table below shows the percentage participation of women in senior management in three companies between 1975 and 2015.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The data presents the percentage of females in senior management roles in three establishments from the year 1975 to 2015.\n\nOverall, there was a notible notable increase in female – led positions throughout the years. In 2015, the number of women who participated was the highest. Eldan Ltd started with the smallest percentage and skyrocket t ed by 2015. Bamforth initially showed a steady incline in female-led management from 1975 , ; then , rapidly peaked in 2015 , reaching almost half of all manager positions.\n\nFinsbur s y Ltd began with the greatest percentage of 16% in 1975, but only achieved 26% by the year 2015, whereas , Eldan Ltd began with 3% and exceeded all , reaching 64% in 2015. In 1985, we notice that Finsbury Ltd faced a decline in female managers, decreasing from 22% in 1990 to 20% in 2000, before then rising again to 26% in 2015. Additionally, Eldan Ltd showed no change in participation between the years 1975 and 1980. Bamforth Ltd had the lowest percentage in 1990 and 2000, but by the year 2015, it overtook Finsbury Ltd with over 20% increase.",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TA": 6.0,
+    "CC": 6.0,
+    "LR": 7.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you for writing this report. Although the report mentions many of the figures, some comparisons or clarifications about interim changes can be slightly confusing. A clear structure is often: Overall trend in a separate overview paragraph. Detailed breakdown by company or by time period, ensuring the dots are connected logically, i.e. avoid mixing years in a single sentence unless you are making a direct comparison. Aim for smoother transitions by grouping data effectively (for instance, one paragraph for Eldan and Bamforth, another for Finsbury, or one paragraph for early years and another for later years).\nVideo Feedback",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "7.0\tcovers the requirements of the task",
+      "7.0\tclearly presents and highlights key features",
+      "6.0\tdetails may be irrelevant, inappropriate, or inaccurate",
+      "6.0\tpresents an overview with information appropriately selected",
+      "6.0"
+    ],
+    "CC": [
+      "6.0\tarranges information and ideas coherently",
+      "6.0\tthere is a clear overall progression",
+      "6.0\tuses cohesive devices effectively, but cohesion within and/or between sentences may be faulty or mechanical",
+      "6.0\tmay not always use referencing clearly or appropriately",
+      "6.0\tuses paragraphing, but not always logically",
+      "6.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "6.5"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-256419-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2020/11/IELTS-Writing-Task-1-Report-sample-3427-–Band-6.5.jpg",
+      "sha256": "b7d11d773bffa17809062a5a92dc66a6fc2f3c259ae14548922a601f15917334"
+    }
+  ],
+  "question_image": "library/assets/juice-256419-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3427-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-256419.html",
+  "source_sha256": "ed788413cca3f03a27ac77e1eba24da9a65b22b78e81d66b8b97d88de80f009f",
+  "source_locator": {
+    "wordpress_post_id": 256419,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "154aaa01ab1e47a8",
+  "prompt_group": "ef31da9b0b55f80e",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

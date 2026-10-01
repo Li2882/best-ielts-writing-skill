@@ -1,0 +1,148 @@
+{
+  "id": "insights-v26-p34-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/insights-v26-p34-task2.json",
+  "question": "Some people think paying taxes is a big enough contribution to their society, while others think people have more responsibilities as members of society than only paying taxes. Discuss both views and give your opinion.",
+  "question_transcription": "Transcribed from original prompt cover; original page remains authoritative.",
+  "essay": null,
+  "essay_images": [
+    "research/expansion/insights/pages/vol-26-p35.png"
+  ],
+  "reading_transcript": null,
+  "transcript_status": "Image original only; watermark causes OCR errors, so OCR is not a replacement essay.",
+  "images": [],
+  "question_image": null,
+  "overall": null,
+  "band_low": null,
+  "band_high": null,
+  "traits": {
+    "TR": 7,
+    "CC": 9,
+    "LR": 9
+  },
+  "comments": "See original marked criterion pages. Cover and section scores have been cross-checked; conflicts are recorded separately.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-26-p34.png",
+    "research/expansion/insights/pages/vol-26-p36.png",
+    "research/expansion/insights/pages/vol-26-p37.png",
+    "research/expansion/insights/pages/vol-26-p38.png",
+    "research/expansion/insights/pages/vol-26-p39.png",
+    "research/expansion/insights/pages/vol-26-p40.png",
+    "research/expansion/insights/pages/vol-26-p41.png",
+    "research/expansion/insights/pages/vol-26-p42.png",
+    "research/expansion/insights/pages/vol-26-p43.png",
+    "research/expansion/insights/pages/vol-26-p44.png",
+    "research/expansion/insights/pages/vol-26-p45.png"
+  ],
+  "source_url": "https://insight.ielts1984.vn/vol/26/#page-34",
+  "source_artifact": "research/expansion/insights/pages/vol-26-p34.png",
+  "source_sha256": "ec19580bd14710e6a59d35b9a2dbeb2a98290bc13e349322ec2e517701e767cc",
+  "source_locator": {
+    "volume": 26,
+    "cover_page": 34,
+    "original_pages": [
+      35
+    ],
+    "criterion_pages": [
+      36,
+      39,
+      42,
+      44
+    ],
+    "report_end": 45
+  },
+  "publisher": "IELTS 1984 / IELTS Insights",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher-authored original separately assessed by Tony Grace in the attached IELTS Corrections report; practice assessment, not a certified examination result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_type": "teacher",
+  "author_group": "IELTS 1984 editorial team",
+  "sample_kind": "teacher_model",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "verified_criteria_only",
+  "status": "verified",
+  "split": "reference",
+  "quality_issues": [
+    "GRA: cover 8, criterion page 44 says 9"
+  ],
+  "duplicate_group": "insights-v26-p34-task2",
+  "prompt_group": "b55220888a7f17cb",
+  "accessed_at": "2026-09-21",
+  "trait_evidence_path": "research/trait-calibration/insights-v26-p34-task2.json",
+  "teacher_advice_caveat": "Personal views, mandatory paragraph layouts, complex-structure checklists and requests for additional optional ideas are not additional official scoring requirements.",
+  "score_aggregation_note": "Preserve the teacher overall exactly; this publisher often rounds a quarter-band mean downward.",
+  "raw_published_scores": {
+    "overall": 8,
+    "band_low": 8,
+    "band_high": 8,
+    "traits": {
+      "TR": 7,
+      "CC": 9,
+      "LR": 9,
+      "GRA": 8
+    }
+  },
+  "criterion_quarantine": {
+    "scope": "label_only",
+    "source_issues": [
+      "GRA: cover 8, criterion page 44 says 9"
+    ],
+    "excluded_labels": [
+      "GRA",
+      "overall"
+    ],
+    "verified_criteria": {
+      "TR": {
+        "cover_score": 7,
+        "criterion_score": 7,
+        "visual_review": "cover_and_criterion_agree",
+        "evidence_files": [
+          {
+            "path": "research/expansion/insights/pages/vol-26-p34.png",
+            "sha256": "ec19580bd14710e6a59d35b9a2dbeb2a98290bc13e349322ec2e517701e767cc"
+          },
+          {
+            "path": "research/expansion/insights/pages/vol-26-p36.png",
+            "sha256": "c8862cb27d91c2c2406ddf7234dff4cdbfc1f9459c5393b52d0e8a7ff51aedd5"
+          }
+        ]
+      },
+      "CC": {
+        "cover_score": 9,
+        "criterion_score": 9,
+        "visual_review": "cover_and_criterion_agree",
+        "evidence_files": [
+          {
+            "path": "research/expansion/insights/pages/vol-26-p34.png",
+            "sha256": "ec19580bd14710e6a59d35b9a2dbeb2a98290bc13e349322ec2e517701e767cc"
+          },
+          {
+            "path": "research/expansion/insights/pages/vol-26-p39.png",
+            "sha256": "d31d1c1bc6b7e339befa4538dd89cdd2343366b9b3f7bd88392eba2cffcdec2d"
+          }
+        ]
+      },
+      "LR": {
+        "cover_score": 9,
+        "criterion_score": 9,
+        "visual_review": "cover_and_criterion_agree",
+        "evidence_files": [
+          {
+            "path": "research/expansion/insights/pages/vol-26-p34.png",
+            "sha256": "ec19580bd14710e6a59d35b9a2dbeb2a98290bc13e349322ec2e517701e767cc"
+          },
+          {
+            "path": "research/expansion/insights/pages/vol-26-p42.png",
+            "sha256": "93b41556add3027f4b9252af938eceba2baeee0981613b87692424f1ea7bcf21"
+          }
+        ]
+      }
+    },
+    "reviewed_at_local": "2026-10-01",
+    "review_method": "Read the publisher original, cover, and each criterion page as images; retain the unrelated contradiction, without adjudicating it."
+  }
+}

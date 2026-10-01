@@ -1,0 +1,89 @@
+{
+  "id": "wattie-are-computers-better-then-teachers",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/wattie-are-computers-better-then-teachers.json",
+  "question": "Computers are being used more and more in education and some people believe that there will soon be no role for the teacher in education. To what extent do you agree or disagree?",
+  "essay": "In recent years, computers have been gaining importance in all aspects of human life, particularly education. It is suggested that they will eventually replace teachers in the foreseeable future. However, I strongly believe that the role of teachers will persist because their merits far outweigh that of electronic devices.\n\nAdmittedly, computers allow more flexibility in the learning process. Students can have lessons virtually wherever and whenever they want, as long as they have their laptops with them. They can learn at their own pace that they are comfortable with, unlike the conventional style of teaching, where lecturers may at times need to compromise the needs of weaker students in order to stick to their teaching schedule. In addition, technology-based learning is much more convenient. Students can stay at home and study using their laptops without having to travel to school, which saves time that could be used for actual learning or other activities instead.\n\nDespite the numerous advantages of learning through computers, I believe teachers are essential because laptops cannot carry out certain vital functions of the latter. First and foremost, one important part of the job of teachers is to help students develop interpersonal skills and moral values. In other words, the aims of education is not merely to instil factual knowledge in students and assess their academic ability, but also nurture their personal character and teach them standards of upright conduct. Obviously, this can only be achieved through face-to-face communication in the classroom. Moreover, teachers can assist children with learning weaknesses and help them overcome their difficulties, such as lack of confidence or self-discipline. This, again, would be impossible if learning takes place solely through technology.\n\nTo conclude, although computers undeniably make the learning process more flexible and convenient, I believe they are no substitute for teachers since they cannot fulfil the true purpose of education.",
+  "traits": {
+    "TR": null,
+    "CC": 8,
+    "LR": 9,
+    "GRA": 9
+  },
+  "overall": null,
+  "published_overall": "8.5-9.0",
+  "band_low": 8.5,
+  "band_high": 9.0,
+  "published_trait_labels": {
+    "TR": "8-9",
+    "CC": "8",
+    "LR": "9",
+    "GRA": "9"
+  },
+  "label_interpretation": "Only exact, explicit criterion point labels enter traits; ranges and plus signs are preserved verbatim, not rounded, averaged or treated as exact scores.",
+  "comments": " \nGet your ielts writing corrected \nSee other ielts writing samples  \n \nComputers are being used more and more in education and some people believe that \nthere will soon be no role for the teacher in education. To what extent do you agree \nor disagree? \n \nIn recent years, computers have been gaining importance in all aspects of human life, \nparticularly education. It is suggested that they will eventually replace teachers in the \nforeseeable future. However, I strongly believe that the role of teachers will persist \nbecause their merits far outweigh that of electronic devices. \n \nAdmittedly, computers allow more flexibility in the learning process. Students can \nhave lessons virtually wherever and whenever they want, as long as they have their \nlaptops with them. They can learn at their own pace that they are comfortable with, \nunlike the conventional style of teaching, where lecturers may at times need to \ncompromise the needs of weaker students in order to stick to their teaching schedule. \nIn addition, technology-based learning is much more convenient. Students can stay \nat home and study using their laptops without having to travel to school, which saves \ntime that could be used for actual learning or other activities instead. \n \nDespite the numerous advantages of learning through computers, I believe teachers \nare essential because laptops cannot carry out certain vital functions of the \nlattereducators. First and foremost, one important part of the job of teachers is to \nhelp students develop interpersonal skills and moral values. In other words, the aims \nof education is not merely to instil factual knowledge in students and assess their \nacademic ability, but also to nurture their personal character and teach them \nstandards of upright conduct. Obviously, this can only be achieved through \nface-to-face communication in the classroom. Moreover, teachers can assist children \nwith learning weaknesses and help them overcome their difficulties, such as lack of \nconfidence or self-discipline. This, again, would be impossible if learning takes place \nsolely through technology. \n \nTo conclude, although computers undeniably make the learning process more \nComment [z1]: Rephrase = learning \nComment [z2]: Rephrase = educators \nComment [z3]: Excellent rephrase! \nComment [z4]: Since you support teachers more\nthe arguments for them should come first and then \nafter that you have ADMITTEDLY and you discuss \ncomputers \nComment [z5]: “the latter” isn’t so clear here \nComment [z6]: To instill…..to nurture \n\n\nflexible and convenient, I believe they are no substitute for teachers since they \ncannot fulfil the true full range of purposes of education. \n \nGrade Criteria  \nEstimated  \nGrade  \nComments  \nTask response \n8-9 \nYou have a clear position \nYou provide good main arguments for agreeing and disagreeing and you develop \nthese main ideas well. \nCohesion and \ncoherence \n8 \nAs I mentioned the order of the paragraphs in your essay body  should be \nswitched, so the structure is like this: \nIntroduction \nSide you support the most \nAdmittedly \nconclusion \nVocabulary \n9 \nNo errors \nTry to rephrase given words a bit more \nWhen planning your topic think if there are any advanced words you can try to \nuse for the topic: curriculum, syllabus, pedagogy \nGrammar \n9 \nAs with vocabulary there aren’t any errors, except for: “not merely to….but also \nto” \noverall \n8.5-9.0 \nThis is a great essay. If you can write like this in 40 minutes you should have no \nproblem! \n \n \nGet your ielts writing corrected \nSee other ielts writing samples  \n \nComment [z7]: I think this summarizes your \nargument better (that teachers provide ADDITIONAL\nlessons that computers can’t. \n",
+  "source_url": "https://www.ieltsanswers.com/essays/ielts-essays-are-computers-better-then-teachers.pdf",
+  "source_artifact": "research/integer-anchors-20261001/wattie/ielts-essays-are-computers-better-then-teachers.pdf",
+  "source_sha256": "3a872bbaf2f3011bfbe083ac71ff94172a970e936aa0e86f927ca95a472e3c91",
+  "source_locator": {
+    "original_pages": [
+      1,
+      2
+    ],
+    "assessment_pages": [
+      2
+    ]
+  },
+  "publisher": "IELTSanswers",
+  "score_source": "verified_human",
+  "rater": "Mike Wattie",
+  "rater_evidence": "The linked primary essays-corrected/reports-corrected page identifies Mike Wattie and says these are student responses he corrected. Individual score tables and tracked corrections are retained in the PDF. Practice estimates, not official exam results.",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "student",
+  "independent_human_rating": true,
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "duplicate_group": "1d54974370a2f47c46",
+  "prompt_group": "92bb73fa6c2dec29e0",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "quality_issues": [],
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "source_review_images": [
+    "research/integer-anchors-20261001/wattie/ielts-essays-are-computers-better-then-teachers-1.png",
+    "research/integer-anchors-20261001/wattie/ielts-essays-are-computers-better-then-teachers-2.png"
+  ],
+  "comments_images": [
+    "research/integer-anchors-20261001/wattie/ielts-essays-are-computers-better-then-teachers-1.png",
+    "research/integer-anchors-20261001/wattie/ielts-essays-are-computers-better-then-teachers-2.png"
+  ],
+  "extraction": "Image-reviewed original reconstructed by retaining black and red deleted text and excluding blue teacher insertions. Source numeric punctuation errors preserved. Normalized lexical tokens match an independent native PDF span extraction. Annotated source pages are audit-only, not blind comparison inputs.",
+  "original_extraction_regions": [
+    [
+      1,
+      75,
+      267,
+      435,
+      678
+    ],
+    [
+      2,
+      75,
+      106,
+      435,
+      140
+    ]
+  ],
+  "original_essay_sha256": "0de64e9f9fed1e060617907ea6552832bbaafc4005aca9ba94e30c186a14cf68",
+  "accessed_at": "2026-10-01",
+  "accessed_at_timezone": "Asia/Shanghai",
+  "integer_anchor_import": "2026-10-01-wattie",
+  "teacher_advice_caveat": "Teacher comments are source evidence, not extra scoring rules; never supply corrected wording or assessment comments as the candidate original."
+}

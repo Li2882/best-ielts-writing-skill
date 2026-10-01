@@ -1,0 +1,94 @@
+{
+  "id": "juice-252787",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-252787.json",
+  "question": "The Graph below shows average carbon dioxide (CO2) emissions per person in the United Kingdom, Sweden, Italy and Portugal between 1967 and 2007.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The line graph depicts how much carbon dioxide was emitted per person in 4 different countries (the United Kingdom, Sweden, Italy, and Portugal) from 1967 to 2007. Units are measured in metric tonnes. Overall, the British were the nation with the highest carbon dioxide production throughout the given period.\n\nTo begin with, the amount of Co2 emitted in the United Kingdom and Sweden decreased in the forty-year period. In 1967, the UK produced around 11 metric tonnes of Co2 which gradually reduced to less than 9 metric tonnes in 2007. Although this amount had a downward trend throughout the period in question, the UK generated the highest amount of Co2 among the other countries. Similarly, Co2 emissions in Sweden started at less than 9 metric tonnes; it peaked at around 10 metric tonnes in 1977 before, it sharply declined to roughly 5 metric tonnes in the final year.\n\nOn the other hand, different picture emerged for Italy and Portugal, with an increase in Co2 emissions during the given period. Both countries, followed almost the same pattern with a steady increase, prior to leveling off from 1997 to 2007.Their starting point was close to 4 metric tonnes and approximately 1 metric tonnes Co2 emissions for Italy and Portugal respectively. In 1997, at around 8 co2 emissions for Italy and 5 co2 emissions for Portugal were the highest level of co2 production which remained almost stable until the end of the period.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TA": 8.0,
+    "CC": 8.0,
+    "LR": 7.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this report. Please follow the link below to watch your video commentary:\nVideo Feedback",
+  "images": [
+    {
+      "path": "library/assets/juice-252787-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2024/03/IELTS-Writing-Task-1-report-sample-2933-Band-7.5.jpg",
+      "sha256": "2398c6cba835cac0764d12e2981329dd613bcd1ab7063bb9663159e9c2cc4d3f"
+    }
+  ],
+  "question_image": "library/assets/juice-252787-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-2933-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-252787.html",
+  "source_sha256": "1ca378625dc6ecddfe32cf157dcd0359fde7e52a24f9a47d484f65aa8af97c09",
+  "source_locator": {
+    "wordpress_post_id": 252787,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "9fdda8849c786f5c",
+  "prompt_group": "2c60f84345e8ef89",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "9.0\tfully satisfies all the requirements of the task",
+      "8.0\tpresents, highlights and illustrates key features clearly and appropriately",
+      "9.0\tdetails are fully and clearly extended.",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "8.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "8.0\tmanages all aspects of cohesion well",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "8.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "8.0\tproduces rare errors in spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "8.0\tthe majority of sentences are error-free",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "9.0\tcommunication is completely natural",
+      "7.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

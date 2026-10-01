@@ -1,0 +1,53 @@
+{
+  "id": "official-2023-1b-a",
+  "task": "task1",
+  "task_type": "line_chart",
+  "path": "library/task1/official-2023-1b-a.json",
+  "source_url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+  "download_url": "https://unihousecms.mediaplusdemos.com/sites/default/files/2024-08/ielts-academic-writing-sample-tasks-2023.pdf",
+  "source_locator": {
+    "pdf": "library/official/academic-writing-samples-2023.pdf",
+    "question_page": 4,
+    "response_pages": [
+      11
+    ]
+  },
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS",
+  "score_source": "official",
+  "rater_evidence": "Official IELTS sample pack states each response has an examiner band and comment. Mirror title, 26-page structure, prompts and extracted comments compared with primary IELTS URL retrieved through web search.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "official-2023-1b-a",
+  "prompt_group": "official-2023-1b",
+  "question": "Page 4 of 26  \n \n  \nIELTS.org \nAcademic Writing Sample Task – 1B \n \n \nWRITING TASK 1 \n \nYou should spend about 20 minutes on this task. \n \n \n \n \nWrite at least 150 words. \n \n \nThe graph below shows radio and television audiences throughout the day in 1992. \nSummarise the information by selecting and reporting the main features, and make \ncomparisons where relevant.",
+  "essay": null,
+  "essay_images": [
+    "library/official/pages/page-11.png"
+  ],
+  "images": [
+    {
+      "path": "library/official/pages/page-04.png",
+      "source_url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+      "sha256": "34fef1c2756fc2fe2f23a2c9629f6307a9583bfc846e756c4c3dc37de4cd2a6d"
+    }
+  ],
+  "question_image": "library/official/pages/page-04.png",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Band 6 \nThe answer has an appropriate introduction which the candidate has attempted to express in their \nown words. There is good coverage of the data and a brief reference to contrasting trends. The \nanswer can be followed although it is rather repetitive and cohesive devices are overused. In order \nto gain a higher mark for content, the candidate would be expected to summarise the most important \nfeatures of the graph in an overview, for example, ‘audiences for radio peak in the morning, and for \nTV, in the evening’. There is some flexibility and precision in the range of vocabulary used. Sentences \nare long but do lack complexity. To score more highly there would be fewer errors in tense, verb form \nand spelling which interfere slightly with the flow of the answer.",
+  "quality_issues": [],
+  "extraction": "Handwritten response retained as page images. View all response pages; no unverified OCR transcript. Pages include examiner comments; reference use only.",
+  "source_sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+}

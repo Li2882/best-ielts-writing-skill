@@ -1,0 +1,60 @@
+{
+  "id": "blog-eb968985c322",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-eb968985c322.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-senior-managers-should-have-higher-salaries-than-other-employees-agree-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-senior-managers-should-have-higher-salaries-than-other-employees-agree-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "95d90174071ba720",
+  "prompt_group": "5407b27071214f31",
+  "question": "In many countries senior positions have higher salaries compared to those of young workers of the same company. Some people think this isn’t justified. Do you agree or disagree?",
+  "essay": "While some believe that rewarding those in managerial positions with higher pay packets is appropriate, not everyone agrees with this view. Personally, I am leaning towards the latter position due to negative impacts caused by significant difference in salaries within a company.\n\nFor one, executive officers should know that higher than sufficient salaries are not necessary. Indeed, the higher the remuneration they receive, the more likely the company to suffer from devoid of financial capability. Furthermore, they often gain powers that money can’t buy. For instance, they often make important decisions over how to make their company thrive. They are also entitled to allocate company’s budget and designate tasks to other workers. In lieu of these non-financial entitlements, they should refrain from earning more than reasonable amounts as salaries.\n\nUnreasonably high salaries granted to the executives can also afflict other employees. In fact, it is foreseeable that many employees would feel powerless or even disappointment when they find out about the huge salary gap between the executive officers’ and theirs. Accordingly, some may leave the company, and others may go on to strike and demand a pay increase. However, those actions hardly be productive nor worthy to do. Therefore, unfair salary systems like this would yield unhealthy working environment for both employers and employees.\n\nIn conclusion, I oppose to provide those in managerial roles with obscene amounts of compensation because it can cost the company its prosperity and discourage other employees to work hard. Thus it is recommended for the company to decide on the salaries of executive officers and general workers by adopting a more motivating salary system.",
+  "word_count_computed": 269,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a good example of an IELTS Band 8 essay. The task statement is sufficiently discussed, and the writer’s arguments are relevant and well developed. There are only 2 body paragraphs, but they are coherent and help to organise the information. Linking words are used appropriately to sequence ideas. Skillful use of synonyms throughout the essay demonstrates the writer’s vocabulary. Some of the expressions used aren’t entirely suitable or accurate, but there aren’t many of them. Overall, this essay seems worthy of IELTS Band 8.0.",
+  "corrections": [
+    {
+      "original": "In lieu of",
+      "suggestion": "the writer means ‘due to gaining’"
+    },
+    {
+      "original": "disappointment",
+      "suggestion": "the correct form is ‘disappointed’"
+    },
+    {
+      "original": "hardly be productive nor worthy to do",
+      "suggestion": "the correct expression is ‘are neither productive nor worthy of doing’"
+    },
+    {
+      "original": "provide",
+      "suggestion": "the correct form is ‘providing’"
+    },
+    {
+      "original": "to work hard",
+      "suggestion": "the correct expression is “from working hard”"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "ad06beb80aec452df021352a5a227fcb0bb65a521e3917bed7b05d89cecab48d",
+  "model_evidence": null
+}

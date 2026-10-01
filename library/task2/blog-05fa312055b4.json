@@ -1,0 +1,87 @@
+{
+  "id": "blog-05fa312055b4",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-05fa312055b4.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-5/ielts-essay-topic-university-money-better-spent-on-libraries-or-sports/",
+  "source_locator": "research/blog/ielts-essay-topic-university-money-better-spent-on-libraries-or-sports.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "teacher_model",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "ac84d65ddf71ec00",
+  "prompt_group": "bd153adf7c23d5f9",
+  "question": "Universities should allocate the same amount of money to their sport activities as they allocate to their libraries. Do you agree or disagree?",
+  "essay": "Yes, I do feel that universities should have an equal budget for their libraries as well as sport activities. It is our general belief that a good player can not be good student and hence we restrict our children’s sport activities at college level. Moreover, an academic degree has much more value than sport activities which naturally compels students to focus more on their studies than their interest in sport.\n\nMost of the universities keep sports at last number of their priority list, because of which good players do not get enough facilities and equipments to improve their skills and eventually they loose their interest.Universities can play substantial role in shaping this upcoming talent by providing good trainers and equipments which is otherwise too expensive to afford. Also it will attract other students towards sports and inculcate importance of physical fitness in them.\n\nUniversities should produce genious in all fields rather than only concentrating on progress of scholars. Hence, I feel that universities should allot equal amounts of money to liabrary as well as sport activities.",
+  "word_count_computed": 177,
+  "images": [],
+  "overall": null,
+  "band_low": null,
+  "band_high": null,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Your essay too short, the introduction is good, as is the first paragraph but you must offer more arguments regarding why you agree or disagree. There are many spelling, punctuation and article errors. The essay is easy to follow but has the appearance of the writer running short of time.",
+  "corrections": [
+    {
+      "original": "_",
+      "suggestion": "“for” is missing here"
+    },
+    {
+      "original": "_",
+      "suggestion": "“a” is missing here"
+    },
+    {
+      "original": "last number",
+      "suggestion": "the bottom"
+    },
+    {
+      "original": "because of which",
+      "suggestion": "therefore,"
+    },
+    {
+      "original": "equipments",
+      "suggestion": "equipment, because it is an uncountable noun"
+    },
+    {
+      "original": "loose",
+      "suggestion": "lose"
+    },
+    {
+      "original": "_",
+      "suggestion": "“a” is missing here"
+    },
+    {
+      "original": "equipments",
+      "suggestion": "equipment, because it is an uncountable noun"
+    },
+    {
+      "original": "towards",
+      "suggestion": "to"
+    },
+    {
+      "original": "genious",
+      "suggestion": "geniuses"
+    },
+    {
+      "original": "liabrary",
+      "suggestion": "libraries"
+    }
+  ],
+  "quality_issues": [
+    "no_explicit_band_in_comment",
+    "teacher_model_not_scored_candidate"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "0d35029d8184a4c499903e9e3b78f64b6b32656e587a5ee28fd307d17332d1fa",
+  "model_evidence": " data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20336%20280'%3E%3C/svg%3E  https://www.ielts-blog.com/images/banners/target-band-7-banner-new.jpg"
+}

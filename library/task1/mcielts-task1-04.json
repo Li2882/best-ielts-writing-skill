@@ -1,0 +1,54 @@
+{
+  "id": "mcielts-task1-04",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/mcielts-task1-04.json",
+  "question": "The table below shows the monthly expenditure of an average Australian family in 1991 and 2001.",
+  "essay": "The table lists the income that the spendings of an average Australian family in six different categories (Food, Electricity and Water, Clothing, Housing, Transport, and Other goods and services) between 1991 and 2001. Monetary values are in Australia dollars ($).\n\nOverall, it is clear that Other goods and services are the highest average revenues in both years for Australia by more than a factor of Food, the second largest. In addition, there were increases in Electricity and Water, and Housing while Clothing and Transport declined.\n\nIn 1991, the amount of monthly spending on Food increased from $155 to $160 between 1991 and 2001. Moreover, there was a contributed significantly to the increase in Electricity and Water from $75 per month to $120 per month in 2001. People were more interested in buying clothes $30 per month in 1991 whereas after ten years the number of people spent less money on clothes at just $20. Housing also had increased steadily from $95 to $100 per month in 2001.\n\nSimilarly, transportation also declined its spending to $45 in 2001 with a reduction of about 35% in 1991 figure. Furthermore, the total income spent by each family in Australia slightly increased from $675 in 1991 to $715 in 2001.",
+  "images": [
+    {
+      "path": "research/expansion/mcielts/ielts-writing-5.5-2-1024x739-1.jpg",
+      "url": "https://mcielts.com/wp-content/uploads/2023/12/ielts-writing-5.5-2-1024x739-1.jpg",
+      "sha256": "152d88ba15cb193274962e0f109b2c5592850ce463558ae14d5a39e5d5241a8b"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/mcielts/ielts-writing-5.5-2-1024x739-1.jpg"
+  ],
+  "source_url": "https://mcielts.com/bai-sua-writing-task-1-tu-cuu-giam-khao-ielts/",
+  "source_artifact": "research/expansion/mcielts-task1.html",
+  "source_sha256": "5b2653ca2c3bc32d77fd52257f529b1f60327949b7040bd8a1627447486c96c2",
+  "source_locator": "research/expansion/mcielts-task1.html",
+  "score_source": "verified_human",
+  "rater_evidence": "Gary McCloud is identified by his institution as the teacher and a former IELTS examiner; signatures and criterion scores are visible. Former-examiner status is a publisher claim.",
+  "publisher": "Mc IELTS",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "holdout",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "mcielts-task1-04",
+  "prompt_group": "56471b72312bd678",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "question_image": "research/expansion/mcielts/ielts-writing-5.5-2-1024x739-1.jpg",
+  "comments_images": [
+    "research/expansion/mcielts/ielts-writing-5.5-2-1024x739-1.jpg"
+  ],
+  "source_context_region_evidence": "Institution address in Ho Chi Minh City on source page.",
+  "extraction": "Original is black printed text; red handwriting/strikeouts are teacher corrections. Original remains legible. Read the entire image; do not grade the corrected version.",
+  "teacher_advice_caveat": "Do not adopt prescriptive advice such as treating 215 words as too long or forbidding all simple words. Use official descriptors.",
+  "reserved_for_evaluation": "shared-criteria-01",
+  "label_paths": {
+    "ta_tr": "evaluations/labels/shared-criteria-01-ta-tr.json",
+    "cc": "evaluations/labels/shared-criteria-01-cc.json",
+    "lr": "evaluations/labels/shared-criteria-01-lr.json",
+    "gra": "evaluations/labels/shared-criteria-01-gra.json",
+    "provenance": "evaluations/labels/shared-criteria-01-provenance.json"
+  },
+  "transcript_status": "manual_original_text_read_from_annotated_scan"
+}

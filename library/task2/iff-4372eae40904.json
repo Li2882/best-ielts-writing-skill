@@ -1,0 +1,135 @@
+{
+  "id": "iff-4372eae40904",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/iff-4372eae40904.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-task-2-band-7-sample-answer-2/",
+  "source_locator": "research/forfree/ielts-task-2-band-7-sample-answer-2.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "41242ac0a5c24a73",
+  "prompt_group": "276c4d1a5b190f37",
+  "question": "You should spend about 40 minutes on this task.\nWrite about the following topic:\nIn some countries, people who commit less serious crimes are made to undertake community service* instead of a prison sentence. Some people believe that all people who have committed a crime should be sent to prison.\nDo you agree or disagree?\n*compulsory work helping the community, such as decorating public facilities, which they must carry out in their spare time for a given period.\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\nWrite at least 250 words.",
+  "essay": "Many individuals think that the best way to punish those who get engaged in any kind of crime should be to sent them to jail . I totally disagree and the following essay will explain why.\n\nUnless murder is concerned , people who commit more minor crimes should be given another chance to correct their behaviour. Isolating a person in the jail seems to solve the problem but to some there are better solutions to make criminals think critically about their actions, such as assigning them to complete community hours .\n\nAnother point to be considered before sending a person to prison, specificially teenagers, is to evaluate the level of crime. There are a considerable number of delinquents that get engaged in anti-social behaviour; for example fighting and shoplifting amongst youngsters is something common to be seen . However, bringing these people to prison most likely would not benefit to improve their behaviour but inclusion of youth counselors would be considered a great deal of help.\n\nAdmittedly, a point that could be made in support of the opinion that criminals should be sent to prison is that these people while suffering the sentence in jail and being deprived from many privileges would better think to commit a crime for a second time; however, the life experiences has shown that a person causes crime again and ends up in jail more than once.\n\nTo conclude, it is better for people who commit crimes such as theft or similar to be addressed to work in the community during their free time. By doing so the individuals work would serve a good purpose and the government would have to spend less on jails .",
+  "word_count_computed": 276,
+  "images": [],
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Task 2 Band 7 sample answer 2\nThere are some clear strengths to this essay to the writer directly answers the question, the paragraphing is clear and the final body paragraph (the concession paragraph) is well argued.\nHowever, there are a few issues with the choice and range of vocabulary (e.g. 'Jail' where 'prison' would have been more appropriate).\nThere are also a few errors in grammar ('should be to sent them..'). There are also some sections where the writing could have been more academic ('ended up in jail').",
+  "corrections": [
+    {
+      "original": "get engaged in",
+      "suggestion": "\"engage in\""
+    },
+    {
+      "original": "sent",
+      "suggestion": "\"send\""
+    },
+    {
+      "original": "jail",
+      "suggestion": "\"prison\" - prison and jail have a different purpose"
+    },
+    {
+      "original": "I totally disagree",
+      "suggestion": "try to avoid using personal pronouns - this could be \"However, there is a far stronger argument to be made against this\""
+    },
+    {
+      "original": "murder is concerned",
+      "suggestion": "\"the crime involves murder\"] or equally heinous acts"
+    },
+    {
+      "original": "the jail",
+      "suggestion": "\"prison\""
+    },
+    {
+      "original": "to",
+      "suggestion": "\"for\""
+    },
+    {
+      "original": "assigning them to complete community hours",
+      "suggestion": "\"assigning community hours for them to complete\""
+    },
+    {
+      "original": "get engaged",
+      "suggestion": "\"become involved\""
+    },
+    {
+      "original": "example",
+      "suggestion": "this needs to be followed by a comma"
+    },
+    {
+      "original": "something common to be seen",
+      "suggestion": "\"has become common\""
+    },
+    {
+      "original": "benefit to",
+      "suggestion": "delete this"
+    },
+    {
+      "original": "but",
+      "suggestion": "change this to \"as much as the\""
+    },
+    {
+      "original": "would",
+      "suggestion": "\"which could\""
+    },
+    {
+      "original": "people",
+      "suggestion": "needs to be followed by a comma"
+    },
+    {
+      "original": "suffering the",
+      "suggestion": "\"serving their\""
+    },
+    {
+      "original": "in jail",
+      "suggestion": "delete this"
+    },
+    {
+      "original": "better think to",
+      "suggestion": "\"think better of\""
+    },
+    {
+      "original": "commit",
+      "suggestion": "\"committing\""
+    },
+    {
+      "original": "the life experiences has shown",
+      "suggestion": "\"the statistics show\""
+    },
+    {
+      "original": "a person causes crime again",
+      "suggestion": "\"many criminals reoffend\""
+    },
+    {
+      "original": "ends up in jail",
+      "suggestion": "\"is returned to prison\""
+    },
+    {
+      "original": "addressed",
+      "suggestion": "\"required\""
+    },
+    {
+      "original": "jails",
+      "suggestion": "\"imprisoning those who break the law\""
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "62871931d8a458f043d34b850899a9b123f2e5dd06def3786ee8c336ec950e62"
+}

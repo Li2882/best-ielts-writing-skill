@@ -1,0 +1,67 @@
+{
+  "id": "ieltsanswers-02bce4049ee5",
+  "task": "task1",
+  "task_type": "bar",
+  "path": "library/task1/ieltsanswers-02bce4049ee5.json",
+  "question": "The chart shows the number of girls per 100 boys enrolled in different levels of school education. See the original image for the exact prompt and years.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/correction-pages/02bce4049ee5-p1.png",
+      "sha256": "d269524ea674cd920bafa87a9b560e82fcce3ebb4d1a9dc7a9503e2ea67b203d"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/correction-pages/02bce4049ee5-p1.png",
+    "research/expansion/correction-pages/02bce4049ee5-p2.png",
+    "research/expansion/correction-pages/02bce4049ee5-p3.png"
+  ],
+  "overall": 6,
+  "band_low": 6,
+  "band_high": 6,
+  "traits": {},
+  "comments": null,
+  "source_url": "https://www.ieltsanswers.com/reports/ielts-reports-number-of-girls-in-education.pdf",
+  "source_artifact": "research/expansion/answers/02bce4049ee5.pdf",
+  "source_sha256": "980272ab2e0555383eb490848a4898da34a05e08751a1425385d440ccf1c79bb",
+  "source_locator": "research/expansion/answers/02bce4049ee5.pdf",
+  "score_source": "verified_human",
+  "rater_evidence": "Mike Wattie publishes these as individually corrected writing samples on IELTSAnswers. His examiner credentials are a publisher claim; these are practice estimates.",
+  "publisher": "IELTSAnswers / Mike Wattie",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "ieltsanswers-02bce4049ee5",
+  "prompt_group": "f25b8a3175fce1b9",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "student",
+  "author_type_evidence": "Publisher describes these as writing correction samples; individual author is unnamed.",
+  "question_text_status": "Searchable prompt transcription or summary; original question image is authoritative.",
+  "question_image": "research/expansion/correction-pages/02bce4049ee5-p1.png",
+  "comments_images": [
+    "research/expansion/correction-pages/02bce4049ee5-p1.png",
+    "research/expansion/correction-pages/02bce4049ee5-p2.png",
+    "research/expansion/correction-pages/02bce4049ee5-p3.png"
+  ],
+  "score_page": 3,
+  "score_evidence": [
+    {
+      "score": 6.0,
+      "row": [
+        "Overall",
+        "6",
+        "1. Be careful whether the task is about numbers or proportions\n2. The overall summary is the most important sentence of the whole report\nYou may need more practice looking at these tasks a good reference is:\nhttp://www.ielts-\nexam.net/index.php?option=com content&task=category&sec\n_\ntionid=7&id=20&Itemid=32",
+        null
+      ]
+    }
+  ],
+  "extraction": "Read the marked original: retain struck-out original words, omit inserted corrections and teacher comments. Do not concatenate the native PDF text, which interleaves both versions. Assessment tables are not essay text.",
+  "teacher_advice_caveat": "Publisher layout preferences, stylistic substitutions and word-count advice are not official deductions. Preserve the published overall; ranged criterion estimates have not been converted to exact scores."
+}

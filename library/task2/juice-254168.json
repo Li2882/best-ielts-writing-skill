@@ -1,0 +1,87 @@
+{
+  "id": "juice-254168",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-254168.json",
+  "question": "Some people believe that it is better to live and work in a vertical city with multiple tall buildings, as compared to a horizontal city with fewer tall buildings.\nDiscuss both views and give your opinion.",
+  "essay": "Public opinion about whether vertical cities are superior to horizontal ones or not is becoming increasingly polarized. From my perspective, each approach has its own advantages and disadvantages and should be considered equally when it comes to choosing where to live.\n\nOn the one hand, vertical cities dominated by towering structures are often believed to be more convenient and less time-consuming. As buildings in those cities are designed to serve a vast variety of purposes in a limited space, people who live and work in vertical cities can access several services without having to travel a long distance. This will improve citizens’ standard of living significantly, contributing to the overall happiness and productivity of the whole city. However, metropolises with thousands of skyscrapers and towers often struggle with serious problems. Since those cities focus on utilizing spaces provided by the height of modern buildings, the population density will be much higher than that of their conventional counterparts. Consequently, they, and their residents are prone to environmental contamination, increased mental health disorders, and respiratory diseases.\n\nOn the other hand, proponents of horizontal-planned cities argue that they have a much more environmentally friendly design than their competitors. This is because urban planners of those cities often concentrate on keeping the space of the city comfortable, and the architectural structures well-ventilated. This approach helps curb the problems in waste management, air pollution and overpopulation, which vertical cities are often vulnerable to. However, citizens of horizontal cities are reported to find it difficult to access multiple services and utilities without a proper transport system, as they are often a great distance far from each other. In addition, horizontal cities include several underdeveloped distant, or sometimes isolated areas, which may exacerbate economic disparity, as well as criminal activities.\n\nTo recapitulate, both vertical and horizontal cities are designed with certain purposes and target customers, so instead of arguing to pinpoint the better one, we should take the advantages and disadvantages of both into serious consideration, make evidence-based, unbiased analogies, then decide based on our preferences.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TR": 8.0,
+    "CC": 7.0,
+    "LR": 8.0,
+    "GRA": 8.0
+  },
+  "comments": "Thank you indeed for writing this essay. The essay is well-written, addressing the task comprehensively with a clear and structured argument, sophisticated vocabulary, and excellent grammatical control. The writer effectively discusses the advantages and disadvantages of both types of cities and provides a reasoned conclusion. This is a strong response to the task prompt.\nVideo Feedback",
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3365-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-254168.html",
+  "source_sha256": "af3b5cc5e8e67ab1891ca52ea3cd640dcc47a1a9ee00182d2e451bf63745be62",
+  "source_locator": {
+    "wordpress_post_id": 254168,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "18b9fe843dc7e6c0",
+  "prompt_group": "2631218b2fb3bfdf",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "9.0\tfully addresses all parts of the task",
+      "8.0\tpresents a well-developed response to the question",
+      "8.0\twith relevant, extended, and supported ideas",
+      "8.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "8.0\tmanages all aspects of cohesion well",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "9.0\twith very natural and sophisticated control of lexical features",
+      "8.0\tproduces rare errors in spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "9.0\tuses a wide range of structures",
+      "8.0\tthe majority of sentences are error-free",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "9.0\tcommunication is completely natural",
+      "8.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

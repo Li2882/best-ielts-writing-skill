@@ -1,0 +1,48 @@
+{
+  "id": "blog-8574daaa6cdd",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-8574daaa6cdd.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-nowadays-that-many-women-have-full-time-jobs-it-is-logical-to-share-the-housework-evenly-between-men-and-women-agree-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-nowadays-that-many-women-have-full-time-jobs-it-is-logical-to-share-the-housework-evenly-between-men-and-women-agree-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "ffb5961710acfed0",
+  "prompt_group": "5d042ce36349e231",
+  "question": "Nowadays in many countries women have full time jobs. Therefore, it is logical to share household tasks evenly between men and women. To what extent do you agree or disagree with this statement?",
+  "essay": "Nowadays an ever-increasing number of women work full time, and in this reality it is widely believed that house chores should be shared between men and women equally. I strongly agree with this statement.\n\nOne of the reasons for sharing housework between males and females is to promote gender equality. A stereotype that has existed a long time is that females ought to stay home, taking care of the family once they got married. This includes looking after the children and doing all of the housework, which is fairly labour-intensive. However, this approach could have quite a few disadvantages. It would render women less able of keeping abreast of what is happening in the job market, thus forming a lifestyle where they might find it arduous to step into the society again. To avoid this, many women are willing to get back into the workforce soon after their maternity leave, and once they do, it makes sense that their husbands should share part of the household chores, to fulfill their family responsibilities.\n\nNevertheless, we cannot be oblivious of several drawbacks of this trend. One potential downside is that men are less experienced in dealing with household tasks. This is because many seldom take an active role in doing housework, according to customs of many countries. As a result, they may end up doing household tasks in a less than perfect way, which could contribute to some unnecessary quarrels between partners, hindering their family bond. However, the likelihood of this happening isn’t very high, because wives can offer some tips or guidance to their husbands when they learn how to share house chores such as mopping floors or doing laundry.\n\nTo sum up, although some conflicts might be triggered when equally sharing the duties of household tasks, the benefits of this trend are relatively oblivious.",
+  "word_count_computed": 304,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "The writer covered the task well by discussing the positives and negatives of sharing housework equally between men and women. Each paragraph has a clear purpose and assists with orderly presentation of ideas, making this essay easy to follow. The ideas are explained and substantiated, and the writer’s opinion is clear. The range of vocabulary is wide enough to avoid unnecessary repetition. Accuracy of expression could be improved (see corrections underlined in blue), but all in all this essay seems worthy of IELTS Band 8.",
+  "corrections": [
+    {
+      "original": "males and females",
+      "suggestion": "a better way to say this is ‘male and female partners’"
+    },
+    {
+      "original": "of",
+      "suggestion": "the correct preposition here is ‘to’"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "3b309e1fdcaa1dd1413111a6bcc775e24c6bb2e9a8fee189b9f20ec1c127ba70",
+  "model_evidence": null
+}

@@ -1,0 +1,91 @@
+{
+  "id": "insights-v13-p25-task2",
+  "task": "task2",
+  "task_type": "opinion",
+  "path": "library/task2/insights-v13-p25-task2.json",
+  "question": "Countries with longer average working time are more economically successful, but they are also likely to suffer from negative social consequences. To what extent do you agree with this statement?",
+  "essay": null,
+  "images": [],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-13-p26.png"
+  ],
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {
+    "TR": 8,
+    "CC": 9,
+    "LR": 8,
+    "GRA": 9
+  },
+  "comments": null,
+  "source_url": "https://cms.youpass.vn/assets/fdbb20b1-44db-41e1-9a6f-bd911e9525a5",
+  "source_artifact": "research/expansion/insights/vol-13.pdf",
+  "source_sha256": "580f31553aa1fa2549b373b4f76fd7dcd7a48f3f31f0bfae4772c9714692113c",
+  "source_locator": {
+    "volume": 13,
+    "cover_page": 25,
+    "original_pages": [
+      26
+    ],
+    "report_last_page": 36
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "Tony Grace is named in the correction report. The publisher says its academic team submits these originals to him for individual marking and describes him as a former IDP examiner. This is a practice assessment, not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "quality_issues": [],
+  "duplicate_group": "insights-v13-p25-task2",
+  "prompt_group": "96bc5617a33ea5f6",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "teacher",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-13-p25.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-13-p25.png",
+    "research/expansion/insights/pages/vol-13-p27.png",
+    "research/expansion/insights/pages/vol-13-p28.png",
+    "research/expansion/insights/pages/vol-13-p29.png",
+    "research/expansion/insights/pages/vol-13-p30.png",
+    "research/expansion/insights/pages/vol-13-p31.png",
+    "research/expansion/insights/pages/vol-13-p32.png",
+    "research/expansion/insights/pages/vol-13-p33.png",
+    "research/expansion/insights/pages/vol-13-p34.png",
+    "research/expansion/insights/pages/vol-13-p35.png",
+    "research/expansion/insights/pages/vol-13-p36.png"
+  ],
+  "score_page": 25,
+  "score_evidence": [
+    {
+      "page": 25,
+      "text": "IELTS Corrections\nPage 1 of 12\nDåy lä nöi dung du•qc thvc hien b&i trung tam IELTS 1984. Céc ban c6\nthé doc thém nhibu båi mäu, v&i hur&ng dän viét bäi chi tiét tirng\ntai website trung täm nha.\nhtt s: ielts1984.vn ton\n- uan-ve-ielts ielts-writin -task-2\nQR code:\nOVERALL BAND SCORE\n8+9+8+9\nSEE BELOW C&CLR GRA MODEL\nWRITING TASK 2\nWrite about the following to\nCountries with longer average working time are more economically\nsuccessful, but they are also likely to suffer from negative social\nconsequences.\nTo what extent do you agree with this statement?\nGive reasons for your answer and include any relevant examples from\nyour own knowledge or experience.\nWrite at least 250 words.\nOriginal answer -\nFor more IELTS advice go to Succeed in IELTS with Tonv\n18 August 2024\nVOL. 13 | Aug 2024\n25"
+    },
+    {
+      "page": 27,
+      "text": "IELTS Corrections\nPage 3 of 12\nOVERALL BAND SCORE\n8.5\n8+9+8+9\nTR — Task Response nb — GRA and LR errors have not been corrected\nBand score 8\nI might point out that it's an increasingly competitive world, and a\ncompany that's less efficient may find it more difficult to compete with\nChinese/Vietnamese qpmpanies with a better work ethic — ie longer\nworking hours.\nIt turns out that your example of Japan isn't a very good one as their\nworking weeks are shorter than Vietnam's and China's but longer than\nother developed countries. I wonder why you didn't use Vietnam as an\nexample. See here\nAnyway, it's an excellent answer. You'\nr 9 for TR.\nYou have a clear position through\naddressed.\nall parts of the question are\nYour position is coherent a\nll- rgued.\nThe ideas are reltvant xte ed and there are no contradiction\n• su Icaently addresses all parts\nof the task\n• presents a well-developed\nresponse to the question with\nrelevant, extended and\nsupported ideas\nBond 'core 8 TR\nADVICE ON BRAINSTORMING FOR TASK 2\nAs you're planning and writing your answer, remember to constantly\nask yourself if you're answering the question. Check back to the\nquestion a few times as you think of ideas to make sure they're directly\nrelevant.\nFor more IELTS advice go to Succeed in IELTS with Tonv\n18 August 2024\nVOL. 13 | Aug 2024\n27"
+    }
+  ],
+  "extraction": "Use only the Your answer / Original answer section in the specified pages. Later TA/TR, CC, LR and GRA sections contain marked copies and rewrites. Front-of-magazine teaching versions are not the scored original. OCR only locates content; inspect original images.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "published_cover_traits": {
+    "TR": 8,
+    "CC": 9,
+    "LR": 8,
+    "GRA": 9
+  },
+  "trait_label_status": "Criterion pages cross-checked against cover and retained with full report; original and report images retained.",
+  "trait_evidence_path": "research/trait-calibration/insights-v13-p25-task2.json"
+}

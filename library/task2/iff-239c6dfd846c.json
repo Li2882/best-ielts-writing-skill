@@ -1,0 +1,131 @@
+{
+  "id": "iff-239c6dfd846c",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/iff-239c6dfd846c.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-task-2-band-7-sample-answer-1/",
+  "source_locator": "research/forfree/ielts-task-2-band-7-sample-answer-1.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "98e0661d2811dbf1",
+  "prompt_group": "2afdb68c8f0163b5",
+  "question": "You should spend about 40 minutes on this task.\nWrite about the following topic:\nThe mark of a successful person is to be wealthy and have a successful career.\nTo what extent do you agree or disagree?\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\nWrite at least 250 words.",
+  "essay": "Many people argue that success in life is related to being rich and having a successful career . However, in my opinion , there are several other factors that have to be considered, as as I will now explain .\n\nPrimarily, the definition of success can be extremely controversial. There can be as many types of success in life as there are people. For example, the meaning of success for some people living in the countryside might be vastly different from these living in the big cities. In general, people in the countryside thrive for social respect , and family values rather than monetary accounts . They seem to be happier when they feel respected by their relatives, or their ideas are considered highly among their community.\n\nMoreover, a considerable portion of people find their satisfaction in good education. They have eagerness to learn and gain more knowledge . They believe that knowledge is power and a way to lighten their minds and lives. To illustrate, many scientists have devoted their lives in research to make a discovery or an invention, and even thought these people did not have luxurious lives, not many can argue that they were not successful.\n\nFurthermore, in many cases, we judge others by their outside appearance; that they are successful because they own, for example, a big house, an expensive car, or a good business. But owning these items would not always make them feel successful unless for instant , their family life is stable, their health is in good shape, or they really feel satisfied with what they have.\n\nTo conclude, I believe that there are many factors that should be taken into account besides wealth and successful career before judging that a person is really successful in his life.",
+  "word_count_computed": 289,
+  "images": [],
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Task 2 Band 7 sample answer 1\nAlthough certain phrases could have been more academically expressed, this is a well presented response to the task and is laid out in logical paragraphs.\nAvoiding the use of the personal pronoun 'I' would make the essay more academic, as well as upgrading some of the vocabulary (e.g. 'big cities' could be expressed as 'larger urban areas').\nLinking words could also be improved, especially avoiding beginning a sentence with 'But'.",
+  "corrections": [
+    {
+      "original": "successful career",
+      "suggestion": "this is taken directly from the title - it is important to paraphrase"
+    },
+    {
+      "original": "in my opinion",
+      "suggestion": "this would be better phrased as \"it could be argued that\""
+    },
+    {
+      "original": "as I will now explain",
+      "suggestion": "\"as will now be explained\" is more academic"
+    },
+    {
+      "original": "success in life",
+      "suggestion": "this is a repeat of the opening phrase used in the introduction"
+    },
+    {
+      "original": "these",
+      "suggestion": "\"those\""
+    },
+    {
+      "original": "big",
+      "suggestion": "\"major\" would be more academic"
+    },
+    {
+      "original": "thrive for",
+      "suggestion": "\"thrive on\" or \"strive for\""
+    },
+    {
+      "original": ",",
+      "suggestion": "no need for a comma here"
+    },
+    {
+      "original": "monetary accounts",
+      "suggestion": "this isn't clear - it could be \"monetary gain\""
+    },
+    {
+      "original": "ideas",
+      "suggestion": "\"opinions\" suits better"
+    },
+    {
+      "original": "portion",
+      "suggestion": "\"proportion\""
+    },
+    {
+      "original": "eagerness",
+      "suggestion": "\"an eagerness\""
+    },
+    {
+      "original": ". They believe",
+      "suggestion": "these setences could be combined - \"…knowledge, believing\""
+    },
+    {
+      "original": "knowledge",
+      "suggestion": "use a reference word to avoid repetition - \"this\""
+    },
+    {
+      "original": "in",
+      "suggestion": "\"to\""
+    },
+    {
+      "original": "thought",
+      "suggestion": "\"though\""
+    },
+    {
+      "original": "did",
+      "suggestion": "\"may\""
+    },
+    {
+      "original": "we judge others",
+      "suggestion": "\"people are judged\" - avoid using we"
+    },
+    {
+      "original": "big",
+      "suggestion": "\"large\" is a little more academic"
+    },
+    {
+      "original": "But",
+      "suggestion": "\"However,\""
+    },
+    {
+      "original": "instant",
+      "suggestion": "\"instance\""
+    },
+    {
+      "original": "wealth and successful career",
+      "suggestion": "this is directly from the title"
+    },
+    {
+      "original": "that",
+      "suggestion": "\"whether\""
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "0a35d729e80a713395c6b167f5c14f41eae170284ee5fec90fea277e42a4f6ce"
+}

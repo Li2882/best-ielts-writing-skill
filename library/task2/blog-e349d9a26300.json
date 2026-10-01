@@ -1,0 +1,56 @@
+{
+  "id": "blog-e349d9a26300",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-e349d9a26300.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-some-people-believe-that-preserving-natural-environment-is-crucial-but-make-no-effort-to-do-so-reasons-and-solutions/",
+  "source_locator": "research/blog/ielts-essay-topic-some-people-believe-that-preserving-natural-environment-is-crucial-but-make-no-effort-to-do-so-reasons-and-solutions.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "b51624fd657fae22",
+  "prompt_group": "8186203453471077",
+  "question": "Some people believe that preserving natural environment is crucial, however, most make no effort to do so. Why do you think this is happening? What are some simple actions that could help the environment?",
+  "essay": "It is commonly believed that preservation of natural resources is imperative, yet most people seem to exert no effort in doing so. Understanding the causes of this negligent attitude may help with devising some simple measures to safeguard the deteriorating environment.\n\nLack of awareness is probably the foremost reason why the vast majority of individuals appears to be unmindful of the current environmental issues. Normally, people have tendency to downplay abstract problems, or those that likely to happen in the distant future. This is because they are not properly informed of the possible detrimental effects of taking the environment for granted. To illustrate, residents in urban areas often deliberately dump their wastes into the nearby creeks and drainage canals causing them to become clogged. It is only when devastating floods strike, that they come to realize the consequences of their actions.\n\nSome basic solutions that could be carried out are extensive awareness campaign through all forms of communication and strict implementation of waste management. In addition to the traditional press, social media is a powerful means of disseminating information regarding the impending disasters and their potential hazards. This is a good way of persuading the public to actively take part in the campaign. Another straightforward solution, and by far the least anyone can do to help save the nature is disposing of garbage thoughtfully. Apart from avoiding throwing trash anywhere, everyone should practice proper segregation of biodegradable, non-biodegradable, and recyclable wastes at all times. These actions, when coordinated by the local governments, can be tremendously successful.\n\nIn conclusion, while individual awareness is key to maintaining a healthy ecosystem, concerted efforts of governments and their citizens are much more effective in achieving such goal.",
+  "word_count_computed": 283,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "The response is well written, it contains reasons, solutions and fully addresses the task. The ideas aren’t repeated, they are conveyed in a clear and easy to understand manner and organised well with sufficient use of cohesive devices. The vocabulary is varied, sentence structures are complex and instances of incorrect grammar are hardly noticeable. Overall, this essay is likely to achieve Band 8 in IELTS.",
+  "corrections": [
+    {
+      "original": "that likely",
+      "suggestion": "that are likely"
+    },
+    {
+      "original": "wastes",
+      "suggestion": "waste is uncountable here and should not be in plural"
+    },
+    {
+      "original": "campaign",
+      "suggestion": "plural form ‘campaigns’ should be used here"
+    },
+    {
+      "original": "their citizens",
+      "suggestion": "‘general public’ is more suitable here as ‘citizen’ is a word that relates to a country, not a government"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "00c13be7f9c004c609ac693076f38212c4e3460897748867c1937da0ef998244",
+  "model_evidence": null
+}

@@ -1,0 +1,57 @@
+{
+  "id": "cambridge-19-t2-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-19-t2-task1.json",
+  "question": "The plans below show a harbour in 2000 and how it looks today.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": "library/assets/cambridge-19-t2-task1-question.webp",
+  "images": [
+    {
+      "url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-19-academic-test-2-task-1-b98041e01952.webp",
+      "path": "library/assets/cambridge-19-t2-task1-question.webp",
+      "sha256": "b98041e01952240f30edaf66e059098c9403880af86a5c5aa3bc7303861887c4"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c19-p131.png"
+  ],
+  "reading_transcript": "The maps give the information about the improvement of the Porth Harbour from 2000 to today.\n\nThe first impression is that the Harbour today made use of more areas than in the past.\n\nIt can be seen that there are several areas that still stay the same today as in 2000. These include the Carpark and the Showers and Toilets which are located in the north west of the map. However, one more Showers and Toilets are built between the two Carpark today. Besides, the Porth Harbour today also has one more Passenger ferries which right next to the left of the existing one from 2000. Moreover, an area for Cafés and shops is added next to the Lifeboat one. Another significant difference is the relocation of the Marina (private yachts) and the fishing boats areas. Today, the Marina is moved down to the place of the old Fishing boats area to have more space and vice-versa, the Fishing boats area is relocated at the old Marina area. The last noticeable change in this Harbour is the Construction in the South East. The disused old Castle was destroyed and a new Hotel was built there today and another Hotel Is also added in the Private beach area.\n\nOverall, even that the harbour still keeps some areas unchanged, there are many reconstructions and improvements for the Porth Harbour today.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {},
+  "comments": "Overall, this is a strong response. The candidate has covered the main features of the changes and has included an overview to summarise the changes, in the first and the last paragraph. The main details are accurate, apart from the addition of [another Hotel) in the private beach area. The reader can follow the ideas as they are logically organised. This is due to the linking words [However | Besides | also | Another | Overall] and cohesive features [existing one | vice-versa], but there are some errors. Vocabulary demonstrates some flexibility [first impression | relocated | noticeable change], but there is also some inaccuracy and repetition. The weakest area, though, is the use of grammatical structures. There is a mix of sentence forms, with some good complex use [made use of | can be seen that | These include … which are] but some errors, such as inaccurate use of the plural [one more Showers | boats areas] (because the candidate has copied the plural form from the question) and incorrect verb form [is moved down | has been moved down]. To achieve a higher score, the candidate should present an overview to summarise the main stages, for example: The changes to the harbour between 2000 and now focus on improvements that are targeted towards attracting visitors or tourists to the harbour, and include a new hotel, with private beach, more capacity for the passenger ferries and expanded facilities.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-19-academic/",
+  "source_artifact": "research/expansion/cam19-page.html",
+  "source_sha256": "1005517ddbf5e39461ffd0da90f2cefc6e4bc19f942a162d2c0e0f74397fe6df",
+  "source_locator": {
+    "book": 19,
+    "test": 2,
+    "pdf": "research/expansion/cambridge19.pdf",
+    "response_pages": [
+      131
+    ],
+    "score_line": "achieved a Band 6.5"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-19-t2-task1",
+  "prompt_group": "cambridge-19-t2-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs.",
+  "evaluation_role": "interrupted_v14_initial_rating_development",
+  "used_in_evaluation": "v14-01-incomplete"
+}

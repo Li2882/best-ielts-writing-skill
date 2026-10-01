@@ -1,0 +1,55 @@
+{
+  "id": "cambridge-13-t1-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-13-t1-task1.json",
+  "question": "The two maps below show road access to a city hospital in 2007 and in 2010.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": "library/assets/cambridge-13-t1-task1-question.webp",
+  "images": [
+    {
+      "url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-13-academic-test-1-task-1-485d4dd22ca6.webp",
+      "path": "library/assets/cambridge-13-t1-task1-question.webp",
+      "sha256": "485d4dd22ca69f488e2b284c8a375a670782eb07f19f5e8761c50a0c6b48ea31"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "evaluations/labels/pilot-02-sources/c13-p124.png"
+  ],
+  "reading_transcript": "Two maps illustrate the way to get to a city hospital of two different years (2007 and 2010).\n\nAccording to both maps, the main features which is city hospital is sourrounded by Ring Road. In these two maps, there have been two features that still remained. This two features are City Hospital and staff car park. Apart from these two features there are some features that shows on 2010 map but haven't shown on 2007 map. The additional features that appear on the map of 2010 are public car park which located on the east-side of the city hospital. The further additional features are two around-turn on the hospital Rd. which can lead to the bus station.\n\nOverall, there are two major features that never change on both 2007 and 2010 map. These features are city hospital and staff car park. However, there are some additional features that appear on the map of 2010 but not on 2007. These features are public car park, bus station and two around-turns.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 5.5,
+  "band_low": 5.5,
+  "band_high": 5.5,
+  "traits": {},
+  "comments": "The candidate has identified all the key features (hospital, ring road, new public car park, staff car park and bus station in 2010) but the descriptions are not always accurate e.g. [two features that still remained. This two features are City Hospital and staff car park] whereas the staff car park was formerly a car park for both staff and public, while the mention of the bus station is not developed. Organisation is clear, however, with some good use of cohesive devices [According to | Apart from | The further additional features], although there is an error in the use of reference pronouns [This/These two features]. The range of vocabulary is sufficient for the task [two different years | features | remained | additional], though [features] is over-used. A spelling error is noted in the second line [sourrounded] but this does not cause any difficulty for the reader; similarly, the use of [around-turn] can be easily understood as ‘roundabout’. There is a mix of simple and complex sentences, mainly used accurately.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-13-academic/",
+  "source_artifact": "evaluations/labels/pilot-02-sources/cambridge-13.html",
+  "source_sha256": "6d0eda3c93a5bf015547d608a43aa626cd959a418dfa7a0f6ce5aacfdadcc6bd",
+  "source_locator": {
+    "book": 13,
+    "test": 1,
+    "pdf": "research/expansion/cambridge13.pdf",
+    "response_pages": [
+      124
+    ],
+    "score_line": "achieved a Band 5.5"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-13-t1-task1",
+  "prompt_group": "cambridge-13-t1-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

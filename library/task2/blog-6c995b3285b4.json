@@ -1,0 +1,106 @@
+{
+  "id": "blog-6c995b3285b4",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-6c995b3285b4.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-7/ielts-essay-topic-advertising/",
+  "source_locator": "research/blog/ielts-essay-topic-advertising.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "4d0e4bd5d4b6bb88",
+  "prompt_group": "538bdc80d341c561",
+  "question": "Advertising is all around us, it is an unavoidable part of everyone’s life. Some people say that advertising is a positive part of our lives while others say it is a negative one. Discuss both views and include your own opinion. Give reasons for your answer and include any relevant examples from your own knowledge or experience. You should write at least 250 words.",
+  "essay": "Many people wonder about advertisement. Some people think that it has negative impact in our life. However, others said it has been playing as positive effect on this world. This is not an easy essay to be answered, but I will look at this issue. Why advertisement has been playing a negative effect in our life ? Of Course for several reasons: firstly, it motivates the psychological point in everyone, and women in particular. They will run to buy this advertised product especially if it’s from cosmetic roof, just to show their beauty to men, which may lead to negative effects of too much sexual attention. Secondly, you can sit comfortably with your family and suddenly the telephone is ringing, but it’s nothing important, it’s just another company try to convince you to buy one of their products. It is a real intrusive example of advertisement. Lastly, sometimes you do not have the financial ability to buy something, but with these new methods of advertisement, you will run to buy it, which will affect your budget.\n\nOn the other hand, there are some good sides to advertising. For instance, it compares the prices of many companies which benefit the consumer. Besides, it really opens our vision to see more products which we do not knowit unless the TV or Radio advertised them. In addition to, it breaks our daily routine and allows us to see new faces and learn the language better with the help of the daily updates they deliver through advertisement.\n\nIn conclusion, as we can see there are many aspects to this essay. I feel that we gain no benefits at all from advertisement, it plays on minds of people buy more things that they do not need it at all.",
+  "word_count_computed": 293,
+  "images": [],
+  "overall": null,
+  "band_low": null,
+  "band_high": null,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Your arguments are good and the paragraphs are set out well, however, you must be careful about making assertive statements, e.g. ‘ it motivates the psychological point in everyone’. How do you know that all advertisements do motivate every single person, for instance? Overall, this is a good essay, well done.",
+  "corrections": [
+    {
+      "original": "advertisement",
+      "suggestion": "Advertisements or advertising. This needs to be a plural noun or a verb"
+    },
+    {
+      "original": "others said it has been playing as",
+      "suggestion": "others say it has a"
+    },
+    {
+      "original": "This is not an easy essay to be answered, but I will look at this issue.",
+      "suggestion": "You should not include this sentence in your essay"
+    },
+    {
+      "original": "Why advertisement has been playing a negative effect in our life ",
+      "suggestion": "Try not to ask questions in your essay"
+    },
+    {
+      "original": "cosmetic roof",
+      "suggestion": "what do you mean?"
+    },
+    {
+      "original": "try",
+      "suggestion": "trying"
+    },
+    {
+      "original": "intrusive example of advertisement",
+      "suggestion": "example of intrusive advertisement"
+    },
+    {
+      "original": "will ",
+      "suggestion": "might"
+    },
+    {
+      "original": "will ",
+      "suggestion": "could"
+    },
+    {
+      "original": "benefit",
+      "suggestion": "benefits"
+    },
+    {
+      "original": "opens our vision to",
+      "suggestion": "gives us a chance to"
+    },
+    {
+      "original": "do not knowit",
+      "suggestion": "would not have known about"
+    },
+    {
+      "original": "In addition to",
+      "suggestion": "In addition"
+    },
+    {
+      "original": "advertisement",
+      "suggestion": "advertising"
+    },
+    {
+      "original": "essay",
+      "suggestion": "argument"
+    },
+    {
+      "original": "on minds of people ",
+      "suggestion": "with people’s minds to make them"
+    }
+  ],
+  "quality_issues": [
+    "no_explicit_band_in_comment"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "6099e2333470460e06b5116e59af1294905189ab3db03b80a133ca8a7e868472",
+  "model_evidence": null
+}

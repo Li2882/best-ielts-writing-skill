@@ -1,0 +1,87 @@
+{
+  "id": "juice-255489",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-255489.json",
+  "question": "More and more people nowadays visit welI-known places to take photographs of themselves, without looking at the place.\nWhy do you think this is happening?\nIs it a positive or a negative trend?",
+  "essay": "In recent years, the rise of social media and smartphone technology has significantly shifted how people experience travel. More and more tourists now visit famous landmarks not to immerse themselves in the history or culture but rather to take photographs of themselves at these sites. The rise of social media has, to a large extent, contributed to this phenomenon, which, in my view, is a detriment to our modern culture.\n\nOne primary reason for this behavior is the desire for social media validation. In a world where platforms like Instagram and Facebook are ubiquitous, people often need to share their experiences online. The more impressive the location, the more likely they are to receive likes and comments, which can boost their self-esteem. Additionally, the rise of the “influencer” culture has made it fashionable to showcase a glamorous lifestyle, often characterized by frequent travel to exotic locations. For many, the photograph becomes more important than the experience of visiting the place, as it serves as a form of social currency.\n\nWhile this trend may seem harmless on the surface, it has several negative implications. Firstly, it diminishes the cultural and educational value of travel. When tourists prioritize photography over genuine engagement, they miss out on the opportunity to learn about the history, architecture, and significance of the places they visit. This superficial approach can lead to a lack of appreciation for different cultures and contribute to the commodification of travel experiences. Furthermore, the constant pursuit of the perfect photo can create congestion at popular sites, making it difficult for others to enjoy the location. This not only detracts from the overall experience but can also cause significant damage to the sites themselves due to overcrowding, a problem that needs urgent attention.\n\nIn conclusion, the trend of visiting famous places solely for the purpose of taking photographs is driven by the desire for social media validation. However, this behavior is largely negative as it undermines the true value of travel and can have detrimental effects on cultural sites. While photography is an important part of modern travel, it should not replace the meaningful experiences and learning that come from truly engaging with the world around us. It’s crucial to strike a balance between capturing moments and living them to ensure a fulfilling travel experience.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TR": 8.0,
+    "CC": 8.0,
+    "LR": 8.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you for writing this essay. The essay is well-structured and addresses the task effectively, with a clear position and relevant arguments. However, the analysis could be more in-depth, and a wider range of ideas and examples would strengthen the response. There is a good range of vocabulary and grammatical structures, but there is still room for improvement in terms of precision and sophistication.\nVideo Feedback",
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3401-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-255489.html",
+  "source_sha256": "ed7c467f95b466a132275a83997e0ed3b1131e2be2a18b9659fa6f77207616a9",
+  "source_locator": {
+    "wordpress_post_id": 255489,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "17bd9c9f8b322e05",
+  "prompt_group": "f3390a5b6e3c3205",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "8.0\tsufficiently addresses all parts of the task",
+      "8.0\tpresents a well-developed response to the question",
+      "8.0\twith relevant, extended, and supported ideas",
+      "8.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "8.0\tmanages all aspects of cohesion well",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "8.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "8.0\tthe majority of sentences are error-free",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tcommunication is completely natural",
+      "7.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

@@ -1,0 +1,93 @@
+{
+  "id": "juice-249760",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-249760.json",
+  "question": "The charts below give information about attendance at entertainment venues and admission prices to those venues in 2009.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The bar chart given illustrates the number of visitors of various entertaining places in thousands , and the table provides the data about the ticket prices for individuals and families . Both charts represent information by 2009 . Overall , cinema was the most popular entertainment category (more than 1 million visitor during the period) with the cheapest admission price ($15 for individuals and $55 for families with 4 members) .\n\nLooking at the bar chart , theme parks were the second most demanded attraction in 2009 , and the number of thickets sold accounted more than 300 thousand ; while sport events generated only about 170 thousand admissions .\n\nAccording to the table , admission price for a single visitor varied from $15 to $75 and the football games were the most expensive activities . It needs to be mentioned that all the family ticket offers contained the discount on average ticket price , but the theme parks had the best value proposition for family groups (about 25 per cent discount on $70 ticket) . The second most beneficial family discount had cricket games (about 17%) . At the same time , cricket was the cheapest sports category followed by basketball , and the admission prices were $24 and $34 respectively . As I mentioned above football tickets were the most pricey ($73 per ticket on average) .",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TA": 6.0,
+    "CC": 6.0,
+    "LR": 6.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this report. Task Achievement (TA): The response adequately summarizes the information from the bar chart and table, highlighting the main features such as the popularity of cinema, the varying attendance at different entertainment venues, and the admission prices for individuals and families. The comparisons drawn between theme parks, sports events, and the family ticket discounts are relevant to the task. To improve task achievement, it might be a better idea to include more numbers visible on the chart instead of purely focusing on percentages and calculations. Coherence and Cohesion(CC): The report is generally well-structured with a clear introduction and coherent body paragraphs. The writer effectively presents information from both the bar chart and table, providing a logical flow of details. However, a concluding summary could enhance the overall cohesion and give the report a more definitive closure. Lexical Resource (LR): The writer uses a satisfactory range of vocabulary related to attendance, admission prices, and entertainment venues. Terms like \"value proposition,\" \"discount,\" and \"admission prices\" contribute to the overall lexical resource. However, more variety in describing the popularity of venues (e.g., \"thickets sold\" could be replaced with \"tickets sold\") and varied expressions for summarizing data could enhance the lexical richness. Grammatical Range and Accuracy: The report demonstrates a good command of grammar, with well-constructed sentences and accurate use of tenses. There are some minor grammatical errors, such as \"more than 1 million visitor\" (should be \"visitors\"), which, if corrected, would improve the overall accuracy. Overall: This response effectively addresses the task requirements by summarizing the main features of the bar chart and table and making relevant comparisons. The information is presented clearly, and the analysis of attendance and admission prices is well-supported. A minor improvement in lexical variety and addressing some grammatical errors would enhance the overall quality of the report.\nVideo Feedback",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "6.0\taddresses the requirements of the task",
+      "7.0\tclearly presents and highlights key features",
+      "7.0\tcould be more fully extended",
+      "6.0\tpresents an overview with information appropriately selected",
+      "6.0"
+    ],
+    "CC": [
+      "6.0\tarranges information and ideas coherently",
+      "6.0\tthere is a clear overall progression",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "6.0\tmay not always use referencing clearly or appropriately",
+      "6.0\tuses paragraphing, but not always logically",
+      "6.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "6.0\tmakes some errors in spelling and/or word formation",
+      "6.0\tthey do not impede communication",
+      "6.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "6.0"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-249760-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2023/12/IELTS-JUICE-Writing-Task-1-report-sample-3270–Band-6.0.jpg",
+      "sha256": "fb447eb6b1a0496a9662c2d0cd691ae5a2df3e0787f96ffb82a692e46e10ce2e"
+    }
+  ],
+  "question_image": "library/assets/juice-249760-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3270-band-6-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-249760.html",
+  "source_sha256": "815b66fc4fc328b2f20c0b2ac8c02a9adeef69ffb92af590a561a6eb5a3d408e",
+  "source_locator": {
+    "wordpress_post_id": 249760,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "83f4b122384a1919",
+  "prompt_group": "27cf8831afa21989",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

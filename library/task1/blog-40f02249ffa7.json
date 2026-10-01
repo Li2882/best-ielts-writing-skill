@@ -1,0 +1,59 @@
+{
+  "id": "blog-40f02249ffa7",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-40f02249ffa7.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-table-use-of-water-in-6-countries/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/3875fe76976f5322.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "2d532acf9ebd326d",
+  "prompt_group": "c797c1ff0c3c8edb",
+  "question": "The table below describes water usage for 3 different purposes in 6 countries in 2003. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/featured/model-report-sample-band-8-table.jpg",
+      "path": "library/assets/37643f4d899bf756.jpg",
+      "sha256": "97e283b71f8258ec303f7477ce5608ba791c9cdf0e139d72d3810111dd2cb203"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/writing-1-table-water-usage-6-countries.jpg",
+      "path": "library/assets/785d3f3616857cb4.jpg",
+      "sha256": "c5d9a5892181b2dd820a8c51f46d102f1014c3ef15a732571447f9af5ab513eb"
+    }
+  ],
+  "essay": "* Note: this isn’t the actual table given in the test, it was recreated for the purpose of demonstration.\n\nBand 8.5 Model Answer\n\nThe table illustrates the proportions of water use for 3 different purposes in 6 countries in 2003.\n\nIt is clear from the table that most countries used the largest share of water in the agricultural sector and the smallest – in industrial.\n\nTo begin, the United Kingdom and China had almost identical water usage profiles and their ratios of agricultural water usage were around 90%, while their domestic and industrial water usage ranged between 5 and 7%. India had slightly different figures, with a lower value for agriculture at 82% and higher figures for domestic and industrial usage at 10 and 8%, respectively.\n\nCanada and Australia had a similar domestic water usage, at 63 and 65%, respectively; however the industry in Canada was a major water consumer at 32%, compared to just 2% in Australia. The Canadian agriculture consumed an insignificant 5% of water, unlike Australia, whose agriculture used 33% of water.\n\nLastly, Japan use the largest share of its water in agriculture (66%), and the rest was shared between domestic and industrial use, in similar proportions of 19% and 15%, respectively.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 205,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "a25e4f8ee35c3867369bbbbfe1098057490f5706743baa700a923922ac8f6c4f",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5
+}

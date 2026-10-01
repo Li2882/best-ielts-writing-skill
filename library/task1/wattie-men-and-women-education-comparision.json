@@ -1,0 +1,93 @@
+{
+  "id": "wattie-men-and-women-education-comparision",
+  "task": "task1",
+  "task_type": "bar_chart",
+  "path": "library/task1/wattie-men-and-women-education-comparision.json",
+  "question": "The chart below shows the number of men and women in further education in Britain in three periods and whether they were studying full-time or part-time.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The graph illustrates the numbers of males and females enrolled in higher education in the UK in three separate periods between 1970 and 1991. The figures are divided into two categories: full time education and part-time education.\n\nOverall, it can be clearly seen that part-time education is significantly more popular than full-time studies. While the number of female students enrolled in both modes of education and the male full-time enrolments increased over the period, the figure for male part-time students fluctuated.\n\nIn 1970, 1000,000 male students enrolled in part-time education, and the number fell to around 850000 in 1980/81, before recovering at nearly 900000 in 1990/1991. On the other hand, male full-time enrolments rose steadily, reaching a peak at slightly more than 200000.\n\nFemale part-time enrolments saw an unprecedented peak at fewer than 1100000 in 1990/1991, rising from over 700000 in 1970/71. Similarly, the figure for female full-time students had a sharp rise from 1970/71 to 1980/81, before stabilizing until 1990/1991.",
+  "traits": {
+    "TA": 8,
+    "CC": 8,
+    "LR": null,
+    "GRA": 8
+  },
+  "overall": null,
+  "published_overall": "7.5-8",
+  "band_low": 7.5,
+  "band_high": 8.0,
+  "published_trait_labels": {
+    "TA": "8",
+    "CC": "8",
+    "LR": "7-8",
+    "GRA": "8"
+  },
+  "label_interpretation": "Only exact, explicit criterion point labels enter traits; ranges and plus signs are preserved verbatim, not rounded, averaged or treated as exact scores.",
+  "comments": " \nGet your ielts writing corrected \nSee other ielts writing samples  \n \n \nThe chart below shows the number of men and women in further education in Britain in three \nperiods and whether they were studying full-time or part-time. \nSummarise the information by selecting and reporting the main features, and make comparisons \nwhere relevant. \n \nThe graph illustrates the numbers of males and females enrolled in higher education in the UK in \nthree separate periods between 1970 and 1991. The figures are divided into two categories: full time \neducation and part-time education. \n \nOverall, it can be clearly seen that part-time education is significantly more popular than full-time \nstudies. While the number of female students enrolled in both modes of education and the male \nfull-time enrolments increased over the period, the figure for male part-time students fluctuated. \n \nIn 1970, 1,000,000 male students enrolled in part-time education, and but the number fell to around \n850,000 in 1980/81, before recovering at to nearly 900,000 in 1990/1991. On the other hand, male \nfull-time enrolments rose steadily, reaching a peak at slightly more than 200,000. \n \nComment [X1]: Yo u could also say 1 million \nComment [X2]: BUT is better to show contrast \n\n\nFemale part-time enrolments saw an unprecedented peak at  fewer thanapproximately  1,100000 in \n1990/1991, rising from over 700,000 in 1970/71. Similarly, the figure for female full-time students \nhad a sharp rise from 1970/71 to 1980/81, before stabilizing until 1990/1991. \n \nGrade \nCriteria  \nEstimated  \nGrade  \nComments  \nTask response \n8 \nYou covered all the key features of this task really well. \nCohesion and \ncoherence \n8 \nYou used an excellent overall structure. Generally I would say you \ncould have paragraph 1 and 2 togther. But for this particular task \nthe way you did it was fine. \nVocabulary \n7-8 \nBe careful the way you modify PEAK. And use “less than” when it \nis followed by a number. You should also try to express numbers \nin different ways as I indicated. \nGrammar \n8 \nOnly minor infrequent errors \noverall \n7.5-8 \nTask 1 is difficult this is a very good response. I think it is closer to \nthe 8 than the 7.5 The errors with vocabulary may make it only a \n7.5 \n \n \nGet your ielts writing corrected \nSee other ielts writing samples  \n \nComment [X3]: A peak has to be unprecedented\nHowever it is a good word use it with something like\n“an unprecedented rise” \nComment [X4]: PEAK doesn’t go well with \n“fewer than.” Also, it should be “less than” \n1,100,000.   Always use Less than with numbers. You\ncould say FEWER people, though \nComment [X5]: You could also say 1.1 million \n",
+  "source_url": "https://www.ieltsanswers.com/reports/ielts-reports-men-and-women-education-comparision.pdf",
+  "source_artifact": "research/integer-anchors-20261001/wattie/ielts-reports-men-and-women-education-comparision.pdf",
+  "source_sha256": "dccac1ac41c097dbcd59498480011016a63cd19215ddef2acd55fbb169fa06fc",
+  "source_locator": {
+    "original_pages": [
+      1,
+      2
+    ],
+    "assessment_pages": [
+      2
+    ]
+  },
+  "publisher": "IELTSanswers",
+  "score_source": "verified_human",
+  "rater": "Mike Wattie",
+  "rater_evidence": "The linked primary essays-corrected/reports-corrected page identifies Mike Wattie and says these are student responses he corrected. Individual score tables and tracked corrections are retained in the PDF. Practice estimates, not official exam results.",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "student",
+  "independent_human_rating": true,
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "duplicate_group": "7fcab516bbe57cf2cb",
+  "prompt_group": "9d8fefc10a4bd60ec0",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "quality_issues": [],
+  "images": [
+    "research/integer-anchors-20261001/wattie/ielts-reports-men-and-women-education-comparision-question.png"
+  ],
+  "question_image": "research/integer-anchors-20261001/wattie/ielts-reports-men-and-women-education-comparision-question.png",
+  "essay_images": [],
+  "source_review_images": [
+    "research/integer-anchors-20261001/wattie/ielts-reports-men-and-women-education-comparision-1.png",
+    "research/integer-anchors-20261001/wattie/ielts-reports-men-and-women-education-comparision-2.png"
+  ],
+  "comments_images": [
+    "research/integer-anchors-20261001/wattie/ielts-reports-men-and-women-education-comparision-1.png",
+    "research/integer-anchors-20261001/wattie/ielts-reports-men-and-women-education-comparision-2.png"
+  ],
+  "extraction": "Image-reviewed original reconstructed by retaining black and red deleted text and excluding blue teacher insertions. Source numeric punctuation errors preserved. Normalized lexical tokens match an independent native PDF span extraction. Annotated source pages are audit-only, not blind comparison inputs.",
+  "original_extraction_regions": [
+    [
+      1,
+      59,
+      531,
+      435,
+      665
+    ],
+    [
+      2,
+      59,
+      111,
+      435,
+      156
+    ]
+  ],
+  "original_essay_sha256": "865060a68b216bcb601aeb3de30d696533bb487031ffe4aff67a2b1903250bfc",
+  "accessed_at": "2026-10-01",
+  "accessed_at_timezone": "Asia/Shanghai",
+  "integer_anchor_import": "2026-10-01-wattie",
+  "teacher_advice_caveat": "Teacher comments are source evidence, not extra scoring rules; never supply corrected wording or assessment comments as the candidate original.",
+  "source_original_criterion_name": "Task response",
+  "criterion_mapping_evidence": "Primary PDF is a chart-report assessment; its task-content label is normalized to Task 1 TA without changing the numeric score."
+}

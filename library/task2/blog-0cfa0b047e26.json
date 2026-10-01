@@ -1,0 +1,64 @@
+{
+  "id": "blog-0cfa0b047e26",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-0cfa0b047e26.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-teachers-are-more-responsible-for-social-and-intellectual-development-of-students-than-parents-agree-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-teachers-are-more-responsible-for-social-and-intellectual-development-of-students-than-parents-agree-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "a1b56d44042f28cd",
+  "prompt_group": "2d5ad60f4b8f7121",
+  "question": "School teachers are more responsible for social and intellectual development of students than parents. To what extent do you agree or disagree?",
+  "essay": "It is often argued that educators have greater responsibility in developing students’ cognitive and social aspects compared to parents. I absolutely agree with this notion, as teachers are well-trained to teach formal lessons. Aside from that, school is the best place for children to socialize and make more friends.\n\nIt is known for a fact that parents play a vital role in the upbringing of their offsprings. Nevertheless, educating them at home alone does not always mean leading them to a bright future. For this reason, it is extremely important that children be given a formal education. This is when school teachers come into play. Apart from providing a conducive learning environment, most schools constantly update their faculty with various contemporary methods of teaching through seminars and trainings. This approach has long been practiced in order to ensure that students can cope with technological advancements. Furthermore, practical exercises and laboratory experiments significantly help increase their problem-solving, logical thinking, and reasoning abilities.\n\nWith regard to social aspect, it is also at school where youngsters learn to interact with peers. Apart from their daily classroom interactions, varied extracurricular activities are likewise offered to them, depending on their interests. These can be scouting, sporting events, and other organizations, just to name a few. These opportunities basically enhance leadership skills, camaraderie, and teamwork, that may not be acquired at home alone. It is, therefore, not surprising that majority of friendships emanate from schools.\n\nBy and large, I strongly believe that when it comes to honing the overall academic and social skills of the youth, mentors have a more crucial role than parents. It is because they are professionally trained in performing so.",
+  "word_count_computed": 278,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay seems worthy of Band 8. It would get a high Task Response score because all parts of the topic have been addressed – body paragraph 1 is on intellectual development and body paragraph 2 talks about the social development of students. The author organised information well, and used examples to support his/her points. The overall cohesion and coherence are achieved through skillful use of linking words and expressions. In terms of lexical resource and grammar there are some minor issues, however, they shouldn’t affect the score much. Well done!",
+  "corrections": [
+    {
+      "original": "in",
+      "suggestion": "for"
+    },
+    {
+      "original": "make more friends",
+      "suggestion": "‘form new friendships’ is a better way to say this"
+    },
+    {
+      "original": "offsprings",
+      "suggestion": "‘offspring’ doesn’t have a plural form"
+    },
+    {
+      "original": "that",
+      "suggestion": "‘that’ isn’t needed in this sentence"
+    },
+    {
+      "original": "organizations",
+      "suggestion": "the writer means ‘activities’"
+    },
+    {
+      "original": "that",
+      "suggestion": "‘all of which’ should be used here instead"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "5fd2fa0859eed915a53d8a0a79a6b317cd620155021823e536b836be13d25b72",
+  "model_evidence": null
+}

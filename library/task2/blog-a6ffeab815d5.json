@@ -1,0 +1,96 @@
+{
+  "id": "blog-a6ffeab815d5",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-a6ffeab815d5.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-should-students-do-other-activities-in-addition-to-studying/",
+  "source_locator": "research/blog/ielts-essay-topic-should-students-do-other-activities-in-addition-to-studying.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "4e17d40d338160e7",
+  "prompt_group": "291e660317436926",
+  "question": "Full time university students spend most of the time studying. They should be doing other activities too. To what extent do you agree or disagree?",
+  "essay": "Full time study in university is a great experience in life but in parallel to that students become inactive in other activities such as working for their pocket money, sports, participating in debates and socialization. People differ in their opinion if students must engaged in other things or stay concentrated on their studies only. The discussion will be presented below, followed by my opinion.\n\nSome people say that mere studying does not product an overall youth for a country. This way, students only earn theoretical knowledge -- not practical. For instance, students can be intelligent during their studies but at the same time when they come in the market to work n, they fail and cannot develop their confidence and work as brilliantly as they were in university. Hence, the best approach for them need to be engaged here and there for practical experience.\n\nOn the other hand, others believe that building a better career is the foremost thing in today’s world. So, they are targeted to their studies and gain as much knowledge as they can. Furthermore, if they are diverted from their studies, they will not be able to make their target.\n\nIn my point of view, there must be blending of full time education and extra activities. It refreshes students’ minds and provides more energy to concentrate on it. Moreover, by this way, they will learn how to be mingled with other people in the society.\n\nTo summarize, it can be said that it is important to concentrate on study but on the other hand there must be something to keep them active and relaxed being involved in games, music, work and other extra activities.",
+  "word_count_computed": 277,
+  "images": [],
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "The writer’s position is relevant to task prompt, although the conclusions are somewhat repetitive. The main ideas are relevant but not all of them are developed well enough. The linking words and phrases are used, however at times they are either repetitive or seem forced (not natural). It is not always clear what the writer refers to in the essay. There are some attempts to use more sophisticated words but they are mostly inaccurate. The writer’s occasional word-formation and grammar errors detract from the good impression, but overall the response is still easy enough to understand. Overall seems to be worthy of Band 6.",
+  "corrections": [
+    {
+      "original": "become inactive in",
+      "suggestion": "take up"
+    },
+    {
+      "original": "socialization",
+      "suggestion": "socializing"
+    },
+    {
+      "original": "engaged",
+      "suggestion": "engage"
+    },
+    {
+      "original": "product an overall",
+      "suggestion": "produce good quality"
+    },
+    {
+      "original": "--",
+      "suggestion": "but"
+    },
+    {
+      "original": "intelligent during",
+      "suggestion": "good at"
+    },
+    {
+      "original": "come in the market to work n",
+      "suggestion": "start working after studies"
+    },
+    {
+      "original": "need",
+      "suggestion": "is"
+    },
+    {
+      "original": "make",
+      "suggestion": "achieve"
+    },
+    {
+      "original": "target",
+      "suggestion": "goals"
+    },
+    {
+      "original": "to concentrate on it",
+      "suggestion": "to concentrate on different things"
+    },
+    {
+      "original": "be mingled",
+      "suggestion": "interact"
+    },
+    {
+      "original": "study",
+      "suggestion": "studies"
+    },
+    {
+      "original": "them",
+      "suggestion": "this reference is unclear"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "f22f743879ae115b51afc103b9b8df6c55296eb9c45a0d7f51bf309045ff114e",
+  "model_evidence": null
+}

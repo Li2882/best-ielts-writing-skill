@@ -1,0 +1,55 @@
+{
+  "id": "cambridge-5-t4-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-5-t4-task1.json",
+  "question": "You Should spend about 20 minutes on this task.\nThe table below gives information about the underground railway systems\nin six cities.\nSummarise the information by selecting and reporting the main features,\nand make comparisons where relevant.",
+  "question_image": "research/expansion/early-pages/c5-p99.png",
+  "images": [
+    {
+      "path": "research/expansion/early-pages/c5-p99.png",
+      "sha256": "7497e55b5d64bd290d33ad50c33f1b07aa7c17a43de3b9b5f4fd8f7395c7e75e"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/early-pages/c5-p169.png"
+  ],
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {},
+  "comments": null,
+  "comments_images": [
+    "research/expansion/early-pages/c5-p169.png"
+  ],
+  "source_url": "https://drive.usercontent.google.com/download?id=148dsX5evu1zM5Qg80VYHANfhk6lCrEwj&export=download&authuser=0&confirm=t",
+  "source_artifact": "research/expansion/cambridge5-original.pdf",
+  "source_sha256": "2ce1c44d6da7618c0825eb48edf8f56a2202dc73ac155155bfe8488ace4cb8ee",
+  "source_locator": {
+    "book": 5,
+    "test": 4,
+    "question_page": 99,
+    "response_pages": [
+      169
+    ],
+    "score_line": "achieved a Band 7"
+  },
+  "publisher": "Cambridge University Press; public mirror",
+  "score_source": "official",
+  "rater_evidence": "Original book identifies this as an individually scored candidate response; original full response and examiner comment retained.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-5-t4-task1",
+  "prompt_group": "cambridge-5-t4-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Read original question and response images. OCR is only a reading aid and must not supply language errors or chart values."
+}

@@ -1,0 +1,42 @@
+{
+  "id": "blog-34c863059a0d",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-34c863059a0d.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-some-people-think-making-money-better-than-free-time-opinion/",
+  "source_locator": "research/blog/ielts-essay-topic-some-people-think-making-money-better-than-free-time-opinion.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "teacher_model",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "45c50c9826a3cc63",
+  "prompt_group": "9def94a510496757",
+  "question": "Some people think it is better to make more money rather than have free time, while others prefer to have more free time rather than making money. Discuss both views and give your opinion.",
+  "essay": "In modern-day society, time and money are two essential commodities that people strive for. Oftentimes, we find ourselves caught in a dilemma between working hard to make more money and spending time doing the things we love. Some individuals argue that making more money is better than having free time, whereas others value free time more than money. Personally, at this stage in life achieving a financially sound position is more important to me than leisure.\n\nPeople who believe that making more money is better than having free time argue that money brings freedom, security, and opportunities. In today’s world, everything from basic necessities to luxuries requires cash. Those who don’t have enough money cannot purchase the things they need. Financial stability also brings a sense of security, which can be liberating. Moreover, having more money opens up new opportunities for higher education, career advancements, and travel experiences.\n\nOn the other hand, people who prioritise free time over money argue that wealth doesn’t equal happiness. Numerous studies have shown that individuals who have more free time tend to enjoy better mental and emotional well-being. Free time provides an opportunity to engage in recreational activities, hobbies, and enjoy the company of our loved ones. Just as importantly, free time allows individuals to engage in self-care activities like meditation or exercise, which can lead to an uplift in mental and physical health.\n\nWhile both sides have valid points, it is essential to note that a balance between work and leisure is crucial. Working excessively to accumulate wealth can have adverse effects on both physical and mental health. Therefore, the debate between having more money or free time is a subjective matter that varies from person to person. It is crucial for individuals to evaluate their priorities, ambitions, and limitations and come up with a personalised balance that fits their lifestyle.\n\nTeacher’s comment:\n\nThis is a great example of an IELTS Band 8 essay.",
+  "word_count_computed": 321,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Task Response: The essay effectively addresses the task prompt by discussing both views on whether it is better to make more money or have more free time. The writer presents relevant arguments for each perspective and gives a personal opinion at the end. The response remains focused on the topic, and the writer provides a clear position.\n\nCoherence and Cohesion: The essay maintains a clear structure with an introduction, two body paragraphs discussing each view, and a conclusion that gives a personal opinion. The ideas are logically presented within paragraphs, and appropriate linking words are used to connect sentences and concepts. There is a smooth flow of ideas throughout the essay.\n\nLexical Resource: The essay demonstrates a good range of vocabulary and uses some advanced vocabulary effectively. The essay uses phrases such as “financially sound position,” “sense of security,” “mental and emotional well-being,” “recreational activities,” and “self-care activities.” These phrases are used appropriately and demonstrate a good level of lexical resource.\n\nGrammatical Range and Accuracy: The essay displays generally sound grammatical control, with a variety of sentence structures used effectively. While there are some minor punctuation issues, they do not impede communication or comprehension.",
+  "corrections": [],
+  "quality_issues": [
+    "no_explicit_band_in_comment",
+    "teacher_model_not_scored_candidate"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "dabc0e0bcb3c5d8518d214946528fcc02a20de1c12d907a0bf9354c8a8434dc6",
+  "model_evidence": "IELTS Model Essay Sample Band 8 August 2023 https://www.ielts-blog.com/images/featured/model-essay-sample-band-8-9.jpg  data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20336%20280'%3E%3C/svg%3E  https://www.ielts-blog.com/images/banners/writing-correction-service-banner-new.jpg"
+}

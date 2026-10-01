@@ -1,0 +1,54 @@
+{
+  "id": "blog-e06ef9355c72",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-e06ef9355c72.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-9/ielts-report-topic-process-diagram-describing-the-life-cycle-of-the-car-from-ielts-high-scorers-choice-series-academic-set-2/",
+  "source_locator": {
+    "page_marker": "Sample Band 9 Report",
+    "source_file": "research/expansion/high-band-sources/blog-pages/4201c588cc4809d0.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog; High Scorer’s Choice IELTS Practice Tests",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page labels this response as a Band 9 model (\"close to\" or \"likely to score\" Band 9) from High Scorer’s Choice. This is a published teacher/examiner model label, not an official Cambridge TRF; the distinction is retained for calibration review.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "High Scorer’s Choice model author",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "23bd07c92d1e663d",
+  "prompt_group": "a644a05e966cd50f",
+  "question": "High Scorer’s Choice IELTS Practice Tests book series (reprinted with permission). This answer is close to IELTS Band 9. Set 2 Academic book, Practice Test 10 Writing Task 1 You should spend about 20 minutes on this task. The diagram below shows the product life-cycle of the car. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/process-diagram-task-1-test-10-web.jpg",
+      "path": "library/assets/88669a4f6ae37a25.jpg",
+      "sha256": "01cc57ffa30b3145849e75732f82e56004ca052d934b0d2fb3e0f52a045926c5"
+    }
+  ],
+  "essay": "The diagram describes the life cycle of a car, starting with mining of raw materials and ending with scrapping of unrecyclable parts.\nIt is clear that recycling of materials and parts plays a big role in the process.\nThe starting place of the cycle is the mining of the raw materials, which are then used to manufacture car components or delivered straight to the factory. This then leads to the cars being manufactured and in turn sold, usually through dealerships, and used. It is stated that on average, a car has about three owners, and during the car’s use, the car gets serviced and repaired.\nOnce the cars have been used up to their capacity and they do not work properly anymore, then they are sold for scrap. If the still functioning or reusable parts and materials can be recycled, they can either be formed into components again, or delivered back to a factory for re-use. The life cycle of the car then begins again. All the parts that cannot be recycled are scrapped and this constitutes the end of car’s life.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Published source label: individual Band 9 model response; no four-trait numerical breakdown published.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 182,
+  "extraction": "HTML original prompt and model response; source label and module context retained.",
+  "source_sha256": "0b3643cd1ed07c4eb0ddf784f1c76ee6ea76014a1720b6ad7c590d349103161e",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

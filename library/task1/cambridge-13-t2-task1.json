@@ -1,0 +1,55 @@
+{
+  "id": "cambridge-13-t2-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-13-t2-task1.json",
+  "question": "The chart below shows the percentage of households in owned and rented accommodation in England and Wales between 1918 and 2011.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": "library/assets/cambridge-13-t2-task1-question.webp",
+  "images": [
+    {
+      "url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-13-academic-test-2-task-1-5cded2eff0ac.webp",
+      "path": "library/assets/cambridge-13-t2-task1-question.webp",
+      "sha256": "5cded2eff0acffb476df3a8c305438ff3b70fcf1551c9c76188c6a44f5c5b6d7"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "evaluations/labels/pilot-02-sources/c13-p126.png"
+  ],
+  "reading_transcript": "The provided bar chart depicts the comprssion of buying or renting houses in England and Wales from 1918 to 2011.\n\n1918 the rented households was raised about 78 percentage. Then it leveled of between 1939 to 1953. From 1961 to 1981 it dramaticly droped to 35 percentage. This accommodation stated the same until 2001. In 2011 there was a slight increase in rented households and it was up to 38%.\n\nThe same yeas the owned ones has raise from 21% to 32% in 1918 to1953. In 1939 to 1953 the was a graduate stade in the percentage. Then it starts to leveled up to 69% In 1991. At 2001 to 2011 there was a decline in the owned accommodation and it was 62%.\n\nGenarally , both of the rented and owned households has raised and droped throug the years from 1918 to 2011. The was a year that the were the same prectarge and it was 1971 which 50%",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {},
+  "comments": "The candidate has identified all the main features and trends, including the fact that in 1971 the number of households in owned and rented households was the same. Comments are supported by dates and percentages of households and there is a short overview at the end of the script. Organisation is clear as the writer deals with each category in turn. The range of vocabulary is adequate but there are frequent spelling errors [comprssion / comparison | dramaticly droped / dramatically dropped | stated / stayed | yeas /year | leveled / levelled | Genarally / Generally | prectarge / percentage]. These do not noticeably impede communication, however. There is a mix of grammatical structures and some complex sentence forms, though these are not always accurate: the meaning is still clear, however.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-13-academic/",
+  "source_artifact": "evaluations/labels/pilot-02-sources/cambridge-13.html",
+  "source_sha256": "6d0eda3c93a5bf015547d608a43aa626cd959a418dfa7a0f6ce5aacfdadcc6bd",
+  "source_locator": {
+    "book": 13,
+    "test": 2,
+    "pdf": "research/expansion/cambridge13.pdf",
+    "response_pages": [
+      126
+    ],
+    "score_line": "achieved a Band 6.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-13-t2-task1",
+  "prompt_group": "cambridge-13-t2-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

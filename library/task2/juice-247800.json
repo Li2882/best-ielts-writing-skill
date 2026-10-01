@@ -1,0 +1,86 @@
+{
+  "id": "juice-247800",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-247800.json",
+  "question": "Some people say it is important to keep your home and your workplace tidy, with everything organized and in the correct place.\nwhat is your opinion about this?",
+  "essay": "Nowadays, some people believe that keeping your household and your workplace are significant important. they emphasize that everything should be organized. I agree with this view because of several reasons which I will Express here.\n\nfirstly, This habit can have positive positive effect over the person’s behavior. when a person endeavor  to keep everything in the right place, especially at home or at workplace, he or she will compel himself or herself to follow a specific behavior.\n\nthis would be emerged by putting a book at its place, among other things. it can create a sense of being more disciplined in that person’s behavior which can lead he  or she to be in more organized and tidier in other places.\n\nfor example, in the restaurants and   the coffee shop in which individuals could keep them tidy.\n\nwhat’s more, this life is time can convert people to focused  and problem solver persons. if individuals oblige  themselves Do I stick to a rule in which they are putting everything at the right position, they will boost their attention towards every part of their surroundings. such an attention could be useful when people would have to concentrate on a problem. for example, is scientific report shown that in a mask class had a student focused on a problem, they could have solved it very quickly. this is speeding solving a problem is rooted in individual’s life Style  in which they have been organized and tidy.\n\nIn conclusion, I hold the view that  keeping the resident and workplace shipshape would be of paramount importance to people. this is because of having advantages like being more disciplined and focused towards different issues in life.",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TR": 8.0,
+    "CC": 6.0,
+    "LR": 6.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this essay. There are only isolated errors. For instance, “household” has a different meaning than “house.” In another place, “in which” is not used in a correct context even though the grammar’s execution is correct. On the plus side, the ranges of vocabulary and grammar are varied.",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "8.0\tsufficiently addresses all parts of the task",
+      "8.0\tpresents a well-developed response to the question",
+      "8.0\twith relevant, extended, and supported ideas",
+      "8.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "6.0\tmay not always use referencing clearly or appropriately",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "6.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "6.0\tthey do not impede communication",
+      "6.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "6.5"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3326-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-247800.html",
+  "source_sha256": "ef07451bf75358af5bbd103593c9979e5ae95d8f51f046f29c72b109b2396445",
+  "source_locator": {
+    "wordpress_post_id": 247800,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "6dd56d610c297fd4",
+  "prompt_group": "5a60ccc580cc8138",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "blog-4477b3d4fb5e",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-4477b3d4fb5e.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-7/ielts-essay-topic-working-kids/",
+  "source_locator": "research/blog/ielts-essay-topic-working-kids.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "6727d4da0ddf8369",
+  "prompt_group": "b7902e9c816baf06",
+  "question": "In many countries children are engaged in some kind of paid work. Some people regard this as completely wrong, while others consider it a valuable work experience, which is important for learning and taking responsibility. What is your opinion?",
+  "essay": "Nowadays, many children involved in different types of jobs to have some kind of financial assurance for themselves. However, whether this is good for their development and personality is a controversial issue. I personally believe that paid works is harmful for children for several reasons.\n\nIt is said that children gain valuable experience in the work place. This may be true. However, I would argue that children are mainly employed in jobs that require manual work and are poorly paid. The recent statistics reveal the common tasks that children are assigned to are washing dishes, mopping floors or serving food in restaurants. Meanwhile, this kind of jobs actually do not provide children with necessary and useful skills to apply in their future carrer.\n\nThis brings me to the second point. Defenders of child labour argues that it is an effective method of learning. The point is children should be able to apply knowledge taught to them in a real life working environment. Although this is undoubtedly true, it also means that children may neglect the classroom study and even fail the class. The worst thing is yet to come. They may become so preoccupied with the benefits ahead of them such as small salary that they may leave school.\n\nFinally, supporters say that it helps them to build responsibility in the family. They will understand how it is difficult to earn money and therefore have compassion for their parents. This is true to a certain extent, but may have a totally adverse effect on children. As children can make money at an early age, they would feel that it is appropriate to spend it on luxury things.\n\nIn conclusion, I think that parents should take measures to restrict their child from work, otherwise it would have negative consequences to their future.",
+  "word_count_computed": 301,
+  "images": [],
+  "overall": null,
+  "band_low": 7.0,
+  "band_high": null,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a great essay, a Band 7+ candidate. My only suggestion is to divide your arguments so that you would have 2 paragraphs covering arguments ‘against’ and one covering arguments ‘for’ or vise versa. Don’t mix arguments ‘for’ and ‘against’ in one paragraph.",
+  "corrections": [
+    {
+      "original": "do not",
+      "suggestion": "does not"
+    },
+    {
+      "original": "carrer",
+      "suggestion": "career"
+    },
+    {
+      "original": "argues",
+      "suggestion": "argue"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "3ce142f195a0f209d2fa823a4067429a8b28d67edacf03208f828e5d77b567b6",
+  "model_evidence": null,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "source_context_region": "unknown",
+  "classification_revision": "Book-title advertisement is not evidence of model authorship; explicit sample/model declarations remain excluded."
+}

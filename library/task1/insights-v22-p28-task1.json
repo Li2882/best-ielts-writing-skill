@@ -1,0 +1,83 @@
+{
+  "id": "insights-v22-p28-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/insights-v22-p28-task1.json",
+  "question": "The table below shows the postgraduate course fees in US Dollars that international students paid in three countries in 2007. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_transcription": "Transcribed from original prompt cover; original page remains authoritative.",
+  "essay": "The table gives information about postgraduate course fees across four subjects and living costs in three countries, A, B, and C. Overall, courses in countries B and C charged substantially higher fees than those in country A. Additionally, Computing and Science were the most expensive courses in all three countries, with country B charging the highest fees for these two subjects. Regarding countries B and C, students in country B paid the highest fees; with 29,000 USD for Science and 27,000 USD for Computing. Similarly, these two courses also had considerably high fees in country C, at 25,000 USD for the former and 24,000 USD for the latter. As for Arts and Commerce, students in countries B and C were charged 18,000 USD and 19,000 USD respectively for both courses. eanwhile, a notable disparity between the two countries waso s ved in meals and accommodation expenses, at 17,000 USOJi country B compared to country C's 11,000 USD. Turning to country A, it offer h most affordable fees across all subjects. Science and Com ti pys, despite being the most expensive subjects in count\"A bsvtudents 11,000 USD each to enroll, less than half the corres@ondi f sin countries B and C. The lowest fees were charged for the remaining courses, Arts and Commerce, as well as meals and accommodation, all costing 8,000 USD each.",
+  "essay_images": [
+    "research/expansion/insights/pages/vol-22-p29.png"
+  ],
+  "reading_transcript": null,
+  "transcript_status": "Image original only; watermark causes OCR errors, so OCR is not a replacement essay.",
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-22-p28.png",
+      "sha256": "a5d5e8cbcd823be6692d88c3f92bf3f71476323d81f01a2d4f6b0c780199f4a0"
+    }
+  ],
+  "question_image": "research/expansion/insights/pages/vol-22-p28.png",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {
+    "TA": 9,
+    "CC": 9,
+    "LR": 9,
+    "GRA": 7
+  },
+  "comments": "See original marked criterion pages. Cover and section scores have been cross-checked; conflicts are recorded separately.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-22-p28.png",
+    "research/expansion/insights/pages/vol-22-p30.png",
+    "research/expansion/insights/pages/vol-22-p31.png",
+    "research/expansion/insights/pages/vol-22-p32.png",
+    "research/expansion/insights/pages/vol-22-p33.png",
+    "research/expansion/insights/pages/vol-22-p34.png",
+    "research/expansion/insights/pages/vol-22-p35.png",
+    "research/expansion/insights/pages/vol-22-p36.png"
+  ],
+  "source_url": "https://insight.ielts1984.vn/vol/22/#page-28",
+  "source_artifact": "research/expansion/insights/pages/vol-22-p28.png",
+  "source_sha256": "a5d5e8cbcd823be6692d88c3f92bf3f71476323d81f01a2d4f6b0c780199f4a0",
+  "source_locator": {
+    "volume": 22,
+    "cover_page": 28,
+    "original_pages": [
+      29
+    ],
+    "criterion_pages": [
+      30,
+      31,
+      33,
+      34
+    ],
+    "report_end": 36
+  },
+  "publisher": "IELTS 1984 / IELTS Insights",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher-authored original separately assessed by Tony Grace in the attached IELTS Corrections report; practice assessment, not a certified examination result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_type": "teacher",
+  "author_group": "IELTS 1984 editorial team",
+  "sample_kind": "teacher_model",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "status": "verified",
+  "split": "reference",
+  "quality_issues": [
+    "OCR transcription was visually checked but remains a transcription of the image original."
+  ],
+  "duplicate_group": "insights-v22-p28-task1",
+  "prompt_group": "c4aab47dba4ce60a",
+  "accessed_at": "2026-09-21",
+  "trait_evidence_path": "research/trait-calibration/insights-v22-p28-task1.json",
+  "teacher_advice_caveat": "Personal views, mandatory paragraph layouts, complex-structure checklists and requests for additional optional ideas are not additional official scoring requirements.",
+  "score_aggregation_note": "Preserve the teacher overall exactly; this publisher often rounds a quarter-band mean downward.",
+  "word_count_computed": 223,
+  "extraction": "Original-answer pages transcribed from the retained page images by OCR; all pages were visually checked on 2026-09-25. Headers, footers and watermarks were removed."
+}

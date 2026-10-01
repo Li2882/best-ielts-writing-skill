@@ -1,0 +1,78 @@
+{
+  "id": "blog-ea46c989513b",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-ea46c989513b.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-7/ielts-essay-topic-space-exploration/",
+  "source_locator": "research/blog/ielts-essay-topic-space-exploration.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "a9c59f8960fd25d5",
+  "prompt_group": "44286600e8083712",
+  "question": "With all the problems in the world today, spending money on space exploration is a complete waste. The money could be better spent on other causes.",
+  "essay": "First, until all urgent and important matters of the globe have been solved, money bumped on space exploration is meaningless. It is not a common sense at all to invest millions of dollars researching and producing foods for astronauts (for space exploration purpose), while every day thousands of people are starving. Furthermore, the discovery of outer space only serves a minor group of people if the majority are even not well-educated. Those in rural areas or third-world nations do no even know how to prevent common threatening diseases such as AIDS and lung cancer.\n\nThen, some may argue that the purpose of space exploration are to discover new lands, new energy resources or to deter potential threat to globe. Nevertheless, is it effective to do so while other alternatives are available? Lands on earth are no yet effectively used. New energy resources (e.g. solar and nuclear energy) have not yet been widely-used. Threats of plagues have not yet been deterred. All of these tasks that haven’t been tackled yet require money. That is why costly space discovery programs are a waste of resources.\n\nIn a nutshell, people should only invest in space exploration provided that urgent and important matters mentioned earlier in this essay have been solved. Also, purposes of space exploration campaigns should be studied carefully and other alternatives should be considered before the money is wasted.",
+  "word_count_computed": 229,
+  "images": [],
+  "overall": null,
+  "band_low": null,
+  "band_high": null,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a very good essay, well done.",
+  "corrections": [
+    {
+      "original": "Nations after nations",
+      "suggestion": "Nation after nation"
+    },
+    {
+      "original": ". This essay aims to explain why it is questionable",
+      "suggestion": "and whether there maybe more beneficial ways to use the money"
+    },
+    {
+      "original": "bumped ",
+      "suggestion": "spent"
+    },
+    {
+      "original": "is not a common sense",
+      "suggestion": "does not make sense"
+    },
+    {
+      "original": "are even not ",
+      "suggestion": "is not even"
+    },
+    {
+      "original": "Those in rural areas or third-world nations",
+      "suggestion": "People living in rural areas or the third world countries"
+    },
+    {
+      "original": "are ",
+      "suggestion": "is"
+    },
+    {
+      "original": "globe",
+      "suggestion": "the globe"
+    },
+    {
+      "original": "Lands on earth are no",
+      "suggestion": "The land on Earth is not"
+    }
+  ],
+  "quality_issues": [
+    "no_explicit_band_in_comment"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "d2af4978e6e792a2e0cd7109c936a36edbe6ff1dc4d028d4b73e229f1db198a9",
+  "model_evidence": null
+}

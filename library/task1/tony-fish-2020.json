@@ -1,0 +1,49 @@
+{
+  "id": "tony-fish-2020",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/tony-fish-2020.json",
+  "question": "The graph below shows the consumption of fish and some different kinds of meat in a European country between 1979 and 2004. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": null,
+  "essay_images": [
+    "research/expansion/tony-primary/fish-p2.png"
+  ],
+  "question_image": "research/expansion/tony-primary/fish-p1.png",
+  "source_url": "https://www.succeedinielts.com/wp-content/uploads/2020/05/Sample-Marked-Script-Task-1-6666-Fish-and-meat.pdf",
+  "source_artifact": "research/expansion/tony-primary/fish.pdf",
+  "source_sha256": "bab7370625c76770aefadd730f4dbaa6e7dd1b685a3b76e54ed3c71ca86b4282",
+  "source_locator": {
+    "original_pages": [
+      2
+    ],
+    "cover_page": 1
+  },
+  "score_source": "verified_human",
+  "publisher": "Succeed in IELTS with Tony; Tony Grace",
+  "rater_evidence": "Named human correction report on the assessor website; practice assessment, not official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "holdout",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "tony-fish-2020",
+  "prompt_group": "081edd800aba904e",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "teacher_advice_caveat": "Teacher layout and opinion preferences are not extra official scoring criteria.",
+  "trait_label_status": "Explicit published traits; criterion report retained for cross-checking.",
+  "evaluation_role": "reserved_unscored_v14",
+  "reserved_for_evaluation": "future_v14_complete_run",
+  "assessment_evidence_path": "evaluations/labels/v14-01.json",
+  "images": [
+    {
+      "path": "research/expansion/tony-primary/fish-p1.png",
+      "sha256": "fd30ab2e8146dd5981c7398234a0cef23b735e5eeb6a9c5ef3566e6e25d0b25f"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "blog-4161fdf8661b",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-4161fdf8661b.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-comparing-current-and-future-floor-plans-of-a-museum-from-target-band-7-book/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/36f4a96cff870a62.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "518b685fcd0d52d4",
+  "prompt_group": "6410cfcc6f5e6342",
+  "question": "This report was written on a topic from “Target Band 7” book (page 46, reprinted with permission). The diagrams below show the current ground floor plan of a museum and the proposed changes to its layout. Summarize the information by selecting and reporting the main features and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/ielts-band-8-report-current-floorplan.jpg",
+      "path": "library/assets/e1c649b0f90a2084.jpg",
+      "sha256": "f6b0da3049b15cb76372846cdb8a38681e3534ed752025283fc6cb0978ebfc37"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/reports/ielts-band-8-report-proposed-floorplan.jpg",
+      "path": "library/assets/b5708b1fb500b4f3.jpg",
+      "sha256": "3a11151bc00589390973391eae9430126c01d3b7dc4058290745d90c2c268805"
+    }
+  ],
+  "essay": "The two diagrams describe the current ground floor plan of a museum and its future modification. The most noticeable change is that a special area will be added for the Modern Art exhibition.\n\nLooking at the diagrams we can see that the entrance to the museum will be relocated from Spring street in the eastern side of the building to the southern side of the building, in Patterson street. This change will make the location of the lifts more convenient, exactly opposite to the entrance, unlike the current lifts situated further away from the entrance.\n\nThe Gemstones exhibition will remain almost in the same place, but the area allocated to it will be enlarged and shifted to the centre. Essentially, it is swapping places with the Craft exhibition, which is being pushed to the corner. Another significant change is the intended relocation of storeroom to where Marine Life is currently situated and making it more spacious. A new location has been proposed for Marine Life near the former entrance to museum.\n\nOverall, the highlight of the proposed plan of the museum’s ground floor is the launch of Modern Art exhibition. The rest of the museum halls, toilets and the open atrium area will remain largely unchanged.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 206,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "efc06fc194c8ce1b9ae0be854f7054fa0377c959911705a955241e5ba0b2f517",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

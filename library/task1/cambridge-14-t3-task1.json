@@ -1,0 +1,55 @@
+{
+  "id": "cambridge-14-t3-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-14-t3-task1.json",
+  "question": "The diagram below shows how electricity is generated in a hydroelectric power station.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": "library/assets/cambridge-14-t3-task1-question.webp",
+  "images": [
+    {
+      "url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-14-academic-test-3-task-1-047a7ec880c3.webp",
+      "path": "library/assets/cambridge-14-t3-task1-question.webp",
+      "sha256": "047a7ec880c3e33dc6a8666d80b4523f493be3a7c72a31053b0051dd5f112a07"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "evaluations/labels/pilot-02-sources/c14-p123.png"
+  ],
+  "reading_transcript": "A hydroelectric power station can generate electric power by using the energy of water flowing from high level to low level. It works different functions in day and night.\n\nIn the day time, water in the high-level reservoir go through the intake under the dam which is only open in day time. Then the water flow into the power station in which there is a generator. The generator is operated by a reversible turbines that can transfer the water flowing force to the mechanical force which is the power of the generator. The generated electricity then goes to the national grid through the power lines.\n\nOn the other hand in the night time, the power station works in a reversed way. It pumps water from the low-level reservoir to high-level reservoir to provide the enough water for day time’s work. The water is pumped by the same reversible turbines from low-level reservoir. So the power station actually consumes energy at night. But that is in order to generate more power in the day time.\n\nIn a conclusion, a hydroelectric power station can generate power is based on the differce heighth of water level. In day time, it uses the natural water energy. Meanwhile in the night, it transfers the water to create and store the energy for the next day.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {},
+  "comments": "The answer covers the key features of the process and provides an overview of this process in the final paragraph. The detail is not always clear, but the key features are adequately highlighted. Information is arranged coherently and there is a clear overall progression. Cohesive devices are used to signal different stages of the process [Then | On the other hand | So | In a conclusion | Meanwhile], and there is some use of pronouns for reference [It | which | that]. The range of vocabulary is adequate for the task [energy | operated by | transfer | mechanical], in spite of some errors in word form [a reversed way] and spelling [differce heighth]. There is a mix of simple and complex sentence forms and grammatical control is generally adequate, though there are some errors in the use of articles.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-14-academic/",
+  "source_artifact": "evaluations/labels/pilot-02-sources/cambridge-14.html",
+  "source_sha256": "deda5d5f9b3847282f3d0f33abbfe8eaab88780fca9732efa11906afb8318761",
+  "source_locator": {
+    "book": 14,
+    "test": 3,
+    "pdf": "research/expansion/cambridge14-original.pdf",
+    "response_pages": [
+      123
+    ],
+    "score_line": "achieved a Band 6.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-14-t3-task1",
+  "prompt_group": "cambridge-14-t3-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

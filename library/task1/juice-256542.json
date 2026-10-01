@@ -1,0 +1,94 @@
+{
+  "id": "juice-256542",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-256542.json",
+  "question": "The plans below show a harbour in 2000 and how it looks today.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The following two maps depict the transformation taking place in Porth Harbour since 2000. While some elements have remained the same, the landmark change was the octagon-shaped castle, which had been left disused, now functions as a hotel today.\n\nThe hotel, located in the south-east corner of the map, now takes advantage of a fully dedicated beach for itself; it used to be for everyone. In addition, there is a new access to the nearby road that eventually leads to the main road in the west. The road now passes by not only the lifeboat area but also a newly-built cafes and shops to the west of it. To the west of cafes and shops is now where fishing boats used to dock, but is now Marina for private yachts.\n\nThe west of the map has gone through the fewest number of changes. As mentioned, fishing boats and the Marina have swapped places, so the Marina occupies a larger area. On top of that, the car park to the west now has a new set of showers and toilets to its north. The other car park and set of showers adjacent to fishing boats have remained untouched.\n\nTo the north, the only major change was the addition of another dock to double the capacity. The passenger ferries and the access to the public beach in the north have witnessed no visible modifications. All in all, there have been only a couple of additional facilities to Porth Harbour.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TA": 8.0,
+    "CC": 8.0,
+    "LR": 8.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you for writing this report. The response effectively highlights the key changes in Porth Harbour with strong comparisons and a clear structure. The vocabulary is varied and appropriate, and the use of cohesive devices enhances readability. However, minor grammatical errors, slight awkward phrasings, and some redundant expressions slightly impact fluency. Refinements such as improving sentence transitions, ensuring consistency in tense usage, and making the final summary more precise could help the report reach 8.0 and higher.\nVideo Feedback",
+  "images": [
+    {
+      "path": "library/assets/juice-256542-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2025/03/IELTS-Writing-Task-1-report-sample-3427-Band-7.5.jpg",
+      "sha256": "51cf068fd4f318b569b48b429825aa73156643a37f74976781406cc82d630678"
+    }
+  ],
+  "question_image": "library/assets/juice-256542-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3432-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-256542.html",
+  "source_sha256": "ef8c45e3f4e89c13872761189c9fa6ea850b661ae9db335061bd23e49307409e",
+  "source_locator": {
+    "wordpress_post_id": 256542,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "90b8065817b8efe8",
+  "prompt_group": "e4da97f6145c1795",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "9.0\tfully satisfies all the requirements of the task",
+      "8.0\tpresents, highlights and illustrates key features clearly and appropriately",
+      "9.0\tdetails are fully and clearly extended.",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "8.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "8.0\tmanages all aspects of cohesion well",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "9.0\tskillfully manages paragraphing",
+      "8.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "9.0\twith full flexibility and accuracy",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tcommunication is completely natural",
+      "7.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

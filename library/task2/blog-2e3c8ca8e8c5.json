@@ -1,0 +1,96 @@
+{
+  "id": "blog-2e3c8ca8e8c5",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-2e3c8ca8e8c5.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-people-moving-into-english-speaking-countries/",
+  "source_locator": "research/blog/ielts-essay-topic-people-moving-into-english-speaking-countries.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "a304ecfc1f81f824",
+  "prompt_group": "5cfffda3e6b5c20d",
+  "question": "Millions of people every year move to English- speaking countries such as Australia, Britain or America, in order to study at school, college or university. Why do so many people want to study in English? Why is English such an important international language?",
+  "essay": "Nowadays, language becomes a major factor to become a successful person. Many people prefer to study abroad to English-speaking country because English is an international language. There is no doubt that the best way to improve the English language skill is to use the English language daily so if people study in English speaking countries, their English skill will be improved automatically and it will give them some advantages such as they can work in many countries or they will be able travelling to many different places without studying other languages. This essay will describe in detail why English is an important international language. Firstly, the English language is widely used in many countries and at present, the world traders are currently developing rapidly. In order to compete with people from different countries, it is very essential to be able to communicate with the English language. For example, China has been improving a lot in many sectors. They are able to compete with other countries because many people in China aware the important English language and they are trying hard to study English.\n\nSecondly, many companies prefer to employ people who can speak English because if the companies create new branch in different countries, the employers are able to move the new branch without employ new people and the branch company is still able to communicate with the central company. In fact, one of the largest companies in the world (Google) has created some branch in different countries and each of the Google employers is able to discuss things or otherwise communicate even though they are in different countries because they all use English to communicate.\n\nIn conclusion, many people move to English speaking countries for further studies because they believe that it will improve their English skills and in order to become a successful person in the future, mastering English is very essential.",
+  "word_count_computed": 314,
+  "images": [],
+  "overall": null,
+  "band_low": 6.0,
+  "band_high": 6.5,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay is too long (313 words instead of 250-265). It isn’t a problem on its own, but wasting time on writing more content that you don’t get extra marks for is not wise. Also, the more content you write, the more room for mistakes you create. There are a lot of poorly structured sentences and grammatical errors (see comments underlined in blue). Overall, this looks like a Band 6 – 6.5 essay.",
+  "corrections": [
+    {
+      "original": "become a successful person",
+      "suggestion": "that affects personal success"
+    },
+    {
+      "original": "to",
+      "suggestion": "in an"
+    },
+    {
+      "original": "English skill",
+      "suggestion": "English language"
+    },
+    {
+      "original": "they can",
+      "suggestion": "opportunities to"
+    },
+    {
+      "original": "able travelling ",
+      "suggestion": "able to travel"
+    },
+    {
+      "original": "__",
+      "suggestion": "This sentence adds no value to your essay, remove it"
+    },
+    {
+      "original": "very essential",
+      "suggestion": "essential (you cannot say ‘very essential’)"
+    },
+    {
+      "original": "with",
+      "suggestion": "in"
+    },
+    {
+      "original": "aware the important",
+      "suggestion": "are aware of the importance of the"
+    },
+    {
+      "original": "branch",
+      "suggestion": "branches"
+    },
+    {
+      "original": "employ",
+      "suggestion": "employing"
+    },
+    {
+      "original": "branch",
+      "suggestion": "branches"
+    },
+    {
+      "original": "employers",
+      "suggestion": "employees"
+    },
+    {
+      "original": "very essential",
+      "suggestion": "essential (again, you cannot say ‘very essential’)"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "7cb57df0689a3c0f9ab1a32954878f4f78a21456ca1c9778b8536883f156c9cb",
+  "model_evidence": null
+}

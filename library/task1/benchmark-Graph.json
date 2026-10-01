@@ -1,0 +1,54 @@
+{
+  "id": "benchmark-Graph",
+  "task": "task1",
+  "task_type": "line",
+  "path": "library/task1/benchmark-Graph.json",
+  "question": "The graph below shows changes in global food and oil prices between 2000 and 2011.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/correction-pages/benchmark-Graph-p1.png",
+      "sha256": "18c826133ba1ba35c46784610f807b056ea25ad6b0f4dfaa638e7af6a6ce13e2"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/correction-pages/benchmark-Graph-p1.png"
+  ],
+  "overall": 6,
+  "band_low": 6,
+  "band_high": 6,
+  "traits": {
+    "TA": 5,
+    "CC": 6,
+    "LR": 6,
+    "GRA": 6
+  },
+  "comments": null,
+  "source_url": "https://edubenchmark.com/assets/pdf/IELTS_Sample_Graph_Corrected.pdf",
+  "source_artifact": "research/expansion/benchmark-Graph.pdf",
+  "source_sha256": "00f4ea30457a96bdf053748e835d48cd38abac04a5960ab4fb193677bf788c74",
+  "source_locator": "research/expansion/benchmark-Graph.pdf",
+  "score_source": "verified_human",
+  "rater_evidence": "The institution publishes this annotated original with criterion scores and an estimated overall score; the individual marker is unnamed.",
+  "publisher": "Benchmark Education Solutions",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "benchmark-Graph",
+  "prompt_group": "797e238df2db239c",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "author_type": "student",
+  "question_image": "research/expansion/correction-pages/benchmark-Graph-p1.png",
+  "comments_images": [
+    "research/expansion/correction-pages/benchmark-Graph-p1.png"
+  ],
+  "score_page": 1,
+  "extraction": "Read the original black text including deletions; exclude red inline missing-feature notes, margin comments and the assessment table."
+}

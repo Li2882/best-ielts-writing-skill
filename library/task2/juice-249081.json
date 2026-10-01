@@ -1,0 +1,89 @@
+{
+  "id": "juice-249081",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-249081.json",
+  "question": "What is your opinion on this?",
+  "essay": "It is widely argued that teenagers should be considered as a susceptible group of societies who could be exposed easily to different types of crimes. Curfew, therefore, has been imposed in some areas of the United States in terms of mitigating the number of alone adolescents staying outside after certain times at night. However, they could be accompanied by an adult to go outside during dangerous times. I totally agree with the fact that teenagers should be monitored while they are outside during certain times.\n\nTo begin with, curfew could be enforced to limit the number of adolescents at certain times of the night owing to reducing juvenile delinquency. It means that teenagers can rub shoulders with their peers who can be criminal or at least, commit minor offenses. Peer pressure, therefore, would encourage teenagers to commit crimes. Owing a gun, for example, is mainstream in the United States and teenagers could have a gun before reaching the lawful ages.\n\nAnother reason encouraging curfew could be the danger of addiction for adolescents. Teenagers could be easily exposed to a wide range of drugs via their peers. Staying outside at midnight can soar the rate of addiction as few people are on the streets. Most addicted, for instance, are seeking the drugs in the middle of the night as it is easier to find the dealers during midnight. This, therefore, is essential to accompany a teenager with an adult after certain times at night.\n\nAll things considered, curfew could be regarded as a positive rule to mitigate juvenile delinquency and addiction rate among adolescents. Personally, I believe that monitoring teenagers should not be restricted to midnight as they need a degree of oversees during all times of the day.",
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TR": 8.0,
+    "CC": 8.0,
+    "LR": 6.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this essay. There is overuse of passive voice in this essay. It is important to know that using passive voice does not count towards a variety of grammatical structures, so it is best to limit our use of passive voice to around 10% of all sentences in an essay.\nVideo Feedback",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "8.0\tsufficiently addresses all parts of the task",
+      "9.0\tpresents a fully developed position in answer to the question",
+      "8.0\twith relevant, extended, and supported ideas",
+      "8.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "8.0\tmanages all aspects of cohesion well",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "8.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "6.0\tthey do not impede communication",
+      "6.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "8.0\tthe majority of sentences are error-free",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "7.0"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3267-band-7-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-249081.html",
+  "source_sha256": "94d0db55cfda8a75023fd256fcf3fde2d2dc7d086b8154af001c49a97e7b2d78",
+  "source_locator": {
+    "wordpress_post_id": 249081,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "candidate",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [
+    "Original source task proposition is missing; only the opinion question remains. Excluded from calibration until the original task can be verified; no question inferred from the essay or another candidate."
+  ],
+  "duplicate_group": "3067c79bd7e88181",
+  "prompt_group": "9a62f4b27ce67329",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "question_review_status": "missing_proposition_quarantined_2026-10-01"
+}

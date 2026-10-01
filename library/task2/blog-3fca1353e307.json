@@ -1,0 +1,68 @@
+{
+  "id": "blog-3fca1353e307",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-3fca1353e307.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-many-people-believe-that-reducing-speed-limits-is-the-best-option-for-road-safety-improvement-agree-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-many-people-believe-that-reducing-speed-limits-is-the-best-option-for-road-safety-improvement-agree-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "c858f04d280d8ae8",
+  "prompt_group": "d2b633edc4e05d8a",
+  "question": "Many people believe that reducing speed limits is the best option for road safety improvement. Do you think there are other measures that could be put in place? What are the advantages and disadvantages of this?",
+  "essay": "One of the most conspicuous trends of today’s world is a colossal surge in the number of such vehicle accidents as cars, trucks and buses, all over the world, be it in impoverished or developed nations. There is a wide range of factors that account for why this is happening. In my opinion, this situation could be remedied, provided some effective measures are taken.\n\nMeasures to deal with this soaring concern are many; the most significant ones are not remote or complicated but accessible and practicable. The primary one lies in the fact that governments should take a firm stance and apply stringent rules and regulations to lower the speed limit. Secondly, using the electronic devices while driving should be forbidden by law. Finally, an awareness program could be initiated by individuals to educate the public about the catastrophic effects of unsafe roads and the projected enhancements for road safety. Only when convergent efforts from all sectors are ensured, can we expect to see considerable progress in tackling this problem.\n\nThere is a deluge of merits for implementation of reduced speed limits. High speed is likely to impose life threatening danger on people crossing the roads, due to the perilous nature of this hazardous speed with danger being an integral part of it. Not only does reducing the speed limits contribute to decreasing daily accidents, but it also raises the standard of driving. Needless to say, all these advantages have a far-reaching impact on pedestrian safety.\n\nThere are, however, some pitfalls that can easily overpower the potential benefits of limiting speed. The primary one stems from the fact that slowing the speed could lead to augmenting the daily traffic hours. Besides, it could also delay delivering sick and severe patients to hospitals. Hence, it is apparent why some individuals are against changing the standardized level of speed.\n\nFrom what has been discussed, one can conclude that despite the drawbacks of reducing speed limits, the expected benefits of this measure are indeed far greater.",
+  "word_count_computed": 333,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "All the parts of the task have been covered fairly well. The response presents a well‐developed position that addresses all parts of the task prompt with suitable, widely covered and thoroughly supported ideas. The range of vocabulary is adequate for the requirements of task response. There are some mistakes in word choice and grammar. Nevertheless, the essay is up to the mark and is likely to score Band 8 in IELTS.",
+  "corrections": [
+    {
+      "original": "such",
+      "suggestion": "this word is not necessary here"
+    },
+    {
+      "original": "as",
+      "suggestion": "replace this word with ‘involving’"
+    },
+    {
+      "original": "world",
+      "suggestion": "avoid repetitive use of the same word"
+    },
+    {
+      "original": "account for why this is happening",
+      "suggestion": "the writer means ‘affect this trend’"
+    },
+    {
+      "original": "ones",
+      "suggestion": "use ‘solutions’ to avoid repetitive use of ‘one’ in this and the following sentences"
+    },
+    {
+      "original": "the",
+      "suggestion": "‘the’ is not needed here"
+    },
+    {
+      "original": "severe",
+      "suggestion": "critically ill"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "ea4fab5d4ddf4d5d963e2e58676f2a355b058b92ea0bf8f5a8c80ccf2ce181e4",
+  "model_evidence": null
+}

@@ -1,0 +1,53 @@
+{
+  "id": "blog-bf9a6a91bd4e",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-bf9a6a91bd4e.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-double-bar-graph-describing-water-usage-by-industries-from-target-band-7-book/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/f45151978f888a3b.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "1cfb4c04aede86c3",
+  "prompt_group": "d05dca418b5e91ba",
+  "question": "This report was written on a topic from “Target Band 7” book (page 42, reprinted with permission). The graph below shows the annual water usage (in millions of cubic metres) by industries in Somecountry. Write a report for a university tutor describing the information shown.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/ielts-band-8-report-double-bar-water-use.jpg",
+      "path": "library/assets/d22cff930c4c0d62.jpg"
+    }
+  ],
+  "essay": "The bar graph gives information about the amount of water used by several industrial sectors in Somecountry. The figures are measured in millions of cubic meters. Overall, the amount of ground water usage was considerably larger than the amount of water public supply.\n\nIt is clearly seen that the chemical sector used the greatest amounts of both ground water and that from public supply source, at 430 and 240 million cubic litres, respectively. The water usage by metal industry accounted for the second largest, with ground water at 240, and public supply at 90. Food and drinks sector also a relatively significant amount of public supply water (190 million cubic litres), which was larger than its amount of ground water usage by 80 million.\n\nTurning to the sectors that used considerably smaller amounts of water, 190 million from ground water and 20 from public supply were consumed by the paper industry. Machinery sector used 100 from public and only 10 from ground water. The opposite trend was shown by both fuel and textile industries, that used an insignificant amount of public supply water (just 10 million cubic litres), yet their ground water consumption was 70 and 80 million cubic litres, respectively.\n\nThis report fully describes the annual usage of water by industries. The information is well structured by its organisation into paragraphs. Most noticeable trends are described and features are pointed out. Complex structures are used as well as wide range of vocabulary. The occasional errors in word choice don’t affect communication. Overall, this report seems worthy of Band 8.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 260,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "4ce9cbe9e126e4bdc54231e0c9a5c0b067bffb2c5b47a92baf8e3ee1d976afad",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

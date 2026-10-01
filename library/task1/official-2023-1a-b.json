@@ -1,0 +1,53 @@
+{
+  "id": "official-2023-1a-b",
+  "task": "task1",
+  "task_type": "bar_chart",
+  "path": "library/task1/official-2023-1a-b.json",
+  "source_url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+  "download_url": "https://unihousecms.mediaplusdemos.com/sites/default/files/2024-08/ielts-academic-writing-sample-tasks-2023.pdf",
+  "source_locator": {
+    "pdf": "library/official/academic-writing-samples-2023.pdf",
+    "question_page": 3,
+    "response_pages": [
+      10
+    ]
+  },
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS",
+  "score_source": "official",
+  "rater_evidence": "Official IELTS sample pack states each response has an examiner band and comment. Mirror title, 26-page structure, prompts and extracted comments compared with primary IELTS URL retrieved through web search.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "official-2023-1a-b",
+  "prompt_group": "official-2023-1a",
+  "question": "Page 3 of 26  \n \n  \nIELTS.org \nAcademic Writing Sample Task – 1A \n \nWRITING TASK 1 \n \nYou should spend about 20 minutes on this task. \n \n \nWrite at least 150 words. \n \n \n \nThe chart below shows the number of men and women in further education in \nBritain in three periods and whether they were studying full-time or part-time. \nSummarise the information by selecting and reporting the main features, and \nmake comparisons where relevant.",
+  "essay": null,
+  "essay_images": [
+    "library/official/pages/page-10.png"
+  ],
+  "images": [
+    {
+      "path": "library/official/pages/page-03.png",
+      "source_url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+      "sha256": "a68a0e001773778552b6a5a01845b4b7caf11ce32687dd5eb5dfe1231f5e3160"
+    }
+  ],
+  "question_image": "library/official/pages/page-03.png",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Band 6 \nThe candidate has made a good attempt to describe the graphs looking at global trends and more \ndetailed figures. There is, however, some information missing and the information is inaccurate in \nminor areas. The answer flows quite smoothly although connectives are overused or inappropriate, \nand some of the points do not link up well. The grammatical accuracy is quite good and the \nlanguage used to describe the trends is well-handled. However, there are problems with expression \nand the appropriate choice of words and whilst there is good structural control, the complexity and \nvariation in the sentences are limited.",
+  "quality_issues": [],
+  "extraction": "Handwritten response retained as page images. View all response pages; no unverified OCR transcript. Pages include examiner comments; reference use only.",
+  "source_sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+}

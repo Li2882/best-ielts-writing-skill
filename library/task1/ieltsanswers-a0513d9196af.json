@@ -1,0 +1,66 @@
+{
+  "id": "ieltsanswers-a0513d9196af",
+  "task": "task1",
+  "task_type": "table",
+  "path": "library/task1/ieltsanswers-a0513d9196af.json",
+  "question": "The table compares sales of four types of food in four American cities.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/correction-pages/a0513d9196af-p1.png",
+      "sha256": "ee45ef20e25603c2c50dcf5c6bde6f6fbe8140b8298dac8c87d27c3f2f50cb35"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/correction-pages/a0513d9196af-p1.png",
+    "research/expansion/correction-pages/a0513d9196af-p2.png"
+  ],
+  "overall": 7,
+  "band_low": 7,
+  "band_high": 7,
+  "traits": {},
+  "comments": null,
+  "source_url": "https://www.ieltsanswers.com/reports/ielts-reports-sales-of-different-types-of-food.pdf",
+  "source_artifact": "research/expansion/answers/a0513d9196af.pdf",
+  "source_sha256": "5f54124754f9b604215f83cbb55a48f6dc9acd276f9e3d8ee0d2e41947a4a085",
+  "source_locator": "research/expansion/answers/a0513d9196af.pdf",
+  "score_source": "verified_human",
+  "rater_evidence": "Mike Wattie publishes these as individually corrected writing samples on IELTSAnswers. His examiner credentials are a publisher claim; these are practice estimates.",
+  "publisher": "IELTSAnswers / Mike Wattie",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "ieltsanswers-a0513d9196af",
+  "prompt_group": "540d7b46ce1304c3",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "student",
+  "author_type_evidence": "Publisher describes these as writing correction samples; individual author is unnamed.",
+  "question_text_status": "Searchable prompt transcription or summary; original question image is authoritative.",
+  "question_image": "research/expansion/correction-pages/a0513d9196af-p1.png",
+  "comments_images": [
+    "research/expansion/correction-pages/a0513d9196af-p1.png",
+    "research/expansion/correction-pages/a0513d9196af-p2.png",
+    "research/expansion/correction-pages/a0513d9196af-p3.png"
+  ],
+  "score_page": 2,
+  "score_evidence": [
+    {
+      "score": 7.0,
+      "row": [
+        "overall",
+        "7",
+        "There are some really good things about this task; like rel\nfew errors. However major errors with “billion” and not\nthe data equally have a big negative impact on your score.\nto have these problems while practicing!",
+        "atively\ncovering\nIt’s better"
+      ]
+    }
+  ],
+  "extraction": "Read the marked original: retain struck-out original words, omit inserted corrections and teacher comments. Do not concatenate the native PDF text, which interleaves both versions. Assessment tables are not essay text.",
+  "teacher_advice_caveat": "Publisher layout preferences, stylistic substitutions and word-count advice are not official deductions. Preserve the published overall; ranged criterion estimates have not been converted to exact scores."
+}

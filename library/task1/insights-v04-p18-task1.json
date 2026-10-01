@@ -1,0 +1,96 @@
+{
+  "id": "insights-v04-p18-task1",
+  "task": "task1",
+  "task_type": "line",
+  "path": "library/task1/insights-v04-p18-task1.json",
+  "question": "The graph below presents the employment patterns in the USA between 1930 and 2010.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-04-p18.png",
+      "sha256": "abe3ee1798c8c04d79d2ac894cd4d5a29704dbc2656e50a2e1e8363543c6632b"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-04-p19.png"
+  ],
+  "overall": 8,
+  "band_low": 8,
+  "band_high": 8,
+  "traits": {
+    "TA": 8,
+    "CC": 8,
+    "LR": 8,
+    "GRA": 9
+  },
+  "comments": null,
+  "source_url": "https://cms.youpass.vn/assets/4bf95454-fe60-4b88-a909-ae747bee7d08",
+  "source_artifact": "research/expansion/insights/vol-04.pdf",
+  "source_sha256": "19b3a6979b93462f675d9d5f08529ea738bcc8ee8ce12c87c797017ee123864a",
+  "source_locator": {
+    "volume": 4,
+    "cover_page": 18,
+    "original_pages": [
+      19
+    ],
+    "report_last_page": 25
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "Tony Grace is named in the correction report. The publisher says its academic team submits these originals to him for individual marking and describes him as a former IDP examiner. This is a practice assessment, not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "quality_issues": [],
+  "duplicate_group": "insights-v04-p18-task1",
+  "prompt_group": "139d53903243cda3",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "teacher",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-04-p18.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-04-p18.png",
+    "research/expansion/insights/pages/vol-04-p20.png",
+    "research/expansion/insights/pages/vol-04-p21.png",
+    "research/expansion/insights/pages/vol-04-p22.png",
+    "research/expansion/insights/pages/vol-04-p23.png",
+    "research/expansion/insights/pages/vol-04-p24.png",
+    "research/expansion/insights/pages/vol-04-p25.png"
+  ],
+  "score_page": 18,
+  "score_evidence": [
+    {
+      "page": 18,
+      "text": "Feedback from an Ex-examiner\nOVERALL BAND SCORE\nSEE BELOW cac LR GRA\nWRITING TASK 1\n8\nMODEL ANSWER\n8+8+8+9\nYou should spend about 20 minutes on this task.\nThe graph below presents the employment patterns in the LISA between 1930 and 2010. Summarize the\ninformation by selecting and reporting on the features, and make comparisons where relevant.\nUSA labour force employment, 1930-2010\nIndustrial A Technical Sales and Office Other services\nFarming, fishing and Foresting\n1950\n1990\n2000\nSEP 2023\n18"
+    },
+    {
+      "page": 20,
+      "text": "TA— Task Achievement nb — GRA and LR errors have not been corrected\nThere are some minor inaccuracies, which is why I gave you 8 instead of 9.\nYou covered the requirements of the task.\nAll the key features and details are given clearly with sufficient detail and accuracy.\n• presents, highlights and\n• covers all requirements Ot the\nillustrates key features/bullet\ntask sufficiently\npoints clearly and\nBand score 8 TA\nappropriately\nBand score 8 TA\nRecommended Layout Ibr ask I Answers\nWrite an introduction paraphrasing the information provided. If possible, change the\nstructure from a noun phrase to a noun clause (change lhe chart gives information about\nthe number Of to the chart shows how many ...I\nWrite a clear overview of the main trends, differences, and stages. If there are trends\nand differences (ie if there are changes over time), give some information about both.\nIf there are only differences, as in questions with no time scale, provide differences of\nmore than one type.\nPut the overview after the introduction in a separate paragraph. Don't hide it in the\nintroduction or at the end, as it's the first thing the examiner looks for.\nSeparate your paragraphs with blank lines. It looks better and there can be no doubt\nthat it is a new paragraph.\nWrite one or more paragraphs about the information itself and organise it logically.\nUse signposting phrases to show your organisation to the examiner. Eg Looking first\nal the mosl popular reasons, [ J\nIt's not necessary to write a conclusion, because you've already given the information\nIn an overview.\nthe line graph gives information about the employment of American workers in various sectors\nfrom 1930 to 2010.\nOverall, throughout the given period, the industrial, technical, and sales & office sectors emerged\nas major employers. In contrast, there was a sharp downward trend in the number of people\nworking in the pgricultural Sector, becoming the least chosen one by the end of the timeframe.\nOverall band score\nBand score 8\n8\n8+8+8+9\nDa Chü thich [21: 0K introduction, but see cac & GRA\nDi Chü thich I'm not sure fishing counts as\nagricultural\nDi Chü thich Clear overview\nI'd also point out that FFF was by farthe most\nat the start\nSEP 2023\n20"
+    },
+    {
+      "page": 25,
+      "text": "Appropriate structures are used throughout.\n• uses a w\"de range of structures with full\nflexibility and accuracy: rare minor errors\nonly\n•an d score 9 GRA\nThe line graph gives information about ghe employment of American workers in various sectors\nfrom 1930 go 2010.\nOverall, throughout the given period, the industrial, technical, and sales & office sectors emerged\nas major employers. In contrast, there was a sharp downward trend in the number of people\nworking in the agricultural sector, becoming the least chosen one by the end of the timeframe.\nRegarding industries that gained in popularity, in 1930, virtually no Americans were engaged in\nindustrial and technical jobs, and only 10% pursued sales and office occupations. Thereafter,\nhaving remained consistent until 1960, Industrial jobs began attracting more workers, with its\npercentages rising gradually a peak of roughly 35% in both 2000 and 2010. Similar upward\ntrends were also witnessed in technical and sales and office positions, as their participation rates\nunderwent steady increases overall, to around 30% and 20% respectively in the final year, making\nthem the second and third most common occupations.\nOn the other hand, despite being the dominant industry in 1930, with approximately 75% ofthe\nlabor force employed in farming, fishing and foresting, this sector saw a dramatic decline over\nthe years, reaching a low of only 5% in 2010. Finally, the percentages of workers in other services\nrose slightly from 10% to 15% in the first decade, and then fell toa relatively stable level of around\n10% for the rest of the period.\nDi Chü thich [141: Or how the proportion of workers\nchanged in various employment sectors in the LIS from\nDå dinh PhOng: 12 pt. Måu\nDå dinh PhOng: 12 pt, Måu phOng:\nOVERALL BAND SCORE\n8\n8+8+8+9\nSEE BELOW C&C LR GRAMODELANSWER\nWRITING TASK 2\nYou should spend about 40 minutes on this task. Write about the following topic.\nVOL 4 |\nSEP 2023\n25"
+    }
+  ],
+  "extraction": "Use only the Your answer / Original answer section in the specified pages. Later TA/TR, CC, LR and GRA sections contain marked copies and rewrites. Front-of-magazine teaching versions are not the scored original. OCR only locates content; inspect original images.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "published_cover_traits": {
+    "TA": 8,
+    "CC": 8,
+    "LR": 8,
+    "GRA": 9
+  },
+  "trait_label_status": "Criterion pages cross-checked against cover and retained with full report; original and report images retained.",
+  "trait_evidence_path": "research/trait-calibration/insights-v04-p18-task1.json"
+}

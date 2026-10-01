@@ -1,0 +1,87 @@
+{
+  "id": "farzad-task1",
+  "task": "task1",
+  "task_type": "bar",
+  "path": "library/task1/farzad-task1.json",
+  "question": "The chart shows the percentage of women going into higher education in five countries in 1980 and 2015.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/correction-pages/farzad-task1-p2.png",
+      "sha256": "40db7059ecbe4977575a119b9dd261b2e5c0aefbed06309f19a590a13df8b96b"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/correction-pages/farzad-task1-p3.png"
+  ],
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TA": 7,
+    "CC": 8,
+    "LR": 7,
+    "GRA": 8
+  },
+  "comments": null,
+  "source_url": "https://farzadsoleimani.ir/wp-content/uploads/2022/06/FARZAD_ACADEMY__Task1_NewEMERALD1-1.pdf",
+  "source_artifact": "research/expansion/farzad-task1.pdf",
+  "source_sha256": "8a7853ff919d05d8539838d478ccef3fc14fe748e03f451e234c2f6b2363b48b",
+  "source_locator": "research/expansion/farzad-task1.pdf",
+  "score_source": "verified_human",
+  "rater_evidence": "Assessors FaO621 and FaF032, followed by an explicit joint final result, are printed on page 4.",
+  "publisher": "Farzad Academy",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "farzad-task1",
+  "prompt_group": "97eb9f807b3a4fc7",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "author_type": "student",
+  "question_image": "research/expansion/correction-pages/farzad-task1-p2.png",
+  "comments_images": [
+    "research/expansion/correction-pages/farzad-task1-p4.png"
+  ],
+  "score_page": 4,
+  "human_ratings": [
+    {
+      "rater": "FaO621",
+      "overall": 7,
+      "traits": {
+        "TA": 7,
+        "CC": 7.5,
+        "LR": 6,
+        "GRA": 7
+      }
+    },
+    {
+      "rater": "FaF032",
+      "overall": 7.5,
+      "traits": {
+        "TA": 7.5,
+        "CC": 7.5,
+        "LR": 6.5,
+        "GRA": 7.5
+      }
+    },
+    {
+      "rater": "Joint final published result",
+      "overall": 7.5,
+      "traits": {
+        "TA": 7,
+        "CC": 8,
+        "LR": 7,
+        "GRA": 8
+      }
+    }
+  ],
+  "label_selection": "Use the explicitly published final joint result; preserve both assessors, do not average or choose by model agreement.",
+  "extraction": "Use Section Two original essay on page 3. Page 2 contains a grammar-corrected version and must not supply the scored essay."
+}

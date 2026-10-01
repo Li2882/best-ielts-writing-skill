@@ -1,0 +1,57 @@
+{
+  "id": "cambridge-19-t1-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-19-t1-task1.json",
+  "question": "The graph below gives information on the numbers of participants for different activities at one social centre in Melbourne, Australia for the period 2000 to 2020.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": "library/assets/cambridge-19-t1-task1-question.webp",
+  "images": [
+    {
+      "url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-19-academic-test-1-task-1-206f9d5ad136.webp",
+      "path": "library/assets/cambridge-19-t1-task1-question.webp",
+      "sha256": "206f9d5ad13618644a61932ae66dfecf1327118ba0f91e0985db0803a834e2d7"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c19-p129.png"
+  ],
+  "reading_transcript": "The line graph highlights data about how many people participated in 5 various activities at one social club in Melbourne, Australia for the first two decades of XXI century.\n\nOverall, over the years more participants got involved in activities on Table tennis and Musical plays, while Amateur dramatics lost its interest for public. Being flactuated, two types of activities, which are Film club and Martial arts levelled off. Another striking point is that over a twenty – year period between 2000 and 2020, the Film club kept its position as the most popular activity.\n\nLooking at the details of Table tennis, in 2000, there were about 15 participants in club for it. In the next 10 years, it attracted 5 more members, before dramatic surge from 20 to below 60 participants. In 2005, the activity on Musical performances introduced and over the following 15 years, it saw a steady increase on the number of participants by about 20 in the last year.\n\nRegarding next two activities, Film club and Martial arts, the saw fluactions, but without any changes in the overall position. Film club started the process with about 60 members and finished it just below 70, while the participants of Martial arts kept their numbers at around 35.\n\nThe number of participants of amateurs on draturgy was about 25 and it saw a steady decrease then by 10.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {},
+  "comments": "This good response begins with an introduction, then in the second paragraph summarises the main trends. The next few paragraphs contain the data and cover each of the participant groups. The information is organised logically and a range of linking devices are used [Overall | Another striking point | In the next 10 years]. There is also some flexible reference and substitution [while | which | it | their] with a few inaccuracies. Vocabulary is generally good [got involved in | levelled off | dramatic surge], but there are some errors [flactuated / fluctuated | amateurs on draturgy / amateur dramatics]. This response has a variety of grammatical structures and the past simple tense is well controlled. There are sentences with multiple clauses, including superlatives (most popular], but also some errors in verb forms [introduced / was introduced], some missing articles [public / the public | dramatic surge / a dramatic surge | next two / the next two], some errors with prepositions [in club for it / in the club | by about 20 / to about 20] and inconsistent capitalisation. The candidate should demonstrate a greater level of accuracy with grammatical structures.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-19-academic/",
+  "source_artifact": "research/expansion/cam19-page.html",
+  "source_sha256": "1005517ddbf5e39461ffd0da90f2cefc6e4bc19f942a162d2c0e0f74397fe6df",
+  "source_locator": {
+    "book": 19,
+    "test": 1,
+    "pdf": "research/expansion/cambridge19.pdf",
+    "response_pages": [
+      129
+    ],
+    "score_line": "achieved a Band 6.5"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-19-t1-task1",
+  "prompt_group": "cambridge-19-t1-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs.",
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01"
+}

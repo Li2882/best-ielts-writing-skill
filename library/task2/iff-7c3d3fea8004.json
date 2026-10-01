@@ -1,0 +1,167 @@
+{
+  "id": "iff-7c3d3fea8004",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/iff-7c3d3fea8004.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-task-2-band-6-sample-answer-1/",
+  "source_locator": "research/forfree/ielts-task-2-band-6-sample-answer-1.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "e44f2a58ec5a67d3",
+  "prompt_group": "2b100f1f19054336",
+  "question": "You should spend about 40 minutes on this task.\nWrite about the following topic:\nEducation is very important. How can children who are disinterested in study be motivated to learn?\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\nWrite at least 250 words.",
+  "essay": "Living in the competitive world, better education always comes with higher living standard . How to improve the education in children, especially the one who does not like studying, is a problem for education industry in every country .\n\nWhen the child is too young to understand the importance of studying, it is really hard to have the motivation. At the early stage, in junior primary school for example, a little discipline is necessary. Though studing like reading and counting maybe not as interesting as watching cartoons, spending some time on these boring subjects should be compulsory. These measures will give them the ability to enjoy learning activities in coming future , when they will be more confident to explore the unknown area .\n\nHowever, to increase the confidence in studying, the most important is encouragement, especially in senior primary school and secondary school, when the children need to expand their knowledge dramatically. Most of the student are disinterested in learning because of lack of confident . If an encourage enviroment is provided, they will have fun in studying and enjoy the feeling of achievement, hence will be motivated to learn more. In consequence, a better education level can be expected.\n\nMoreover, academy does not necessary have to be boring, it can be fun. For young children, knowledge can be tought in cartoons. The Blue Cat series is a successful sample in China, which is a educational program enjoyed by many children in China. In order to get better result in children, knowledge can be delivered via children's favourite cartoon characters. For the teenager, the idols in the entertainment industry play a big role [this could have been combined with the following sentence with 'and as such'[/expand]. They should be encouraged to send the correct messages to their fans.\n\nIn conclusion, compulsory education is necessary at an early stage of studying, while encourage enviroment and teaching in more entertaining ways are extremely important.",
+  "word_count_computed": 319,
+  "images": [],
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Task 2 Band 6 sample answer 1\nAt 310 words, this is longer than the ideal range of 260 to 280 words. Although this is not directly a problem, it does give the examiner more chances of finding errors or penalising you for not being sufficiently concise.\nThere is a mix of different levels of vocabulary where a more formal vocabulary should be used throughout (avoid words like 'boring').\nAn example is provided to demonstrate the point in the third paragraph (the Blue Cat series) but the writer has not given other examples for the first two paragraphs, and the topic sentence, development and support are not always clear.\nThe essay often uses dogmatic statements that are not always true and would be better modified slightly ('every county' > 'most countries')\nHowever, the essay is relevant to the topic and the use of linking words is generally accurate and varied.",
+  "corrections": [
+    {
+      "original": "always",
+      "suggestion": "this is too strong - it's not always"
+    },
+    {
+      "original": "comes with",
+      "suggestion": "\"leads to a\""
+    },
+    {
+      "original": "living standard",
+      "suggestion": "\"standard of living\" is the most common construction"
+    },
+    {
+      "original": "How to improve",
+      "suggestion": "\"Improving\" - how to improve is more of a question form"
+    },
+    {
+      "original": "one",
+      "suggestion": "ones"
+    },
+    {
+      "original": "does",
+      "suggestion": "\"do\""
+    },
+    {
+      "original": "education",
+      "suggestion": "\"the education\""
+    },
+    {
+      "original": "every country",
+      "suggestion": "this is too strong - it's not every country, but could be \"most countries\""
+    },
+    {
+      "original": "the",
+      "suggestion": "\"a\""
+    },
+    {
+      "original": "really hard",
+      "suggestion": "this is too informal - \"particularly difficult\""
+    },
+    {
+      "original": "the",
+      "suggestion": "\"an\""
+    },
+    {
+      "original": "studing",
+      "suggestion": "\"studying\""
+    },
+    {
+      "original": "boring",
+      "suggestion": "this is not academic - \"less interesting\""
+    },
+    {
+      "original": "in coming future",
+      "suggestion": "\"in the future\""
+    },
+    {
+      "original": "will be",
+      "suggestion": "\"are likely to be\""
+    },
+    {
+      "original": "the unknown area",
+      "suggestion": "\"unknown areas\""
+    },
+    {
+      "original": "confidence",
+      "suggestion": "it is not clear yet why the paragraph is referring to confidence rather than motivation and interest"
+    },
+    {
+      "original": "important",
+      "suggestion": "\"important factor\""
+    },
+    {
+      "original": "of the student",
+      "suggestion": "\"students\""
+    },
+    {
+      "original": "lack of confident",
+      "suggestion": "\"a lack of confidence\""
+    },
+    {
+      "original": "encourage",
+      "suggestion": "\"encouraging\""
+    },
+    {
+      "original": "will",
+      "suggestion": "\"may\" - will is too strong"
+    },
+    {
+      "original": "have fun",
+      "suggestion": "\"be more entertained\" would be more formal"
+    },
+    {
+      "original": "academy",
+      "suggestion": "\"academic study\""
+    },
+    {
+      "original": "necessary",
+      "suggestion": "necessarily"
+    },
+    {
+      "original": "tought in",
+      "suggestion": "\"taught using\""
+    },
+    {
+      "original": "sample",
+      "suggestion": "\"example\""
+    },
+    {
+      "original": "which",
+      "suggestion": "putting \"which\" here means that what follows refers to China, not the Black Cat serial"
+    },
+    {
+      "original": "a",
+      "suggestion": "\"an\""
+    },
+    {
+      "original": "result in",
+      "suggestion": "\"results from\""
+    },
+    {
+      "original": "encourage",
+      "suggestion": "\"providing an encouraging\""
+    },
+    {
+      "original": "enviroment",
+      "suggestion": "\"environment\""
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "1935d508d2f5e5957b7f1f382b99feb82970928da466895908bf28cdeef9a1c4"
+}

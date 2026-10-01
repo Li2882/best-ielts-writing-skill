@@ -1,0 +1,70 @@
+{
+  "id": "insights-v21-p40-task2",
+  "task": "task2",
+  "task_type": "two_part",
+  "path": "library/task2/insights-v21-p40-task2.json",
+  "question": "An increasing number of people are choosing to have cosmetic surgery in order to improve their appearance. Why are more people choosing to have operations to change the way they look? Do you think this is a positive or negative trend?",
+  "essay": null,
+  "images": [],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-21-p41.png"
+  ],
+  "source_url": "https://cms.youpass.vn/assets/0484c3f6-c805-46ad-9018-69e91e49ae22.pdf",
+  "source_artifact": "research/expansion/tony-oct2025.pdf",
+  "source_sha256": "1d023a246b2f5110ef5b57be36ba69cb2dc54855f6f3adbafc6ca68d330d6e7e",
+  "source_locator": {
+    "volume": 21,
+    "cover_page": 40,
+    "original_pages": [
+      41
+    ],
+    "report_last_page": 52
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "Tony Grace is named in the correction report. The publisher says its academic team submits these originals to him for individual marking and describes him as a former IDP examiner. This is a practice assessment, not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "holdout",
+  "sample_kind": "teacher_model",
+  "quality_issues": [],
+  "duplicate_group": "insights-v21-p40-task2",
+  "prompt_group": "f03631d6b6a53fea",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "teacher",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-21-p40.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "score_page": 40,
+  "score_evidence": [
+    {
+      "page": 40,
+      "text": " \nIELTS Corrections \nPage 1 of 13 \n \n \nFor more IELTS advice go to Succeed in IELTS with Tony  \n15 October 2025 \nOVERALL BAND SCORE   \n8.5  \n9+8+8+9 \nSEE BELOW C&C LR GRA \nMODEL ANSWER   \nWRITING TASK 2  \nWrite about the following topic: \nAn increasing number of people are choosing to have cosmetic surgery \nin order to improve their appearance.  \nWhy are more people choosing to have operations to change the way \nthey look?  \nDo you think this is a positive or negative trend? \nGive reasons for your answer and include any relevant examples from \nyour own knowledge or experience. \nWrite at least 250 words.  \n \n \n \n"
+    },
+    {
+      "page": 42,
+      "text": " \nIELTS Corrections \nPage 3 of 13 \n \n \nFor more IELTS advice go to Succeed in IELTS with Tony  \n15 October 2025 \nOVERALL BAND SCORE   \n8.5  \n9+8+8+9 \nTR – Task Response nb – GRA and LR errors have not been corrected \nBand score 9 \nGood answer, although I think you’ve got cause and effect the wrong \nway round in main body paragraph 2.  I don’t think reliance on PS makes \npeople prioritise beauty.  On the contrary - the rising popularity of PS is \nan indication of the superficial nature of modern society, in which \nappearance is prioritised over all other factors, like good behaviour and \ncharacter.   \nHowever, it’s good enough for a band score 9 for TR. \nYou have a clear position throughout and all parts of the question are \naddressed.    \nYour position is coherent and well-argued. The ideas are relevant, \nextended, and coherent. \n \n \n \nADVICE ON BRAINSTORMING FOR TASK 2 \nAs you’re planning and writing your answer, remember to constantly \nask yourself if you’re answering the question.  Check back to the \nquestion a few times as you think of ideas to make sure they're \ndirectly relevant.   \n• Make sure your introduction directly addresses the question.   \n"
+    }
+  ],
+  "extraction": "Use only the Your answer / Original answer section in the specified pages. Later TA/TR, CC, LR and GRA sections contain marked copies and rewrites. Front-of-magazine teaching versions are not the scored original. OCR only locates content; inspect original images.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "published_cover_traits": {
+    "TR": 9,
+    "CC": 8,
+    "LR": 8,
+    "GRA": 9
+  },
+  "trait_label_status": "Cover labels retained separately; reconcile all criterion pages before treating traits as validated labels.",
+  "evaluation_role": "reserved_unscored_v14",
+  "reserved_for_evaluation": "future_v14_complete_run",
+  "assessment_evidence_path": "evaluations/labels/v14-01.json"
+}

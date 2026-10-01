@@ -1,0 +1,86 @@
+{
+  "id": "juice-248074",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248074.json",
+  "question": "Some people say that now we can see films on our phones or tablets, there is no need to go to the cinema. Others say that to be fully enjoyed, films need to be seen in a cinema.\nDiscuss both views and give your opinion.",
+  "essay": "These days, some people believe that going to the cinema for watching the films, would be useless because people can see them on their phones or tablets. others say that to be fully enjoyed with saying the films,  people should go to the cinema. in this essay I will outline these to viewpoints.\n\nOn the one hand, those who believe that they can see the films on their phones rather than going to the cinema have several ideas. firstly, they could save time by watching the films on the electronic devices. as people don’t need to devote a considerable portion of the time to planning for going out, they would have extra time. they usually should arrive the cinema At least 3 hours in advance to book a seat, which can be very time-consuming.\n\nmoreover, they can save money. because people who would like to  go for the cinema, should spend a great deal of money in order to fill up their car with petrol which is very expensive. if people can see the films on the phones, they will avoid of wasting their money for such an expensive fuel.\n\non the other hand, some people State several reasons for going to the cinema. they can see the films on the biggest screen which can be very enjoyable. as it can give the audiences a sense of excitement which can add to the pleasure of the film itself. this is because the actors and other elements in the film are bigger than usual.\n\nwhat’s more, they believe that seeing the feelings along with other people in the cinema could be more enjoyable than other ways of seeing a film. because a lot of people are present in the cinema which could create the Sound by encouraging a character or shouting. dysfunction can be  energizing which leads people to having a sense of more satisfaction.\n\nin conclusion, some people say that they could save time and money by seeing the feelings on the phones, whereas, others believe that the excitement of the biggest screen and other people led to having more  satisfaction I hold the view that going to cinema with the more enjoyable.",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TR": 6.0,
+    "CC": 7.0,
+    "LR": 7.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you indeed for writing this essay. There are two important points in this essay. Firstly, the essay has 3 main parts; the last one is the writer’s own opinion. In this essay, we can only see one sentence devoted to the writer’s own opinion, and there isn’t much development. Even when the writer completely agrees with one side, this connection must be stated clearly and added as support for the writer’s own opinion. Secondly, regarding grammar, too complex sentences make it hard to understand what the writer intended to say. As a case in point, the sentences that started with “because” in this essay are NOT grammatically called sentences as their meanings are incomplete; they are a group of dependent clauses combined together.",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "7.0\taddresses all parts of the task",
+      "7.0\tpresents a clear position throughout the response",
+      "6.0\tpresents relevant main ideas but some may be inadequately developed/unclear",
+      "6.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "7.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "8.0\tproduces rare errors in spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.5"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3309-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248074.html",
+  "source_sha256": "fd1292fa40ae43c930409fd21a5a609821fd7d3912fd2f2a39d25ce261eb840d",
+  "source_locator": {
+    "wordpress_post_id": 248074,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "575c529b9dd47e28",
+  "prompt_group": "c2c6cc450047cd63",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "blog-90768cce0950",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-90768cce0950.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-should-children-be-working/",
+  "source_locator": "research/blog/ielts-essay-topic-should-children-be-working.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "05437dacfaf7eba6",
+  "prompt_group": "de83550ca4ecf2b8",
+  "question": "In many countries children are engaged in some kind of paid work. Some people regard this as completely wrong, while others consider it to be a valuable work experience, which is important for learning and taking responsibility. What is your opinion on this?",
+  "essay": "In the Third World, children are usually sent to factories for laborious work. Many people believe that it is merely exploitation, while others think it is a good opportunity for them to have life experience. In any case, children have their right to live and study in peaceful conditions. Therefore, using them as workforce is considered an unacceptable action.\n\nFirst of all, children are not workers. They have just learned about the vast world and do not have any experience or concept of working. Since these innocent children are naive and lack of life experiences, they can be easily cheated and exploited. There are many examples of this in poor nations. Because using children is cheap and easily to control, many enterprises hire them and don’t pay them much. Although the government in these countries has tried its best, this kind of taking advantage of children cannot be eliminated. Moreover, children do not need such thing as ‘valuable work experience’ that is supposedly ‘important for learning and taking responsibility’. The brief responsibility of children is learning. They are not old enough to understand what working experiences are. Nevertheless, they can help parents do chores or housework. This will be a much better way for them to become more responsible for family. In addition, childhood is one of the most remarkable memories and must not be taken away by forcing them to work.\n\nIn conclusion, since all children are the great concern of parent and society, they should be allowed to enjoy life and educated rather than encouraging them to work. Hence, one must ponder what view is actually appropriate for the sake of the children.",
+  "word_count_computed": 275,
+  "images": [],
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a good essay. It covers the task, the paragraphs are coherent, the sentences are well-structured and the vocabulary is adequate. However a little structural change in the paragraphs is required – you should first make the point (such as “Some say that children should learn about earning money” and then oppose to it “However, children can not be compared to adult workers”). Also, there were some more inaccuracies (see comments underlined in blue). Overall, this looks like a Band 6.5 essay.",
+  "corrections": [
+    {
+      "original": "have",
+      "suggestion": "gain"
+    },
+    {
+      "original": "lack of life experiences",
+      "suggestion": "inexperienced"
+    },
+    {
+      "original": "easily",
+      "suggestion": "they are easy"
+    },
+    {
+      "original": "family",
+      "suggestion": "for the sake of their family"
+    },
+    {
+      "original": "educated",
+      "suggestion": "be educated"
+    },
+    {
+      "original": "encouraging them",
+      "suggestion": "be encouraged"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "2af3f51002d88ba728c482250f6ec7be3b32c3a182bed1b15c192bd5607dc91f",
+  "model_evidence": null
+}

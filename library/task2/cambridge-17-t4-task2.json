@@ -1,0 +1,51 @@
+{
+  "id": "cambridge-17-t4-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/cambridge-17-t4-task2.json",
+  "question": "Nowadays, a growing number of people with health problems are trying alternative medicines and treatments instead of visiting their usual doctor.\nDo you think this is a positive or a negative development?",
+  "question_image": null,
+  "images": [],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c17-p138.png",
+    "research/expansion/book-pages/c17-p139.png"
+  ],
+  "reading_transcript": "Since ancient times people tried to treat themselves by herbals and another natural products. In these days this type of treatment is named as alternative medicine. Nowadays, more and more people with some diseases decide to use alternative medicines instead of classic medicine. In this essay I will try to discuss pros and cons.\n\nIn my opinion, the disadvantages outweigh the advantages of using traditional medicine. The first reason is that nobody knows how this treatment will affect to a person’s health. There are a lot of cases when using different herbals caused allergic reaction and some people dead. The next reason is that people who do not have any medical education try alternative medicines. They do not know what the result will be and hope that it will be positive but not always is like that.\n\nAlthough there are a lot of disadvantages, advantages might make people not go to usual doctor. The first and the main pro is that using herbals does not cause environmental problems such as air pollution or gas waste. Many pharmaceutical plants use chemicals which have harmful affect on the environment. The other reason is that alternative medicines are usually much cheaper than usual treatment as you do not have to go to pharmacy and buy expensive drugs.\n\nTo sum it up, the alternative treatment will be forever because it has some advantages which many people think that they can outweigh the disadvantages but I do not think so. The conventional medicine which develops rocketly will drive out other types of treatment in the future.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {},
+  "comments": "The response addresses both sides of the question and the candidate states their position in the second paragraph. The disadvantages presented include not knowing if the treatments will work, possible allergic reactions and the dangers of untrained practitioners. The advantages include remedies being kinder to the environment and usually cheaper.\nIdeas are arranged coherently with a range of cohesive devices, although organisation is sometimes mechanical due to the high number of linking devices. There is evidence of referencing [chemicals which | it] with some error [that they can outweigh / outweigh].\nVocabulary is used adequately and there are some good examples used [allergic reaction | pharmaceutical plants | conventional medicine]; however, some errors remain [dead / die | rocketly / very quickly]. Grammatical structures include some sentences with multiple clauses [which have | as you]. However, there are errors [not always is like that / it is not always] and most sentences are short and simple.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-17-academic/",
+  "source_artifact": "research/expansion/cam17-page.html",
+  "source_sha256": "3039e15fe488eebc538a9fdc01cfbd098d2c88669895e9c0a78ebf6540c735f9",
+  "source_locator": {
+    "book": 17,
+    "test": 4,
+    "pdf": "research/expansion/cambridge17.pdf",
+    "response_pages": [
+      138,
+      139
+    ],
+    "score_line": "achieved a Band 6.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-17-t4-task2",
+  "prompt_group": "cambridge-17-t4-task2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

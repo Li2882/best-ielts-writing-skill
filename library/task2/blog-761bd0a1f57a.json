@@ -1,0 +1,74 @@
+{
+  "id": "blog-761bd0a1f57a",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-761bd0a1f57a.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-7/ielts-essay-topic-some-people-say-protecting-the-environment-is-the-governments-responsibility-others-believe-individuals-should-be-responsible-for-it-opinion/",
+  "source_locator": "research/blog/ielts-essay-topic-some-people-say-protecting-the-environment-is-the-governments-responsibility-others-believe-individuals-should-be-responsible-for-it-opinion.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "9659efce4fc9c2f3",
+  "prompt_group": "489176871dde409c",
+  "question": "Some people say that protecting the environment is the government’s responsibility. Others believe that every individual should be responsible for it. Discuss both views and give your own opinion.",
+  "essay": "People hold different views about whether the government should shoulder the responsibility of preserving the environment or each person is responsible one. From my standpoint, it will be more beneficial if both the country’s authorities and individuals share the responsibility.\n\nOn the one hand, the government may play a pivotal role in maintaining the environment safe and healthy. It is authorities that should introduce the legislation in order to mitigate environmental problems, such as air pollution and more. To illustrate, there should be some laws encouraging factories to move to the country sides rather than staying in cities. This could help urban areas to be further protected from the poisonous fumes, which are always discharged from firms. Another prominent role the government could play would be creating TV programs to educate citizens, and to persuade them to care the nature more. Being informed of the consequences of their activities, individuals may endeavor to alter their ways, to avoid harming the environment.\n\nOn the other hand, it is undeniable that each person can play an important role in protecting their own neighborhood. Cars are considered to be a major source of air pollution. Their exhaust gases contaminate the air, ranging from carbon dioxide to unburnt carbon. Therefore, by using their own vehicles only in rare cases, people would be able to protect the environment. Another opportunity available to individuals is recycling. By stopping plastic waste from entering and contaminating waterways people are able to conserve drinkable water and its inhabitants.\n\nIn conclusion, due to the large amount of work involved, mobilising all the possible forces is a more sensible approach. It is, therefore, likely that joint efforts of both the governments and their citizens would result in the most effective way of preserving the environment.",
+  "word_count_computed": 294,
+  "images": [],
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "The author of this essay has done a good job covering the task topic. He/she used one body paragraph to discuss whether the government should be responsible for protecting the environment, and the other body paragraph – to discuss whether individuals should be protecting the environment, and how. The ideas are logically sequenced and connected using linking words, making this essay easy to read. Some inaccuracy of expression is evident and requires more work and attention (see corrections underlined in blue). The range of vocabulary is impressive and grammatical errors are quite rare. Overall this essay seems worthy of IELTS Band 7.",
+  "corrections": [
+    {
+      "original": "is",
+      "suggestion": "‘should be’ is the right expression to use here"
+    },
+    {
+      "original": "one",
+      "suggestion": "‘for it’ is a more suitable expression here"
+    },
+    {
+      "original": "will be",
+      "suggestion": "‘would be’ is the right form here"
+    },
+    {
+      "original": "share",
+      "suggestion": "‘were to share’ is the correct form"
+    },
+    {
+      "original": "authorities",
+      "suggestion": "‘the’ is missing here before ‘authorities’"
+    },
+    {
+      "original": "country sides",
+      "suggestion": "‘countryside’ is the right word to use here"
+    },
+    {
+      "original": "are always discharged from firms",
+      "suggestion": "‘factories frequently discharge into the atmosphere’ is a better way to say this"
+    },
+    {
+      "original": "care the nature",
+      "suggestion": "‘care for the nature’ is the correct expression here"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "35ffc3b26c10a59f0941b18fed6cdb25fe3658e4ef7152432b28b5e836b0630a",
+  "model_evidence": null,
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01"
+}

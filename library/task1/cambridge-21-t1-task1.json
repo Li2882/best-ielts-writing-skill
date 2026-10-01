@@ -1,0 +1,54 @@
+{
+  "id": "cambridge-21-t1-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-21-t1-task1.json",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-21-academic/",
+  "source_locator": {
+    "book": 21,
+    "test": 1,
+    "page": "HTML reference-task",
+    "score_line": "Official Band 5.5"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "Cambridge University Press; public mirror",
+  "score_source": "official",
+  "rater_evidence": "The public Cambridge IELTS 21 reference page identifies this as an officially scored candidate response and reproduces examiner comments.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "cambridge-21-t1-task1",
+  "prompt_group": "cambridge-21-t1-task1",
+  "question": "The graph below gives information about the number of jobs in four sectors of the economy in the US between 1960 and 2020.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": null,
+  "images": [
+    {
+      "source_url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-21-academic-test-1-task-1-9907a08d15c3.webp",
+      "path": "library/assets/cambridge-21-academic-test-1-task-1-9907a08d15c3.webp",
+      "sha256": "9907a08d15c398d1f3012d1bc060afebc858c2cee2afafd7e92e113dd4c67216"
+    }
+  ],
+  "essay": "The graph shows how changes are occupations in four different kind of jobs in the US from 1960 to 2020.\n\nIn 1960, the number of Manufacturing is the highest in these four sectors, 15 millions, and the second highest is Retail and Agriculture as a same number (5 million). I can see the hugh gap between highest number of occupations and second's in 1960. Moreover, Healthcare is lowest number at approximately 2.5 million.\n\nFirstly, the number of healthcare increace dramatically rather than the other three sectors. People who work as a healthcare had grown more than six times in 60 years, which is the highest number in 2020 with Retail sector. Furthermore, the number of Retail is also great rise.\n\nManufacturing was most common jobs in 1960, however these declined from 15 million to 13 million in 2020.\n\nIn addition, Agriculture was third highest in 1960 and had decreased 6 million to 2 million, which is the lowest in 2020.\n\nTo sum up, it can be seen that the economy in the US changed significantly in 60 years from 1960 to 2020, and at the same time occupations had been altered.",
+  "reading_transcript": null,
+  "overall": 5.5,
+  "band_low": 5.5,
+  "band_high": 5.5,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This response is a good attempt at the task. It does include the main information in the line chart but there are some details missing, for example, manufacturing [declined from 15 million to 13 million] with no mention of the peak in 1980 at 20 million.\nThere is an attempt at an overview in the final paragraph, [To sum up, it can be seen that the economy in the US changed significantly in 60 years from 1960 to 2020, and at the same time occupations had been altered.] However, this is too generic. An overview needs to summarise the main changes that have occurred.\nIdeas are presented coherently. There are some nice examples of cohesive devices [Moreover | Firstly | in addition | To sum up] but some overuse [Furthermore | however].\nSome effective vocabulary is used [second highest | approximately | dramatically | common | significantly | altered] but, generally, the lapses in word choice have a negative impact on the score, [healthcare | jobs in healthcare | as a healthcare | as a healthcare assistant]. Spelling is generally good, with a sprinkle of errors [hugh | huge] that do not impede understanding. Grammatical structures are not well controlled, with frequent errors, for example, in verb tenses [how changes are occupations | changes in occupations | increase | increased], countable forms [four different kind of | kinds of | Manufacturing was most common jobs | Manufacturing jobs were the most common / Manufacturing was most common] and articles [as a same number | as the same number].\nTo achieve a higher score, the candidate should include an overview that summarises the main changes, and demonstrate a greater level of accuracy in vocabulary and grammar.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 191,
+  "extraction": "HTML reference page; original paragraph text and examiner comment retained.",
+  "source_sha256": "f4ed6964181637d583ff5dfafea3541a259f2341fc49038122f676485e5ba532",
+  "label_scope": "individual",
+  "label_review_status": "source_checked"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "blog-27f9f722f594",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-27f9f722f594.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-7/ielts-report-topic-double-line-graph-describing-the-birth-rate-in-china-and-the-usa/",
+  "source_locator": "research/blog/ielts-report-topic-double-line-graph-describing-the-birth-rate-in-china-and-the-usa.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "5bc1700ed6cff0e2",
+  "prompt_group": "245e98084fa202fe",
+  "question": "The graph below compares the changes in the birth rates of China and the USA between 1920 and 2000.\nSummarise the information by selecting and reporting the main features and make comparisons where relevant.",
+  "essay": "The graph demonstrated some striking similarities between the Chinese and the US birth rates from 1920 to 2000. Both countries experienced considerable fluctuations in the similar period with some lows during the 1940s and some highs during the 1930s.\n\nThe birth rates in China rose from 10% in 1920 to 15% in 1935. Later, the figure plunged to a low of 5% in the 1940s and was followed by an exponential growth to the peak of 20% in 1950. Next, the fertility rate dropped sharply to 8% in the following five years. Finally, the figure declined gradually to 3% during the latter half of the century.\n\nMeanwhile, the US had similar birth rate of 12% to that of China in 1920. The figure fluctuated in between 12% and 14% during 1920s and 1930s until it hit a low of 4% in 1945. Five years later, the birth rate reached a peak at 15% in 1950 but it made a steady fall to the final figure of around 7% in 2000.",
+  "word_count_computed": 170,
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/ielts-report-birth-rates-china-usa.jpg",
+      "path": "library/assets/8ba8792dd0611779.jpg",
+      "sha256": "794d8621f604024411d36f44949e34e115be0d549bdcc1eb5c25cc2b84249faf"
+    }
+  ],
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This report covers the requirements of the task. The main trends / features were sufficiently developed. The candidate has arranged ideas coherently, though the use of linking words can be improved. The range of vocabulary is adequate. There are a few errors in grammar and word choice, and one instance of inaccurate data. Overall, the task response meets the expectations and seems good enough to achieve Band 7.",
+  "corrections": [
+    {
+      "original": "demonstrated",
+      "suggestion": "demonstrates"
+    },
+    {
+      "original": "some lows",
+      "suggestion": "a fall"
+    },
+    {
+      "original": "some highs",
+      "suggestion": "a peak"
+    },
+    {
+      "original": "1930s",
+      "suggestion": "1950s"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "1b3396a726d92d692e24c4d834d5963774bde40cd213ed672cfc38d49a2f8bfb",
+  "model_evidence": null,
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01"
+}

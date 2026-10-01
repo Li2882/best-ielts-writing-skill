@@ -1,0 +1,45 @@
+{
+  "id": "tony-education-2021",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/tony-education-2021.json",
+  "question": "Everyone should stay in school until the age of eighteen. To what extent do you agree or disagree?",
+  "essay": null,
+  "essay_images": [
+    "research/expansion/tony-primary/education-p2.png",
+    "research/expansion/tony-primary/education-p3.png"
+  ],
+  "question_image": "research/expansion/tony-primary/education-p1.png",
+  "source_url": "https://www.succeedinielts.com/wp-content/uploads/2021/07/Sample-marked-script-Task-2-7888-Education-to-18.pdf",
+  "source_artifact": "research/expansion/tony-primary/education.pdf",
+  "source_sha256": "d4b3880cff72086d85cdc7659a6413058bd71591e721e0ed8e2b86784dbcf55f",
+  "source_locator": {
+    "original_pages": [
+      2,
+      3
+    ],
+    "cover_page": 1
+  },
+  "score_source": "verified_human",
+  "publisher": "Succeed in IELTS with Tony; Tony Grace",
+  "rater_evidence": "Named human correction report on the assessor website; practice assessment, not official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "holdout",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "tony-education-2021",
+  "prompt_group": "8c8224902a51365d",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "teacher_advice_caveat": "Teacher layout and opinion preferences are not extra official scoring criteria.",
+  "trait_label_status": "Explicit published traits; criterion report retained for cross-checking.",
+  "evaluation_role": "reserved_unscored_v14",
+  "reserved_for_evaluation": "future_v14_complete_run",
+  "assessment_evidence_path": "evaluations/labels/v14-01.json"
+}

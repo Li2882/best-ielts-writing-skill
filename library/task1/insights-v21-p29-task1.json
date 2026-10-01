@@ -1,0 +1,75 @@
+{
+  "id": "insights-v21-p29-task1",
+  "task": "task1",
+  "task_type": "map",
+  "path": "library/task1/insights-v21-p29-task1.json",
+  "question": "The plans show the room layouts for training sessions for up to ten people and more than ten people. The marker changes ten to nine in the question; consult the original image.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-21-p29.png",
+      "sha256": "833778efb4bd506c38f1d8fcc0018b1955cf72723f98c670ff5ce35d49174c48"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-21-p30.png"
+  ],
+  "source_url": "https://cms.youpass.vn/assets/0484c3f6-c805-46ad-9018-69e91e49ae22.pdf",
+  "source_artifact": "research/expansion/tony-oct2025.pdf",
+  "source_sha256": "1d023a246b2f5110ef5b57be36ba69cb2dc54855f6f3adbafc6ca68d330d6e7e",
+  "source_locator": {
+    "volume": 21,
+    "cover_page": 29,
+    "original_pages": [
+      30
+    ],
+    "report_last_page": 39
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "Tony Grace is named in the correction report. The publisher says its academic team submits these originals to him for individual marking and describes him as a former IDP examiner. This is a practice assessment, not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "holdout",
+  "sample_kind": "teacher_model",
+  "quality_issues": [],
+  "duplicate_group": "insights-v21-p29-task1",
+  "prompt_group": "3c942bd24b1856b7",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "teacher",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-21-p29.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "score_page": 29,
+  "score_evidence": [
+    {
+      "page": 29,
+      "text": " \nIELTS Corrections \nPage 1 of 11 \nFor more IELTS advice go to Succeed in IELTS with Tony  \n15 October 2025 \nOVERALL BAND SCORE   \n8 \n \n7+8+8+9 \nSEE BELOW C&C LR GRA \n \nMODEL ANSWER  \nThe plans show the room layouts for training sessions for up to \nten nine people and more than ten nine people.  \nSummarize the information by selecting and reporting the main \nfeatures, and make comparisons where relevant. \n \n \n \n"
+    },
+    {
+      "page": 31,
+      "text": " \nIELTS Corrections \nPage 3 of 11 \nFor more IELTS advice go to Succeed in IELTS with Tony  \n15 October 2025 \nOVERALL BAND SCORE   \n8 \n \n7+8+8+9 \nTA – Task Achievement nb – GRA and LR errors have not been \ncorrected \nBand score 7 \nNot mentioning numbers is a significant omission.  I gave you 7 but you \ncould get 6 if the examiner decides it’s not a clear overview. \nYou covered the requirements of the task.   \nThere is a clear overview, in which you identified the main trends and \ndifferences. \nYou summarised the information accurately. \n \n \n  \nPREFERRED LAYOUT FOR TASK 1 ANSWERS \n•  Write an introduction paraphrasing the information provided.  If \npossible, change the structure from a noun phrase to a noun clause \n(eg change the chart gives information about the number of to the \nchart shows how many […] ). \n• Write a clear overview of the main trends, differences, and stages.  \nIf there are trends and differences (ie if there are changes over \ntime), give some information about both.  If there are only  \ndifferences, as in questions with no time scale, provide differences \nof more than one type.   \n• Put the overview after the introduction in a separate paragraph.  \nDon’t hide it in the introduction or at the end, as it’s the first thing \nthe examiner looks for. \n• Separate your paragraphs with blank lines. It looks better and there \ncan be no doubt that it is a new paragraph. \n"
+    }
+  ],
+  "extraction": "Use only the Your answer / Original answer section in the specified pages. Later TA/TR, CC, LR and GRA sections contain marked copies and rewrites. Front-of-magazine teaching versions are not the scored original. OCR only locates content; inspect original images.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "published_cover_traits": {
+    "TA": 7,
+    "CC": 8,
+    "LR": 8,
+    "GRA": 9
+  },
+  "trait_label_status": "Cover labels retained separately; reconcile all criterion pages before treating traits as validated labels.",
+  "evaluation_role": "reserved_unscored_v14",
+  "reserved_for_evaluation": "future_v14_complete_run",
+  "assessment_evidence_path": "evaluations/labels/v14-01.json"
+}

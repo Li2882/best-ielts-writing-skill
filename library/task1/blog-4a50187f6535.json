@@ -1,0 +1,47 @@
+{
+  "id": "blog-4a50187f6535",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-4a50187f6535.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-9/ielts-report-topic-bar-chart-and-pie-chart-describing-australian-water-consumption-from-ielts-high-scorers-choice-series-academic-set-1/",
+  "source_locator": "research/blog/ielts-report-topic-bar-chart-and-pie-chart-describing-australian-water-consumption-from-ielts-high-scorers-choice-series-academic-set-1.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "teacher_model",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "5d772b4af6af8863",
+  "prompt_group": "ff212ee15401b55f",
+  "question": "The bar chart below shows the average Australian water consumption in selected cities for last year. The pie chart shows the distribution of Australian water consumption for last year.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "Sample Band 9 Report\n\nThe bar chart shows the average Australian water consumption in selected cities for last year, while the pie chart shows how water was used in Australia for last year.\n\nIt can clearly be seen that water supply affected most of the key parts of Australian life and industry, but the most severely affected sector in a shortage would be agriculture.\n\nThe highest water consumer was the city of Perth with 300 kilolitres per property as an annual average. It was followed by Brisbane and Adelaide, where properties used 250 and about 240 kilolitres a year on average. In Sydney households consumed 200 kilolitres of water annually, and the smallest yearly average consumption was recorded in Melbourne and Canberra, about 150 and 140 kilolitres per property respectively.\n\nAmong industries, the largest water user in Australia last year was agriculture, which took up over two thirds of usage at 67%. The next largest usage was by households (9%), water supply, sewage and drainage (7%) and water used for electricity and gas supply (7%). The rest was used by manufacturing (4%), other industries (4%) and mining (2%).",
+  "word_count_computed": 188,
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/water-consumption-bar-pie-chart-writing-1-test-4.jpg",
+      "path": "library/assets/023345b83d98d3f8.jpg",
+      "sha256": "682f31af6ffba519b774da6dde7b8f7d324a99cf122ae7357fbe88c19b1ae3f0"
+    }
+  ],
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Go here for more IELTS Band 9 Reports",
+  "corrections": [],
+  "quality_issues": [
+    "teacher_model_not_scored_candidate"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "cc935ada9bd1af2cd4b745dd47792deaa26a89543bee761fc7d42db6d0dd7267",
+  "model_evidence": "Bar chart and pie chart describing Australian water consumption (from IELTS High Scorer's Choice series, Academic Set 1 book) https://www.ielts-blog.com/reports/water-consumption-bar-pie-chart-writing-1-test-4.jpg  data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20336%20280'%3E%3C/svg%3E  https://www.ielts-blog.com/images/banners/speaking-assessment-banner-new.jpg"
+}

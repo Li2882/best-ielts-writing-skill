@@ -1,0 +1,53 @@
+{
+  "id": "juice-248905",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248905.json",
+  "question": "Some people think that parents should teach children how to be good members of society. Others, however, believe that school is the place to learn this.\nDiscuss both views and give your opinion.",
+  "essay": "Some people believe that main responsibility is with parents to teach their kids to become beneficial individuals for society, while others argue that school plays a more important role in children’s future lives. In my opinion, both parents and schools must cooperate to help children develop positive personalities that can serve society in the future.\n\nIt is often said that children become who their fathers and mothers teach them to be, and this is probably why some people believe that it is parents’ duty to positively raise children. Parents are the first individuals that children live with, and before going to school, kids spend almost all of their times with their parents, and therefore, they are continuously influenced by their parents’ behaviours. Furthermore, there is a deep emotional relationship between kids and parents, which encourages them to follow or even mock their parents; perhaps, parents are the first role models for children. These reasons seem to be convincing to accept that parents are certainly responsible to teach social skills and behaviours to their kids.\n\nSome other people think that the buck lies with schools to educate children in a way that they become useful members of society. They may assert that teachers have been trained to teach children, and so, they are well-informed about pupils’ spiritual and psychological needs which makes them able to teach kids more effectively than parents who may be ignorant of their children’s true needs. Their next rational could be the fact that as many parents are workers with hectic work schedule, they probably do not have enough time to devote to their children, and this makes schools’ responsibility more essential.\n\nPersonally, I believe that if schools and parents do not work together constructively, it would be difficult, if not impossible, for children to develop sociable personalities that their main concerns are society. In other words, parents and schools must be in close touch, and follow the same educational methods, and approaches to educate children how to be influential members of society.",
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3240-band-7-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248905.html",
+  "source_sha256": "a7f1ec69bddd18ca2d3ddbc6501c15701a48fe9d724c6aaf30dc23236226f6e4",
+  "source_locator": {
+    "wordpress_post_id": 248905,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "holdout",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "0af676137121ada9",
+  "prompt_group": "568802dc7ad2e397",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "reserved_for_evaluation": "shared-criteria-01",
+  "label_paths": {
+    "ta_tr": "evaluations/labels/shared-criteria-01-ta-tr.json",
+    "cc": "evaluations/labels/shared-criteria-01-cc.json",
+    "lr": "evaluations/labels/shared-criteria-01-lr.json",
+    "gra": "evaluations/labels/shared-criteria-01-gra.json",
+    "provenance": "evaluations/labels/shared-criteria-01-provenance.json"
+  }
+}

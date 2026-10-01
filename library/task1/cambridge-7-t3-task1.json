@@ -1,0 +1,55 @@
+{
+  "id": "cambridge-7-t3-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-7-t3-task1.json",
+  "question": "You should spend about 20 minutes on this task.\nThe chart below shows information about changes in average house prices in five\ndifferent cities between 1990 and 2002 compared with the average house prices in\n1989.\nSummarise the information by selecting and reporting the main features, and\nmake comparisons where relevant.",
+  "question_image": "research/expansion/early-pages/c7-p70.png",
+  "images": [
+    {
+      "path": "research/expansion/early-pages/c7-p70.png",
+      "sha256": "7497cbb9744c341227b36b4b6a14da98b0224899395805af58722f88fba6153b"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/early-pages/c7-p158.png"
+  ],
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {},
+  "comments": null,
+  "comments_images": [
+    "research/expansion/early-pages/c7-p158.png"
+  ],
+  "source_url": "https://drive.usercontent.google.com/download?id=170ujlreNckQjVL-QP3KUVWau05SOfukL&export=download&authuser=0&confirm=t",
+  "source_artifact": "research/expansion/cambridge7-original.pdf",
+  "source_sha256": "60cafbe8fad2b31c3dc63cf8791c47ec9591c3796fcac8636cdfa86e06494dbf",
+  "source_locator": {
+    "book": 7,
+    "test": 3,
+    "question_page": 70,
+    "response_pages": [
+      158
+    ],
+    "score_line": "achieved a Band 6.5"
+  },
+  "publisher": "Cambridge University Press; public mirror",
+  "score_source": "official",
+  "rater_evidence": "Original book identifies this as an individually scored candidate response; original full response and examiner comment retained.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-7-t3-task1",
+  "prompt_group": "cambridge-7-t3-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Read original question and response images. OCR is only a reading aid and must not supply language errors or chart values."
+}

@@ -1,0 +1,124 @@
+{
+  "id": "insights-v17-p24-task1",
+  "task": "task1",
+  "task_type": "table",
+  "path": "library/task1/insights-v17-p24-task1.json",
+  "question": "The table below gives information on the salaries of secondary teachers in five countries in 2009.",
+  "essay": "The table compares the annual compensation of secondary teachers in five countries in 2009, along with information about how many years it took for them to secure the highest rates.\n\nOverall, teachers in all countries received higher salaries after 15 years, and those in Luxembourg consistently earned the most by far. In addition, Danish teachers reached the top salary the quickest, while their Korean counterparts took the longest to do so.\n\nIn Denmark, teachers were paid a total of $47,000 in their first year, moderately higher than their Australian counterparts' $34,000. Notably, it took less than a decade for teachers to receive the maximum levels of $54,000 in the former country and $48,000 in the latter one.\n\nRegarding the remaining countries, Luxembourg offered the highest initial salary for teachers, at $80,000, while their Korean and Japanese counterparts were paid the least, earning approximately $30,000. After 15 years of teaching, the salary of teachers in Luxembourg rose to $112,000, requiring an additional 15 years to reach the peak earnings of $139,000. Meanwhile, with 15 years of experience, Korean and Japanese teachers’ pay nearly doubled, reaching the level of about $50,000, and they needed around 35 years in total to receive peak salaries of $84,500 and $62,400, respectively.",
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-17-p24.png",
+      "sha256": "d42dbbd78cb13ca377613b29c33fda46243f519a09928e0b6c32f5bdc154d3e8"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-17-p25.png"
+  ],
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {
+    "TA": 9,
+    "CC": 9,
+    "LR": 8,
+    "GRA": 9
+  },
+  "comments": null,
+  "source_url": "https://cms.youpass.vn/assets/7eb068c4-6d47-4988-b583-746b764464da",
+  "source_artifact": "research/expansion/tony-dec2024.pdf",
+  "source_sha256": "db54489b6b9ba6cfdebdbf1eaf50f32658946478fd31ab9618820aac50489dd9",
+  "source_locator": {
+    "volume": 17,
+    "cover_page": 24,
+    "original_pages": [
+      25
+    ],
+    "report_last_page": 35,
+    "criterion_pages": {
+      "TA": 26,
+      "CC": 28,
+      "LR": 31,
+      "GRA": 33
+    }
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS 1984 authorship and separate Tony Grace report are explicit. Cover and four criterion headings agree with the author website score table. Not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "quality_issues": [],
+  "duplicate_group": "insights-v17-p24-task1",
+  "prompt_group": "be0717be1fd721d2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "teacher",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-17-p24.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-17-p24.png",
+    "research/expansion/insights/pages/vol-17-p26.png",
+    "research/expansion/insights/pages/vol-17-p27.png",
+    "research/expansion/insights/pages/vol-17-p28.png",
+    "research/expansion/insights/pages/vol-17-p29.png",
+    "research/expansion/insights/pages/vol-17-p30.png",
+    "research/expansion/insights/pages/vol-17-p31.png",
+    "research/expansion/insights/pages/vol-17-p32.png",
+    "research/expansion/insights/pages/vol-17-p33.png",
+    "research/expansion/insights/pages/vol-17-p34.png",
+    "research/expansion/insights/pages/vol-17-p35.png"
+  ],
+  "score_page": 24,
+  "score_evidence": [
+    {
+      "page": 24,
+      "text": " \nIELTS Corrections \nPage 1 of 12 \nFor more IELTS advice go to Succeed in IELTS with Tony  \n15 December 2024 \nOVERALL BAND SCORE   \n8.5  \n9+9+8+9 \nSEE BELOW C&C LR GRA \n \nMODEL ANSWER \nWRITING TASK 1 \nThe table below gives information on the salaries of \nsecondary teachers in five countries in 2009. Summarize the \ninformation by selecting and reporting the main points and \nmake comparisons where relevant. \n \n \n \n"
+    },
+    {
+      "page": 26,
+      "text": " \nIELTS Corrections \nPage 3 of 12 \nFor more IELTS advice go to Succeed in IELTS with Tony  \n15 December 2024 \nOVERALL BAND SCORE   \n9.5  \n9+9+8+9 \nTA – Task Achievement nb – GRA and LR errors have not been \ncorrected \nBand score 9 \nThe overview is clear. \nYou have summarised the information accurately.   \n \n \n \n \nRECOMMENDED LAYOUT FOR TASK 1 ANSWERS \n•  Write an introduction paraphrasing the information provided.  If \npossible, change the structure from a noun phrase to a noun clause \n(change the chart gives information about the number of to the \nchart shows how many […] ). \n• Write a clear overview of the main trends, differences, and stages.  \nIf there are trends and differences (ie if there are changes over \ntime), give some information about both.  If there are only \ndifferences, as in questions with no time scale, provide differences \nof more than one type.   \n• Put the overview after the introduction in a separate paragraph.  \nDon’t hide it in the introduction or at the end, as it’s the first thing \nthe examiner looks for. \n• Separate your paragraphs with blank lines. It looks better and there \ncan be no doubt that it is a new paragraph. \n• Write one or more paragraphs about the information itself and \norganise it logically.  Use signposting phrases to show your \norganisation to the examiner.  Eg Looking first at the most popular \nreasons, […] \n"
+    }
+  ],
+  "extraction": "Use only the Your answer / Original answer section in the specified pages. Later TA/TR, CC, LR and GRA sections contain marked copies and rewrites. Front-of-magazine teaching versions are not the scored original. OCR only locates content; inspect original images.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "published_cover_traits": {
+    "TA": 9,
+    "CC": 9,
+    "LR": 8,
+    "GRA": 9
+  },
+  "trait_label_status": "Cover labels retained separately; reconcile all criterion pages before treating traits as validated labels.",
+  "label_reconciliation": {
+    "original_issue": "PDF page 26 repeats an impossible overall 9.5 while the cover says 8.5.",
+    "raw_values_preserved": {
+      "cover_overall": 8.5,
+      "inner_overall": 9.5,
+      "criterion_labels": {
+        "TA": 9,
+        "CC": 9,
+        "LR": 8,
+        "GRA": 9
+      }
+    },
+    "corroborating_url": "https://ielts1984.vn/bai-viet/de-thi-ngay-09-11-2024-table",
+    "corroborating_artifact": "research/integer-anchors-20261001/1984/be581d6ed680.html",
+    "corroborating_sha256": "5d16dd5394e089c417e0bc867b99e46c34392b901d90abdfa1307a2339d0a622",
+    "resolution": "Author independently republishes overall 8.5 and 9/9/8/9. All four explicit PDF criterion labels match. The impossible inner total is retained as a source typographical anomaly, not used as a score.",
+    "visual_check": [
+      "1984/v17-contact.png",
+      "1984/v17-score-confirmation.png"
+    ],
+    "original_version": "PDF page 25 Your answer, not the author website variant (which adds school and shown).",
+    "pdf_sha256": "db54489b6b9ba6cfdebdbf1eaf50f32658946478fd31ab9618820aac50489dd9"
+  }
+}

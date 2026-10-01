@@ -1,0 +1,59 @@
+{
+  "id": "blog-a0395f14f67e",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-a0395f14f67e.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-line-graph-students-uk-us-australia-studied-in-other-countries/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/3c6bed0c0a6d553f.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "b2f602d886b1ba66",
+  "prompt_group": "22433c9b7d1102ee",
+  "question": "The graph below provides information on the number of students from the US, UK and Australia who studied in other countries between 2002 and 2007. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/featured/model-report-sample-band-8-line.jpg",
+      "path": "library/assets/ed2fab2473d5006c.jpg",
+      "sha256": "d754bcdbdadcfee17e7a37dd3d2e24b7114067dd0578908de124c0e8b94dcd2b"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/writing-1-students-from-us-uk-au-abroad.jpg",
+      "path": "library/assets/9318d28fc17c95d5.jpg",
+      "sha256": "cef5fb96db7223c86b103a792d209c300d491a50349e252959716f70f4f97e84"
+    }
+  ],
+  "essay": "* Note: this isn’t the actual graph given in the test, it was recreated for the purpose of demonstration.\n\nBand 8.5 Model Answer\n\nThe chart provides data on the number of students from the US, UK, and Australia who studied in other countries over a six-year period from 2002 to 2007.\n\nOverall, while the US and Australia initially saw a decrease in students studying abroad, they returned to their original figures by 2007. The UK, however, experienced a continual decline over the six years.\n\nInitially, in 2002, the US had the highest number of students studying abroad, with 50,000, followed by the UK with 30,000, and Australia with 10,000. Over the next two years, there was a decrease in the number of students from all three countries studying abroad. The US saw a reduction to 48,000 in 2003 and then to 46,000 in 2004. Similarly, the UK maintained its figure at 30,000 in 2003 but then dropped to 27,000 in 2004. Australian students decreased to 9,000 in 2003 and further to 8,000 in 2004.\n\nHowever, in 2005, the trend reversed for the US and Australia, with the number of US students increasing slightly to 47,000 and Australian students returning to 10,000. The UK, on the other hand, continued to see a decline, dropping to 25,000. This downward trend persisted for the UK through 2006 and 2007, reaching 23,000 and 21,000 respectively. In contrast, the US and Australia maintained a steady increase. The US returned to its 2002 level of 50,000 students by 2007, while Australian students consistently remained at 10,000 from 2005 onward.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 263,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "4910acf21d6e10d8646422600de9535fad9e6f7c4d72d5245e5b0cc0a5a3b5ab",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5
+}

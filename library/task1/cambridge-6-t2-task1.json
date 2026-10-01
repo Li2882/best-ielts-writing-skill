@@ -1,0 +1,55 @@
+{
+  "id": "cambridge-6-t2-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-6-t2-task1.json",
+  "question": "You should spend about 20 minutes on this task.\nThe table below gives information about changes in modes of travel in\nEngland between 1985 and 2000.\nSummarise the information by selecting and reporting the main features,\nand make comparisons where relevant.",
+  "question_image": "research/expansion/early-pages/c6-p54.png",
+  "images": [
+    {
+      "path": "research/expansion/early-pages/c6-p54.png",
+      "sha256": "fa67dafcc4b66f0d2d4c7486daee76e977e7e06a5b37bc5dfa8379113070136f"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/early-pages/c6-p165.png"
+  ],
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {},
+  "comments": null,
+  "comments_images": [
+    "research/expansion/early-pages/c6-p165.png"
+  ],
+  "source_url": "https://drive.usercontent.google.com/download?id=1agm21ndm-nxBy65mlRUpvNn3DvqrcxoW&export=download&authuser=0&confirm=t",
+  "source_artifact": "research/expansion/cambridge6-original.pdf",
+  "source_sha256": "d438390518c63e5865793e111dbd1d4e2522553227c40495fb2ebc98f2c74c2a",
+  "source_locator": {
+    "book": 6,
+    "test": 2,
+    "question_page": 54,
+    "response_pages": [
+      165
+    ],
+    "score_line": "Band 6, visually checked in original image; OCR misreads Band"
+  },
+  "publisher": "Cambridge University Press; public mirror",
+  "score_source": "official",
+  "rater_evidence": "Original book identifies this as an individually scored candidate response; original full response and examiner comment retained.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-6-t2-task1",
+  "prompt_group": "cambridge-6-t2-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Read original question and response images. OCR is only a reading aid and must not supply language errors or chart values."
+}

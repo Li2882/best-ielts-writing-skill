@@ -1,0 +1,87 @@
+{
+  "id": "juice-253374",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-253374.json",
+  "question": "In their advertising, businesses nowadays usually emphasise that their products are new in some way.\nWhy is this the case?\nDo you think that this is a positive or negative development?",
+  "essay": "It is common for business owners to promote their products in a way to make them seem revolutionary. I believe this is primarily because the current market is extremely competitive, and this is an unfavourable marketing strategy as most of the items are not actually what they originally were promoted to be.\n\nThe competition in the business sector is fierce, and wanting an edge over the competitors is understandable. Most entrepreneurs strive to win over potential buyers to pick them over their adversaries. In other words, they would do anything to persuade their target audience that they have a superior product and that choosing them is more cost-effective. For instance, the way Apple promotes its new iPhones every year is remarkable, and how it always attempts to include a new feature that is not found in its biggest opponent, Samsung; in this way, they are a step ahead, and this might be enough to convince potential customers to buy their mobiles.\n\nAlthough marketing new merchandise as being ground-breaking is considered good to excel over contenders, it is not the best idea to lie and deceive individuals; most of the new products are a scam, and marketers use “trendy” words to attract new customers. Unfortunately, it is quite common to market an item as being “life-changing” even though it is not, and the geriatric population is frequently falling prey to such scams.\n\nthis is mainly because there are no regulations regarding fair marketing. For example, pharmaceutical companies promote their new vitamin bottles as ‘anti-aging’ or as diet replacements, none of which is FDA-approved or packed up by scientific studies or clinical trials.\n\nIn conclusion, it is acceptable for businessmen to promote their items as radical, honesty should not be omitted. It is understandable that they need to somehow captivate the target audience, misleading and lying to purchasers is unacceptable practice.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TR": 9.0,
+    "CC": 6.0,
+    "LR": 8.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this essay. Vocabulary-rich, to-the-point, and clear essay! The only areas that need immediate attention are the missing “but” in the conclusion and the third body paragraph, which does not clearly explain why it is a separate entity.\nVideo Feedback",
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3357-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-253374.html",
+  "source_sha256": "80badd0dac7256b81f2322eac650acc465881a65699306289745877ee39a5a01",
+  "source_locator": {
+    "wordpress_post_id": 253374,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "30269dbcf3796630",
+  "prompt_group": "20f70460e13d5f41",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "9.0\tfully addresses all parts of the task",
+      "9.0\tpresents a fully developed position in answer to the question",
+      "9.0\twith relevant, fully extended, and well-supported ideas",
+      "9.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "6.0\tuses cohesive devices effectively, but cohesion within and/or between sentences may be faulty or mechanical",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "6.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "9.0\twith very natural and sophisticated control of lexical features",
+      "8.0\tproduces rare errors in spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "8.0\tthe majority of sentences are error-free",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

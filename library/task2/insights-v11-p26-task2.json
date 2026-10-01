@@ -1,0 +1,97 @@
+{
+  "id": "insights-v11-p26-task2",
+  "task": "task2",
+  "task_type": "discussion",
+  "path": "library/task2/insights-v11-p26-task2.json",
+  "question": "Some people think that museums should be enjoyable places to entertain people, while others believe that the purpose of museums is to educate. Discuss both views and give your own opinion.",
+  "essay": "Opinions are divided on whether museums should primarily serve educational purposes or focus on providing entertainment value. I think that it is no longer relevant for museums to exclusively focus on education in todaVs society, and the introduction of leisure and amusement aspects would be preferable. Proponents of education as a primary motivation for how museums should operate could present some valid arguments. They argue that the main purpose of these facilities is to cater to those seeking tangible learning opportunities and practical experiences beyond traditional sources of knowledge. For example, science museums allow visitors to engage with detailed dinosaur models and sense the prehistoric world first-hand, thereby gaining a deeper understanding of natural history - an experience that written documents alone can hardly live up to. Nevertheless, although I acknowledge the educational value that this approach can bring about, I am convinced that relying solely on static displays and written information is rather boring and tedious. This could ultimately lead to a decline in visitor counts and affect a museum's operations in the long run. Therefore, I believe that it is advisable for museums to incorporate elements of entertainment to provide maximum value to visitors and adapt to modern expectations. By offering recreational services and enjoyable experiences, museums can create an inviting atmosphere that encourages people of all ages to come and explore. As a result, increased visitor engagement generates more financial resources for the preservation of precious objects, helping maintain their accessibility to the public. Furthermore, becoming more entertainment-oriented can turn museums into an environment more conducive to knowledge acquisition. For example, amenities like interactive games, virtual reality experiences or theatrical performances can simplify complex concepts and make exhibits more engaging to young visitors, fostering a sense of curiosity and encouraging them to actively learn more about the subject matter.",
+  "images": [],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-11-p27.png",
+    "research/expansion/insights/pages/vol-11-p28.png"
+  ],
+  "overall": 9,
+  "band_low": 9,
+  "band_high": 9,
+  "traits": {
+    "TR": 9,
+    "CC": 9,
+    "LR": 9,
+    "GRA": 9
+  },
+  "comments": null,
+  "source_url": "https://cms.youpass.vn/assets/28835829-efbd-44ed-9cbf-fe0c377828e6?",
+  "source_artifact": "research/expansion/insights/vol-11.pdf",
+  "source_sha256": "45ac7c4b0303e1a93a402ef237fafb27d6daf60a7babe0dd298e224ba4c272e1",
+  "source_locator": {
+    "volume": 11,
+    "cover_page": 26,
+    "original_pages": [
+      27,
+      28
+    ],
+    "report_last_page": 38
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "Tony Grace is named in the correction report. The publisher says its academic team submits these originals to him for individual marking and describes him as a former IDP examiner. This is a practice assessment, not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "quality_issues": [
+    "OCR transcription was visually checked but remains a transcription of the image original.",
+    "OCR transcription was visually checked but remains a transcription of the image original."
+  ],
+  "duplicate_group": "insights-v11-p26-task2",
+  "prompt_group": "202bcf8d8512a0c5",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "author_type": "teacher",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-11-p26.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-11-p26.png",
+    "research/expansion/insights/pages/vol-11-p29.png",
+    "research/expansion/insights/pages/vol-11-p30.png",
+    "research/expansion/insights/pages/vol-11-p31.png",
+    "research/expansion/insights/pages/vol-11-p32.png",
+    "research/expansion/insights/pages/vol-11-p33.png",
+    "research/expansion/insights/pages/vol-11-p34.png",
+    "research/expansion/insights/pages/vol-11-p35.png",
+    "research/expansion/insights/pages/vol-11-p36.png",
+    "research/expansion/insights/pages/vol-11-p37.png",
+    "research/expansion/insights/pages/vol-11-p38.png"
+  ],
+  "score_page": 26,
+  "score_evidence": [
+    {
+      "page": 26,
+      "text": " \nIELTS Corrections \nPage 1 of 13 \n \nFor more IELTS advice go to Succeed in IELTS with Tony  \n15 June 2024 \nĐây là nội dung được xuất bản bởi trung tâm IELTS 1984. Các bạn có \nthể đọc thêm nhiều bài mẫu, với hướng dẫn viết bài chi tiết từ số 0, \ntại website trung tâm nha. \nhttps://ielts1984.vn/tong-quan-ve-ielts/ielts-writing-task-2 \nQR code: \n \n \nOVERALL BAND SCORE  \n9 \n \n9+9+9+9 \nSEE BELOW C&C LR GRA \nMODEL ANSWER  \nWRITING TASK 2  \nWrite about the following topic: \nSome people think that museums should be enjoyable places to \nentertain people, while others believe that the purpose of museums is \nto educate.  \nDiscuss both views and give your own opinion. \nGive reasons for your answer and include any relevant examples from \nyour own knowledge or experience. \nWrite at least 250 words.  \n"
+    },
+    {
+      "page": 29,
+      "text": " \nIELTS Corrections \nPage 4 of 13 \n \nFor more IELTS advice go to Succeed in IELTS with Tony  \n15 June 2024 \nOVERALL BAND SCORE  \n9 \n \n9+9+9+9 \nTR – Task Response nb – GRA and LR errors have not been corrected \nBand score 9 \nI would make it clear that both are important and necessary, and that’s \nwhat you did. \nYou have a clear position throughout and all parts of the question are \naddressed.    \nYour position is coherent and well-argued. The ideas are relevant, \nextended, and coherent. \n \n \nADVICE ON BRAINSTORMING FOR TASK 2 \nAs you’re planning and writing your answer, remember to constantly \nask yourself if you’re answering the question.  Check back to the \nquestion a few times as you think of ideas to make sure they're \ndirectly relevant.   \n• Make sure your introduction directly addresses the question.   \n• Make sure your ideas address all parts of the question.  If the \nquestion asks for solutions, in the plural, you must suggest at \nleast 2. \n• Make sure your main ideas, as stated in the first sentence of the \nmain body paragraphs, are directly relevant to the question. \n• Make sure your supporting ideas, which follow the main ideas in \nthe main body paragraphs, directly support the main idea. \n"
+    }
+  ],
+  "extraction": "Original-answer pages transcribed from the retained page images by OCR; all pages were visually checked on 2026-09-25. Headers, footers and watermarks were removed.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "published_cover_traits": {
+    "TR": 9,
+    "CC": 9,
+    "LR": 9,
+    "GRA": 9
+  },
+  "trait_label_status": "Criterion pages cross-checked against cover and retained with full report; original and report images retained.",
+  "trait_evidence_path": "research/trait-calibration/insights-v11-p26-task2.json",
+  "word_count_computed": 302
+}

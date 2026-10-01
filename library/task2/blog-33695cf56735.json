@@ -1,0 +1,82 @@
+{
+  "id": "blog-33695cf56735",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-33695cf56735.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-getting-the-news-from-tv-radio-or-the-internet/",
+  "source_locator": "research/blog/ielts-essay-topic-getting-the-news-from-tv-radio-or-the-internet.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "785bed5dab653e6f",
+  "prompt_group": "bf5c0c70c2e26efa",
+  "question": "You can get up-to-date news from the radio, TV and the Internet. Which kind of media do you think is the best to get the news?",
+  "essay": "Nowadays, there are several channels to get news, such as the radio, TV, newspapers and the Internet. I think the Internet is the best among these. In my essay, I am going to explain why.\n\nSince its invention, the Internet has been booming as a prospective industry. Not only because it is a combination of text, audio and video, but also due to its convinience. It has threatened the domination of spreading news of the traditional media, and, I would say, is about to take control. We can find everything we want on the Internet – the latest news, books, songs, movies, cartoons… whatever. With the radio, we can merely hear. Compared to a newspaper, the radio and TV can provide the latest information. For instance the breaking news of the Americans’ attacking Iraq was immediately availalbe online, as well as that the Twin Towers of New York were destroyed on September 11, 2001. However, we just cannot carry TV 24/7.\n\nThe Internet is a convinient way of getting information, as long as your mobile phone is connected or you possess a laptop. When I am on a vehicle, I usually have my cellphone connected to the Internet, then browse through whathappend in the past few hours, or log in MSN to begin a conversation with my friends. Reading a newspaper is also a good way to kill time, but for me, a youngster, it is not so modern as “surfing online while commuting”.\n\nThe traditional media will never disappear, though the Internet has taken a big advantage in the competition. And definitely, there is still a long way for the Internet to go. Anyway, the Internet benefits me the most, and I highly appreciate it.",
+  "word_count_computed": 286,
+  "images": [],
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay needs some work. It covers the task and its structure is fine. However the structure of the sentences needs attention (see suggestions in comments underlined in blue). Some words such as “whatever” should be avoided. You use prepositions in an inaccurate way and there are grammatical and spelling errors in your essay as well. Overall, this looks like a Band 6.5 essay.",
+  "corrections": [
+    {
+      "original": "In my essay, I am going to explain why",
+      "suggestion": "This sentence has no value, instead you could say that other kinds of media have their advantages too, however, there are objective reasons why the Internet is the best"
+    },
+    {
+      "original": "convinience",
+      "suggestion": "convenience"
+    },
+    {
+      "original": "whatever",
+      "suggestion": "don’t use this word in essay, use “and more” instead"
+    },
+    {
+      "original": "availalbe",
+      "suggestion": "available"
+    },
+    {
+      "original": "carry TV 24/7",
+      "suggestion": "watch TV all day long"
+    },
+    {
+      "original": "convinient",
+      "suggestion": "convenient"
+    },
+    {
+      "original": "on",
+      "suggestion": "in"
+    },
+    {
+      "original": "happend",
+      "suggestion": "happened"
+    },
+    {
+      "original": "in",
+      "suggestion": "over"
+    },
+    {
+      "original": "Anyway",
+      "suggestion": "Because of all of the advantages"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "87b3604d49493c730b2757e867b51ce6997e9d275b37f9445f8229db887e610c",
+  "model_evidence": null,
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01"
+}

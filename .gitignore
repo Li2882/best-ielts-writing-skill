@@ -1,0 +1,15 @@
+# User submissions and private local tooling must not be published.
+reviews/
+local-materials/
+.tools/
+.env
+.env.*
+*.pem
+*.key
+auth.json
+config.toml
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

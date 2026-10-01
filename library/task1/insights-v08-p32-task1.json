@@ -1,0 +1,99 @@
+{
+  "id": "insights-v08-p32-task1",
+  "task": "task1",
+  "task_type": "line",
+  "path": "library/task1/insights-v08-p32-task1.json",
+  "question": "The graph below shows the percentage of Australian exports to four countries from 1990 to 2012.",
+  "essay": "The line graph illustrates how Australia exported its products to four countries, including Japan, the US, China, and India, between 1990 and 2012. Overall, there was an increase in the proportion of Australian exports to India and China, with the most dramatic rise being seen in the latter, making it the largest export destination for Australia by the end of the period. In contrast, exports to the US and Japan experienced a decrease over the given timeframe. Looking at the chart in more detail, in 1990, among the four destinations, India and China were the smallest export partners for Australia, with negligible figures of 1% and 2%, respectively. Thereafter, China's importance significantly increased over the period, as the percentage of exports to this country steadily rose to 5% by 2000, before surging more than fivefold to 27% in the final year. Likewise, India maintained a marginal presence in Australia's export market, at just 1% for the first decade, after which its share slightly increased, reaching a peak of 7% in 2010, before falling back to 5% two years later. With regard to the remaining countries, in the first year, Japan was the leading destination shown for Australian goods, with more than a quarter of total exports going there, twice the figure for the US, at 11%. In the following years, the figures for Japan fell to 17%, and stayed unchanged in the two final years. Similarly, the share of Australian exports to the US underwent a downward fluctuation throughout the period, bottoming out at 5% in 2010 before a modest recovery to 7% by the end of the period. VOL.81 MAR 2023 33",
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-08-p32.png",
+      "sha256": "3931a31fdf10d052038790f80bb60428dca0b27b8c3c0f3f1a775afd93ed00f4"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-08-p33.png"
+  ],
+  "overall": 8,
+  "band_low": 8,
+  "band_high": 8,
+  "traits": {
+    "TA": 8,
+    "CC": 8,
+    "LR": 9,
+    "GRA": 8
+  },
+  "comments": null,
+  "source_url": "https://cms.youpass.vn/assets/0f3e75bf-75bc-45df-bf35-e930708448b1",
+  "source_artifact": "research/expansion/insights/vol-08.pdf",
+  "source_sha256": "70d1e28800c7c127065b634f119aa88cd80697bd5ade25a7dbb62319a2e4e41d",
+  "source_locator": {
+    "volume": 8,
+    "cover_page": 32,
+    "original_pages": [
+      33
+    ],
+    "report_last_page": 42
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "Tony Grace is named in the correction report. The publisher says its academic team submits these originals to him for individual marking and describes him as a former IDP examiner. This is a practice assessment, not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "quality_issues": [
+    "OCR transcription was visually checked but remains a transcription of the image original.",
+    "OCR transcription was visually checked but remains a transcription of the image original."
+  ],
+  "duplicate_group": "insights-v08-p32-task1",
+  "prompt_group": "63658b17c02127b5",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "teacher",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-08-p32.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-08-p32.png",
+    "research/expansion/insights/pages/vol-08-p34.png",
+    "research/expansion/insights/pages/vol-08-p35.png",
+    "research/expansion/insights/pages/vol-08-p36.png",
+    "research/expansion/insights/pages/vol-08-p37.png",
+    "research/expansion/insights/pages/vol-08-p38.png",
+    "research/expansion/insights/pages/vol-08-p39.png",
+    "research/expansion/insights/pages/vol-08-p40.png",
+    "research/expansion/insights/pages/vol-08-p41.png",
+    "research/expansion/insights/pages/vol-08-p42.png"
+  ],
+  "score_page": 32,
+  "score_evidence": [
+    {
+      "page": 32,
+      "text": "Page 1 of 12\nOVERALL BAND SCORE\nSEE BELOW LR GRA\nWRITING TASK 1\n8\nIELTS Corrections\n8+8+9+8\nMODEL ANSWER\nThe graph below shows the percentage of Australian exports to 4\ncountries from 1990 to 2012.\nAustralian exports to 4 countries\nJapan US China\n25\nFor more IELTS advice go to Succeed in IELTS with Tonv\n2010\n2012\n4 March 2024\nVOL. 8 |\nMAR 2023\n32t"
+    },
+    {
+      "page": 34,
+      "text": "Page 3 of 12\nOVERALL BAND SCORE\n8\nIELTS Corrections\n8+8+9+8\nTA — Task Achievement nb — GRA and LR errors have not been corrected\nBand score 8\nYou covered the requirements of the task.\nAll the key features and details are given clearly with sufficient detail and\naccuracy.\n• presents, highlights and\n• covers all requirements ot the\nillustrates key features/bullet\ntask sufficiently\npoints clearly and\nBand score 8 TA\nappropriately\nBand score 8 TA\nRECOMMENDED LAYOUT FOR TASK 1 ANSWERS\nWrite an introduction paraphrasing the information provided. If\npossible, change the structure from a noun phrase to a noun clause\n(cha nge the chart gives information about the number of to the chart\nshows how many\nWrite a clear overview of the main trends, differences, and stages.\nIf there are trends and differences (ie if there are changes over time),\ngive some information about both. If there are only differences, as\nin questions with no time scale, provide differences of more than\none type.\nPut the overview after the introduction in a separate paragraph.\nDon't hide it in the introduction or at the end, as it's the first thing\nthe examiner looks for.\nSeparate your paragraphs with blank lines. It looks better and there\ncan be no doubt that it is a new paragraph.\nFor more IELTS advice go to Succeed in IELTS with Tonv\n4 March 2024\nVOL.81 MAR 2023\n34"
+    }
+  ],
+  "extraction": "Original-answer pages transcribed from the retained page images by OCR; all pages were visually checked on 2026-09-25. Headers, footers and watermarks were removed.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "published_cover_traits": {
+    "TA": 8,
+    "CC": 8,
+    "LR": 9,
+    "GRA": 8
+  },
+  "trait_label_status": "Criterion pages cross-checked against cover and retained with full report; original and report images retained.",
+  "trait_evidence_path": "research/trait-calibration/insights-v08-p32-task1.json",
+  "word_count_computed": 273
+}

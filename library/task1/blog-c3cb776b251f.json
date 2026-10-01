@@ -1,0 +1,84 @@
+{
+  "id": "blog-c3cb776b251f",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-c3cb776b251f.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-7/ielts-report-topic-bar-graph-of-water-usage/",
+  "source_locator": "research/blog/ielts-report-topic-bar-graph-of-water-usage.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "e4159f5441f1a1ed",
+  "prompt_group": "0d2b1fab3cdacf58",
+  "question": "The graph below shows the annual water usage (in millions of cubic meters) by industries in Somecountry. Write a report for a university tutor describing the information shown.",
+  "essay": "The bargraph describes the water usage for every year in Somecountry in millions of cubic meters.\n\nFood/drinks, metal, paper and chemicals are all over 100 of ground water where chemicals peaks at dramaticlly 430. The highest figure of water usage of public supply also belongs to chemicals (240). Next on the list is food/drinks with 190, the others are under 100.\n\nOverall, the chemical industry uses a lot more water than the rest of the industries in terms of both ground water and public supplies, and in general, most industries use ground water by far more than public supply.",
+  "word_count_computed": 101,
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/water.JPG",
+      "path": "library/assets/f9802f56f2ec7353.jpg",
+      "sha256": "ebf9fb5e2ebcabd4ef76be742f7c62fbb608b226cebe50c8c2420ac735e73708"
+    }
+  ],
+  "overall": null,
+  "band_low": null,
+  "band_high": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a good report, the trends are correctly noticed. Suggested improvements: use units in addition to numbers (10 of what? Millions of cubic meters). Use more connective words to smoothly move from one paragraph to another. Pay attention to grammar, see comments.",
+  "corrections": [
+    {
+      "original": "bargraph",
+      "suggestion": "bar graph"
+    },
+    {
+      "original": "The water",
+      "suggestion": "This sentence belongs in the first paragraph"
+    },
+    {
+      "original": "are",
+      "suggestion": "is"
+    },
+    {
+      "original": " trends ",
+      "suggestion": "sources of water"
+    },
+    {
+      "original": "70 and 80",
+      "suggestion": "It is not clear who uses 70 and who 80, and also you didn’t mentioned the units (millions of cubic meters)"
+    },
+    {
+      "original": "are",
+      "suggestion": "is"
+    },
+    {
+      "original": "has",
+      "suggestion": "consumes"
+    },
+    {
+      "original": "are all",
+      "suggestion": "all use"
+    },
+    {
+      "original": "dramaticlly",
+      "suggestion": "dramatically high level of"
+    }
+  ],
+  "quality_issues": [
+    "no_explicit_band_in_comment"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "f5e55f98401ebe1d813847834acf97df7e028988c942282591ae43df9d510906",
+  "model_evidence": null
+}

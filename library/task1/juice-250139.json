@@ -1,0 +1,93 @@
+{
+  "id": "juice-250139",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-250139.json",
+  "question": "The given charts give information about the number of students at university in the UK from 1991 to 2001, government spending and the types of family economic background they came from in 1991.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The information of the number of attendees at university in the UK in the period of 1991 to 2001 is compared in the given bar chart, and government expenditure on each student during this period is illustrated in the line chart. The pie chart shows the financial situation of students in 1991.\n\nOverall, it is abundantly clear that during the survey, the number of students, participating university in the UK, surged, while government spending on every pupil saw a significant decrease. In 1991, a majority of students came from middle-class families.\n\nLooking at the bar chart, it can be seen that in 1991, just over a million students were at the university in the UK. In the following four years, this number increased to over 1,500,000 students which remained stable until 1997, before experiencing a peak of just over 2,000,000 students in 1999. Finally, the number of students had slightly dipped to 2,000,000 by 2001.\n\nRegarding the line chart, in 1991, the government expended about 6,500 pound for each student, but this amount of subsid was cutted until 1996 to just below 5000 pound. The expenditure had been remained unchanged by 2001.\n\nIf we look at the pie chart, it can be obvious that the main students’ families had middle incomes, with 62% of the whole numbers, and 30% of them came from wealthy families in 1991. Only a mere 8% of them were poor.",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TA": 7.0,
+    "CC": 7.0,
+    "LR": 6.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you indeed for writing this report. Let's focus on two areas: Lexical Resource (LR): The candidate uses an adequate range of vocabulary for the task, with some attempt to use less common vocabulary, though with inaccuracy, such as \"expended\" instead of \"spent\" and \"subsid\" instead of \"subsidy\". There are some errors in spelling and word formation that do not impede communication, such as \"cutted\" instead of \"cut\". Grammatical Range and Accuracy (GRA): A mix of simple and complex sentence forms is used, and some errors in grammar and punctuation are present but they rarely reduce communication. Errors like \"had been remained unchanged\" show a lack of control over complex structures. Overall: The overall response is competent, addressing the task with relevant data representation. To improve, the candidate should focus on enhancing the accuracy of language, both in terms of vocabulary and grammar, and strive for a clearer. The response should also aim for more precise and varied lexical use, avoiding inaccuracies in word choice and formation. Lastly, to achieve a higher band, the response must present a fully developed analysis of the charts, with all key features extended and supported.\nVideo Feedback",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "7.0\tcovers the requirements of the task",
+      "7.0\tclearly presents and highlights key features",
+      "7.0\tcould be more fully extended",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "7.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "6.0\tuses paragraphing, but not always logically",
+      "7.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "6.0\tattempts to use less common vocabulary but with some inaccuracy",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "6.0\tthey do not impede communication",
+      "6.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "6.0\tcomplex sentences have the same accuracy as the simple ones do",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.5"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-250139-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2023/11/IELTS-JUICE-Writing-Task-1-report-sample-3112-Band-6.5.jpg",
+      "sha256": "424e0d0641bbab05e32aa99751e0ca318a356fdfd152f1c164354fff59fe7460"
+    }
+  ],
+  "question_image": "library/assets/juice-250139-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3112-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-250139.html",
+  "source_sha256": "057f3979f8953d6fe223cfcc09cabd78e4600c90f10b8f76c2d54f8b4d71b2e7",
+  "source_locator": {
+    "wordpress_post_id": 250139,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "f12360d03d2d2e0a",
+  "prompt_group": "2c3d498defc86998",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

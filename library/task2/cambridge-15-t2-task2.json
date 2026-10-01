@@ -1,0 +1,51 @@
+{
+  "id": "cambridge-15-t2-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/cambridge-15-t2-task2.json",
+  "question": "In the future, nobody will buy printed newspapers or books because they will be able to read everything they want online without paying.\nTo what extent do you agree or disagree with this statement?\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.",
+  "question_image": null,
+  "images": [],
+  "essay": null,
+  "essay_images": [
+    "evaluations/labels/pilot-02-sources/c15-p133.png",
+    "evaluations/labels/pilot-02-sources/c15-p134.png"
+  ],
+  "reading_transcript": "Todays technologies enable us to read book on electronic devices and what's more, we can store hundreds of thousands of books on devices like Amazon's kindle e-reader. This makes some people to believe that people will stop printing books and in the future, everything will be digitalized.\n\nElectronic books and newspapers have many advantages. They are easy to use and rech. They can be stored in computers, mobiles, e-readers and in cloud in huge amounts and are available at any time. The cost of manufacturing and printing is completely removed, which reduced their price. Digital book and newspapers also have one very important advantage — they are environmentally friendly. No paper is used to print magazines and books, which means less trees are cut from our forests to produce papers. All of these factors convinced many people that digital versions of books and magazines is more convenient, ethical and cheaper choice.\n\nOn the other hand, traditional printed books and magazines have existed for centuries and I believe they have created some kind of emotional connection and value for people. When a man reads a book and he likes it, he most probably would like to have it in a form of a tangible thing. Books are a form of art, like statues and paintings. You can have a picture of some famous painting, but the painting itself has some intangible value. Magazines and newspapers do not have such a value in themselves.\n\nBased on this, I believe that the amount of books are printed will decrease considerably and maybe even dramatically, however printed, tangible books will still be demanded by many people as they have some aura and value in addition to the things that are written inside.\n\nI do think, though, that there is a big chance magazines and newspapers will move into the online world completely. This is because they are published in huge numbers daily and weekly and monthly and no one needs them after years. Printing so huge amount of articles will demand additional recources and make them less competitive even in terms of price.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {},
+  "comments": "This is a thoughtful exploration of the topic. The writer considers the advantages of having online materials rather than printed ones, and also examines why printed books may not totally disappear, although other printed materials, such as magazines and newspapers, may become completely digitalised. The score might be improved by further exploration of whether online materials will be free, as cost is mentioned only briefly. Organisation is clear, paragraphing is logical and linking words and phrases guide the reader through the script [All of these factors | On the other hand | Based on this]. The range of vocabulary is quite varied, with many examples of collocation [electronic devices | Digital book and newspapers | environmentally friendly | digital versions | traditional printed books | emotional connection and value] with only two spelling errors [rech / reach | recources / resources]. There is a mix of simple and complex sentence structures and these are generally accurate. Some errors do occur [Todays / Today's | to read book(s) | makes some people to believe / makes some people believe | digital versions of books ... is / are more convenient | Printing so / such a huge amount of articles], but the meaning is still clear.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-15-academic/",
+  "source_artifact": "evaluations/labels/pilot-02-sources/cambridge-15.html",
+  "source_sha256": "abee9eaf55d90ace978e16dc6132ed5a1cda9240465edd8aafb2fd9e399d667e",
+  "source_locator": {
+    "book": 15,
+    "test": 2,
+    "pdf": "research/expansion/cambridge15-original.pdf",
+    "response_pages": [
+      133,
+      134
+    ],
+    "score_line": "achieved a Band 6.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-15-t2-task2",
+  "prompt_group": "cambridge-15-t2-task2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

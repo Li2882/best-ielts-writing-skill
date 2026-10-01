@@ -1,0 +1,54 @@
+{
+  "id": "blog-88a26b6c6443",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-88a26b6c6443.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-9/ielts-report-topic-table-road-traffic-london-from-ielts-high-scorers-choice-series-academic-set-4/",
+  "source_locator": {
+    "page_marker": "Sample Band 9 Report",
+    "source_file": "research/expansion/high-band-sources/blog-pages/478e7dbbfafb49ad.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog; High Scorer’s Choice IELTS Practice Tests",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page labels this response as a Band 9 model (\"close to\" or \"likely to score\" Band 9) from High Scorer’s Choice. This is a published teacher/examiner model label, not an official Cambridge TRF; the distinction is retained for calibration review.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "High Scorer’s Choice model author",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "7197377dafb25e67",
+  "prompt_group": "58519226990c873d",
+  "question": "High Scorer’s Choice IELTS Practice Tests book series (reprinted with permission). This answer is close to IELTS Band 9. Set 4 Academic book, Practice Test 18 Writing Task 1 You should spend about 20 minutes on this task. The table below shows the total amount of road traffic in the London borough of Enfield for the years 2008 – 2015. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/table-writing-task-1-test-18-web.jpg",
+      "path": "library/assets/b6baca06b51e71a6.jpg",
+      "sha256": "f5b549dfd9c58eb2c1c69fc87b670df54857bbe4319f012f650ffb3e56e34998"
+    }
+  ],
+  "essay": "The table shows six categories of the total road traffic in the London borough of Enfield for the years 2008 to 2015. The totals are all given in thousands of vehicle miles.\nOverall, it is evident that pedal cycles travelled the least and cars – the most.\nThe fewest road miles were completed by pedal cycles. There were 1542K miles completed in 2008 and this steadily rose to 1712K miles in 2011, before falling again to a low of 1017K miles in 2014. 2015 saw a rise again to 1360K miles. Motorcycles experienced a contrasting trend, miles dropping from 2008 to 2010 before rising again to 2014, followed by a small drop in 2015.\nLight goods vehicles also showed a general trend, going down from 2008 with 110,150K miles to 87,397K miles in 2011 and then rising again to 115,311K miles in 2015.\nCars showed the highest miles completed, though there was no real trend, with numbers going up or down randomly in all years. The highest figure was 644,208K miles in 2011 and the lowest was 578,072K in 2012. Buses and coaches and heavy goods vehicle also showed no discernable trends.\nThe totals for all vehicles also showed no apparent trend with figures going up or down in following years. The year with the highest miles was 812,323K in 2011 and the lowest was 747,214K miles in 2012.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Published source label: individual Band 9 model response; no four-trait numerical breakdown published.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 229,
+  "extraction": "HTML original prompt and model response; source label and module context retained.",
+  "source_sha256": "207d2194d48e9b3e06df168388acdd39815f6b6d9d20854af59931e8692f3ef8",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

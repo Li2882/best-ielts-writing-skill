@@ -1,0 +1,97 @@
+{
+  "id": "juice-256544",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-256544.json",
+  "question": "The diagram below shows how a biofuel called ethanol is produced.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The diagram drawn below clearly illustrates the cycle of ethanol which is considered a biofuel. There are seven steps until ethanol reaches a level where it is used as fuel.\n\nThe entire process commences when trees and plants require energy to grow. This energy has two main components: carbon dioxide (CO2) and sunlight absorbed by plants and trees. Later, these plants and trees are harvested and fed into a preprocessing unit. The outcome is cellulose which begins the processing phase to form sugar molecules. In the end, special microbes are added so that ethanol can be produced.\n\nThe produced ethanol is fuel for airplanes, trucks, and cars. Once consumed, carbon dioxide is emitted into the atmosphere. The CO2 later cycles back to be absorbed by more trees and plants. Overall, ethanol’s journey to becoming a biofuel is lengthy; its application ranges from passenger cars to ground logistics and even aviation.",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TA": 8.0,
+    "CC": 8.0,
+    "LR": 9.0,
+    "GRA": 8.0
+  },
+  "comments": "Thank you for writing this report. The response effectively outlines the ethanol production process, demonstrating strong coherence and a varied lexical range. The logical sequence of events is clear, and the use of linking words enhances readability. However, slight awkward phrasing and minor imprecisions, such as \"seven steps until ethanol reaches a level where it is used as fuel,\" could be refined for better fluency. Some awkward phrasing affects fluency: 1- \"The diagram drawn below clearly illustrates the cycle of ethanol which is considered a biofuel.\" Improved Version: \"The diagram clearly illustrates the ethanol production cycle, showcasing its role as a biofuel.\" 2- \"Later, these plants and trees are harvested and fed into a preprocessing unit.\" More precise: \"Once matured, these plants are harvested and processed to extract cellulose.\"\nVideo Feedback",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "9.0\tfully satisfies all the requirements of the task",
+      "8.0\tpresents, highlights and illustrates key features clearly and appropriately",
+      "9.0\tdetails are fully and clearly extended.",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "8.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "8.0\tmanages all aspects of cohesion well",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "9.0\tskillfully manages paragraphing",
+      "8.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "9.0\twith very natural and sophisticated control of lexical features",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tthe communication is completely natural",
+      "9.0"
+    ],
+    "GRA": [
+      "9.0\tuses a wide range of structures",
+      "8.0\tthe majority of sentences are error-free",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tcommunication is completely natural",
+      "8.0",
+      "8.0"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-256544-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2025/03/IELTS-Writing-Task-1-report-sample-3428-Band-7.5.jpg",
+      "sha256": "0210487f0cbe9baf5cc18f0b3a04b7f5a855f8c591a6b50cd1f8f6fda5a4c84d"
+    }
+  ],
+  "question_image": "library/assets/juice-256544-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3433-band-8-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-256544.html",
+  "source_sha256": "fa9d5340d231e34445c65cb66c512922faa3cdcb6b7f5e12ac4230c59855870c",
+  "source_locator": {
+    "wordpress_post_id": 256544,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "candidate",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [
+    "Reference quarantined: manually confirmed same prompt as a reserved holdout; different website IDs hid the overlap. Original human assessment remains preserved."
+  ],
+  "duplicate_group": "7d86a9ca426cb6a6",
+  "prompt_group": "1421c7be8dfcc351",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "reference_quarantine_date": "2026-09-21",
+  "prompt_alias_evidence": "research/prompt-aliases.json"
+}

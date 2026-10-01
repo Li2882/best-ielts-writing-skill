@@ -1,0 +1,56 @@
+{
+  "id": "blog-1797b8a2b55b",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-1797b8a2b55b.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-financial-education-2/",
+  "source_locator": "research/blog/ielts-essay-topic-financial-education-2.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "dba2bd2eaf892000",
+  "prompt_group": "8686d92e2fe9e1a2",
+  "question": "Financial education should be a mandatory component of the school program. To what extent do you agree or disagree with this statement?",
+  "essay": "It is an obvious fact that financial aspects are a major part of the daily life, as an adult and even as a young individual. Each and every one of us has to make financial decisions concerning recreation, health, education and more. The question is whether to start with financial education as part of school program or to postpone it for a later stage in life.\n\nTo begin with, being able to understand the value of money, the way the economic system works and to interpret financial news and its implications is a virtue. Without this virtue, an individual, even a young one, might suffer to some extent. For an example, a child who doesn’t understand the concept of money might find it more difficult to except choosing only one present out of more possible ones.\n\nIn addition, many adults are lacking capability of financial analysis. Quite often, the reason can be the lack of sound foundations or insecurity when it comes to financial terms and concepts. Starting from an early age, building a strong background, can very likely prevent such situation.\n\nHowever, financial education necessarily involves quantifying and setting prices and value for services and goods. It can easily turn young people into cynical human beings who lack emotion. Furthermore, a tendency to self-concentration and egoism might rise when one start measuring everything from a profit-making perspective.\n\nIn conclusion, financial education has both pros and cons. In my opinion, the advantages are more significant than the disadvantages, making financial education an advisable component of the school program. The disadvantages should be thought of as a certain price that young people have to pay due to the characteristics of the world that we live in.",
+  "word_count_computed": 285,
+  "images": [],
+  "overall": null,
+  "band_low": 7.5,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a wonderful essay. It covers the task, is correctly structured, the paragraphs are logically connected, the structure of sentences shows excellent command of the English language. The vocabulary is fine and both spelling and grammar are very good. See comments underlined in blue for some minor corrections. Overall, looks like a Band 7.5 – Band 8 essay.",
+  "corrections": [
+    {
+      "original": "an example",
+      "suggestion": "example"
+    },
+    {
+      "original": "except",
+      "suggestion": "accept"
+    },
+    {
+      "original": "start",
+      "suggestion": "starts"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "25648829b798b3c6dff7f83bfd04d0b407fb96b2eadbd0270b569add834915e4",
+  "model_evidence": null,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "source_context_region": "unknown",
+  "classification_revision": "Book-title advertisement is not evidence of model authorship; explicit sample/model declarations remain excluded."
+}

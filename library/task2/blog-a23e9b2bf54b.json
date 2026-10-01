@@ -1,0 +1,42 @@
+{
+  "id": "blog-a23e9b2bf54b",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-a23e9b2bf54b.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-celebrities-can-be-poor-role-models-for-teenagers-agree-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-celebrities-can-be-poor-role-models-for-teenagers-agree-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "unknown",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "5b5f6d298b7c70d2",
+  "prompt_group": "679825ec6a3bb2c9",
+  "question": "Nowadays many teenagers have a celebrity who they follow as a role model. Some people think this is not a good idea, because celebrities often set a bad example. Do you agree or disagree?",
+  "essay": "It is not uncommon for teenagers to worship celebrities. From singers to actors, many young people around the world look up to these stars and attempt to emulate their lifestyles. In my opinion, allowing children to idolize celebrities can often be detrimental, as they frequently set a poor example.\n\nMany of today’s celebrities tend to lack moral values, and they promote behaviour inappropriate for young people. For instance, some music videos feature explicit lyrics glorifying drug use and violence. In addition, the media often reports on celebrities who indulge in excessive partying or drinking alcohol despite being underage. These types of headlines can have a negative influence on impressionable teens who might falsely believe that they should follow suit to appear cool or successful.\n\nPoor morals aren’t the only issue, as many popular stars are also well-known for their irresponsible spending habits. They routinely splurge on luxury items such as designer clothing or expensive cars without any consideration for budgeting or saving money responsibly. This kind of behaviour is dangerous because it is normalizing materialism and teaching teens that costly possessions will bring them happiness instead of focusing on what really matters in life: meaningful relationships, knowledge, and hard work.\n\nTo conclude, young adults should keep in mind that society’s perception of fame and fortune is based on temporary, insubstantial things rather than what actually matters. In the grand scheme of things, it would be far more beneficial for teenagers to spend time developing their own set of values rooted in quality education and strong family relationships.",
+  "word_count_computed": 257,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay topic was seen in a recent IELTS test in Italy.",
+  "corrections": [],
+  "quality_issues": [
+    "no_explicit_band_in_comment",
+    "teacher_model_not_scored_candidate"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "216da04f5d1b66a4056081376010e43efaa99060b90b3eb0e774556239964e6c",
+  "model_evidence": null
+}

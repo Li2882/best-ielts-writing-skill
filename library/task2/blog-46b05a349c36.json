@@ -1,0 +1,48 @@
+{
+  "id": "blog-46b05a349c36",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-46b05a349c36.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-children-and-rules-2/",
+  "source_locator": "research/blog/ielts-essay-topic-children-and-rules-2.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "4b8c080a857c56a7",
+  "prompt_group": "d6289bff7e66bc7a",
+  "question": "In some countries children have very strict rules of behavior, in other countries they are allowed to do almost anything they like. To what extent should children have to follow rules?",
+  "essay": "The extent to which children have to follow rules is in itself a very complex issue, since children across the world grow up in very different cultures. In India for example, children are expected to be very submissive to their parents as well as other adults around them. This, however, is not the case with the Western countries of the world where children follow the motto ‘Thou shalt do what thou wilt’ as promoted by celebrities and rock stars. I believe that following strict rules has both advantages as well as serious drawbacks as discussed below.\n\nFirstly, strict rules of behavior create responsible and respectful children who in turn mature into respectful adults. This forms a stable society which is virtually free from negative trends such as prostitution and drug abuse. Secondly, if children do not follow strict rules of behavior, they may get out of hand and become work-shy and indolent. This may then create a burden on the society since the government has to find ways to cater for these social ills.\n\nHowever, forcing children to follow strict rules of behavior doesn’t always yield positive results as discussed above, most of the time it backfires and works against society. For example, teenagers are more likely to do the opposite of what they’re told to do simply because they want to be independent. Children should also have rights to exercise their free will and develop their own pattern of behaviors. Imposing strict rules may simply destroy the individuality of children.\n\nAt the end of the day, it is clear that children should be guided by rules, but these rules should not be imposed on them because as human beings, they need to have room to develop their own traits of character and adopt a behavioral pattern of their own.",
+  "word_count_computed": 300,
+  "images": [],
+  "overall": null,
+  "band_low": 7.5,
+  "band_high": null,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay is too long (309 words instead of advised 250-265). Otherwise this work is a very good one; it covers the task, your position is clear, the ideas are well-organized, expressed, explained and supported. The sentences show a wide range of language structures, cohesive devices and your grammar is fine. Overall, this seems to be a band 7.5 or higher essay.",
+  "corrections": [
+    {
+      "original": "India",
+      "suggestion": "India,"
+    },
+    {
+      "original": "as well as",
+      "suggestion": "and"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "73cd91446a8ecb11dec9a19a7fbd642533536011c8a27d727d66eff1d8df6cbf",
+  "model_evidence": null
+}

@@ -1,0 +1,75 @@
+{
+  "id": "insights-v16-p24-task1",
+  "task": "task1",
+  "question": "The chart below shows information about the favourite subjects of 60 students from two schools, school A and school B. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": null,
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TA": 8,
+    "CC": 8,
+    "LR": 8,
+    "GRA": 7
+  },
+  "score_source": "verified_human",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "rater_evidence": "Publisher submits academic-team originals to Tony Grace; original, explicit overall and correction report verified in the public PDF. Practice assessment, not an official test result.",
+  "author_group": "unknown",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "source_url": "https://cms.youpass.vn/assets/de225b2f-6b8c-494f-97fc-f230f59e3570",
+  "source_artifact": "research/expansion/insights/vol-16.pdf",
+  "source_sha256": "7c7da30ab01eb832b3b172e3a03f48b3fe6dd530df2189a3ae87b2308fe0b098",
+  "source_locator": {
+    "volume": 16,
+    "cover_page": 24,
+    "original_pages": [
+      25
+    ]
+  },
+  "path": "library/task1/insights-v16-p24-task1.json",
+  "task_type": "academic_visual_report",
+  "duplicate_group": "insights-v16-p24-task1",
+  "prompt_group": "e780d485b0becaf9",
+  "quality_issues": [],
+  "accessed_at": "2026-09-21",
+  "essay_images": [
+    "research/expansion/insights/pages/vol-16-p25.png"
+  ],
+  "question_image": "research/expansion/insights/pages/vol-16-p24.png",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-16-p24.png",
+    "research/expansion/insights/pages/vol-16-p26.png",
+    "research/expansion/insights/pages/vol-16-p27.png",
+    "research/expansion/insights/pages/vol-16-p28.png",
+    "research/expansion/insights/pages/vol-16-p29.png",
+    "research/expansion/insights/pages/vol-16-p30.png",
+    "research/expansion/insights/pages/vol-16-p31.png",
+    "research/expansion/insights/pages/vol-16-p32.png",
+    "research/expansion/insights/pages/vol-16-p33.png",
+    "research/expansion/insights/pages/vol-16-p34.png",
+    "research/expansion/insights/pages/vol-16-p35.png"
+  ],
+  "trait_label_status": "Cover visually checked; explicit criterion headers cross-checked in native PDF text.",
+  "teacher_advice_caveat": "Paragraph and word-count advice in the correction report is teacher guidance, not extra official band rules.",
+  "extraction": "Use the preserved original images. No teacher corrections inserted into the original.",
+  "added_after_test_input_lock": true,
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-16-p24.png",
+      "sha256": "7ec985b4fd8fddfff8e289c45e34bd4f52907e49b0e7251e7ac533bc573d9379"
+    }
+  ],
+  "rounding_caveat": "Published overall 7.5 is retained; criterion mean is 7.75. Publisher rounding differs from this project's display rule. Do not silently recalculate the human label.",
+  "evaluation_role": "interrupted_v14_initial_rating_development",
+  "used_in_evaluation": "v14-01-incomplete"
+}

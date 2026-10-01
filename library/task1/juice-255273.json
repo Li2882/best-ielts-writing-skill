@@ -1,0 +1,94 @@
+{
+  "id": "juice-255273",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-255273.json",
+  "question": "The graph below shows the number of shops that closed and the number of new shops that opened in one country between 2011 and 2018.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The line graph illustrates the number of shops that closed and opened in one country between 2011 and 2018. Overall, there were significant fluctuations in both shop closures and openings throughout the period. Shop closures experienced a dramatic dip in 2015, while shop openings generally showed a declining trend towards the end of the period.\n\nIn terms of shop closures, the number started at around 6,500 in 2011. There was a slight increase to approximately 7,000 in 2013, which later in 2014 bounced back to almost the same number in 2011. The most noticeable change occurred in 2015, where the number of closures plummeted to just over 500. This was followed by a sharp rise back to around 5,000 in 2016, after which the numbers stabilized, ending at about 5,000 in 2018.\n\nFor shop openings, the numbers started higher than closures, at around 8,500 in 2011. However, there was a significant drop to approximately 4,000 in 2012. The number of openings then showed some recovery, reaching a peak of around 6,100 in 2014, before falling again to about 4,000 in 2015. From 2016 onwards, the number of openings gradually decreased, ending slightly below 3,000 in 2018.\n\nIn summary, while shop closures saw a dramatic dip in 2015 and then stabilized, the number of shop openings experienced a general decline with fluctuations over the period.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TA": 8.0,
+    "CC": 7.0,
+    "LR": 8.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you for writing this report. Task Achievement (TA): The task is addressed appropriately, with a clear introduction, detailed body paragraphs focusing on specific trends, and a concise conclusion. All key points from the graph are covered. Coherence and Cohesion (CC): The response is well-organized with a logical progression of ideas. Linking words and phrases are used effectively to ensure smooth transitions between points. Lexical Resource (LR): The vocabulary used is appropriate and varied, effectively describing trends. However, some more complex or precise words could further improve the score. Grammatical Range and Accuracy (GRA): The grammar is generally accurate with a good range of sentence structures. Minor errors are present, and more complex structures could enhance the score.\nVideo Feedback",
+  "images": [
+    {
+      "path": "library/assets/juice-255273-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2024/07/IELTS-Writing-Task-1-report-sample-3396-Band-7.0.jpg",
+      "sha256": "baec90445603507e38d62a3fbc3f4a405ebda96c07633821d411fdcfc127b630"
+    }
+  ],
+  "question_image": "library/assets/juice-255273-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3396-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-255273.html",
+  "source_sha256": "2ff61dd07af88c442c4064090d561ce816368fe21a5c928b8e44aede8a91ad66",
+  "source_locator": {
+    "wordpress_post_id": 255273,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "3f8e7170285de77f",
+  "prompt_group": "fbe51a1980a482f9",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "8.0\tcovers all requirements of the task sufficiently",
+      "8.0\tpresents, highlights and illustrates key features clearly and appropriately",
+      "9.0\tdetails are fully and clearly extended.",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "8.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "9.0\tuses cohesion in such a way that it attracts no attention",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "8.0\tthe majority of sentences are error-free",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tcommunication is completely natural",
+      "7.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "four_criterion_written_feedback",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

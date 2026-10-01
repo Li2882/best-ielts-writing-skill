@@ -1,0 +1,48 @@
+{
+  "id": "blog-1f8e079846f5",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-1f8e079846f5.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-7/ielts-report-topic-bar-graph-describing-unemployment-rates-and-average-earnings-by-level-of-education/",
+  "source_locator": "research/blog/ielts-report-topic-bar-graph-describing-unemployment-rates-and-average-earnings-by-level-of-education.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "unknown",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "fc9deeaaf51714e2",
+  "prompt_group": "e9d1044c6ca4b09c",
+  "question": "The graphs below show unemployment rates and average earnings according to level of education.\nSummarise the information by selecting and reporting the main features and make comparisons where relevant.",
+  "essay": "Unemployment and Average Earnings by Educational Level 2016\n\nTwo bar graphs describe the data from 2016 regarding the percentage of unemployed and average weekly income by different levels of education.\n\nThe first graph shows unemployment rates in 2016 in four different groups. Looking at people who only completed high school we can see that 5.5% were out of work. It is evident that the percentage of unemployed gradually decreased as the level of education rose. The proportion of unemployed was the lowest among those with a graduate degree, at only 1.2%\n\nThe second chart is showing the relationship between education level and weekly earnings. Those with only high school diplomas earned the least amount of money per week ($600). People who studied at college for some time earned a slightly higher amount of $675 per week, but college or graduate degrees owners overtook them by earning $1,100 and $1,500 a week, respectively.\n\nAll in all, it can be seen that people with higher level of education are more likely to have a job and higher income.",
+  "word_count_computed": 180,
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/unemployment-average-earnings-by-education-level.jpg",
+      "path": "library/assets/3689752be8ca7b5b.jpg",
+      "sha256": "392cba4c150c2aac670ce80d026e59a3a72f255f4a3a1f066be38055c0cfb65a"
+    }
+  ],
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "You should spend about 20 minutes on this task.",
+  "corrections": [],
+  "quality_issues": [
+    "no_explicit_band_in_comment",
+    "teacher_model_not_scored_candidate"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "ee5c0ce3e0f22c6943bd883b2dedc7f436e4f72595dbfdd0bd45375970c4b446",
+  "model_evidence": null
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cambridge-17-t2-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/cambridge-17-t2-task2.json",
+  "question": "Some children spend hours every day on their smartphones.\nWhy is this the case? Do you think this is a positive or a negative development?",
+  "question_image": null,
+  "images": [],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c17-p131.png",
+    "research/expansion/book-pages/c17-p132.png"
+  ],
+  "reading_transcript": "Mobile phones, nowadays, contains essential features with entertainment also. There has been a large growth seen in usage hours of smartphones among youngsters. There are several reasons behind this situation and I find this development more beneficial than negative. Both the reasons and my view is elaborated further.\n\nThe first reason for overusage of smart devices by youngsters is the social benefit they provide. The smart phone connected with internet opens up the large possibilities, from creating new friends to communicating with them over social media. For instance, a child in my neighbourhood chats for hours with his school friends over Facebook (a social media) and also spend time over online video sharing phone application. Moreover, the mobile gaming, specially multiplayer games, is another major reason for the situation. Children plays different kind of games over mobile for the entertainment purpose and they involve themselves in games in such a manner, that they forget about the timing and other work to do.\n\nHowever, I believe that smartphones have also increased the knowledge of pupils. It has developed some important social skills, such as communication skill, team work and many more, by allowing them to work and play in groups, without the restriction of distance. In addition, children can learn through internet by watchin online videos and reading articles, which ultimately helps them in their studies as well as language skills. For example, whenever my niece require to know about something, he searches it over the internet and learns from it. Moreover, multiplayer online gaming improves their multitasking ability and it also gives them a competitive environment\n\nOverall, I agree that overusage of smartphones on regular basis is harmful for them, but if given proper guidance, mobile phones can help them in learning some life-long skills.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {},
+  "comments": "This response addresses both parts of the question. A range of ideas is expressed and the candidate gives their position in the opening paragraph and then provides evidence and relevant examples.\nIdeas are logically organised and there is clear progression throughout the four paragraphs. A range of cohesive devices are used [The first reason | For instance | Moreover] with referencing used appropriately [they | themselves | their studies | it].\nThe range of vocabulary is good with examples of higher-level items [social skills | restriction of distance | ultimately] and there are few errors [overusage / overuse | niece … he / niece … she | watchin / watching | require to know / needs to know]. Similarly, the range of grammatical structures is reasonable, but the level of error means the Band Score cannot be higher than 6.5.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-17-academic/",
+  "source_artifact": "research/expansion/cam17-page.html",
+  "source_sha256": "3039e15fe488eebc538a9fdc01cfbd098d2c88669895e9c0a78ebf6540c735f9",
+  "source_locator": {
+    "book": 17,
+    "test": 2,
+    "pdf": "research/expansion/cambridge17.pdf",
+    "response_pages": [
+      131,
+      132
+    ],
+    "score_line": "achieved a Band 6.5"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-17-t2-task2",
+  "prompt_group": "cambridge-17-t2-task2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

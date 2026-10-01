@@ -1,0 +1,105 @@
+{
+  "id": "iff-3334bb01db01",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/iff-3334bb01db01.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-academic-task-1-band-6-sample-answer-2/",
+  "source_locator": "research/forfree/ielts-academic-task-1-band-6-sample-answer-2.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "23f492251ea70a0c",
+  "prompt_group": "94b57d225eb5ee1c",
+  "question": "You should spend about 20 minutes on this task.\nThe bar chart shows the number of children in two different age groups in an average class in different countries.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The bar graph illustrates the number of students on an average class at different ages (9 and 13) in different countries .\n\nIt is clearly shown in the graph that Hong Kong and Japan had the most number of students at the age of 9; Hong Kong had 35 number of students per class at age 9 while Japan had moreover 31 number of students per class. However, Japan had an increase number of students to about 24 but the students in Hong Kong dropped at 31 students per class at the age 13.\n\nThe United States and the Global Average had an equal number of 23 students per class at the age of 9 but fell by age 13.\n\nRussia, on the other hand got the lowest number of students both at age 9 and 13, having only 10 and 9 students per class accordingly.\n\nTo summarise, at the age of 9 there were more students in Hong Kong but as the students reached the age of 13, most of the students were studied in Japan.",
+  "word_count_computed": 176,
+  "images": [],
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Academic Task 1 Band 6 sample answer 2\nThe main information is given, but there are very few sentences that do not contain errors. There are some inappropriate words as well as some incorrect grammar, and this is reducing the overall score. Some of the data is also incorrect to the number of Japanese students aged 13 did not rise to 24, it rose to 34.\nHowever, the paragraphing is clear and logical.",
+  "corrections": [
+    {
+      "original": "on",
+      "suggestion": "\"in\""
+    },
+    {
+      "original": "different countries",
+      "suggestion": "be more specific - \"in 4 different countries as well as the global average\""
+    },
+    {
+      "original": "most",
+      "suggestion": "\"highest\""
+    },
+    {
+      "original": "number of",
+      "suggestion": "delete this"
+    },
+    {
+      "original": "",
+      "suggestion": "This could have been more succinctly put - \"Hong Kong had 35 students per class, while Japan had 31.\""
+    },
+    {
+      "original": "moreover",
+      "suggestion": "this linking word is not appropriate here"
+    },
+    {
+      "original": "number of",
+      "suggestion": "delete this"
+    },
+    {
+      "original": "number of students",
+      "suggestion": "delete this - it is repetition"
+    },
+    {
+      "original": "at",
+      "suggestion": "\"to\""
+    },
+    {
+      "original": "Global Average",
+      "suggestion": "no need for capital letters here - \"global average\""
+    },
+    {
+      "original": "on the other hand",
+      "suggestion": "this phrase needs to be surrounded by commas - \"Russia, on the other hand, had…\""
+    },
+    {
+      "original": "got",
+      "suggestion": "this is too informal - \"had\""
+    },
+    {
+      "original": "",
+      "suggestion": "comma needed here too"
+    },
+    {
+      "original": "more students in Hong Kong",
+      "suggestion": "we don't know that there were more students in the country - only that they had more per class"
+    },
+    {
+      "original": "most of the students",
+      "suggestion": "Again, we don't know that \"most\" students studied in Japan, only that they had most per class"
+    },
+    {
+      "original": "were",
+      "suggestion": "delete this"
+    }
+  ],
+  "quality_issues": [
+    "missing_chart"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "5b3d57203134c1ceb7df1bebe9bba18fb39610e4e5cd397401044b4ed4ae185d"
+}

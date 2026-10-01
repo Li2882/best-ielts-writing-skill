@@ -1,0 +1,54 @@
+{
+  "id": "blog-ddea49a693db",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-ddea49a693db.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-bar-graph-describing-trends-in-consumption-of-fast-food-2/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/68d1316ec2e5cef8.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "4980ed1f75f81399",
+  "prompt_group": "9c6f1f32512431c3",
+  "question": "The graph below shows the popularity of different fast foods in Britain and the trends in their consumption. Write a report for a university lecturer describing the information shown below. Summarise the information by selecting and reporting the main features and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/fast-food-expenditure-britain.jpg",
+      "path": "library/assets/9b13b9f484213d73.jpg",
+      "sha256": "646b1e9e07f6da6346cf2600aa8b7417b3cd37950f8c40b0232740636ea7d476"
+    }
+  ],
+  "essay": "The graph shows the changes in the demand for hamburgers, fish chips and pizza from 1970 to 1990.\n\nIt is immediately apparent that in 1970 the most popular food was pizza. The demand for pizza started from 300 grams followed by a spectacular fall of 200 grams in 1985.\n\nThe striking feature of the graph is the demand for fish chips. In 1970, fish chips were the second favourite food among people, and from 1980 on the total demand surged to a high of 500 grams from 99 in 1970.\n\nFurthermore, hamburgers were the least popular food in 1970 with the total demand of 15 grams, which increased gradually till 1985. The total demand for hamburgers skyrocketed to 299 grams in 1990.\n\nIn conclusion, there was a increase in the demand for hamburgers and sea food, whereas there was a significant fall in the popularity of pizza.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Teacher’s summary: All the requirements of the task were covered fairly well. The key features were identified, emphasized and illustrated in a suitable and logical way. The ideas are presented in a logical order. All aspects of cohesion are taken care of well. The paragraphing is handled suitably and appropriately. The range of vocabulary allows the writer to communicate the exact meanings. Some sophisticated words/expressions are used in a clever way. A wide range of grammatical structures are used. Overall, this report seems worthy of IELTS Band 8.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 147,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "6fd0e44d04de3d264b70c19751e76a6eba466a7af14197c6bb469da4f8068d3d",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

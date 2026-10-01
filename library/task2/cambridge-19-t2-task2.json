@@ -1,0 +1,51 @@
+{
+  "id": "cambridge-19-t2-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/cambridge-19-t2-task2.json",
+  "question": "The working week should be shorter and workers should have a longer weekend.\nDo you agree or disagree?",
+  "question_image": null,
+  "images": [],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c19-p132.png",
+    "research/expansion/book-pages/c19-p133.png"
+  ],
+  "reading_transcript": "I personally disagree with the issue whether the working days should be one day less. By no means should we make the weekend three days long. There are two aspects that support my point of view.\n\nFirst of all, now all over the world are facing an unprecedented economic recession caused by COVID-19. Many factories are forced to close and the shops shut down. The economic loss is substantial. Nevertheless, with the advent of vaccine, I perceive that now people can go back to their work. This would certainly be conducive to our economy. If we reduce one day from work, even just from a week, it would cause repercussions on our society in terms of the development of economy.\n\nSecondly, I am used to do my leisure activities in Saturday and Sunday. If there is one day more, I would wonder what to do on that day, and that means I have to rearrange my weekend plans. I think it would be tiring. Most importantly, I come to admit that, too some degree, I am a workaholic. I cannot even image if I am separated from my favourite place – my office. It is the place where I retreat to when I feel anxious and want to get rid of everything. Working, indeed, gives me a sense of achievement and contentment. I, therefore, would oppose to the idea of cutting one working day.\n\nThough some people may argue that they need one day more in the week to reduce their stress from work, it could be harmful to our economic growth in this harsh time. Also, I believe that many people are used to the current working system, which provides two days for break. The sudden change will make people contused. Unless the government enacts a comprehensive policy for this new system, I think the idea does not work, and it would surely brings chaos in our society.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {},
+  "comments": "In this good response, the candidate presents their opinion at the start, then gives two main points about why the current working week should not change: economic development and the disruption to our existing pattern of a two-day weekend. In the final paragraph, they consider the other side of the argument and people who might like an additional day off. (However, a counter argument is not necessary for this type of question.) Overall, ideas are presented in a clear order, and there is some good use of linking words and expressions [First of all | Nevertheless | Most importantly | Unless]. The response contains some good vocabulary with effective collocation [unprecedented economic recession | conducive to | sense of achievement], and there is a range of structures including conditionals [if), modals [would | may | could] and multi-clause sentences. There are some errors in prepositions and other structures [/ am used to do / I am used to doing], but the impact is not disruptive. To achieve a higher score, ideas could be more fully extended, for example, by giving more detail on how removing a working day could be negative for the economy or for workers.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-19-academic/",
+  "source_artifact": "research/expansion/cam19-page.html",
+  "source_sha256": "1005517ddbf5e39461ffd0da90f2cefc6e4bc19f942a162d2c0e0f74397fe6df",
+  "source_locator": {
+    "book": 19,
+    "test": 2,
+    "pdf": "research/expansion/cambridge19.pdf",
+    "response_pages": [
+      132,
+      133
+    ],
+    "score_line": "achieved a Band 6.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-19-t2-task2",
+  "prompt_group": "cambridge-19-t2-task2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

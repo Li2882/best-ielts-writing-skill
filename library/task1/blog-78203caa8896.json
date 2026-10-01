@@ -1,0 +1,54 @@
+{
+  "id": "blog-78203caa8896",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-78203caa8896.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-comparing-two-plans-of-cinema-in-1980-and-now/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/01e18e6be6d98b09.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "c57779a24dd4bcac",
+  "prompt_group": "5b4b3a70c2bc8ae4",
+  "question": "The two plans below show the layout of a cinema in 1980 and now. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/cinema-two-plans-web1.jpg",
+      "path": "library/assets/9e5d2cf37cbdaecb.jpg",
+      "sha256": "61d08344035b3f9a9a3de1f229ba948fe3ca512955686ba3c0530cfae7760d75"
+    }
+  ],
+  "essay": "The two plans are showing the layout of a cinema in 1980 and now, including the location of the screening theatres, box office, Manager’s office, toilets and car park.\n\nIt can be seen that over time the number of screening theatres grew significantly; however, their size has shrunk.\n\nIn 1980 there were two screening theatres, Cinema 1 and 2. Cinema 1 was the closest to the entry, on the left. The box office was located on the right near the entrance, with the drinks counter to its right. Further away from the entrance on the right side there was the Manager’s office and Cinema 2. The toilets were located opposite Cinema 2 on the left side of the building, and along the back wall there was a car park.\n\nQuite a few things have changed since 1980. The number of screening theatres grew from 2 to 5, with Cinemas 1 and 2 located to the left of the entrance and Cinemas 3, 4 and 5 – to the right. The car park had to go, to make room for the new theatres. A café opened to the left of the entrance, serving food and drinks, and the old drinks counter next to the box office was converted to a DVD shop. The only things whose locations didn’t change were the box office, the Manager’s office and the toilets.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Teacher’s comment: This response describes the two plans in great detail. The writer’s vocabulary and word choice are adequate, and the comparison of the plans is comprehensive and well-organised. Overall, this work is likely to get Band 8.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 228,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "a067bd03ec3ef68b40b2c86aa74347ff899dabd310c0eb59296c9accad42a305",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

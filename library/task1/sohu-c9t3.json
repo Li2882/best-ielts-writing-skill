@@ -1,0 +1,50 @@
+{
+  "id": "sohu-c9t3",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/sohu-c9t3.json",
+  "question": "The charts below give information on the ages of the populations of Yemen and Italy in 2000 and projections for 2050. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "These pie charts illustrates what proportion are accounted by human in respective age group of Yemen and Italy in 2002, and predicting the future changes to 2050.\nIn Yemen, 0-14 years old young children were the domain group in 2000, at 50.1%. And smaller proportion of 15-19 years old person in the same period, which was 46.3%. While 50 years past, 15-59 years old people will become the most group of people, rising to 57.3%. Although there is a increase in old people who are over 60 years old. But they still the least group of person, which were rising from 3.6% in 2000 to 5.7% in 2005.\nIn terms of Italy, according to projection, 15-59 years old people experience a dramatic decrease, declining from 61.6% in 2000 to 46.2% in 2050. While it still the most group of people. In 2000, the proportion of over 60 years old was 24.1%, which doubled the percentage in 2050 through projection. Contrary to Yemen, the percentage of people who are 15-59 years old is the least no matter what period.\nOverall, there are decrease of young children in both countries. Even in Italy, the percentage of children is much smaller than those in Italy.",
+  "images": [
+    {
+      "path": "research/expansion/book-pages/c9-p68.png",
+      "sha256": "67f35e46af80b657f27ee79f86e26f4e5d8f14205103cb54c235707b3657adfe",
+      "note": "Matching original Cambridge question recovered by explicit book/test identity."
+    }
+  ],
+  "essay_images": [],
+  "overall": 5,
+  "band_low": 5,
+  "band_high": 5,
+  "traits": {
+    "TA": 5.0,
+    "CC": 5.5,
+    "LR": 5.0,
+    "GRA": 5.0
+  },
+  "comments": "1. 词汇上是准确的，并且内容基本正确，但没有特别出彩的词汇。\n2. 分段准确，但是连接词上还可以更多变一些，建议试图多使用从句以及过渡句。\n3. 语法问题太多了。大大降低了分数，尤其是许多句子少了动词，这点扣分会很严重，因为英文的句子，没有了谓语动词，就如没有了灵魂一般。\n4. 在任务完成项目上，学生缺少静态比较方面的语言，该图表实际上是“动静结合”。",
+  "source_url": "https://www.sohu.com/a/125577303_457736",
+  "source_artifact": "research/expansion/sohu-c9t3.html",
+  "source_sha256": "a6806797489c38adbc01112489932f61c0fadb2d4c43b3c769f841308a0fe3c1",
+  "source_locator": "research/expansion/sohu-c9t3.html",
+  "score_source": "verified_human",
+  "rater_evidence": "Public institution post explicitly identifies marker 晟睿 Anna; teacher estimate, not a formal IELTS result.",
+  "publisher": "晟睿教育 / Sohu",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "China",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "sohu-c9t3",
+  "prompt_group": "cambridge-9-t3-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "source_context_region_evidence": "Publishing institution identifies itself as Shanghai ShengRui Education; candidate residence is not stated.",
+  "extraction": "Original text before 批改; teacher rewrite and model answer excluded. Published half-band traits retained.",
+  "teacher_advice_caveat": "Some wording advice is debatable; official descriptors govern grading. The Task 2 page mistakenly calls its rubric Task 1/TA; source notation retained.",
+  "question_image": "research/expansion/book-pages/c9-p68.png"
+}

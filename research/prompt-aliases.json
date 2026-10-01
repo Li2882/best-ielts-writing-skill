@@ -1,0 +1,9 @@
+{
+  "reviewed_at": "2026-09-21",
+  "method": "Human-reviewed substantive question equivalence; no target scores consulted. Historical frozen packets are unchanged.",
+  "groups": [
+    {"canonical": "cambridge-19-t3-task1", "ids": ["cambridge-19-t3-task1", "juice-256544"], "evidence": "Identical ethanol-production question; new chart visually checked."},
+    {"canonical": "fish-meat-europe-1979-2004", "ids": ["tony-fish-2020", "blog-708eaab80a62"], "evidence": "Same fish/meat consumption graph, geography and 1979–2004 period; only some/formatting differs."},
+    {"canonical": "traffic-accidents-younger-older-age-limits", "ids": ["blog-0f85f09d8ff7", "blog-891a8902256d", "blog-a326d130bcc6"], "evidence": "Same proposal to raise younger-driver and lower older-driver age limits; aged/elderly and question wording variants."}
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "juice-248932",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248932.json",
+  "question": "In order to study at university students are required to pay expensive tuition fees. Not all students can afford them so some people think that university education should be free for everyone.\nTo what extent do you agree or disagree?",
+  "essay": "It is widely argued that the extortionate cost of university is a big concern for many students which should be paid off by them during their education. Many people believe that the tuition fees are not affordable that ought to be free for the individuals. I strongly agree with this statement and I adhere that free education can be beneficial for both individuals and society.\n\nTo begin with, at the personal level; tuition fee is a rip-off which has increased inequality in the communities. This is everyone’s right to have access to the free education without having financial worries. Furthermore, the students would allocate more time on studying rather than working due to not having financial concerns. For instance, more than one quarters of students across the globe are working either full-time or part-time to pay their universities’ expenses. In our advanced world, access to the tertiary education, therefore, should not be limited at all.\n\nAt the society level, free universities will release more educated people and the country can become more professional in various fields. In other words, the higher proportion of state budget should be allocated on facilitating everyone with higher education. The individuals will become more skilled and knowledgeable in the long run. Hence, educated people could lead to economic prosperous for all communities.\n\nAll things considered, free university education will be beneficial for both students and the societies in the long run. Also, the students will become more educated without feeling any discriminations. Personally, I believe that the expenses of free university education will be recouped over by leading a prosperous community in the future.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TR": 8.0,
+    "CC": 8.0,
+    "LR": 7.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this essay. Although the number of errors may seem high, in nature, the do not affect the reader’s understanding of the text. The main improvement point is to use generalization more accurately. Here’s a good read:",
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3251-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248932.html",
+  "source_sha256": "5e80dc8db0b75a1d8318d262b2461ed31fb231d0c2fd609be7beb88f06495a0e",
+  "source_locator": {
+    "wordpress_post_id": 248932,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "03b514f43163652f",
+  "prompt_group": "6debaafaa74d265a",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "9.0\tfully addresses all parts of the task",
+      "8.0\tpresents a well-developed response to the question",
+      "8.0\twith relevant, extended, and supported ideas",
+      "8.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "8.0\tmanages all aspects of cohesion well",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "8.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "9.0\twith full flexibility and accuracy",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "9.0\tcommunication is completely natural",
+      "7.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c11-academic-t3-task1",
+  "exam_type": "IELTS Academic",
+  "book": 11,
+  "test": 3,
+  "task": "task1",
+  "task_type": "line_chart",
+  "question": "The graph below shows average carbon dioxide (CO₂) emissions per person in the United Kingdom, Sweden, Italy and Portugal between 1967 and 2007. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "minimum_words": 150,
+  "suggested_minutes": 20,
+  "question_text_source": "User supplied; matched against the reproduced task page",
+  "chart_path": "library/assets/c11-t3-task1-co2.png",
+  "chart_source_url": "https://voxcel.org/wp-content/uploads/2024/07/11.3.png",
+  "source_page_url": "https://voxcel.org/ielts-cambridge-book-11-test-3-ac-task-1/",
+  "source_type": "third_party_reproduction; not a Cambridge publisher-hosted image",
+  "accessed_at": "2026-09-21",
+  "verification": "Chart opened and visually checked; source-page model answer was not used as numerical truth or a grading label",
+  "chart_sha256": "639dde0da0c37279e70b0a0a3a55b919b77164902cc88e9f37d264ceeec7f698",
+  "unit": "metric tonnes of CO2 per person",
+  "years": [1967, 1977, 1987, 1997, 2007],
+  "series_summaries": {
+    "United Kingdom": "Highest throughout; starts just under 11, initially nearly level, then declines to just under 9 by 2007.",
+    "Sweden": "Starts between 8 and 9, peaks just over 10 in 1977, then declines to about 5.5 in 2007.",
+    "Italy": "Starts just over 4, rises to just under 8 by 1997, then remains level to 2007; overtakes Sweden between 1987 and 1997, around 1990.",
+    "Portugal": "Starts just over 1, increases to about 5.5 by 2007; growth slows markedly after 1997; lowest or joint-lowest throughout."
+  },
+  "approximation_note": "Values are visual approximations. Do not present them as exact measurements. Sweden and Portugal converge at the graph's resolution in 2007."
+}

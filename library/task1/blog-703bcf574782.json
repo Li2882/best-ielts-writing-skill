@@ -1,0 +1,64 @@
+{
+  "id": "blog-703bcf574782",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-703bcf574782.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-line-graph-production-demand-for-steel-uk/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/ae4d732a4623bf72.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "c54cfdcf8a6ec4f1",
+  "prompt_group": "053777a086ddaea0",
+  "question": "The line graphs below show the production and demand for steel in million tonnes and the number of workers employed in the steel industry in the UK in 2010. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/featured/model-report-sample-band-8-line.jpg",
+      "path": "library/assets/ed2fab2473d5006c.jpg",
+      "sha256": "d754bcdbdadcfee17e7a37dd3d2e24b7114067dd0578908de124c0e8b94dcd2b"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/writing-1-demand-steel.jpg",
+      "path": "library/assets/e30093319a372d0f.jpg",
+      "sha256": "656cdea7df857b68936043bb6144745c776871ae0639ae020d737a33ccbfddb3"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/writing-1-steel-workers-employed.jpg",
+      "path": "library/assets/66d032b6d3d7fecb.jpg",
+      "sha256": "6b96ce0c4df705096a75664cd995f915a429bd8237db5cbff5fcc883e05ac627"
+    }
+  ],
+  "essay": "* Note: these aren’t the original graphs given in the test, they were recreated for the purpose of demonstration.\n\nBand 8 Model Answer\n\nDownload the Sample Band 8 Report here\n\nThe graphs illustrate the production and demand for steel in million tonnes, along with the number of workers employed in the UK steel industry in 2010.\n\nOverall, steel production consistently exceeded actual demand across the year, with significant fluctuations observed in both metrics. Employment numbers also varied widely, showing a general decline over the twelve-month period.\n\nSteel production peaked at 5000 million tonnes in February but dropped dramatically to just 900 million tonnes by December. Meanwhile, demand was highest in March and June, at 3000 million tonnes, but later dropped to zero in November. Despite these variations, production levels remained relatively stable from January to June, averaging around 4000 million tonnes. The latter half of the year saw more volatility, with production dropping sharply towards the end of the year. Notably, December was the only month in which the amount of steel produced was lower than the demand at 900 and 2000 million tonnes respectively.\n\nRegarding employment figures, the number of workers started high in January at 5000 but saw a significant decline over the year, reaching the lowest point of 1000 in December. February had the highest employment at 5500 workers, which then steadily decreased. The workforce fluctuated slightly in the summer months at between 2500 and 3500 but continued to decline overall, dropping to the lowest number of just 1000 in December.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 254,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "c6b518717d5e6a88ec0bba07a4aef0273cf60f4ebe874f5bd29de4c00bc7a533",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

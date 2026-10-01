@@ -1,0 +1,70 @@
+{
+  "id": "blog-bf6e8d23ba26",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-bf6e8d23ba26.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-7/ielts-report-topic-table-describing-different-types-of-families-living-in-poverty/",
+  "source_locator": "research/blog/ielts-report-topic-table-describing-different-types-of-families-living-in-poverty.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "87008a5de1b53725",
+  "prompt_group": "cb68a790eacf4575",
+  "question": "The table below shows the proportion of different categories of families living in poverty in Australia in 1999. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The table shows a breakdown of different types of families who were living in poverty in Australia in 1999.\n\nIt is noticeable that 11% of people were living in poverty. However, this figure was considerably high among the sole parents and single people who did not have children and those percentages were 21% and 19% respectively. Moreover, this proportion was significantly prominent among the couples who had children compared with the family structures consisted with couples who did not have children. In fact, the proportion of couples with children living in poverty was 5% more than that in the family types consisted only with couples. In contrast, this trend favoured aged people. However, this figure was slightly more (2%) among the single aged people than that in the family category of aged couples.\n\nIn conclusion, it is clear that the proportion of people living in poverty varied according to their family structures.",
+  "word_count_computed": 152,
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/report-table-poverty.jpg",
+      "path": "library/assets/37bc9ca28df9a23b.jpg",
+      "sha256": "35bf3f6f7d1a0d8f057bb55761f045b874452a27967649031acdf4f5a92b6ef9"
+    }
+  ],
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This report covers the requirements of the task. The main trends / features were mentioned, but could have been developed more fully. The candidate has arranged ideas coherently. The range of vocabulary is sufficient, even though it lacks flexibility to some extent. There are a few grammatical mistakes in the report. Overall, the task response meets the expectations and seems good enough to achieve Band 7.",
+  "corrections": [
+    {
+      "original": "those",
+      "suggestion": "their"
+    },
+    {
+      "original": "the family structures consisted with",
+      "suggestion": "delete this"
+    },
+    {
+      "original": "more",
+      "suggestion": "bigger"
+    },
+    {
+      "original": "consisted",
+      "suggestion": "that consisted of"
+    },
+    {
+      "original": "with",
+      "suggestion": "delete this"
+    },
+    {
+      "original": "more",
+      "suggestion": "higher"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "bad341f6fe6665c728025a9f70d1835adc74184d618707d94a10b78a68a79fd1",
+  "model_evidence": null
+}

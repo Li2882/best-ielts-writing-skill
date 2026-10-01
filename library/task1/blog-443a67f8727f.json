@@ -1,0 +1,54 @@
+{
+  "id": "blog-443a67f8727f",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-443a67f8727f.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-describing-two-maps-of-a-city-in-1960-and-now/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/768d032bb99c3c34.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "36e422bce90bf3db",
+  "prompt_group": "0634cecd4eb44425",
+  "question": "The maps below describe the city in 1960 and now. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/ielts-thailand-writing-task-1-two-maps.jpg",
+      "path": "library/assets/c06ad6cc24ca21e3.jpg",
+      "sha256": "4e070d65167efdaa5ee23a407b45c22e6b4029a539d6eee84ca9dc3117be362e"
+    }
+  ],
+  "essay": "The two maps are describing the same city, in 1960 and at present. The main features that can be seen are the residential and business districts, roads, a river, an airport and a government building.\n\nIt is clear that with the passage of time the population has grown tenfold and the amenities and infrastructure developed in a very significant way.\n\nIn 1960 both the business district and the residential area around it were relatively small, as was the airport, located to the east of the city along a major road, crossing the city from west to east. Another major road ran through the city from south to north and there was a small bridge over a river. There was a government building on the riverbank, next to the bridge.\n\nSince 1960 the business district has spread out to an area at least 4 times what it was before, and the residential district has quadrupled in size. The airport has experienced a significant growth as well, in line with the increase in population to 200,000. The river has been diverted into a man-made lake with a dam in the heart of the city, with the business and residential areas around it to the north and the south. A longer bridge now connects the lake’s shores. In addition to the two roads that criss-crossed the city before, a new road was built and another, smaller building for government officials was added in the business district.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Teacher’s comment: This is a good example of a high-scoring response. All the maps’ features were covered in this well-developed report. The writer’s vocabulary and word choice are adequate and the organisation of information is logical. Overall, this work seems worthy of Band 8.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 243,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "1fdda3ea5ec527eaab8a3a89bb4ccb97c9b7fde0b6eeeab932405698aa6ea1b0",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

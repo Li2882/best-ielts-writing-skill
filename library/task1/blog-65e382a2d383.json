@@ -1,0 +1,54 @@
+{
+  "id": "blog-65e382a2d383",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-65e382a2d383.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-table-describing-number-of-students-studying-foreign-languages-from-target-band-7-book/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/6f3651d047060f34.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "050942a36505be5f",
+  "prompt_group": "f24ed3b9a774d2c7",
+  "question": "This report was written on a topic from “Target Band 7” book (page 44, reprinted with permission). The table below describes the number of students studying foreign languages in SomeCountry in 2000-2005. Write a report for a university lecturer describing the information shown.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/band-8-report-study-foreign-languages-from-target-band-7.jpg",
+      "path": "library/assets/afcd0da1f9ee0c67.jpg",
+      "sha256": "f76c992978b7aef3b5bed376c368fb459de61b064e016d79e9ddd869b608577b"
+    }
+  ],
+  "essay": "The table presents the numbers of students who learned 5 different foreign languages in SomeCountry from 2000 to 2005. It can be clearly seen that the largest number of students studied Spanish, and their numbers rose throughout the entire period the table describes.\n\nThe most popular languages were Spanish, German and French, of which Spanish language was the most popular, starting from 1889 students in 2000 and gradually increasing to 2453 in 2005. At the same time, students who learned German and French were around 1811 and 896 in 2000, respectively, and both groups experienced some fluctuation, eventually dropping their numbers to 1121 and 687 respectively in 2005.\n\nRussian and Japanese languages were learned by the smallest number of students, and that didn’t change over the period. The number of Russian students started at 20 in 2000, rising insignificantly to 26 students by 2005. Similarly, Japanese was studied by 32 students in 2000 and that figure increased slightly to 35 in 2005.\n\nOverall, it can be seen that while the most popular language increased in popularity, the second and third popular languages lost a considerable number of students between 2000 and 2005.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 192,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "eb11c98dc19cd166ea66f8786c6439c81827b9b8e68f4d8bbdf2268c99e032c3",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

@@ -1,0 +1,93 @@
+{
+  "id": "juice-251534",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-251534.json",
+  "question": "The charts below show information about consumer decisions regarding mobile phone purchases in two different countries.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The figures represent the percentages of four factors that affect consumer’s decision-making process related to paying a new mobile phone in two countries. These factors are Price, Brand, Design, and friends’ recommendations.\n\nApparently, Half of the sample confirms that Price plays the most significant role in consumer’s purchasing decisions in country A. Whereas only 10% of people concern about Design as a reference to depend on. In addition, the least factor was the Brand that only 7% of phone market consumers looking for.\n\nIn contrast, Country B’s sample shows less sensitivity to the phone’s price with only 9% of people were interested in it.  Otherwise, 40 % of people said they are affected by Design itself over other factors such as Brand which were recommended by 19% of people.\n\nHowever, a third of the sample in each countries concern in their Friends’ recommendations and advice when they decide to buy a new cellular phone.",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TA": 7.0,
+    "CC": 7.0,
+    "LR": 6.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you indeed for writing this report. The question does not mention any time references; in such cases, present simple tense is the best choice for verb tenses throughout the report. Overall, this piece is approaching a band 6.5 but to push towards a band 7 or higher, greater accuracy in grammar and vocabulary use is needed, as well as a clearer structure that facilitates the comparison between the two countries' consumer behaviors.\nVideo Feedback",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "7.0\tcovers the requirements of the task",
+      "7.0\tclearly presents and highlights key features",
+      "7.0\tcould be more fully extended",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "7.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "7.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "6.0\tattempts to use less common vocabulary but with some inaccuracy",
+      "6.0\tmakes some errors in spelling and/or word formation",
+      "6.0\tthey do not impede communication",
+      "6.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "6.0\tmakes some errors in grammar and punctuation",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.5"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-251534-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2024/04/IELTS-Juice-Writing-Task-1-report-sample-3168-–-Band-6.5.jpg",
+      "sha256": "30d0bf55023a483b8c5dca53ee9c116a69d0494cefd3799669469c3ee0f740be"
+    }
+  ],
+  "question_image": "library/assets/juice-251534-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3168-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-251534.html",
+  "source_sha256": "bec104ec5bcf27df3b592e2fb95fa57700ab565ba8ff0fff2c746f66d5e1f0f6",
+  "source_locator": {
+    "wordpress_post_id": 251534,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "394b0edcf6173612",
+  "prompt_group": "e86795d7f8a15f25",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

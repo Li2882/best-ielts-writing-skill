@@ -1,0 +1,56 @@
+{
+  "id": "blog-a27ff8e40a5d",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-a27ff8e40a5d.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-what-are-the-difficulties-of-learning-a-foreign-language-and-how-to-overcome-them/",
+  "source_locator": "research/blog/ielts-essay-topic-what-are-the-difficulties-of-learning-a-foreign-language-and-how-to-overcome-them.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "d0f895b2a232c8f8",
+  "prompt_group": "fa9a0a05d99d00b1",
+  "question": "Many people believe that learning a foreign language is a very difficult task. What are the most difficult things about learning a foreign language? What is the best way to overcome them? Explain and include your personal experience or knowledge of these problems.",
+  "essay": "It is true that acquiring new language skills is by no means an easy task. Language learners might encounter several challenges such as unfamiliar accents or grammar structures in the learning process of a foreign language. However, in my opinion, such difficulties can be tackled by a well-rounded education system.\n\nWhen it comes to languages, it is undeniably crucial to get used to a native accent and intonation for effective communication. However, picking up an accurate accent can be enormously difficult, especially for adult learners because of their lack of language learning ability. If a language learner has an unrecognisable accent and intonation, they would not be understood by native speakers. On top of that, each language has different grammar and typical grammatical sequencing of words. For example, Korean sentences always end with verbs whilst English does not, which means that a Korean English-learner should consider about the correct order of words.\n\nDespite the aforementioned difficulties, I strongly believe that everyone can master a foreign language when a couple of feasible steps are taken. Firstly, it is more important than anything to start learning a new language at a young age. By incorporating foreign language programmes in the primary school curriculum, children can easily be exposed to languages of the world and eventually acquire language skills without difficulties. Secondly, the government can financially subsidise schools to run student exchange programmes that help adolescents to get experiences abroad and make friends overseas while improving their foreign language in a delight way.\n\nIn conclusion, I believe that individuals can have difficulties in learning a new language because of different accents and unfamiliar grammar, however, these problems can be overcome by a good quality of education system subsidised by governments.",
+  "word_count_computed": 287,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "The writer covered the task by talking about some difficult aspects of learning a new language and steps to overcome them. The ideas are presented in an orderly way, their logical sequencing and the use of paragraphing make this essay easy to follow. Skillful use of linking words and expressions helps the writer maintain coherence and cohesion. Word choice needs some more attention in this essay (see suggested corrections for expressions underlined in blue), however, overall this essay seems to be worthy of IELTS Band 8.",
+  "corrections": [
+    {
+      "original": "in the learning process of",
+      "suggestion": "change the word order to ‘in the process of learning’"
+    },
+    {
+      "original": "does",
+      "suggestion": "‘do’ is the right verb form here because this is referring to ‘sentences’, not ‘English’"
+    },
+    {
+      "original": "consider about",
+      "suggestion": "‘be aware of’ is a better word choice here"
+    },
+    {
+      "original": "delight",
+      "suggestion": "‘delightful’ is the correct word form here"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "7806cb5ef4933fa174889a85aa80363a6255c814b1de359d8c75e9575ba4717e",
+  "model_evidence": null
+}

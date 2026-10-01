@@ -1,0 +1,93 @@
+{
+  "id": "juice-248239",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-248239.json",
+  "question": "The chart below shows the value of one country’s exports in various categories during 2015 and 2016. The table shows the percentage change in each category of exports in 2016 compared with 2015.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The provided bar chart compares earnings generated from international sales of a nation in five categories in 2015 and 2016; while the table provides data on the percentile changes in exports per each type of goods over the same period of time. Overall, an increase in all products except gems and jewelry is apparent.\n\nThe top two exports, which were petroleum goods and engineered products, had similar sales volumes. Oil-based products increased slightly by three per cent from around 60 billion USD in 2015 to roughly 62 billion USD in 2016. Engineered goods increased at a higher rate of 8.5 per cent from approximately 57 billion USD to roughly 62 billion.\n\nThe other three categories had significantly lower earnings, with precious stones and jewelry being the only type that experienced decline by just over five per cent (from about 43 billion USD in 2015 to estimated 41 billion USD in 2016). Farming products were approximately 30 billion USD in 2015 and generated only a slightly higher turnover in 2016 (0.81 per cent increase); whereas cloth goods saw the most significant jump of over 15 per cent from around 26 billion USD to 31 billion USD.",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TA": 9.0,
+    "CC": 7.0,
+    "LR": 8.0,
+    "GRA": 8.0
+  },
+  "comments": "Thank you indeed for writing this report. In a word, Amazing! It is noteworthy to mention that in complex sentences, a comma is not usually used in the middle of the sentence when the subordinating conjunction comes in the middle.\nVideo Feedback",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "9.0\tfully satisfies all the requirements of the task",
+      "9.0\tclearly presents a fully developed response",
+      "9.0\tdetails are fully and clearly extended.",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "9.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "8.0\tmanages all aspects of cohesion well",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "8.0\tproduces rare errors in spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "9.0\tuses a wide range of structures",
+      "8.0\tthe majority of sentences are error-free",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "9.0\tcommunication is completely natural",
+      "8.0",
+      "8.0"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-248239-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2023/10/IELTS-Juice-Writing-Task-1-report-sample-3321-Band-8.0.jpg",
+      "sha256": "ab07c4626f3252a1e3157eccbbcc8429f9ede30362692a6cb9fb254600b05a88"
+    }
+  ],
+  "question_image": "library/assets/juice-248239-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3321-band-8-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248239.html",
+  "source_sha256": "2a3ce6e3459de5e42b97eb56c4cb8a6e58e9ce93d9470514038f6ac6fce45c51",
+  "source_locator": {
+    "wordpress_post_id": 248239,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "2a9053ab53264499",
+  "prompt_group": "470c5fa0ec78ab40",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

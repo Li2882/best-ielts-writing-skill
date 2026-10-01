@@ -1,0 +1,106 @@
+{
+  "id": "blog-05c64f9ac676",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-05c64f9ac676.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-7/ielts-essay-topic-smoking-in-public-places/",
+  "source_locator": "research/blog/ielts-essay-topic-smoking-in-public-places.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "411c55e472a55346",
+  "prompt_group": "514ae7c4a546b894",
+  "question": "Some businesses prohibit smoking in any of their offices. Some governments have banned smoking in all public places. Do you agree or disagree that this is the right course of action? Give reasons for your opinion.",
+  "essay": "Allow me to present the three positive sides of smoking. Firstly, smoking certainly helps many people to relax. For some, it even improves concentration. If someone is upset owing to debt or they have exam, like to smoke to reduce the pressure or tension. Most of the people like to smoke when they are relaxing with friends. Secondly, governments throughout the world make huge profits from taxes on cigarettes. The income obtained through taxes provides funds which are used for building school, hospital and public places such as parks, gardens, sports ground and foot paths. Thirdly, tobacco industry also employs tens of thousands of people all over the world, particularly in poorer countries such as Zimbabwe or the Philippines. Without cigarettes, these people would have no jobs.\n\nDespite these positive effects there are lots of negative effects to smoking too. Initially, smoking has been proven to be very dangerous for health. As one cigarette contains more than 4000 chemical substances, therefore, it causes for many dangerous diseases such as heart attacks, asthma, bronchitis or lung cancer. According to a recent report in Britain close to 3,500 people are killed each year in road accidents and 120,000 are killed by smoking. Furthermore, smoking costs governments millions of dollars because of the large number of people who need treatment in hospitals for smoking-related problems. Moreover, passive smoking is also a major concern today. Recent research shows that non-smokers can suffer from health problems if they spend long periods of time among people who do smoke. In the UK children whose parents are smoke are three times as likely to start smoking themselves .\n\nIn short, I think the world would be a better place without cigarettes. However, the decision of whether _ smoke or not to smoke should be for each individual to make. I suggest that people should not smoke in a room or a place where there are non smokers, however they should be free to smoke elsewhere.",
+  "word_count_computed": 329,
+  "images": [],
+  "overall": null,
+  "band_low": null,
+  "band_high": null,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a very good essay, you have made your arguments well and set out the paragraphs as required. However, pay attention to your use of assertive statements e.g. ‘Without cigarettes, these people would have no jobs’. Perhaps they would gain employment in another industry – we cannot be sure. Over all, well done!",
+  "corrections": [
+    {
+      "original": "Most of the firms",
+      "suggestion": "Most firms. Do not use a definitive “the firms”"
+    },
+    {
+      "original": "to smoke",
+      "suggestion": "on smoking"
+    },
+    {
+      "original": "to blame smoking",
+      "suggestion": "You should explain the statement and say to blame smoking for many illnesses or something else"
+    },
+    {
+      "original": "However,  although",
+      "suggestion": "Overuse of linking words – use just one, However or Although"
+    },
+    {
+      "original": "right",
+      "suggestion": "right to decide"
+    },
+    {
+      "original": "owing to debt",
+      "suggestion": "about owing money"
+    },
+    {
+      "original": "exam",
+      "suggestion": "an exam"
+    },
+    {
+      "original": "like ",
+      "suggestion": "they may like"
+    },
+    {
+      "original": "Most of the",
+      "suggestion": "Many"
+    },
+    {
+      "original": "school, hospital",
+      "suggestion": "schools, hospitals – use plural form"
+    },
+    {
+      "original": "effects there",
+      "suggestion": "effects, there"
+    },
+    {
+      "original": "As one",
+      "suggestion": "One"
+    },
+    {
+      "original": "causes for many",
+      "suggestion": "may cause many"
+    },
+    {
+      "original": "smoke ",
+      "suggestion": "smokers"
+    },
+    {
+      "original": "_",
+      "suggestion": "as those from non-smoking families"
+    },
+    {
+      "original": "_ ",
+      "suggestion": "to"
+    }
+  ],
+  "quality_issues": [
+    "no_explicit_band_in_comment"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "c9d7fc78d89f2eec1beaa9a0f1f79924ace124f8576412777a52b4418ce6bf5f",
+  "model_evidence": null
+}

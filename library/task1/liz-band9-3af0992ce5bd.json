@@ -1,0 +1,59 @@
+{
+  "id": "liz-band9-3af0992ce5bd",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/liz-band9-3af0992ce5bd.json",
+  "source_url": "https://ieltsliz.com/ielts-complex-table-2017/",
+  "source_locator": {
+    "page_marker": "complex",
+    "source_file": "research/expansion/high-band-sources/liz-band9-pages/9a626c7508f9b157.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS Liz",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS Liz page explicitly presents this Academic Task 1 response as an estimated Band 9 model; the page author is an IELTS teacher and preserves the prompt, response and comments where available. This is not an official Cambridge TRF.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS Liz / Tony Grace",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "2962f96ee3535eb2",
+  "prompt_group": "e3b0c44298fc1c14",
+  "question": "",
+  "images": [
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2017/11/IELTS-Table-Complex-Information.png",
+      "path": "library/assets/91dafd6131ee31ce.png",
+      "sha256": "a888edc629b820c0a11937ec059c38ad48046a4097517a7c38664ca832b8f8b2"
+    },
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2017/11/IELTS-Table-Complex-Information.png",
+      "path": "library/assets/91dafd6131ee31ce.png",
+      "sha256": "a888edc629b820c0a11937ec059c38ad48046a4097517a7c38664ca832b8f8b2"
+    }
+  ],
+  "essay": "Note: this model answer was provided by Tony Grace, experienced IELTS tutor.\n\nThe tables illustrate the proportion of people assessing six aspects of one city’s life as good, average, or bad, in 1980 and 2010.\n\nOverall, healthcare, education, and the environment were given the highest scores in both years, and transport facilities received the lowest. Meanwhile , education’s rating rose over the period, while that of transportation fell.\n\nIn 1980 , people rated healthcare, education, and the environment the highest, with over 80% approving of healthcare, while the other two had figures of 72%. Under 10% of respondents thought these three services were bad. As for shopping and employment , both had similar figures , as 62-64% expressed approval, and 22-24% said they were average. Only a half of those surveyed gave a high score to transportation , with roughly a third stating it was bad.\n\nTurning to 2010 , the most significant changes were seen in education, as over 80% were happy with it, and in healthcare whose good rating fell to 74%. The employment situation improved, as in 2010, almost three-quarters of those asked expressed satisfaction. In contrast , approval of the transport facilities fell to 39%, and a similar proportion stated it was bad. Finally , with regard to the environment and shopping , their approval levels both remained relatively unchanged.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Page author estimate: Band 9 model; no four-trait numerical breakdown published.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 224,
+  "extraction": "HTML prompt and model response; author estimate and comments retained.",
+  "source_sha256": "3bc78c654ab593b8ddc643f3373edd9ab9db519f81821a1205e9c05b2076bca0",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

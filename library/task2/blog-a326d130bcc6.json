@@ -1,0 +1,64 @@
+{
+  "id": "blog-a326d130bcc6",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-a326d130bcc6.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-changing-drivers-age-limits-is-the-best-way-to-reduce-traffic-accidents-from-target-band-7-book/",
+  "source_locator": "research/blog/ielts-essay-topic-changing-drivers-age-limits-is-the-best-way-to-reduce-traffic-accidents-from-target-band-7-book.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "448d1201f81895e6",
+  "prompt_group": "9ddb1e67defa2076",
+  "question": "The best way to reduce traffic accidents is to raise the age limit for younger drivers and to lower the age limit for elderly ones. Do you agree or disagree?\nGive reasons for your answer and include examples from your experience.",
+  "essay": "In today’s world the number of traffic accidents is constantly rising as well as the number of injuries and deaths they cause. A better regulative approach is required for traffic accidents can be reduced. Some people say that changing the drivers’ age limits is the best solution to the problem. However, there are other, more practical ways to deal with this problem.\n\nOne alternative is imposing heavier fines at the drivers who exceed the permitted alcohol consumption. According to recent datas, a great proportion of traffic accidents has alcohol as its reason. Utilising technology and installing devices that detect drunk drivers and lock car ignition can be used to keep people with track record of drunk driving off the roads. On some occasions and for repeat offenders in particular, a prison sentence may also be considered.\n\nFurthermore, people should be better educated and more careful while behind the wheel. To be more specific, people should learn to obey road rules and respect the other drivers instead of causing tension or submitting to road rage. In addition, heavy fines should also be levied for exceeded speed limits. Last but not least, safer and wider roads should be constructed to make for easier and more comfortable driving.\n\nTightening age limits for drivers can be a complementary approach. For example, the elderly with vision problems or other important health issues should be excluded from driving. Besides, young people under 18 years old are considered immature to drive. However, maturity does not necessarily always increases with one’s age, which is why other measures are needed to reducing dangerous driving.\n\nIn conclusion, I believe that stronger measures should be implemented for the prevention of traffic accidents, and drivers should have a more responsible attitude. Setting age limits could be helpful but should not be considered the optimal and only solution to the problem.",
+  "word_count_computed": 308,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "The writer’s position is clear throughout the essay. There is a logical organisation of information and effective use of paragraphing. The range of vocabulary is wide enough for the student to show flexibility and accuracy of expression. Overall, the control of grammar and punctuation is good, with only a few errors made. The essay is up to the mark and is likely to get Band 8 in IELTS.",
+  "corrections": [
+    {
+      "original": "for",
+      "suggestion": "‘so that’ is the right connective to use here"
+    },
+    {
+      "original": "at",
+      "suggestion": "‘on’ is the right preposition here"
+    },
+    {
+      "original": "datas",
+      "suggestion": "‘data’ is the correct plural form, or you can use ‘reports’ or ‘statistics’"
+    },
+    {
+      "original": "to reducing",
+      "suggestion": "‘to reduce’ is the correct verb form here"
+    }
+  ],
+  "quality_issues": [
+    "Reference quarantined: manually confirmed same prompt as a reserved holdout; different website IDs hid the overlap. Original human assessment remains preserved."
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "b059c1efa3a979eae51eaea3e4cc5e40f0c77eab43009cc2fe1300b551a5dee2",
+  "model_evidence": null,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "source_context_region": "unknown",
+  "classification_revision": "Book-title advertisement is not evidence of model authorship; explicit sample/model declarations remain excluded.",
+  "reference_quarantine_date": "2026-09-21",
+  "prompt_alias_evidence": "research/prompt-aliases.json"
+}

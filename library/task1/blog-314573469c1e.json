@@ -1,0 +1,53 @@
+{
+  "id": "blog-314573469c1e",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-314573469c1e.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-bar-chart-and-pie-chart-describing-residential-water-usage-from-ielts-high-scorers-choice-series-academic-set-1/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/4f461e60854cbc92.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "f672e6bc9bbc5873",
+  "prompt_group": "df061722e3744b99",
+  "question": "This report was written by a student on a topic from IELTS High Scorer’s Choice series, Academic Set 1 book (page 97, reprinted with permission). The bar chart below shows the average Australian water consumption in selected cities for last year. The pie chart shows the distribution of Australian water consumption for last year. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/band-8-report-ielts-high-scorers-choice-academic-set1-p97.jpg",
+      "path": "library/assets/b15b2a286745b209.jpg"
+    }
+  ],
+  "essay": "Answer\n\nThe bar chart illustrates the average Australian water use in 6 selected cities for last year, while the pie chart describes the share of water each industry consumed in 2014.\n\nOverall, Perth had the highest average water use for last year with 300 kilolitres per property, followed by Adelaide and Brisbane with 240 and 250 kilolitres property respectively. On the other hand, Melbourne and Canberra showed the lowest average water consumption of 150 and 140 kilolitres respectively.\n\nTaking a look at the distribution of water use by industries, we can clearly see that Agriculture took over two thirds of the entire consumption , followed by households . Water Supply, Sewage and Drainage industry consumed the same amount of water as the Electricity sector, 7%. In the same way there was no difference between the consumption of Manufacturing and Other industries, with both sectors using 4% of the national water supply. The smallest user was the Mining industry, accounting for just 2% of Australian water use.\n\nTo conclude, the city of Perth and the Agriculture industry had a major impact on the usage of Australian water.\n\nThe information on two charts was covered in this well-developed response. The data was grouped correctly and a wide range of vocabulary and sentence structures was used. The minor grammatical mistakes (mouse over words underlined in blue shows the corrections) could have been caught at the final proofreading stage. Overall, this report seems worthy of Band 8.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 243,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "aace6f4623101dc898b447e0ede669e42f315b5801fc8f912ce85c2fd944c781",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

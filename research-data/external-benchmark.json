@@ -1,0 +1,3113 @@
+{
+  "date": "2026-09-23",
+  "protocol": {
+    "date": "2026-09-23",
+    "stage": "stage_1_raw_prompt_test_only",
+    "case_count": 7,
+    "task1_cases": 3,
+    "task2_cases": 4,
+    "qualified_prompts": 10,
+    "popular_controls": 3,
+    "control_scope": "Task 2 only, because the three controls do not publish a complete Academic Task 1 prompt.",
+    "calibration_applied": false,
+    "feature_boundaries_applied": false,
+    "prompt_composition_applied": false,
+    "label_visibility": "The model-facing packet contains no human scores or comments. Labels are stored separately.",
+    "limitations": [
+      "This is a prompt-comparison development test, not the final untouched acceptance test.",
+      "Three Task 2 cases share one public teacher source; a fourth independently published Band 9 case is included.",
+      "The labels are public human practice assessments, not official IELTS test scores."
+    ]
+  },
+  "summary": [
+    {
+      "prompt_id": "04-quyen244-ai-evaluator",
+      "name": "quyen244 IELTS AI Evaluator",
+      "group": "qualified",
+      "repo": "https://github.com/quyen244/IELTS-AI-Evaluator",
+      "case_count": 7,
+      "overall": {
+        "task_response": {
+          "n": 7,
+          "mae": 0.786,
+          "bias": -0.786,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.286,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "CC": {
+          "n": 7,
+          "mae": 0.786,
+          "bias": -0.214,
+          "exact_rate": 0.286,
+          "within_0_5_rate": 0.286,
+          "under_count": 3,
+          "over_count": 2
+        },
+        "LR": {
+          "n": 7,
+          "mae": 1.143,
+          "bias": -0.857,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.143,
+          "under_count": 6,
+          "over_count": 1
+        },
+        "GRA": {
+          "n": 7,
+          "mae": 0.714,
+          "bias": -0.714,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.571,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "four_trait_mae": 0.857
+      },
+      "by_task": {
+        "task1": {
+          "task_response": {
+            "n": 3,
+            "mae": 1.0,
+            "bias": -1.0,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 3,
+            "mae": 1.0,
+            "bias": -0.333,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 2,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 3,
+            "mae": 0.833,
+            "bias": -0.167,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.333,
+            "under_count": 2,
+            "over_count": 1
+          },
+          "GRA": {
+            "n": 3,
+            "mae": 0.833,
+            "bias": -0.833,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.333,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "four_trait_mae": 0.917
+        },
+        "task2": {
+          "task_response": {
+            "n": 4,
+            "mae": 0.625,
+            "bias": -0.625,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.5,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 4,
+            "mae": 0.625,
+            "bias": -0.125,
+            "exact_rate": 0.5,
+            "within_0_5_rate": 0.5,
+            "under_count": 1,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 4,
+            "mae": 1.375,
+            "bias": -1.375,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 4,
+            "mae": 0.625,
+            "bias": -0.625,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.75,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "four_trait_mae": 0.812
+        }
+      }
+    },
+    {
+      "prompt_id": "10-mustafa-writing-evaluator",
+      "name": "Mustafa IELTS Writing Evaluator",
+      "group": "qualified",
+      "repo": "https://github.com/MustafaAhmedMahfoodhBinOthman/IELTS_Writing_Evaluator",
+      "case_count": 7,
+      "overall": {
+        "task_response": {
+          "n": 7,
+          "mae": 0.929,
+          "bias": -0.929,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.286,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "CC": {
+          "n": 7,
+          "mae": 0.786,
+          "bias": -0.5,
+          "exact_rate": 0.286,
+          "within_0_5_rate": 0.286,
+          "under_count": 4,
+          "over_count": 1
+        },
+        "LR": {
+          "n": 7,
+          "mae": 1.0,
+          "bias": -1.0,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.286,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "GRA": {
+          "n": 7,
+          "mae": 0.929,
+          "bias": -0.929,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.286,
+          "under_count": 7,
+          "over_count": 0
+        },
+        "four_trait_mae": 0.911
+      },
+      "by_task": {
+        "task1": {
+          "task_response": {
+            "n": 3,
+            "mae": 1.167,
+            "bias": -1.167,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.333,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 3,
+            "mae": 0.833,
+            "bias": -0.833,
+            "exact_rate": 0.333,
+            "within_0_5_rate": 0.333,
+            "under_count": 2,
+            "over_count": 0
+          },
+          "LR": {
+            "n": 3,
+            "mae": 0.667,
+            "bias": -0.667,
+            "exact_rate": 0.333,
+            "within_0_5_rate": 0.667,
+            "under_count": 2,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 3,
+            "mae": 1.0,
+            "bias": -1.0,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "four_trait_mae": 0.917
+        },
+        "task2": {
+          "task_response": {
+            "n": 4,
+            "mae": 0.75,
+            "bias": -0.75,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 4,
+            "mae": 0.75,
+            "bias": -0.25,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 2,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 4,
+            "mae": 1.25,
+            "bias": -1.25,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 4,
+            "mae": 0.875,
+            "bias": -0.875,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.5,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "four_trait_mae": 0.906
+        }
+      }
+    },
+    {
+      "prompt_id": "02-gishguo-claude-skill",
+      "name": "Gishguo IELTS Examiner Claude Skill",
+      "group": "qualified",
+      "repo": "https://github.com/Gishguo/your_ielts_writing_examiner_claude_skill",
+      "case_count": 7,
+      "overall": {
+        "task_response": {
+          "n": 7,
+          "mae": 0.929,
+          "bias": -0.929,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.143,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "CC": {
+          "n": 7,
+          "mae": 0.643,
+          "bias": -0.357,
+          "exact_rate": 0.429,
+          "within_0_5_rate": 0.429,
+          "under_count": 3,
+          "over_count": 1
+        },
+        "LR": {
+          "n": 7,
+          "mae": 1.143,
+          "bias": -1.0,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.286,
+          "under_count": 6,
+          "over_count": 1
+        },
+        "GRA": {
+          "n": 7,
+          "mae": 1.071,
+          "bias": -1.071,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.143,
+          "under_count": 7,
+          "over_count": 0
+        },
+        "four_trait_mae": 0.946
+      },
+      "by_task": {
+        "task1": {
+          "task_response": {
+            "n": 3,
+            "mae": 1.167,
+            "bias": -1.167,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 3,
+            "mae": 0.833,
+            "bias": -0.833,
+            "exact_rate": 0.333,
+            "within_0_5_rate": 0.333,
+            "under_count": 2,
+            "over_count": 0
+          },
+          "LR": {
+            "n": 3,
+            "mae": 0.667,
+            "bias": -0.333,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.667,
+            "under_count": 2,
+            "over_count": 1
+          },
+          "GRA": {
+            "n": 3,
+            "mae": 1.0,
+            "bias": -1.0,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "four_trait_mae": 0.917
+        },
+        "task2": {
+          "task_response": {
+            "n": 4,
+            "mae": 0.75,
+            "bias": -0.75,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 4,
+            "mae": 0.5,
+            "bias": 0.0,
+            "exact_rate": 0.5,
+            "within_0_5_rate": 0.5,
+            "under_count": 1,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 4,
+            "mae": 1.5,
+            "bias": -1.5,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 4,
+            "mae": 1.125,
+            "bias": -1.125,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.25,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "four_trait_mae": 0.969
+        }
+      }
+    },
+    {
+      "prompt_id": "05-ryangwn-vtm-assessment",
+      "name": "ryangwn VTM IELTS Writing Assessment",
+      "group": "qualified",
+      "repo": "https://github.com/ryangwn/vtm-ietls-writing-assessment",
+      "case_count": 7,
+      "overall": {
+        "task_response": {
+          "n": 7,
+          "mae": 1.143,
+          "bias": -1.143,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.286,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "CC": {
+          "n": 7,
+          "mae": 0.714,
+          "bias": -0.429,
+          "exact_rate": 0.429,
+          "within_0_5_rate": 0.429,
+          "under_count": 3,
+          "over_count": 1
+        },
+        "LR": {
+          "n": 7,
+          "mae": 1.143,
+          "bias": -1.143,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.143,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "GRA": {
+          "n": 7,
+          "mae": 0.929,
+          "bias": -0.929,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.286,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "four_trait_mae": 0.982
+      },
+      "by_task": {
+        "task1": {
+          "task_response": {
+            "n": 3,
+            "mae": 1.5,
+            "bias": -1.5,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 3,
+            "mae": 1.0,
+            "bias": -1.0,
+            "exact_rate": 0.333,
+            "within_0_5_rate": 0.333,
+            "under_count": 2,
+            "over_count": 0
+          },
+          "LR": {
+            "n": 3,
+            "mae": 0.833,
+            "bias": -0.833,
+            "exact_rate": 0.333,
+            "within_0_5_rate": 0.333,
+            "under_count": 2,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 3,
+            "mae": 1.0,
+            "bias": -1.0,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "four_trait_mae": 1.083
+        },
+        "task2": {
+          "task_response": {
+            "n": 4,
+            "mae": 0.875,
+            "bias": -0.875,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.5,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 4,
+            "mae": 0.5,
+            "bias": 0.0,
+            "exact_rate": 0.5,
+            "within_0_5_rate": 0.5,
+            "under_count": 1,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 4,
+            "mae": 1.375,
+            "bias": -1.375,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 4,
+            "mae": 0.875,
+            "bias": -0.875,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.5,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "four_trait_mae": 0.906
+        }
+      }
+    },
+    {
+      "prompt_id": "08-hippone-writing-diagnostic",
+      "name": "hippone IELTS Writing Diagnostic",
+      "group": "qualified",
+      "repo": "https://github.com/hippone/ielts-writing-diagnostic",
+      "case_count": 7,
+      "overall": {
+        "task_response": {
+          "n": 7,
+          "mae": 1.071,
+          "bias": -1.071,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.143,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "CC": {
+          "n": 7,
+          "mae": 0.857,
+          "bias": -0.429,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.286,
+          "under_count": 4,
+          "over_count": 2
+        },
+        "LR": {
+          "n": 7,
+          "mae": 1.143,
+          "bias": -1.0,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.286,
+          "under_count": 6,
+          "over_count": 1
+        },
+        "GRA": {
+          "n": 7,
+          "mae": 0.857,
+          "bias": -0.857,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.429,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "four_trait_mae": 0.982
+      },
+      "by_task": {
+        "task1": {
+          "task_response": {
+            "n": 3,
+            "mae": 1.5,
+            "bias": -1.5,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 3,
+            "mae": 1.0,
+            "bias": -0.667,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.333,
+            "under_count": 2,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 3,
+            "mae": 0.833,
+            "bias": -0.5,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.667,
+            "under_count": 2,
+            "over_count": 1
+          },
+          "GRA": {
+            "n": 3,
+            "mae": 0.833,
+            "bias": -0.833,
+            "exact_rate": 0.333,
+            "within_0_5_rate": 0.333,
+            "under_count": 2,
+            "over_count": 0
+          },
+          "four_trait_mae": 1.042
+        },
+        "task2": {
+          "task_response": {
+            "n": 4,
+            "mae": 0.75,
+            "bias": -0.75,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 4,
+            "mae": 0.75,
+            "bias": -0.25,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 2,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 4,
+            "mae": 1.375,
+            "bias": -1.375,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 4,
+            "mae": 0.875,
+            "bias": -0.875,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.5,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "four_trait_mae": 0.938
+        }
+      }
+    },
+    {
+      "prompt_id": "09-dungnotnull-cert-scorer",
+      "name": "dungnotnull Language Cert Prep Scorer",
+      "group": "qualified",
+      "repo": "https://github.com/dungnotnull/language-cert-prep-scorer-agent-skill",
+      "case_count": 7,
+      "overall": {
+        "task_response": {
+          "n": 7,
+          "mae": 1.0,
+          "bias": -1.0,
+          "exact_rate": 0.286,
+          "within_0_5_rate": 0.286,
+          "under_count": 5,
+          "over_count": 0
+        },
+        "CC": {
+          "n": 7,
+          "mae": 0.857,
+          "bias": -0.571,
+          "exact_rate": 0.429,
+          "within_0_5_rate": 0.429,
+          "under_count": 3,
+          "over_count": 1
+        },
+        "LR": {
+          "n": 7,
+          "mae": 1.0,
+          "bias": -1.0,
+          "exact_rate": 0.286,
+          "within_0_5_rate": 0.429,
+          "under_count": 5,
+          "over_count": 0
+        },
+        "GRA": {
+          "n": 7,
+          "mae": 1.071,
+          "bias": -1.071,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.143,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "four_trait_mae": 0.982
+      },
+      "by_task": {
+        "task1": {
+          "task_response": {
+            "n": 3,
+            "mae": 1.333,
+            "bias": -1.333,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 3,
+            "mae": 1.0,
+            "bias": -1.0,
+            "exact_rate": 0.333,
+            "within_0_5_rate": 0.333,
+            "under_count": 2,
+            "over_count": 0
+          },
+          "LR": {
+            "n": 3,
+            "mae": 0.667,
+            "bias": -0.667,
+            "exact_rate": 0.333,
+            "within_0_5_rate": 0.667,
+            "under_count": 2,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 3,
+            "mae": 1.0,
+            "bias": -1.0,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "four_trait_mae": 1.0
+        },
+        "task2": {
+          "task_response": {
+            "n": 4,
+            "mae": 0.75,
+            "bias": -0.75,
+            "exact_rate": 0.5,
+            "within_0_5_rate": 0.5,
+            "under_count": 2,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 4,
+            "mae": 0.75,
+            "bias": -0.25,
+            "exact_rate": 0.5,
+            "within_0_5_rate": 0.5,
+            "under_count": 1,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 4,
+            "mae": 1.25,
+            "bias": -1.25,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 4,
+            "mae": 1.125,
+            "bias": -1.125,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "four_trait_mae": 0.969
+        }
+      }
+    },
+    {
+      "prompt_id": "03-unrealinux-writing-coach",
+      "name": "unrealinux IELTS Writing Coach",
+      "group": "qualified",
+      "repo": "https://github.com/unrealinux/ielts-writing-coach",
+      "case_count": 7,
+      "overall": {
+        "task_response": {
+          "n": 7,
+          "mae": 1.071,
+          "bias": -1.071,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.143,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "CC": {
+          "n": 7,
+          "mae": 0.643,
+          "bias": -0.357,
+          "exact_rate": 0.429,
+          "within_0_5_rate": 0.429,
+          "under_count": 3,
+          "over_count": 1
+        },
+        "LR": {
+          "n": 7,
+          "mae": 1.357,
+          "bias": -1.214,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.143,
+          "under_count": 6,
+          "over_count": 1
+        },
+        "GRA": {
+          "n": 7,
+          "mae": 0.929,
+          "bias": -0.929,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.286,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "four_trait_mae": 1.0
+      },
+      "by_task": {
+        "task1": {
+          "task_response": {
+            "n": 3,
+            "mae": 1.333,
+            "bias": -1.333,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 3,
+            "mae": 0.833,
+            "bias": -0.833,
+            "exact_rate": 0.333,
+            "within_0_5_rate": 0.333,
+            "under_count": 2,
+            "over_count": 0
+          },
+          "LR": {
+            "n": 3,
+            "mae": 1.0,
+            "bias": -0.667,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.333,
+            "under_count": 2,
+            "over_count": 1
+          },
+          "GRA": {
+            "n": 3,
+            "mae": 1.0,
+            "bias": -1.0,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "four_trait_mae": 1.042
+        },
+        "task2": {
+          "task_response": {
+            "n": 4,
+            "mae": 0.875,
+            "bias": -0.875,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 4,
+            "mae": 0.5,
+            "bias": 0.0,
+            "exact_rate": 0.5,
+            "within_0_5_rate": 0.5,
+            "under_count": 1,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 4,
+            "mae": 1.625,
+            "bias": -1.625,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 4,
+            "mae": 0.875,
+            "bias": -0.875,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.5,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "four_trait_mae": 0.969
+        }
+      }
+    },
+    {
+      "prompt_id": "control-01-openielts-ai",
+      "name": "OpenIELTS-AI",
+      "group": "popular_control",
+      "repo": "https://github.com/Shpaldik/OpenIELTS-AI",
+      "case_count": 4,
+      "overall": {
+        "task_response": {
+          "n": 4,
+          "mae": 0.75,
+          "bias": -0.75,
+          "exact_rate": 0.25,
+          "within_0_5_rate": 0.25,
+          "under_count": 3,
+          "over_count": 0
+        },
+        "CC": {
+          "n": 4,
+          "mae": 0.75,
+          "bias": -0.25,
+          "exact_rate": 0.25,
+          "within_0_5_rate": 0.25,
+          "under_count": 2,
+          "over_count": 1
+        },
+        "LR": {
+          "n": 4,
+          "mae": 1.375,
+          "bias": -1.375,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.0,
+          "under_count": 4,
+          "over_count": 0
+        },
+        "GRA": {
+          "n": 4,
+          "mae": 1.25,
+          "bias": -1.25,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.0,
+          "under_count": 4,
+          "over_count": 0
+        },
+        "four_trait_mae": 1.031
+      },
+      "by_task": {
+        "task2": {
+          "task_response": {
+            "n": 4,
+            "mae": 0.75,
+            "bias": -0.75,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 4,
+            "mae": 0.75,
+            "bias": -0.25,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 2,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 4,
+            "mae": 1.375,
+            "bias": -1.375,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 4,
+            "mae": 1.25,
+            "bias": -1.25,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "four_trait_mae": 1.031
+        }
+      }
+    },
+    {
+      "prompt_id": "07-imgzw-writing-marker",
+      "name": "imgzw IELTS Writing Marker",
+      "group": "qualified",
+      "repo": "https://github.com/imgzw/ielts-writing-marker",
+      "case_count": 7,
+      "overall": {
+        "task_response": {
+          "n": 7,
+          "mae": 1.143,
+          "bias": -1.143,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.143,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "CC": {
+          "n": 7,
+          "mae": 1.0,
+          "bias": -0.429,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.143,
+          "under_count": 4,
+          "over_count": 2
+        },
+        "LR": {
+          "n": 7,
+          "mae": 1.071,
+          "bias": -1.071,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.286,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "GRA": {
+          "n": 7,
+          "mae": 1.0,
+          "bias": -1.0,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.286,
+          "under_count": 7,
+          "over_count": 0
+        },
+        "four_trait_mae": 1.054
+      },
+      "by_task": {
+        "task1": {
+          "task_response": {
+            "n": 3,
+            "mae": 1.333,
+            "bias": -1.333,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 3,
+            "mae": 1.333,
+            "bias": -0.667,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 2,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 3,
+            "mae": 0.5,
+            "bias": -0.5,
+            "exact_rate": 0.333,
+            "within_0_5_rate": 0.667,
+            "under_count": 2,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 3,
+            "mae": 1.167,
+            "bias": -1.167,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "four_trait_mae": 1.083
+        },
+        "task2": {
+          "task_response": {
+            "n": 4,
+            "mae": 1.0,
+            "bias": -1.0,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 4,
+            "mae": 0.75,
+            "bias": -0.25,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 2,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 4,
+            "mae": 1.5,
+            "bias": -1.5,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 4,
+            "mae": 0.875,
+            "bias": -0.875,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.5,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "four_trait_mae": 1.031
+        }
+      }
+    },
+    {
+      "prompt_id": "06-austinwang668-writing-scorer",
+      "name": "AustinWang668 IELTS Writing Scorer",
+      "group": "qualified",
+      "repo": "https://github.com/AustinWang668/ielts-writing-scorer",
+      "case_count": 7,
+      "overall": {
+        "task_response": {
+          "n": 7,
+          "mae": 1.429,
+          "bias": -1.429,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.143,
+          "under_count": 7,
+          "over_count": 0
+        },
+        "CC": {
+          "n": 7,
+          "mae": 0.786,
+          "bias": -0.5,
+          "exact_rate": 0.429,
+          "within_0_5_rate": 0.429,
+          "under_count": 3,
+          "over_count": 1
+        },
+        "LR": {
+          "n": 7,
+          "mae": 1.071,
+          "bias": -1.071,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.286,
+          "under_count": 6,
+          "over_count": 0
+        },
+        "GRA": {
+          "n": 7,
+          "mae": 1.143,
+          "bias": -1.143,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.143,
+          "under_count": 7,
+          "over_count": 0
+        },
+        "four_trait_mae": 1.107
+      },
+      "by_task": {
+        "task1": {
+          "task_response": {
+            "n": 3,
+            "mae": 1.667,
+            "bias": -1.667,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 3,
+            "mae": 0.833,
+            "bias": -0.833,
+            "exact_rate": 0.333,
+            "within_0_5_rate": 0.333,
+            "under_count": 2,
+            "over_count": 0
+          },
+          "LR": {
+            "n": 3,
+            "mae": 0.5,
+            "bias": -0.5,
+            "exact_rate": 0.333,
+            "within_0_5_rate": 0.667,
+            "under_count": 2,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 3,
+            "mae": 1.167,
+            "bias": -1.167,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "four_trait_mae": 1.042
+        },
+        "task2": {
+          "task_response": {
+            "n": 4,
+            "mae": 1.25,
+            "bias": -1.25,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.25,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 4,
+            "mae": 0.75,
+            "bias": -0.25,
+            "exact_rate": 0.5,
+            "within_0_5_rate": 0.5,
+            "under_count": 1,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 4,
+            "mae": 1.5,
+            "bias": -1.5,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 4,
+            "mae": 1.125,
+            "bias": -1.125,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.25,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "four_trait_mae": 1.156
+        }
+      }
+    },
+    {
+      "prompt_id": "control-02-ieltsgpt",
+      "name": "ieltsGPT",
+      "group": "popular_control",
+      "repo": "https://github.com/araloak/ieltsGPT",
+      "case_count": 4,
+      "overall": {
+        "task_response": {
+          "n": 4,
+          "mae": 0.75,
+          "bias": -0.75,
+          "exact_rate": 0.25,
+          "within_0_5_rate": 0.25,
+          "under_count": 3,
+          "over_count": 0
+        },
+        "CC": {
+          "n": 4,
+          "mae": 0.75,
+          "bias": -0.25,
+          "exact_rate": 0.25,
+          "within_0_5_rate": 0.25,
+          "under_count": 2,
+          "over_count": 1
+        },
+        "LR": {
+          "n": 4,
+          "mae": 1.5,
+          "bias": -1.5,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.0,
+          "under_count": 4,
+          "over_count": 0
+        },
+        "GRA": {
+          "n": 4,
+          "mae": 1.625,
+          "bias": -1.625,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.0,
+          "under_count": 4,
+          "over_count": 0
+        },
+        "four_trait_mae": 1.156
+      },
+      "by_task": {
+        "task2": {
+          "task_response": {
+            "n": 4,
+            "mae": 0.75,
+            "bias": -0.75,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 4,
+            "mae": 0.75,
+            "bias": -0.25,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 2,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 4,
+            "mae": 1.5,
+            "bias": -1.5,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 4,
+            "mae": 1.625,
+            "bias": -1.625,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "four_trait_mae": 1.156
+        }
+      }
+    },
+    {
+      "prompt_id": "01-aaronl725-review-skills",
+      "name": "AaronL725 IELTS Writing Review Skills",
+      "group": "qualified",
+      "repo": "https://github.com/AaronL725/ielts-writing-review-skills",
+      "case_count": 7,
+      "overall": {
+        "task_response": {
+          "n": 7,
+          "mae": 1.357,
+          "bias": -1.357,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.143,
+          "under_count": 7,
+          "over_count": 0
+        },
+        "CC": {
+          "n": 7,
+          "mae": 0.929,
+          "bias": -0.5,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.429,
+          "under_count": 5,
+          "over_count": 2
+        },
+        "LR": {
+          "n": 7,
+          "mae": 1.214,
+          "bias": -1.071,
+          "exact_rate": 0.143,
+          "within_0_5_rate": 0.286,
+          "under_count": 5,
+          "over_count": 1
+        },
+        "GRA": {
+          "n": 7,
+          "mae": 1.143,
+          "bias": -1.143,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.286,
+          "under_count": 7,
+          "over_count": 0
+        },
+        "four_trait_mae": 1.161
+      },
+      "by_task": {
+        "task1": {
+          "task_response": {
+            "n": 3,
+            "mae": 1.5,
+            "bias": -1.5,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 3,
+            "mae": 1.0,
+            "bias": -0.667,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.333,
+            "under_count": 2,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 3,
+            "mae": 0.667,
+            "bias": -0.333,
+            "exact_rate": 0.333,
+            "within_0_5_rate": 0.667,
+            "under_count": 1,
+            "over_count": 1
+          },
+          "GRA": {
+            "n": 3,
+            "mae": 1.0,
+            "bias": -1.0,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.333,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "four_trait_mae": 1.042
+        },
+        "task2": {
+          "task_response": {
+            "n": 4,
+            "mae": 1.25,
+            "bias": -1.25,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.25,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 4,
+            "mae": 0.875,
+            "bias": -0.375,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.5,
+            "under_count": 3,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 4,
+            "mae": 1.625,
+            "bias": -1.625,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 4,
+            "mae": 1.25,
+            "bias": -1.25,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.25,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "four_trait_mae": 1.25
+        }
+      }
+    },
+    {
+      "prompt_id": "control-03-aielts-writing",
+      "name": "AIELTS-WRITING",
+      "group": "popular_control",
+      "repo": "https://github.com/maruf009sultan/AIELTS-WRITING",
+      "case_count": 4,
+      "overall": {
+        "task_response": {
+          "n": 4,
+          "mae": 1.0,
+          "bias": -1.0,
+          "exact_rate": 0.25,
+          "within_0_5_rate": 0.25,
+          "under_count": 3,
+          "over_count": 0
+        },
+        "CC": {
+          "n": 4,
+          "mae": 0.875,
+          "bias": -0.375,
+          "exact_rate": 0.25,
+          "within_0_5_rate": 0.25,
+          "under_count": 2,
+          "over_count": 1
+        },
+        "LR": {
+          "n": 4,
+          "mae": 1.625,
+          "bias": -1.625,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.0,
+          "under_count": 4,
+          "over_count": 0
+        },
+        "GRA": {
+          "n": 4,
+          "mae": 1.375,
+          "bias": -1.375,
+          "exact_rate": 0.0,
+          "within_0_5_rate": 0.0,
+          "under_count": 4,
+          "over_count": 0
+        },
+        "four_trait_mae": 1.219
+      },
+      "by_task": {
+        "task2": {
+          "task_response": {
+            "n": 4,
+            "mae": 1.0,
+            "bias": -1.0,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 3,
+            "over_count": 0
+          },
+          "CC": {
+            "n": 4,
+            "mae": 0.875,
+            "bias": -0.375,
+            "exact_rate": 0.25,
+            "within_0_5_rate": 0.25,
+            "under_count": 2,
+            "over_count": 1
+          },
+          "LR": {
+            "n": 4,
+            "mae": 1.625,
+            "bias": -1.625,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "GRA": {
+            "n": 4,
+            "mae": 1.375,
+            "bias": -1.375,
+            "exact_rate": 0.0,
+            "within_0_5_rate": 0.0,
+            "under_count": 4,
+            "over_count": 0
+          },
+          "four_trait_mae": 1.219
+        }
+      }
+    }
+  ],
+  "rows": [
+    {
+      "prompt_id": "01-aaronl725-review-skills",
+      "prompt_name": "AaronL725 IELTS Writing Review Skills",
+      "group": "qualified",
+      "case_id": "advantage-museums-band9",
+      "task": "task2",
+      "target": {
+        "task_response": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "predicted": {
+        "task_response": 7.5,
+        "CC": 8.5,
+        "LR": 7.5,
+        "GRA": 8.5
+      }
+    },
+    {
+      "prompt_id": "01-aaronl725-review-skills",
+      "prompt_name": "AaronL725 IELTS Writing Review Skills",
+      "group": "qualified",
+      "case_id": "juice-247858",
+      "task": "task1",
+      "target": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 5.0,
+        "GRA": 6.0
+      },
+      "predicted": {
+        "task_response": 5.5,
+        "CC": 5.5,
+        "LR": 5.5,
+        "GRA": 5.0
+      }
+    },
+    {
+      "prompt_id": "01-aaronl725-review-skills",
+      "prompt_name": "AaronL725 IELTS Writing Review Skills",
+      "group": "qualified",
+      "case_id": "network-13474",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.5,
+        "CC": 7.0,
+        "LR": 6.5,
+        "GRA": 6.0
+      }
+    },
+    {
+      "prompt_id": "01-aaronl725-review-skills",
+      "prompt_name": "AaronL725 IELTS Writing Review Skills",
+      "group": "qualified",
+      "case_id": "network-14013",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 7.0,
+        "LR": 7.5,
+        "GRA": 8.0
+      },
+      "predicted": {
+        "task_response": 6.5,
+        "CC": 7.5,
+        "LR": 7.5,
+        "GRA": 7.5
+      }
+    },
+    {
+      "prompt_id": "01-aaronl725-review-skills",
+      "prompt_name": "AaronL725 IELTS Writing Review Skills",
+      "group": "qualified",
+      "case_id": "network-14091",
+      "task": "task2",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.5,
+        "LR": 6.0,
+        "GRA": 6.0
+      }
+    },
+    {
+      "prompt_id": "01-aaronl725-review-skills",
+      "prompt_name": "AaronL725 IELTS Writing Review Skills",
+      "group": "qualified",
+      "case_id": "network-14119",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 5.5,
+        "LR": 5.5,
+        "GRA": 5.5
+      }
+    },
+    {
+      "prompt_id": "01-aaronl725-review-skills",
+      "prompt_name": "AaronL725 IELTS Writing Review Skills",
+      "group": "qualified",
+      "case_id": "network-14127",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.5,
+        "CC": 7.0,
+        "LR": 6.5,
+        "GRA": 6.5
+      }
+    },
+    {
+      "prompt_id": "02-gishguo-claude-skill",
+      "prompt_name": "Gishguo IELTS Examiner Claude Skill",
+      "group": "qualified",
+      "case_id": "advantage-museums-band9",
+      "task": "task2",
+      "target": {
+        "task_response": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "predicted": {
+        "task_response": 8.0,
+        "CC": 9.0,
+        "LR": 8.0,
+        "GRA": 8.0
+      }
+    },
+    {
+      "prompt_id": "02-gishguo-claude-skill",
+      "prompt_name": "Gishguo IELTS Examiner Claude Skill",
+      "group": "qualified",
+      "case_id": "juice-247858",
+      "task": "task1",
+      "target": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 5.0,
+        "GRA": 6.0
+      },
+      "predicted": {
+        "task_response": 5.5,
+        "CC": 5.5,
+        "LR": 5.5,
+        "GRA": 5.0
+      }
+    },
+    {
+      "prompt_id": "02-gishguo-claude-skill",
+      "prompt_name": "Gishguo IELTS Examiner Claude Skill",
+      "group": "qualified",
+      "case_id": "network-13474",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 7.0,
+        "GRA": 6.5
+      }
+    },
+    {
+      "prompt_id": "02-gishguo-claude-skill",
+      "prompt_name": "Gishguo IELTS Examiner Claude Skill",
+      "group": "qualified",
+      "case_id": "network-14013",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 7.0,
+        "LR": 7.5,
+        "GRA": 8.0
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 7.0,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "02-gishguo-claude-skill",
+      "prompt_name": "Gishguo IELTS Examiner Claude Skill",
+      "group": "qualified",
+      "case_id": "network-14091",
+      "task": "task2",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.0,
+        "GRA": 6.5
+      }
+    },
+    {
+      "prompt_id": "02-gishguo-claude-skill",
+      "prompt_name": "Gishguo IELTS Examiner Claude Skill",
+      "group": "qualified",
+      "case_id": "network-14119",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.0,
+        "LR": 5.5,
+        "GRA": 5.5
+      }
+    },
+    {
+      "prompt_id": "02-gishguo-claude-skill",
+      "prompt_name": "Gishguo IELTS Examiner Claude Skill",
+      "group": "qualified",
+      "case_id": "network-14127",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.5,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "03-unrealinux-writing-coach",
+      "prompt_name": "unrealinux IELTS Writing Coach",
+      "group": "qualified",
+      "case_id": "advantage-museums-band9",
+      "task": "task2",
+      "target": {
+        "task_response": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "predicted": {
+        "task_response": 9.0,
+        "CC": 9.0,
+        "LR": 8.0,
+        "GRA": 9.0
+      }
+    },
+    {
+      "prompt_id": "03-unrealinux-writing-coach",
+      "prompt_name": "unrealinux IELTS Writing Coach",
+      "group": "qualified",
+      "case_id": "juice-247858",
+      "task": "task1",
+      "target": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 5.0,
+        "GRA": 6.0
+      },
+      "predicted": {
+        "task_response": 5.5,
+        "CC": 5.5,
+        "LR": 5.5,
+        "GRA": 5.0
+      }
+    },
+    {
+      "prompt_id": "03-unrealinux-writing-coach",
+      "prompt_name": "unrealinux IELTS Writing Coach",
+      "group": "qualified",
+      "case_id": "network-13474",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.5,
+        "GRA": 6.5
+      }
+    },
+    {
+      "prompt_id": "03-unrealinux-writing-coach",
+      "prompt_name": "unrealinux IELTS Writing Coach",
+      "group": "qualified",
+      "case_id": "network-14013",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 7.0,
+        "LR": 7.5,
+        "GRA": 8.0
+      },
+      "predicted": {
+        "task_response": 6.5,
+        "CC": 7.0,
+        "LR": 6.5,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "03-unrealinux-writing-coach",
+      "prompt_name": "unrealinux IELTS Writing Coach",
+      "group": "qualified",
+      "case_id": "network-14091",
+      "task": "task2",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.5,
+        "CC": 7.0,
+        "LR": 6.0,
+        "GRA": 6.5
+      }
+    },
+    {
+      "prompt_id": "03-unrealinux-writing-coach",
+      "prompt_name": "unrealinux IELTS Writing Coach",
+      "group": "qualified",
+      "case_id": "network-14119",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.0,
+        "LR": 5.5,
+        "GRA": 5.5
+      }
+    },
+    {
+      "prompt_id": "03-unrealinux-writing-coach",
+      "prompt_name": "unrealinux IELTS Writing Coach",
+      "group": "qualified",
+      "case_id": "network-14127",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 7.0,
+        "LR": 6.0,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "04-quyen244-ai-evaluator",
+      "prompt_name": "quyen244 IELTS AI Evaluator",
+      "group": "qualified",
+      "case_id": "advantage-museums-band9",
+      "task": "task2",
+      "target": {
+        "task_response": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "predicted": {
+        "task_response": 8.5,
+        "CC": 9.0,
+        "LR": 8.0,
+        "GRA": 9.0
+      }
+    },
+    {
+      "prompt_id": "04-quyen244-ai-evaluator",
+      "prompt_name": "quyen244 IELTS AI Evaluator",
+      "group": "qualified",
+      "case_id": "juice-247858",
+      "task": "task1",
+      "target": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 5.0,
+        "GRA": 6.0
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.0,
+        "LR": 6.0,
+        "GRA": 5.0
+      }
+    },
+    {
+      "prompt_id": "04-quyen244-ai-evaluator",
+      "prompt_name": "quyen244 IELTS AI Evaluator",
+      "group": "qualified",
+      "case_id": "network-13474",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 7.0,
+        "GRA": 6.5
+      }
+    },
+    {
+      "prompt_id": "04-quyen244-ai-evaluator",
+      "prompt_name": "quyen244 IELTS AI Evaluator",
+      "group": "qualified",
+      "case_id": "network-14013",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 7.0,
+        "LR": 7.5,
+        "GRA": 8.0
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 8.0,
+        "LR": 7.0,
+        "GRA": 7.5
+      }
+    },
+    {
+      "prompt_id": "04-quyen244-ai-evaluator",
+      "prompt_name": "quyen244 IELTS AI Evaluator",
+      "group": "qualified",
+      "case_id": "network-14091",
+      "task": "task2",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 6.5,
+        "LR": 6.5,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "04-quyen244-ai-evaluator",
+      "prompt_name": "quyen244 IELTS AI Evaluator",
+      "group": "qualified",
+      "case_id": "network-14119",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.0,
+        "LR": 6.0,
+        "GRA": 6.0
+      }
+    },
+    {
+      "prompt_id": "04-quyen244-ai-evaluator",
+      "prompt_name": "quyen244 IELTS AI Evaluator",
+      "group": "qualified",
+      "case_id": "network-14127",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.0,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "05-ryangwn-vtm-assessment",
+      "prompt_name": "ryangwn VTM IELTS Writing Assessment",
+      "group": "qualified",
+      "case_id": "advantage-museums-band9",
+      "task": "task2",
+      "target": {
+        "task_response": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "predicted": {
+        "task_response": 9.0,
+        "CC": 9.0,
+        "LR": 8.0,
+        "GRA": 9.0
+      }
+    },
+    {
+      "prompt_id": "05-ryangwn-vtm-assessment",
+      "prompt_name": "ryangwn VTM IELTS Writing Assessment",
+      "group": "qualified",
+      "case_id": "juice-247858",
+      "task": "task1",
+      "target": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 5.0,
+        "GRA": 6.0
+      },
+      "predicted": {
+        "task_response": 5.0,
+        "CC": 5.0,
+        "LR": 5.0,
+        "GRA": 5.0
+      }
+    },
+    {
+      "prompt_id": "05-ryangwn-vtm-assessment",
+      "prompt_name": "ryangwn VTM IELTS Writing Assessment",
+      "group": "qualified",
+      "case_id": "network-13474",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.5,
+        "GRA": 6.5
+      }
+    },
+    {
+      "prompt_id": "05-ryangwn-vtm-assessment",
+      "prompt_name": "ryangwn VTM IELTS Writing Assessment",
+      "group": "qualified",
+      "case_id": "network-14013",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 7.0,
+        "LR": 7.5,
+        "GRA": 8.0
+      },
+      "predicted": {
+        "task_response": 6.5,
+        "CC": 7.0,
+        "LR": 6.5,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "05-ryangwn-vtm-assessment",
+      "prompt_name": "ryangwn VTM IELTS Writing Assessment",
+      "group": "qualified",
+      "case_id": "network-14091",
+      "task": "task2",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 7.0,
+        "LR": 6.0,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "05-ryangwn-vtm-assessment",
+      "prompt_name": "ryangwn VTM IELTS Writing Assessment",
+      "group": "qualified",
+      "case_id": "network-14119",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.0,
+        "LR": 6.0,
+        "GRA": 5.5
+      }
+    },
+    {
+      "prompt_id": "05-ryangwn-vtm-assessment",
+      "prompt_name": "ryangwn VTM IELTS Writing Assessment",
+      "group": "qualified",
+      "case_id": "network-14127",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.5,
+        "CC": 7.0,
+        "LR": 6.5,
+        "GRA": 6.5
+      }
+    },
+    {
+      "prompt_id": "06-austinwang668-writing-scorer",
+      "prompt_name": "AustinWang668 IELTS Writing Scorer",
+      "group": "qualified",
+      "case_id": "advantage-museums-band9",
+      "task": "task2",
+      "target": {
+        "task_response": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "predicted": {
+        "task_response": 8.0,
+        "CC": 9.0,
+        "LR": 8.0,
+        "GRA": 8.0
+      }
+    },
+    {
+      "prompt_id": "06-austinwang668-writing-scorer",
+      "prompt_name": "AustinWang668 IELTS Writing Scorer",
+      "group": "qualified",
+      "case_id": "juice-247858",
+      "task": "task1",
+      "target": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 5.0,
+        "GRA": 6.0
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 5.5,
+        "LR": 5.0,
+        "GRA": 5.0
+      }
+    },
+    {
+      "prompt_id": "06-austinwang668-writing-scorer",
+      "prompt_name": "AustinWang668 IELTS Writing Scorer",
+      "group": "qualified",
+      "case_id": "network-13474",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 7.0,
+        "LR": 7.0,
+        "GRA": 6.0
+      }
+    },
+    {
+      "prompt_id": "06-austinwang668-writing-scorer",
+      "prompt_name": "AustinWang668 IELTS Writing Scorer",
+      "group": "qualified",
+      "case_id": "network-14013",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 7.0,
+        "LR": 7.5,
+        "GRA": 8.0
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 7.0,
+        "LR": 7.0,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "06-austinwang668-writing-scorer",
+      "prompt_name": "AustinWang668 IELTS Writing Scorer",
+      "group": "qualified",
+      "case_id": "network-14091",
+      "task": "task2",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.0,
+        "LR": 6.0,
+        "GRA": 6.5
+      }
+    },
+    {
+      "prompt_id": "06-austinwang668-writing-scorer",
+      "prompt_name": "AustinWang668 IELTS Writing Scorer",
+      "group": "qualified",
+      "case_id": "network-14119",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 5.5,
+        "CC": 6.0,
+        "LR": 6.0,
+        "GRA": 5.5
+      }
+    },
+    {
+      "prompt_id": "06-austinwang668-writing-scorer",
+      "prompt_name": "AustinWang668 IELTS Writing Scorer",
+      "group": "qualified",
+      "case_id": "network-14127",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.5,
+        "CC": 7.0,
+        "LR": 6.0,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "07-imgzw-writing-marker",
+      "prompt_name": "imgzw IELTS Writing Marker",
+      "group": "qualified",
+      "case_id": "advantage-museums-band9",
+      "task": "task2",
+      "target": {
+        "task_response": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "predicted": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 8.0
+      }
+    },
+    {
+      "prompt_id": "07-imgzw-writing-marker",
+      "prompt_name": "imgzw IELTS Writing Marker",
+      "group": "qualified",
+      "case_id": "juice-247858",
+      "task": "task1",
+      "target": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 5.0,
+        "GRA": 6.0
+      },
+      "predicted": {
+        "task_response": 5.0,
+        "CC": 5.0,
+        "LR": 5.0,
+        "GRA": 5.0
+      }
+    },
+    {
+      "prompt_id": "07-imgzw-writing-marker",
+      "prompt_name": "imgzw IELTS Writing Marker",
+      "group": "qualified",
+      "case_id": "network-13474",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 7.0,
+        "GRA": 6.0
+      }
+    },
+    {
+      "prompt_id": "07-imgzw-writing-marker",
+      "prompt_name": "imgzw IELTS Writing Marker",
+      "group": "qualified",
+      "case_id": "network-14013",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 7.0,
+        "LR": 7.5,
+        "GRA": 8.0
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 8.0,
+        "LR": 7.0,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "07-imgzw-writing-marker",
+      "prompt_name": "imgzw IELTS Writing Marker",
+      "group": "qualified",
+      "case_id": "network-14091",
+      "task": "task2",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 7.0,
+        "LR": 6.0,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "07-imgzw-writing-marker",
+      "prompt_name": "imgzw IELTS Writing Marker",
+      "group": "qualified",
+      "case_id": "network-14119",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.0,
+        "LR": 6.0,
+        "GRA": 6.0
+      }
+    },
+    {
+      "prompt_id": "07-imgzw-writing-marker",
+      "prompt_name": "imgzw IELTS Writing Marker",
+      "group": "qualified",
+      "case_id": "network-14127",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.0,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "08-hippone-writing-diagnostic",
+      "prompt_name": "hippone IELTS Writing Diagnostic",
+      "group": "qualified",
+      "case_id": "advantage-museums-band9",
+      "task": "task2",
+      "target": {
+        "task_response": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "predicted": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 7.5,
+        "GRA": 8.0
+      }
+    },
+    {
+      "prompt_id": "08-hippone-writing-diagnostic",
+      "prompt_name": "hippone IELTS Writing Diagnostic",
+      "group": "qualified",
+      "case_id": "juice-247858",
+      "task": "task1",
+      "target": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 5.0,
+        "GRA": 6.0
+      },
+      "predicted": {
+        "task_response": 5.0,
+        "CC": 5.5,
+        "LR": 5.5,
+        "GRA": 5.0
+      }
+    },
+    {
+      "prompt_id": "08-hippone-writing-diagnostic",
+      "prompt_name": "hippone IELTS Writing Diagnostic",
+      "group": "qualified",
+      "case_id": "network-13474",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.5,
+        "GRA": 6.0
+      }
+    },
+    {
+      "prompt_id": "08-hippone-writing-diagnostic",
+      "prompt_name": "hippone IELTS Writing Diagnostic",
+      "group": "qualified",
+      "case_id": "network-14013",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 7.0,
+        "LR": 7.5,
+        "GRA": 8.0
+      },
+      "predicted": {
+        "task_response": 6.5,
+        "CC": 7.5,
+        "LR": 7.0,
+        "GRA": 8.0
+      }
+    },
+    {
+      "prompt_id": "08-hippone-writing-diagnostic",
+      "prompt_name": "hippone IELTS Writing Diagnostic",
+      "group": "qualified",
+      "case_id": "network-14091",
+      "task": "task2",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.5,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "08-hippone-writing-diagnostic",
+      "prompt_name": "hippone IELTS Writing Diagnostic",
+      "group": "qualified",
+      "case_id": "network-14119",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.0,
+        "LR": 6.0,
+        "GRA": 6.0
+      }
+    },
+    {
+      "prompt_id": "08-hippone-writing-diagnostic",
+      "prompt_name": "hippone IELTS Writing Diagnostic",
+      "group": "qualified",
+      "case_id": "network-14127",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.5,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "09-dungnotnull-cert-scorer",
+      "prompt_name": "dungnotnull Language Cert Prep Scorer",
+      "group": "qualified",
+      "case_id": "advantage-museums-band9",
+      "task": "task2",
+      "target": {
+        "task_response": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "predicted": {
+        "task_response": 9.0,
+        "CC": 9.0,
+        "LR": 9.0,
+        "GRA": 9.0
+      }
+    },
+    {
+      "prompt_id": "09-dungnotnull-cert-scorer",
+      "prompt_name": "dungnotnull Language Cert Prep Scorer",
+      "group": "qualified",
+      "case_id": "juice-247858",
+      "task": "task1",
+      "target": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 5.0,
+        "GRA": 6.0
+      },
+      "predicted": {
+        "task_response": 5.0,
+        "CC": 5.0,
+        "LR": 5.0,
+        "GRA": 5.0
+      }
+    },
+    {
+      "prompt_id": "09-dungnotnull-cert-scorer",
+      "prompt_name": "dungnotnull Language Cert Prep Scorer",
+      "group": "qualified",
+      "case_id": "network-13474",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.5,
+        "GRA": 6.5
+      }
+    },
+    {
+      "prompt_id": "09-dungnotnull-cert-scorer",
+      "prompt_name": "dungnotnull Language Cert Prep Scorer",
+      "group": "qualified",
+      "case_id": "network-14013",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 7.0,
+        "LR": 7.5,
+        "GRA": 8.0
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 7.0,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "09-dungnotnull-cert-scorer",
+      "prompt_name": "dungnotnull Language Cert Prep Scorer",
+      "group": "qualified",
+      "case_id": "network-14091",
+      "task": "task2",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.0,
+        "LR": 6.0,
+        "GRA": 6.0
+      }
+    },
+    {
+      "prompt_id": "09-dungnotnull-cert-scorer",
+      "prompt_name": "dungnotnull Language Cert Prep Scorer",
+      "group": "qualified",
+      "case_id": "network-14119",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.0,
+        "LR": 6.0,
+        "GRA": 6.0
+      }
+    },
+    {
+      "prompt_id": "09-dungnotnull-cert-scorer",
+      "prompt_name": "dungnotnull Language Cert Prep Scorer",
+      "group": "qualified",
+      "case_id": "network-14127",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.0,
+        "GRA": 6.0
+      }
+    },
+    {
+      "prompt_id": "10-mustafa-writing-evaluator",
+      "prompt_name": "Mustafa IELTS Writing Evaluator",
+      "group": "qualified",
+      "case_id": "advantage-museums-band9",
+      "task": "task2",
+      "target": {
+        "task_response": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "predicted": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 8.0
+      }
+    },
+    {
+      "prompt_id": "10-mustafa-writing-evaluator",
+      "prompt_name": "Mustafa IELTS Writing Evaluator",
+      "group": "qualified",
+      "case_id": "juice-247858",
+      "task": "task1",
+      "target": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 5.0,
+        "GRA": 6.0
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.0,
+        "LR": 5.0,
+        "GRA": 5.0
+      }
+    },
+    {
+      "prompt_id": "10-mustafa-writing-evaluator",
+      "prompt_name": "Mustafa IELTS Writing Evaluator",
+      "group": "qualified",
+      "case_id": "network-13474",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.5,
+        "CC": 6.5,
+        "LR": 6.5,
+        "GRA": 6.5
+      }
+    },
+    {
+      "prompt_id": "10-mustafa-writing-evaluator",
+      "prompt_name": "Mustafa IELTS Writing Evaluator",
+      "group": "qualified",
+      "case_id": "network-14013",
+      "task": "task1",
+      "target": {
+        "task_response": 8.0,
+        "CC": 7.0,
+        "LR": 7.5,
+        "GRA": 8.0
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 7.0,
+        "LR": 7.0,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "10-mustafa-writing-evaluator",
+      "prompt_name": "Mustafa IELTS Writing Evaluator",
+      "group": "qualified",
+      "case_id": "network-14091",
+      "task": "task2",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 7.0,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "10-mustafa-writing-evaluator",
+      "prompt_name": "Mustafa IELTS Writing Evaluator",
+      "group": "qualified",
+      "case_id": "network-14119",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.0,
+        "LR": 6.0,
+        "GRA": 6.0
+      }
+    },
+    {
+      "prompt_id": "10-mustafa-writing-evaluator",
+      "prompt_name": "Mustafa IELTS Writing Evaluator",
+      "group": "qualified",
+      "case_id": "network-14127",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.0,
+        "GRA": 7.0
+      }
+    },
+    {
+      "prompt_id": "control-01-openielts-ai",
+      "prompt_name": "OpenIELTS-AI",
+      "group": "popular_control",
+      "case_id": "advantage-museums-band9",
+      "task": "task2",
+      "target": {
+        "task_response": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "predicted": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 8.0
+      }
+    },
+    {
+      "prompt_id": "control-01-openielts-ai",
+      "prompt_name": "OpenIELTS-AI",
+      "group": "popular_control",
+      "case_id": "network-14091",
+      "task": "task2",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.5,
+        "GRA": 6.5
+      }
+    },
+    {
+      "prompt_id": "control-01-openielts-ai",
+      "prompt_name": "OpenIELTS-AI",
+      "group": "popular_control",
+      "case_id": "network-14119",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.0,
+        "LR": 5.5,
+        "GRA": 5.5
+      }
+    },
+    {
+      "prompt_id": "control-01-openielts-ai",
+      "prompt_name": "OpenIELTS-AI",
+      "group": "popular_control",
+      "case_id": "network-14127",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.5,
+        "GRA": 6.5
+      }
+    },
+    {
+      "prompt_id": "control-02-ieltsgpt",
+      "prompt_name": "ieltsGPT",
+      "group": "popular_control",
+      "case_id": "advantage-museums-band9",
+      "task": "task2",
+      "target": {
+        "task_response": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "predicted": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 8.0
+      }
+    },
+    {
+      "prompt_id": "control-02-ieltsgpt",
+      "prompt_name": "ieltsGPT",
+      "group": "popular_control",
+      "case_id": "network-14091",
+      "task": "task2",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.0,
+        "GRA": 6.0
+      }
+    },
+    {
+      "prompt_id": "control-02-ieltsgpt",
+      "prompt_name": "ieltsGPT",
+      "group": "popular_control",
+      "case_id": "network-14119",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.0,
+        "LR": 6.0,
+        "GRA": 5.0
+      }
+    },
+    {
+      "prompt_id": "control-02-ieltsgpt",
+      "prompt_name": "ieltsGPT",
+      "group": "popular_control",
+      "case_id": "network-14127",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.0,
+        "GRA": 6.0
+      }
+    },
+    {
+      "prompt_id": "control-03-aielts-writing",
+      "prompt_name": "AIELTS-WRITING",
+      "group": "popular_control",
+      "case_id": "advantage-museums-band9",
+      "task": "task2",
+      "target": {
+        "task_response": 9,
+        "CC": 9,
+        "LR": 9,
+        "GRA": 9
+      },
+      "predicted": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 8.0
+      }
+    },
+    {
+      "prompt_id": "control-03-aielts-writing",
+      "prompt_name": "AIELTS-WRITING",
+      "group": "popular_control",
+      "case_id": "network-14091",
+      "task": "task2",
+      "target": {
+        "task_response": 8.0,
+        "CC": 8.0,
+        "LR": 8.0,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.5,
+        "LR": 6.0,
+        "GRA": 6.5
+      }
+    },
+    {
+      "prompt_id": "control-03-aielts-writing",
+      "prompt_name": "AIELTS-WRITING",
+      "group": "popular_control",
+      "case_id": "network-14119",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 6.0,
+        "CC": 6.0,
+        "LR": 5.5,
+        "GRA": 5.5
+      }
+    },
+    {
+      "prompt_id": "control-03-aielts-writing",
+      "prompt_name": "AIELTS-WRITING",
+      "group": "popular_control",
+      "case_id": "network-14127",
+      "task": "task2",
+      "target": {
+        "task_response": 7.0,
+        "CC": 6.0,
+        "LR": 7.5,
+        "GRA": 7.5
+      },
+      "predicted": {
+        "task_response": 7.0,
+        "CC": 7.0,
+        "LR": 6.0,
+        "GRA": 6.0
+      }
+    }
+  ],
+  "metric_definition": "Mean absolute error across the four separately labelled criteria, not the overall band.",
+  "overlap_with_current_evaluation": {
+    "common_original_ids": [
+      "advantage-museums-band9"
+    ],
+    "n": 1,
+    "supports_current_head_to_head_lead_claim": false
+  }
+}

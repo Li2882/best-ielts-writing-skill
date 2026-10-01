@@ -1,0 +1,132 @@
+{
+  "id": "blog-f720e33be323",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-f720e33be323.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-globalization/",
+  "source_locator": "research/blog/ielts-essay-topic-globalization.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "5a8e04e6b1f1ed0e",
+  "prompt_group": "16926ea17f3f0898",
+  "question": "Even though Globalization affects the world’s economics in a very positive way, its negative sides should not be forgotten. Discuss.",
+  "essay": "Everything has tow sides in the world, and so has the prosses of globalization too. The effects of globalization on the world economy are diverted.\n\nWe must acknowledge that the negative effects are from a different kind than the positive ones.Therfor the negative sides, like low paiment in less developed countries are important to conciderate.\n\nIf we take the Eurozone for example, the economic changes according to the gloablisation process are huge. Many companies have transferred their factories into cheaper production earies to compeat in the world markes. The results are rising unemployment rates in the “old industrial countries”.\n\nIn regard to the other countries on the world market, such as China, this job transfer is a big opportunity. But no one can denie that the consequences for the less developed countries where economy flourished, based on availability of cheap employees are highly important: globalization based on this facts brings enviromantal problems.\n\nNevertheless, there are also posive reasons for globlaistaional effects. In general it is remarkable that there is a new tendency in “Thinking Global”. For instance, people are willing to leran more languages and get educated about othe cultures. Countries fromaly knowen as undeveloped, such as India, are getting chances to be the main leader in a certain field.\n\nAll in all it can be said that the effects of globalization are enormous. The unerstanding of economic processes has changed completely. It is important to think in bigger terms, not just about the owen country. The positive things that this globalization process have brought must sensible us for the negative sides. The all over aim should be a world in balance, but this has yet to come.",
+  "word_count_computed": 279,
+  "images": [],
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay needs work. There are multiple spelling errors and unclear expressions (see comments underlined in blue). Also there are many words that are formed incorrectly (diverted instead of diverse, etc). There are too many paragraphs, all you need is 4 – 5 well-structured paragraphs, not 7 poorly structured ones. On the bright side, the task is covered and there are enough words (275), which is good. The paragraphs are logically connected and the linking words are used effectively. Overall, this looks like a Band 6 essay.",
+  "corrections": [
+    {
+      "original": "tow",
+      "suggestion": "two"
+    },
+    {
+      "original": "prosses",
+      "suggestion": "process"
+    },
+    {
+      "original": "too",
+      "suggestion": "remove this word"
+    },
+    {
+      "original": "diverted",
+      "suggestion": "diverse"
+    },
+    {
+      "original": "Therfor",
+      "suggestion": "Therefore"
+    },
+    {
+      "original": "paiment",
+      "suggestion": "wages"
+    },
+    {
+      "original": "conciderate",
+      "suggestion": "consider"
+    },
+    {
+      "original": "according to",
+      "suggestion": "caused by"
+    },
+    {
+      "original": "gloablisation",
+      "suggestion": "globalization"
+    },
+    {
+      "original": "earies",
+      "suggestion": "areas"
+    },
+    {
+      "original": "compeat",
+      "suggestion": "compete"
+    },
+    {
+      "original": "markes",
+      "suggestion": "markets"
+    },
+    {
+      "original": "denie",
+      "suggestion": "deny"
+    },
+    {
+      "original": "enviromantal",
+      "suggestion": "environmental"
+    },
+    {
+      "original": "posive reasons for globlaistaional effects",
+      "suggestion": "positive effects to globalization"
+    },
+    {
+      "original": "leran",
+      "suggestion": "learn"
+    },
+    {
+      "original": "othe",
+      "suggestion": "other"
+    },
+    {
+      "original": "fromaly knowen",
+      "suggestion": "formally known"
+    },
+    {
+      "original": "main leader",
+      "suggestion": "leader"
+    },
+    {
+      "original": "unerstanding",
+      "suggestion": "understanding"
+    },
+    {
+      "original": "owen",
+      "suggestion": "person’s own"
+    },
+    {
+      "original": "must sensible",
+      "suggestion": "must compensate"
+    },
+    {
+      "original": "all over aim ",
+      "suggestion": "overall aim"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "d64d23696ed89fc1c1c69b705aeca9d93c26e80cca93d02927e46aa7f2abb7b0",
+  "model_evidence": null
+}

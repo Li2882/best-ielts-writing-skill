@@ -1,0 +1,51 @@
+{
+  "id": "cambridge-19-t4-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/cambridge-19-t4-task2.json",
+  "question": "In many countries nowadays, consumers can go to a supermarket and buy food produced all over the world.\nDo you think this is a positive or negative development?",
+  "question_image": null,
+  "images": [],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c19-p138.png",
+    "research/expansion/book-pages/c19-p139.png"
+  ],
+  "reading_transcript": "Today there are a lot of different shops where we can buy all kind of stuff produced all over the world. Is it right to buy food produced in other countries? Is this idea useful for people nowadays?\n\nI suppose this to be a good idea. When supermarkets and even small shops provide people food from abroad then there are much more possibilities for us to choose something. When shops have only food and things produced in our country, it is really hard to make a good choise. Sometimes people want to try something new and interesting maybe even something extraordinary which they never buy before. In this cases food which is produced in other countries will help them to be satisfied with their demands. When supermarkets have a good suply of different food produced anywhere than people can find delicious things depending on their tastes. For example, people who like French products can buy some kinds of french cheese or wine not only in France.\n\nFood from other countries is also very good when you want to buy some fresh vegetables and fruits in winter. It is really useful thing because some people are vegetarians and they need vegetables and fruits during the whole year.\n\nThe only disadvantage of food which is produced in other countries is the way how it has been delivered. in some cases products can be not so fresh especialy in summer, when it is very hot outside.\n\nTo sum it up, I can surely say that buying products from other countries is a good thing to become more closer to other culturies. You can certainly cook something unusial at home and it will taste like in very good expensive restaurant somewhere abroad.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {},
+  "comments": "This is a good response to the task. The candidate clearly agrees with the idea that people should be able to buy international food in supermarkets. The main reason given is that people want to try something [new and interesting] and different. Examples are given of French products and seasonal produce for vegetarians. One disadvantage is given, related to the impact of hot weather on transportation. The conclusion includes bringing cultures together through food but does not summarise the points made in the full answer. A more relevant conclusion would help the candidate achieve a higher score, as well as further extending the ideas. Generally, the candidate organises the ideas well, and we can follow them clearly. Some good linking devices are used [where | maybe even | which | who], but some errors remain [this cases / these cases | than / then]. The response is set out across five paragraphs, but three of them have only two sentences. These are short paragraphs and could be extended to illustrate the central topic in more detail. Again, vocabulary is generally appropriate for the question, with some strong examples [extraordinary | depending on their tastes], but there is a lack of precision [stuff] and frequent minor spelling errors [choise | suply | especialy | culturies | unusial. However, we can still understand what is meant. There are attempts at a wider range of structures and a number of multi-clause sentences. However, the level of error [which they never buy before / which they have never bought before | the way how it has been delivered / the way it has been delivered] detracts from the score. Overall, a more comprehensive conclusion, longer paragraphs, a wider range of vocabulary and fewer grammatical slips would improve the response and achieve a higher score.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-19-academic/",
+  "source_artifact": "research/expansion/cam19-page.html",
+  "source_sha256": "1005517ddbf5e39461ffd0da90f2cefc6e4bc19f942a162d2c0e0f74397fe6df",
+  "source_locator": {
+    "book": 19,
+    "test": 4,
+    "pdf": "research/expansion/cambridge19.pdf",
+    "response_pages": [
+      138,
+      139
+    ],
+    "score_line": "achieved a Band 6.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-19-t4-task2",
+  "prompt_group": "cambridge-19-t4-task2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

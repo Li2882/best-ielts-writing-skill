@@ -1,0 +1,109 @@
+{
+  "id": "insights-v20-p36-task2",
+  "task": "task2",
+  "question": "Some people think scientific research should focus on solving world health problems. Others think that there are more important issues. Discuss both views and give your opinion.",
+  "essay": "Opinions are divided on whether, in scientific research, there should be an emphasis on global health issues or on more pressing problems instead. While research into health offers numerous benefits, I believe there are other areas that demand a higher priority.\n\nProponents of healthcare research argue that it helps address urgent worldwide challenges and improve public well-being. Regarding the former, health research is crucial for addressing urgent global health crises that threaten millions of lives worldwide. For example, during the COVID-19 pandemic, thanks to well-funded scientific research, vaccines for the disease were rapidly developed and saved countless lives, demonstrating how this field of science can effectively combat worldwide health emergencies. Furthermore, health studies have paved the way for longer life expectancies by tackling previously incurable conditions. Improved treatments for many grave illnesses, such as stem cell therapies for leukemia, have transformed deadly conditions into manageable ones, which allows patients to enjoy longer and more fulfilling lives with their loved ones.\n\nDespite the aforementioned benefits, I believe other research areas deserve greater priority due to their immediate global threats. One crucial area is the environment, particularly studies on renewable energy or sustainable agriculture, as large-scale environmental issues like climate change and pollution pose existential risks to all life on Earth. In the long run, insufficient research into these problems could lead to devastating consequences, such as food shortages, which affects everyone on the planet regardless of health status. Moreover, technology should also be a major area of focus, because technological innovations have revolutionized various sectors, resulting in applications well beyond health. For instance, automation in manufacturing has boosted production efficiency and improved access to affordable products, fostering economic growth and enhancing people’s quality of life.\n\nIn conclusion, while human health is undoubtedly an important area of research, I believe that environmental research and technological innovation deserve higher priority, as they address challenges affecting our entire planet.",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {
+    "TR": 8,
+    "CC": 9,
+    "LR": 9,
+    "GRA": 9
+  },
+  "score_source": "verified_human",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "rater_evidence": "Publisher submits academic-team originals to Tony Grace; original, explicit overall and correction report verified in the public PDF. Practice assessment, not an official test result.",
+  "author_group": "unknown",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "source_url": "https://cms.youpass.vn/assets/e5bafb64-e4f9-4bbe-a64a-7df115331d11.pdf",
+  "source_artifact": "research/expansion/insights/e5bafb64.pdf",
+  "source_sha256": "ef1329ead5073201c059fa40ae32f80ca6443e7942c083d13690d26ef1289de6",
+  "source_locator": {
+    "volume": 20,
+    "cover_page": 36,
+    "original_pages": [
+      37
+    ]
+  },
+  "path": "library/task2/insights-v20-p36-task2.json",
+  "task_type": "essay",
+  "duplicate_group": "insights-v20-p36-task2",
+  "prompt_group": "f1d0278e4df25adb",
+  "quality_issues": [],
+  "accessed_at": "2026-09-21",
+  "essay_images": [
+    "research/expansion/insights/pages/vol-20-p37.png"
+  ],
+  "question_image": "research/expansion/insights/pages/vol-20-p36.png",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-20-p36.png",
+    "research/expansion/insights/pages/vol-20-p38.png",
+    "research/expansion/insights/pages/vol-20-p39.png",
+    "research/expansion/insights/pages/vol-20-p40.png",
+    "research/expansion/insights/pages/vol-20-p41.png",
+    "research/expansion/insights/pages/vol-20-p42.png",
+    "research/expansion/insights/pages/vol-20-p43.png",
+    "research/expansion/insights/pages/vol-20-p44.png",
+    "research/expansion/insights/pages/vol-20-p45.png",
+    "research/expansion/insights/pages/vol-20-p46.png",
+    "research/expansion/insights/pages/vol-20-p47.png"
+  ],
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01",
+  "published_cover_traits": {
+    "TR": 8,
+    "CC": 9,
+    "LR": 9,
+    "GRA": 9
+  },
+  "trait_label_status": "Cover and all four explicit Band score headings visually checked; the stored response matches PDF page 37 Original answer. No score was inferred from the overall.",
+  "integer_anchor_review": {
+    "reviewed_at_utc": "2026-09-30",
+    "evidence": {
+      "TR": {
+        "score": 8,
+        "page": 38,
+        "image": "research/expansion/insights/pages/vol-20-p38.png",
+        "image_sha256": "24ad0150534b1ee1bd0a2800d2a4cc7893d35190289a7c141d7ada027297fb0b",
+        "heading_text": " \nIELTS Corrections \nPage 3 of 12 \n \n \nFor more IELTS advice go to Succeed in IELTS with Tony  \n12 May 2025 \nOVERALL BAND SCORE   \n8.5  \n8+9+9+9 \nTR – Task Response nb – GRA and LR errors have not been corrected \nBand score 8 \nThe examples on main body paragraph 1 should be examples of research \nthat needs to be carried out, rather than examples of successful \nresearch.  Also, the second supporting idea in main body paragraph 2 is \nnot about a serious problem. \nYou have a clear position throughout and all parts of the question are \naddressed.    \nYour position is coherent and well-argued.  \nThe ideas are relevant, extended and there are no contradictions.  \n \n \n \n \nADVICE ON BRAINSTORMING FOR TASK 2 \nAs you’re planning and writing your answer, remember to constantly \nask yourself if you’re answering the question.  Check back to the \nquestion a few times as you think of ideas to make sure they're \ndirectly relevant.   \n• Make sure your introduction directly addresses the question.   \n• Make sure your ideas address all parts of the question.  If the \nquestion asks for solutions, in the"
+      },
+      "CC": {
+        "score": 9,
+        "page": 41,
+        "image": "research/expansion/insights/pages/vol-20-p41.png",
+        "image_sha256": "6c12c0fa32b7e39842b88f586b00cda67c8cc7ba66c91c74efe396b36b51d234",
+        "heading_text": " \nIELTS Corrections \nPage 6 of 12 \n \n \nFor more IELTS advice go to Succeed in IELTS with Tony  \n12 May 2025 \nC&C  - Cohesion and Coherence nb GRA and LR errors have not been \ncorrected \nBand score 9 \nErrors are rare and occur as minor slips.  \nExcellent cohesion and coherence throughout, and the only errors are \nmore typical of native speakers. \nThe sentences have a natural flow characteristic of high band score \nanswers. \n \n \nPARAGRAPHING FOR TASK 2  \nI recommend you write 4 paragraphs as follows: \n• Write an introduction, that explains what the question is.  After \nreading the introduction, the reader should have a good idea what \nthe essay is about, and what your position (opinion) is.  It should \nbe possible to write an introduction in under 50 words.  It is not \nnecessary to write a long background statement. \n• Write 2 main body paragraphs. This should allow you to expand on \nthe ideas sufficiently to persuade the examiner that you’ve fully \nsupported the main ideas.  If you write 3 main bodies, it is more \ndifficult to expand and support them sufficiently to get a high \nscore."
+      },
+      "LR": {
+        "score": 9,
+        "page": 44,
+        "image": "research/expansion/insights/pages/vol-20-p44.png",
+        "image_sha256": "06434aaa6e8eb6dc2050acda760ff823e0d414b5ae2847dce7535d31f74ac571",
+        "heading_text": " \nIELTS Corrections \nPage 9 of 12 \n \n \nFor more IELTS advice go to Succeed in IELTS with Tony  \n12 May 2025 \nLR- - Lexical resource nb Some GRA errors have not been corrected \nBand score 9 \nVocabulary is used accurately with sufficient flexibility to show precise \nmeaning, with a wide variety of vocabulary, used accurately and with a \nhigh level of control.   \nErrors are rare and occur as minor slips.  \n \n \nOpinions are divided on whether, in scientific research, there should be \nan emphasis on global health issues or on more pressing problems \ninstead. While research into health offers numerous benefits, I believe \nthere are other areas that demand a higher priority. \nProponents of healthcare research argue that it helps address urgent \nworldwide challenges and improve public well-being. Regarding the \nformer, health research is crucial for addressing urgent global health \ncrises that threaten millions of lives worldwide. For example, during the \nCOVID-19 pandemic, thanks to well-funded scientific research, vaccines \nfor the disease were rapidly developed and saved countless lives, "
+      },
+      "GRA": {
+        "score": 9,
+        "page": 46,
+        "image": "research/expansion/insights/pages/vol-20-p46.png",
+        "image_sha256": "a89a82823d0eb40ca6475012ecd029b1c5e47f86ac6e51e09419387ffe5b2b99",
+        "heading_text": " \nIELTS Corrections \nPage 11 of 12 \n \n \nFor more IELTS advice go to Succeed in IELTS with Tony  \n12 May 2025 \nGRA – Grammatical range and accuracy  nb Some LR errors have not \nbeen corrected \nBand score 9 \nGrammar is used accurately with a wide variety of structures, which \nshould be good for a band score 9. \nPunctuation is used correctly throughout. \nAppropriate structures are used throughout. \nErrors are rare and occur as minor slips.  \n \n \n \n \n \n \nOpinions are divided on whether, in scientific research, there should be \nan emphasis on global health issues or on more pressing problems \ninstead. While research into health would offer numerous benefits, I \nbelieve there are other areas that demand a higher priority. \nProponents of healthcare research argue that it helps address urgent \nworldwide challenges and improve public well-being. Regarding the \nformer, health research is crucial for addressing urgent global health \ncrises that threaten millions of lives worldwide. For example, during the \nCOVID-19 pandemic, thanks to well-funded scientific research, vaccines \nfor the disease w"
+      }
+    },
+    "contact_sheet": "research/integer-anchors-20261001/insights20-audit.png",
+    "original_pages": [
+      37
+    ],
+    "split_caveat": "Already revealed in dual-01; exclude this original and prompt if selected for the new test."
+  }
+}

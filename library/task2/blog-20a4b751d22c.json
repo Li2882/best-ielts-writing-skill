@@ -1,0 +1,42 @@
+{
+  "id": "blog-20a4b751d22c",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-20a4b751d22c.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-some-people-buy-products-or-get-services-instantly/",
+  "source_locator": "research/blog/ielts-essay-topic-some-people-buy-products-or-get-services-instantly.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "unverified",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "teacher_model",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "f088c0e8b202fb98",
+  "prompt_group": "3d61438f8b94de84",
+  "question": "Some people tend to buy products or get services instantly, without waiting. Why is it happening? Is this a positive or negative development?",
+  "essay": "Nowadays, consumers are more inclined to buy products and obtain services instantaneously rather than waiting for them. Consequently, this has led to an immediate surge in demand. This phenomenon can largely be attributed to the convenience that technology now provides and the ease with which items can be purchased online. With nearly every business having an online presence and offering delivery services, it has become much easier for customers to buy whatever they need or want right away.\n\nOnline shopping allows customers to save time and energy by having items delivered directly to their doorsteps without ever having to leave home, and many take advantage of that. The ability to purchase things on demand is certainly welcomed by those who have a busy lifestyle or lack access to traditional stores. Last-minute purchases are no longer a problem, because for something you want, as it can be acquired and delivered almost immediately.\n\nThis trend towards immediate gratification, however, may not always lead to positive outcomes. Instant gratification can encourage people’s impulse buying habits, leading them to make purchases without giving them adequate time to consider whether an item is necessary or worth its cost. Such spontaneous shopping can lead to feelings of dissatisfaction and cause buyer’s remorse due to the lack of proper consideration or research prior to purchasing.\n\nOverall, while purchasing items and receiving services instantly has numerous advantages such as convenience and efficiency, it should still be done with caution to avoid potential negative consequences associated with it. Consumers must take time before committing to any purchase or service to ensure that they are making sound decisions based on what truly matters, rather than indulging in impulse buying habits driven by instant gratification.",
+  "word_count_computed": 284,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay topic was seen in a recent IELTS test in Turkey and Saudi Arabia.",
+  "corrections": [],
+  "quality_issues": [
+    "no_explicit_band_in_comment",
+    "teacher_model_not_scored_candidate"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "4790507749cddc4c20fcb4a9cae05f7731ba5682f7f8eb7b57f8ea146728f699",
+  "model_evidence": "IELTS Model Essay Sample Band 8 June 2023 https://www.ielts-blog.com/images/featured/model-essay-sample-band-8-5.jpg  data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20336%20280'%3E%3C/svg%3E  https://www.ielts-blog.com/images/banners/ace-the-ielts-banner-new.jpg"
+}

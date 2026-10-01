@@ -1,0 +1,66 @@
+{
+  "id": "ieltsanswers-5c91bddf54b8",
+  "task": "task1",
+  "task_type": "mixed",
+  "path": "library/task1/ieltsanswers-5c91bddf54b8.json",
+  "question": "The pie chart shows the main causes of worldwide land degradation. The table shows how these causes affected North America, Europe and Oceania during the 1990s.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/correction-pages/5c91bddf54b8-p1.png",
+      "sha256": "5d245f3f9c2b91c2f6d0d3e11623f051a163095b860f054cfe10bae8d3f7aa58"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/correction-pages/5c91bddf54b8-p1.png",
+    "research/expansion/correction-pages/5c91bddf54b8-p2.png",
+    "research/expansion/correction-pages/5c91bddf54b8-p3.png"
+  ],
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {},
+  "comments": null,
+  "source_url": "https://www.ieltsanswers.com/reports/ielts-reports-agriculture-land.pdf",
+  "source_artifact": "research/expansion/answers/5c91bddf54b8.pdf",
+  "source_sha256": "b51842718acb1d4fa6d8ac7f8acb16334e07755c2963d98ac0359461ab32d3b5",
+  "source_locator": "research/expansion/answers/5c91bddf54b8.pdf",
+  "score_source": "verified_human",
+  "rater_evidence": "Mike Wattie publishes these as individually corrected writing samples on IELTSAnswers. His examiner credentials are a publisher claim; these are practice estimates.",
+  "publisher": "IELTSAnswers / Mike Wattie",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "ieltsanswers-5c91bddf54b8",
+  "prompt_group": "f3f53b57a6048392",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "student",
+  "author_type_evidence": "Publisher describes these as writing correction samples; individual author is unnamed.",
+  "question_text_status": "Searchable prompt transcription or summary; original question image is authoritative.",
+  "question_image": "research/expansion/correction-pages/5c91bddf54b8-p1.png",
+  "comments_images": [
+    "research/expansion/correction-pages/5c91bddf54b8-p1.png",
+    "research/expansion/correction-pages/5c91bddf54b8-p2.png",
+    "research/expansion/correction-pages/5c91bddf54b8-p3.png"
+  ],
+  "score_page": 3,
+  "score_evidence": [
+    {
+      "score": 6.5,
+      "row": [
+        "Overall",
+        "6.5",
+        "Some of your sentences were absolute disasters… You must think about this and work\non it… Maybe use two sentences instead of one\nonly 5% of the land in North America were was degraded by\ndeforestation of 0.2%, over-cultivation of 3.3% and over-gazing of 1.5%.\nExample [it gives more information is well]\nFive per cent of the land and American was degraded. The main cause\nwas over-cultivation with 3.3% and the least damage was from\ndeforestation with only .2%."
+      ]
+    }
+  ],
+  "extraction": "Read the marked original: retain struck-out original words, omit inserted corrections and teacher comments. Do not concatenate the native PDF text, which interleaves both versions. Assessment tables are not essay text.",
+  "teacher_advice_caveat": "Publisher layout preferences, stylistic substitutions and word-count advice are not official deductions. Preserve the published overall; ranged criterion estimates have not been converted to exact scores."
+}

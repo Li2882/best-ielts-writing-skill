@@ -1,0 +1,42 @@
+{
+  "id": "blog-66a0a2dd6fc1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-66a0a2dd6fc1.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-7/ielts-report-topic-a-pie-chart-of-leisure-activities/",
+  "source_locator": "research/blog/ielts-report-topic-a-pie-chart-of-leisure-activities.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "holdout",
+  "duplicate_group": "9cffd288e32eeb15",
+  "prompt_group": "c14dd9030b8bb60f",
+  "question": "The following pie charts show the results of a survey into the most popular leisure activities in the United States of America in 1999 and 2009. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The graphs reveal information about the most common leisure activities which the American engaged in between 1999 and 2009. Overall, the largest percentage of people living in the US enjoyed walking.\n\nAs can be seen clearly, the figures for soccer, camping and walking increased slightly by 1%-2% to 18%, 9% and 31% respectively during the ten-year period. On the other hand, there was a nearly doubling in the proportions of people joining in yoga (5 to 10 % ) and swimming ( 9 to 18% ) over the same period.\n\nBy contrast, the period shown witnessed a significant decrease in the percentages of American people participating in the remaining activities. To be more specific, the figure for jogging nearly halved from 7% to 3%. What is more, there was a dramatic fall in the proportion of aerobics players from 13% to 4% from 1999 to 2009 . Finally, when it comes to bicycling, the figure for this activity dropped from 14% to 7%.",
+  "word_count_computed": 159,
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/pie-chart-leisure-activities-1999.jpg",
+      "path": "library/assets/bec7940c7f9c064f.jpg",
+      "sha256": "b2ffcbb8f51f421655c9e09481b4423bf9a85d994f36ffef9e6f4d45c8da83e5"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/reports/pie-chart-leisure-activities-2009.jpg",
+      "path": "library/assets/2fc194e94e9e8e03.jpg",
+      "sha256": "3abc8d37f01c1db06d6d454aa387a7c3367745172d9ccb571bcd9f9aa6709ac1"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "727f79c1d957a0bafa17a6af463b44242e6a7655d8263b7f9aa221060595ba36",
+  "model_evidence": null,
+  "evaluation_role": "reserved_unscored_v14",
+  "reserved_for_evaluation": "future_v14_complete_run",
+  "assessment_evidence_path": "evaluations/labels/v14-01.json"
+}

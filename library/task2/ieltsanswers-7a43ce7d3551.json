@@ -1,0 +1,62 @@
+{
+  "id": "ieltsanswers-7a43ce7d3551",
+  "task": "task2",
+  "task_type": "advantages_disadvantages",
+  "path": "library/task2/ieltsanswers-7a43ce7d3551.json",
+  "question": "Some young children spend a great amount of their time practicing sports. Discuss the advantages and disadvantages of this. Use specific reasons and examples to support your answers.",
+  "essay": null,
+  "images": [],
+  "essay_images": [
+    "research/expansion/correction-pages/7a43ce7d3551-p1.png",
+    "research/expansion/correction-pages/7a43ce7d3551-p2.png",
+    "research/expansion/correction-pages/7a43ce7d3551-p3.png"
+  ],
+  "overall": 7,
+  "band_low": 7,
+  "band_high": 7,
+  "traits": {},
+  "comments": null,
+  "source_url": "https://www.ieltsanswers.com/essays/ielts-essays-children-playing-sport.pdf",
+  "source_artifact": "research/expansion/answers/7a43ce7d3551.pdf",
+  "source_sha256": "dd51b3cd386a70e9d9bed0acd8ce2b66d485034e6de9f1dbf1777206e1534794",
+  "source_locator": "research/expansion/answers/7a43ce7d3551.pdf",
+  "score_source": "verified_human",
+  "rater_evidence": "Mike Wattie publishes these as individually corrected writing samples on IELTSAnswers. His examiner credentials are a publisher claim; these are practice estimates.",
+  "publisher": "IELTSAnswers / Mike Wattie",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "ieltsanswers-7a43ce7d3551",
+  "prompt_group": "27457ce366f7ce6c",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "student",
+  "author_type_evidence": "Publisher describes these as writing correction samples; individual author is unnamed.",
+  "question_text_status": "Searchable prompt transcription or summary; original question image is authoritative.",
+  "question_image": "research/expansion/correction-pages/7a43ce7d3551-p1.png",
+  "comments_images": [
+    "research/expansion/correction-pages/7a43ce7d3551-p1.png",
+    "research/expansion/correction-pages/7a43ce7d3551-p2.png",
+    "research/expansion/correction-pages/7a43ce7d3551-p3.png"
+  ],
+  "score_page": 3,
+  "score_evidence": [
+    {
+      "score": 7.0,
+      "row": [
+        "Overall",
+        "7",
+        "This comfortably makes it to 7. Just keep trying to learn from the feedback and your\nwriting will continue to improve.",
+        null
+      ]
+    }
+  ],
+  "extraction": "Read the marked original: retain struck-out original words, omit inserted corrections and teacher comments. Do not concatenate the native PDF text, which interleaves both versions. Assessment tables are not essay text.",
+  "teacher_advice_caveat": "Publisher layout preferences, stylistic substitutions and word-count advice are not official deductions. Preserve the published overall; ranged criterion estimates have not been converted to exact scores."
+}

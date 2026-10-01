@@ -1,0 +1,86 @@
+{
+  "id": "juice-248576",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248576.json",
+  "question": "Some people think that it is a waste of time for high school students to study literature, such as novels and poems.\nTo what extent do you agree or disagree?",
+  "essay": "This fires up a heated argument over whether studying liberal arts including literature produces more benefits or drawbacks on high school students’ lives. While there are many debates that studying literature could waste ample time of students, I would argue that it can be beneficial in other ways.\n\nOn the one hand, many educationalists believe that literature is intertwined with cultural and historical aspects of each society. In addition, studying literature can facilitate students to gain a comprehensive understanding of their culture, history and their ethos. The schools should educate students to learn about their culture and language on early ages. Therefore, students can broaden their horizons through spending their leisure time on reading novels and poems.\n\nOn the other hand, the advocates of STEM courses (Science, Technology, Engineering and Mathematics) maintain that studying liberal arts cannot provide students a broaden range of job opportunities which they are not the demand of today’s communities. Needless to say, it is beneficial to the youth to spend their precious time on studying STEM courses rather than non-STEM subjects. In the long run, young people can occupy the most important and demanding positions with higher rate of income. For instance, many developing and third world countries do not invest on liberal arts and students who are in favor of literature or history would face many troubles to find a relevant career.\n\nTo sum up, I believe novels and poems are inseparable components of each society’s literature and studying them could be advantageous due to familiarizing the new generation with their background and culture.",
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TR": 8.0,
+    "CC": 6.0,
+    "LR": 7.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this essay. The rubric cannot be used as an introduction to the essay; the essay is self-reliant in all its important elements, so the topic and its aspects must be introduced in the introduction.",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "9.0\tfully addresses all parts of the task",
+      "8.0\tpresents a well-developed response to the question",
+      "8.0\twith relevant, extended, and supported ideas",
+      "8.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "6.0\tmay not always use referencing clearly or appropriately",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "6.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "8.0\tthe majority of sentences are error-free",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "7.0"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3216-band-7-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248576.html",
+  "source_sha256": "83c643fffac6463b8ca39aa49694dc95902277195caa92638c96893476cc9237",
+  "source_locator": {
+    "wordpress_post_id": 248576,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "1ba09bf009c8fa3e",
+  "prompt_group": "5930cbd00da1541e",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

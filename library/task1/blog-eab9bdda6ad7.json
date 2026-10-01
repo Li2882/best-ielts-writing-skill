@@ -1,0 +1,54 @@
+{
+  "id": "blog-eab9bdda6ad7",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-eab9bdda6ad7.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-9/ielts-report-topic-double-line-graph-hospital-stays-from-ielts-high-scorers-choice-series-academic-set-4/",
+  "source_locator": {
+    "page_marker": "Sample Band 9 Report",
+    "source_file": "research/expansion/high-band-sources/blog-pages/6f16dfb51cd42f50.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog; High Scorer’s Choice IELTS Practice Tests",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page labels this response as a Band 9 model (\"close to\" or \"likely to score\" Band 9) from High Scorer’s Choice. This is a published teacher/examiner model label, not an official Cambridge TRF; the distinction is retained for calibration review.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "High Scorer’s Choice model author",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "36ea563a58ba7ca7",
+  "prompt_group": "08fb0713e18d9c23",
+  "question": "High Scorer’s Choice IELTS Practice Tests book series (reprinted with permission). This answer is close to IELTS Band 9. Set 4 Academic book, Practice Test 17 Writing Task 1 You should spend about 20 minutes on this task. The graph below shows the average length of stay last year (in days) for serious injuries for different age groups in private and public hospitals in Queensland, Australia. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/line-graphs-writing-task-1-test-17-web.jpg",
+      "path": "library/assets/c5da72f67fe50b84.jpg",
+      "sha256": "091241573feca1d2d8ee50ea4c8eaab0883036c29ad90751723192f6825e704d"
+    }
+  ],
+  "essay": "The graph provides two sets of statistics regarding the differing lengths of stays last year for patients with serious injuries in private and public hospitals in Queensland, Australia. The information is given for age groups for every four years of age.\nOverall, it is clear that last year public hospitals stays were longer than stays at private hospitals across all age groups, with only one exception. The average lengths of stay were, however, very similar in trend in terms of how the stays rose and dropped.\nThe figures for public hospitals begin for the age group zero to four years. The lengths of stay go up very sharply and steadily from this age group, starting at around four days up to just under sixty days for the age group twenty-five to twenty-nine. There is then a sharp and steady drop to just over forty days to the age group thirty-five to thirty-nine. There is a more sharp increase to approximately fifty-seven days for the next age group and then there is a decrease in the length of hospital stays. This drop is sharp to start with, but slows down from the age group fifty to fifty-four years (around twenty-seven days) to eighty-five years plus (around eighteen days).\nThe figures for private hospitals follow a similar trend. The figures begin with the age group fifteen to nineteen years. They show a rise to a peak at the age group twenty-five to twenty-nine, the same peak age group for public hospitals. There is then a mostly steady drop in the length of hospital stay until the eighty-five years age group, where the length of stay is the same as the stay at public hospitals (around eighteen days). This is the only average length of stay that is the same for the public and private hospitals. The average length of stay is always larger in the age groups at public hospitals.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Published source label: individual Band 9 model response; no four-trait numerical breakdown published.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 318,
+  "extraction": "HTML original prompt and model response; source label and module context retained.",
+  "source_sha256": "27fcddd3b143d7753b7fd6f8bc39e855a5886b2244a1f7d0e7678bd879ad9f26",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

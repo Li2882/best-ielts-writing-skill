@@ -1,0 +1,48 @@
+{
+  "id": "blog-8d3dd01fa748",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-8d3dd01fa748.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-schools-should-select-students-by-their-academic-abilities-agree-or-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-schools-should-select-students-by-their-academic-abilities-agree-or-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "20121bf9778e33de",
+  "prompt_group": "30a26ec337a287d6",
+  "question": "Some people think that schools should select students according to their academic abilities, while others believe that it is better to have students with different abilities studying together. Discuss both views and state your own opinion.",
+  "essay": "Some people contend that mixed ability classes are more beneficial for children’s development than streaming them on the basis of judgement about their academic abilities. However, from my perspective, I disagree with this contention.\n\nAdmittedly, mixed ability classes provide a better environment for children’s all-round development. In such classes, children with different abilities study together and in turn they can learn from one another. From example, a student, who is good at academic study but weak in dancing or painting, can learn how to dance or paint form his peers. In this sense, mixed ability classes allow students to develop their abilities in different subjects instead of only academic abilities.\n\nDespite the argument above, I believe streaming students brings more benefits to teachers and students. As for teachers, separating children with better academic abilities from others facilitates effective teaching. This practice helps teachers to control their students more conveniently and easily. Compared with mixed ability in which teacher should consider students’ differences when they are using teaching methodologies, streaming makes this situation simpler. To be more specific, students are at the same level of academic ability in a class, and in turn teachers can use the same methodologies for them all. In this way, the narrower the spread of ability in the class, the more convenient the teaching can be.\n\nOn top of this, steaming enables students to learn in an effective way. According to students’ different abilities, they are taught in different ways that are more suitable for them. In the top streams, students use more difficult materials, therefore, they can learn more. In sharp contrast, teachers can explain the material more slowly to those in bottom streams. Under this circumstance, students with different academic abilities can study effectively and efficiently.\n\nIn the final analysis, mixed ability classes are beneficial for students’ versatile development, but in my opinion, segregating students based on different academic ability is better for both teachers and students.",
+  "word_count_computed": 323,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "The writer presented a balanced discussion of the topic, effortlessly delivered in a form of a fluent, well-written IELTS essay. The arguments and reasoning are laid out in a coherent, logical way. A wide range of vocabulary is used in this work. There are very few spelling errors that could have been caught in an additional round of proofreading (mouse over the words underlined in blue shows corrections). Keep up the good work! Overall, this essay seems worthy of IELTS Band 8.",
+  "corrections": [
+    {
+      "original": "form",
+      "suggestion": "from"
+    },
+    {
+      "original": "steaming",
+      "suggestion": "streaming"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "f3f48296bf6c1bb608ff2340d8612bc8188123a8a98713d5df5d347650b5e370",
+  "model_evidence": null
+}

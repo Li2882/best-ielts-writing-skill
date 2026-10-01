@@ -1,0 +1,67 @@
+{
+  "id": "ieltsanswers-17c1f02905d7",
+  "task": "task1",
+  "task_type": "table",
+  "path": "library/task1/ieltsanswers-17c1f02905d7.json",
+  "question": "The table shows percentages of national consumer expenditure by category in Ireland, Italy, Spain, Sweden and Turkey in 2002.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/correction-pages/17c1f02905d7-p1.png",
+      "sha256": "5f1802ba83ce470943040e2c121666f3c8803b3ae5c08f6df9448ba92425da0c"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/correction-pages/17c1f02905d7-p1.png",
+    "research/expansion/correction-pages/17c1f02905d7-p2.png",
+    "research/expansion/correction-pages/17c1f02905d7-p3.png"
+  ],
+  "overall": 6,
+  "band_low": 6,
+  "band_high": 6,
+  "traits": {},
+  "comments": null,
+  "source_url": "https://www.ieltsanswers.com/reports/ielts-reports-consumer-spending-on-different-items.pdf",
+  "source_artifact": "research/expansion/answers/17c1f02905d7.pdf",
+  "source_sha256": "9d4328c1127f10ac1de17cdff4ad0ce3714376c0e6521fa47cdb39ead1c711f4",
+  "source_locator": "research/expansion/answers/17c1f02905d7.pdf",
+  "score_source": "verified_human",
+  "rater_evidence": "Mike Wattie publishes these as individually corrected writing samples on IELTSAnswers. His examiner credentials are a publisher claim; these are practice estimates.",
+  "publisher": "IELTSAnswers / Mike Wattie",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "ieltsanswers-17c1f02905d7",
+  "prompt_group": "38ea19efc8227f0d",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "student",
+  "author_type_evidence": "Publisher describes these as writing correction samples; individual author is unnamed.",
+  "question_text_status": "Searchable prompt transcription or summary; original question image is authoritative.",
+  "question_image": "research/expansion/correction-pages/17c1f02905d7-p1.png",
+  "comments_images": [
+    "research/expansion/correction-pages/17c1f02905d7-p1.png",
+    "research/expansion/correction-pages/17c1f02905d7-p2.png",
+    "research/expansion/correction-pages/17c1f02905d7-p3.png"
+  ],
+  "score_page": 3,
+  "score_evidence": [
+    {
+      "score": 6.0,
+      "row": [
+        "overall",
+        "6",
+        "This is a reasonable result, as it only accounts for one third of y\nlearn from your mistakes and advance to 7!",
+        "our grade. Still, try to"
+      ]
+    }
+  ],
+  "extraction": "Read the marked original: retain struck-out original words, omit inserted corrections and teacher comments. Do not concatenate the native PDF text, which interleaves both versions. Assessment tables are not essay text.",
+  "teacher_advice_caveat": "Publisher layout preferences, stylistic substitutions and word-count advice are not official deductions. Preserve the published overall; ranged criterion estimates have not been converted to exact scores."
+}

@@ -1,0 +1,93 @@
+{
+  "id": "juice-249860",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-249860.json",
+  "question": "The first chart below shows how energy is used in an average Australian household. The second chart shows the percentage of greenhouse gas emissions which result from this energy use.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "A glance at the two pie charts provided reveals a number of clear difference between the proportions of an average Australian family energy use in various form (namely water heating, heating, cooling, lighting, refrigeration and other appliances) and the percentage of CFC release that every energy source listed before is responsible for it.\n\nIt is evident from the information supplied that heating and heating water have the two largest proportion with 42 and 30 percent respectively, in stark contrast however, cooling with merely 2 percent and lighting with only 4 percent take place for the lowest percentage of using energy. Refrigeration and other appliances have moderate rate in using energy with 7 and 15 percent respectively.\n\nWith regard to producing co2, water heating and other appliances release the highest percentage of greenhouse gas at 32 and 28 percent respectively. However, it is worth nothing that the former CFC emission is almost the same as household use of energy while the latter produced some twice as it use for energy. One particularly interesting fact highlighted by the figures is that the amount of emissions are more than the proportion of energy use except for heating. While CFC release caused by refrigeration, lighting and cooling are double than those of energy use for heating is almost three times less than that of energy use.",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TA": 6.0,
+    "CC": 6.0,
+    "LR": 7.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you indeed for writing this report. We are not allowed to interpret, add, or remove information from the rubric. Our job at IELTS reports is to only change picture(s) to words. That means if there is no mention of CFC, then we are not allowed to predict the greenhouse gas type. Another major error is called “factual mistake”. When reporting the data, it is important to make sure the words, numbers, and analogies are as accurate as possible. The very last sentence is incorrectly punctuated, making it very difficult to factually check the presented data.\nVideo Feedback",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "7.0\tcovers the requirements of the task",
+      "6.0\tpresents and adequately highlights key features",
+      "6.0\tdetails may be irrelevant, inappropriate, or inaccurate",
+      "6.0\tpresents an overview with information appropriately selected",
+      "6.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "6.0\tuses cohesive devices effectively, but cohesion within and/or between sentences may be faulty or mechanical",
+      "6.0\tmay not always use referencing clearly or appropriately",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "6.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "7.0"
+    ],
+    "GRA": [
+      "9.0\tuses a wide range of structures",
+      "6.0\tcomplex sentences have the same accuracy as the simple ones do",
+      "6.0\tmakes some errors in grammar and punctuation",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.0"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-249860-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2023/12/IELTS-JUICE-Writing-Task-1-report-sample-3135-Band-6.0.jpg",
+      "sha256": "bfcd53b60c3551586fe09651cfd9e77ab9613ae473ae0041a3cc5ea3ad3745db"
+    }
+  ],
+  "question_image": "library/assets/juice-249860-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3296-band-6-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-249860.html",
+  "source_sha256": "cd7fc5b9252b422fd351ed2eaf7df20f39d5aab57533e4fd022cf71c451e02cf",
+  "source_locator": {
+    "wordpress_post_id": 249860,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "3731fc68b6d7d3d4",
+  "prompt_group": "e8bc0e9e3cf69edd",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

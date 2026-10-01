@@ -1,0 +1,88 @@
+{
+  "id": "blog-3d1a413024fd",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-3d1a413024fd.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essay-topic-overpopulation/",
+  "source_locator": "research/blog/ielts-essay-topic-overpopulation.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "bc1c91e9baf79c5f",
+  "prompt_group": "5f7ffcd6a845fa01",
+  "question": "The world is experiencing a dramatic increase in population, which is causing problems not only for poor, undeveloped countries, but also for industrialized and developed nations. Describe some of the problems that overpopulation causes, and suggest at least one possible solution. You should write at least 250 words. You should spend about 40 minutes on this task.",
+  "essay": "Nowadays, the population increase dramatically in most countries around the world. This is true for the developed and developing nations. Overpopulation cause a different number of problems. However, the government can solved these problems in many solution.\n\nThere are several problems that the raising number of people in undeveloped countries causes. Firstly, it is very difficult to provide enough food for all people. Secondly, the government limits the number of children per family to educate in school. In addition, in poorest countries usually have a lot of unemployment as well, and when the population increases, the number of unemployment increase. Finally, when too many people live on the land, the environment suffers.\n\nThere are different problems that overpopulation causes in rich nations. Firstly, it is very difficult for governments to provide helpful public services in overcrowded cities. Moreover, there is generally a higher level of crimes being committed, such as drugs abuse, murders, thefts, and ect. Which that often cause by the high rates of unemployment.\n\nHowever, overpopulation problems in both nations have two main solution which they aredeal by governments. Firstly, the government must educate people about limiting the size of the family. For example, in China they have a policy called “one child policy” which limits the size of the family to one or two children, and this is beginning to have an effect on the world’s most crowded nation.\n\nTo sum up, if the impulsive population increase continues, many more people will die of hunger in the poor countries. Also, in rich nations, the life in the cities will become more and more difficult.",
+  "word_count_computed": 267,
+  "images": [],
+  "overall": null,
+  "band_low": 6.0,
+  "band_high": 6.5,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay covers the task and has a good content. However there are several areas to improve. The grammar needs more attention (see comments underlined in blue). In the first paragraph, the last sentence has instances of repetition of solve and solution, you could say instead “can find many solutions to those problems”. In the third paragraph, the last sentence has poor structure and looks unfinished. Overall, this looks like a Band 6 – 6.5 essay.",
+  "corrections": [
+    {
+      "original": "increase",
+      "suggestion": "is increading"
+    },
+    {
+      "original": "cause",
+      "suggestion": "causes"
+    },
+    {
+      "original": "solved ",
+      "suggestion": "solve"
+    },
+    {
+      "original": "solution",
+      "suggestion": "ways"
+    },
+    {
+      "original": "to  educate",
+      "suggestion": "that are allowed to be educated"
+    },
+    {
+      "original": "a lot of unemployment as well",
+      "suggestion": "higher unemployment rates"
+    },
+    {
+      "original": "unemployment increase",
+      "suggestion": "unemployed increases as well"
+    },
+    {
+      "original": "and ect",
+      "suggestion": "avoid using etc in essay"
+    },
+    {
+      "original": "Which that",
+      "suggestion": ",which is"
+    },
+    {
+      "original": "both",
+      "suggestion": "both developed and undeveloped"
+    },
+    {
+      "original": "solution",
+      "suggestion": "solutions"
+    },
+    {
+      "original": "deal",
+      "suggestion": "dealt with"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "30e7efb55d017f070d7c059836570928b14ff0bee276e732db649af7b9a8cf62",
+  "model_evidence": null
+}

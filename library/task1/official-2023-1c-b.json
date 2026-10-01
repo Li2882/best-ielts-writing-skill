@@ -1,0 +1,44 @@
+{
+  "id": "official-2023-1c-b",
+  "task": "task1",
+  "task_type": "process",
+  "path": "library/task1/official-2023-1c-b.json",
+  "source_url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+  "download_url": "https://unihousecms.mediaplusdemos.com/sites/default/files/2024-08/ielts-academic-writing-sample-tasks-2023.pdf",
+  "source_locator": {
+    "pdf": "library/official/academic-writing-samples-2023.pdf",
+    "question_page": 5,
+    "response_pages": [
+      14,
+      15
+    ]
+  },
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS",
+  "score_source": "official",
+  "rater_evidence": "Official IELTS sample pack states each response has an examiner band and comment. Mirror title, 26-page structure, prompts and extracted comments compared with primary IELTS URL retrieved through web search.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "holdout",
+  "duplicate_group": "official-2023-1c-b",
+  "prompt_group": "official-2023-1c",
+  "question": "Page 5 of 26  \n \n  \nIELTS.org \nAcademic Writing Sample Task – 1C \n \n \nWRITING TASK 1 \n \nYou should spend about 20 minutes on this task. \n \n \n \n \nWrite at least 150 words. \n \n \n \nThe diagram below shows the process by which bricks are manufactured for the \nbuilding industry. \nSummarise the information by selecting and reporting the main features, and make \ncomparisons where relevant.",
+  "essay": null,
+  "essay_images": [
+    "evaluations/pilot-01/inputs/official-2023-1c-b-14-complete.png"
+  ],
+  "images": [
+    {
+      "path": "library/official/pages/page-05.png",
+      "source_url": "https://ielts.org/cdn/Sample-tests/ielts-academic-writing-sample-tasks-2023.pdf",
+      "sha256": "115b95fc41ca2f93fced05ac8e458b8c50cbe9977c8eda151f32bb408559d6d5"
+    }
+  ],
+  "question_image": "library/official/pages/page-05.png",
+  "quality_issues": [],
+  "extraction": "Handwritten response images extracted without examiner score/comment. Read every image in order.",
+  "source_sha256": "f9b5b43fbb3f070741f970ecf2adbfaaef8b2f520eb5e2d350bae39557b1c7af"
+}

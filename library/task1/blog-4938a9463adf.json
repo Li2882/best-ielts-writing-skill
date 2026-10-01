@@ -1,0 +1,54 @@
+{
+  "id": "blog-4938a9463adf",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-4938a9463adf.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-9/ielts-report-topic-multiple-line-graph-describing-the-percentage-of-students-learning-a-second-language-from-ielts-high-scorers-choice-series-academic-set-2/",
+  "source_locator": {
+    "page_marker": "Sample Band 9 Report",
+    "source_file": "research/expansion/high-band-sources/blog-pages/7eb9c41c52f9a7e7.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog; High Scorer’s Choice IELTS Practice Tests",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page labels this response as a Band 9 model (\"close to\" or \"likely to score\" Band 9) from High Scorer’s Choice. This is a published teacher/examiner model label, not an official Cambridge TRF; the distinction is retained for calibration review.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "High Scorer’s Choice model author",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "83724ba30d265729",
+  "prompt_group": "51a76a0542aedfa3",
+  "question": "High Scorer’s Choice IELTS Practice Tests book series (reprinted with permission). This answer is close to IELTS Band 9. Set 2 Academic book, Practice Test 7 Writing Task 1 You should spend about 20 minutes on this task. The graph below shows the percentage of New Zealand primary school students learning a second language by language learned for the years 2006 to 2014. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/line-graphs-writing-1-test-7.jpg",
+      "path": "library/assets/f76b0eb3028e146d.jpg",
+      "sha256": "7029e52400a495a1168891059dd161906ef249dae1d3bb914b14d13d382c859f"
+    }
+  ],
+  "essay": "The graph shows the percentages of New Zealand primary school students who were learning a second language for the years 2006 to 2014.\nIt can be clearly seen that the popularity of various languages amongst school children changed over the years. Even languages that started off as equally popular in 2006 experienced a change in demand by 2014.\nIn 2006, the most common second language students learned in New Zealand primary schools was French (29%), with Japanese (28%) following very close behind. In 2014, the most common second language learned in primary school was still French at around the same percentage, however, the second most common had switched to Spanish (23%). Japanese dropped from its 2006 high of 28% to 17% in 2014.\nThe two least commonly learned second languages were German and Chinese. Chinese, which in 2006 had been the least commonly learned language at under 5%, dramatically increased and reached around 12% in 2014. German, which in 2006 had been the most common of the bottom three of the results given with 12%, steadily decreased to around 6% in 2014.  “Other languages” groups various languages that are not stated. These were at 7% in 2006, but became more popular over the years, reaching around 9% in 2014 after having peaked in the previous year.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Published source label: individual Band 9 model response; no four-trait numerical breakdown published.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 216,
+  "extraction": "HTML original prompt and model response; source label and module context retained.",
+  "source_sha256": "f7f2566284c6a18ad331f61a63e98a7d303a2565cf1f3e08417521c95c18f3c0",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

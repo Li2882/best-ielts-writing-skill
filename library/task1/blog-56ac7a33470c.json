@@ -1,0 +1,59 @@
+{
+  "id": "blog-56ac7a33470c",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-56ac7a33470c.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-pie-charts-percentage-book-sales-3-years/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/2db243e1685219a1.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "0776f66bd65a6dfb",
+  "prompt_group": "c69cfcba16737dc8",
+  "question": "The chart below illustrates the percentages of sales of one bookseller in 1970, 1997 and 2012. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/featured/model-report-sample-band-8-pie-chart.jpg",
+      "path": "library/assets/6e1f6f11585fce71.jpg",
+      "sha256": "1ca66831b9172bb1eda023bdfd0045ea34b17ad12785181f070d3ac82bc2d00f"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/writing-1-book-sales-pie-charts.jpg",
+      "path": "library/assets/5c9b241e01eaeeff.jpg",
+      "sha256": "0e52d63d899f79cbe86486ab8341a0c3f292f1aa9a09fe58cdf3ad1a20184f28"
+    }
+  ],
+  "essay": "The pie charts illustrate the sales percentages of books across five genres sold by a bookseller from 1972 to 2012.\n\nOverall, it is evident that the proportion of Adult fiction book sales increased over the years, while the sales of Biography books exhibited a declining trend.\n\nInitially, in 1972, the ‘Other’ books category dominated the market, comprising approximately 25% of total sales. In contrast, Adult fiction, Children’s fiction, and Biography books each represented 20% of total sales. Travel books constituted a smaller segment at 15%. By 1992, Adult fiction had taken the lead in sales at 25%, while Children’s fiction and the ‘Other’ category each accounted for around 20% of total sales. In the same year, Travel and Biography books made up 18% and 15% of sales, respectively.\n\nBy 2012, Adult fiction books constituted 45% of book sales. Additionally, Children’s fiction represented 25% of the market. Both Travel and ‘Other’ book categories saw a decrease, each accounting for about 10% of total sales. In contrast, Biographies had the smallest share of sales at just 8%.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 175,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "6e3b9c754d8c6f78f08ab078e576d1983bc2ab13f566a6bc597f2bfa4e63ab77",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5
+}

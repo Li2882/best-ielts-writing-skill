@@ -1,0 +1,54 @@
+{
+  "id": "blog-83e45a68b551",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-83e45a68b551.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-9/ielts-report-topic-two-tables-comparing-workers-of-foreign-and-us-birth-in-the-united-states-from-ielts-high-scorers-choice-series-academic-set-1/",
+  "source_locator": {
+    "page_marker": "Sample Band 9 Report",
+    "source_file": "research/expansion/high-band-sources/blog-pages/8fdd8bde210b2a72.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog; High Scorer’s Choice IELTS Practice Tests",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page labels this response as a Band 9 model (\"close to\" or \"likely to score\" Band 9) from High Scorer’s Choice. This is a published teacher/examiner model label, not an official Cambridge TRF; the distinction is retained for calibration review.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "High Scorer’s Choice model author",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "4c2391b98985bd41",
+  "prompt_group": "eefaa3a277c66b21",
+  "question": "High Scorer’s Choice IELTS Practice Tests book series (reprinted with permission). This answer is close to IELTS Band 9. Set 1 Academic book, Practice Test 3 Writing Task 1 You should spend about 20 minutes on this task. The two tables below show statistics of workers of foreign and US birth in the United States last year. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/workforce-tables-writing-1-test-3.jpg",
+      "path": "library/assets/0412fc903de9e8b7.jpg",
+      "sha256": "198ea56ea3c6808135e3f9329fedd3eda3a8482968edced093e0204ebfc92632"
+    }
+  ],
+  "essay": "The two tables compare from last year the number of workers in the US that were of US birth to the number of workers who were of foreign birth. The tables include divisions of the workforce by gender and by age, summarising the total number of workers in the workforce, the number of employed and unemployed workers and finally the unemployment rate. All figures are in thousands.\nOverall, it can be seen that in spite of the much larger numbers involved with the US birth workforce, the total unemployment rates were quite similar for the two cohorts.\nWhen looking at the breakdown of the figures by gender, the male foreign birth workforce suffered a lower unemployment rate (8.9%) than the male US birth workforce (10.6%), whereas the female foreign birth workforce suffered a higher unemployment rate (11.1%) than the female US birth workforce (8.5%). Overall, the foreign birth workforce suffered a marginally higher rate of unemployment (9.8%) than the US birth workforce (9.6%). The total US birth workforce in size was significantly larger (129,533 people) than the total foreign birth workforce (24,357 people).\nWhen looking at the breakdown of the figures by age, the younger of the foreign birth workforce (16 – 24 and 25 – 34) suffered from lower unemployment rates than the workforce of native birth, however, the foreign workforce older than these bands suffered higher unemployment rates.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Published source label: individual Band 9 model response; no four-trait numerical breakdown published.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 230,
+  "extraction": "HTML original prompt and model response; source label and module context retained.",
+  "source_sha256": "6c785deed808db7ddb3689e272943e12b3014ddc84d9deacd2963d0a20f83c1d",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

@@ -1,0 +1,61 @@
+{
+  "reference_coverage_complete": false,
+  "diagnostic_review_complete": false,
+  "reference_gaps": [
+    {
+      "task": "task1",
+      "band": 7.5,
+      "available": 13,
+      "missing": 12,
+      "source_families": 5,
+      "prompt_groups": 13
+    },
+    {
+      "task": "task1",
+      "band": 8.5,
+      "available": 24,
+      "missing": 1,
+      "source_families": 3,
+      "prompt_groups": 24
+    },
+    {
+      "task": "task2",
+      "band": 8.5,
+      "available": 21,
+      "missing": 4,
+      "source_families": 9,
+      "prompt_groups": 21
+    }
+  ],
+  "diagnostic_gaps": [
+    {
+      "task": "task1",
+      "band": 9,
+      "available": 1,
+      "reviewed": 1,
+      "missing": 2,
+      "unreviewed": 0
+    },
+    {
+      "task": "task2",
+      "band": 9,
+      "available": 2,
+      "reviewed": 2,
+      "missing": 1,
+      "unreviewed": 0
+    }
+  ],
+  "ready_for_blind_evaluation": false,
+  "updated_at": "2026-09-21",
+  "priority_bands": [
+    7.5,
+    8.5,
+    9
+  ],
+  "reference_quota_per_task_per_band": 25,
+  "diagnostic_quota_per_task_per_band": 3,
+  "fresh_evaluation_per_task_per_band": 2,
+  "workflow_path": "library/prompts/calibrated-workflow-v1.4.md",
+  "workflow_sha256": "7c0e25b5f762ea9ea2cb86344027f1019a0363abae4d2133f17d333649d7c323",
+  "evaluation_also_requires": "A complete disjoint 28-script packet, fixed workflow, source-label audit and new predictions; no restart of the three consumed initial-rating cases as fresh tests."
+}

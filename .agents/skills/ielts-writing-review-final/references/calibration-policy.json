@@ -1,0 +1,110 @@
+{
+  "version": "final-composite-1.4",
+  "status": "user_approved_integer_quota_test_pending_data_readiness",
+  "revised_at": "2026-09-30",
+  "focus": {
+    "minimum": 6,
+    "maximum": 9,
+    "step": 0.5,
+    "expand_below_minimum": false,
+    "outside_focus": "preserve_independent_score_and_disclose"
+  },
+  "score_domain": {
+    "minimum": 0,
+    "maximum": 9,
+    "step": 0.5
+  },
+  "independent_prompts": {
+    "lock_manifest": "baseline-lock.json",
+    "modify_text": false,
+    "reinterpret_keywords": false,
+    "show_anchors_during_initial": false
+  },
+  "evidence_review": {
+    "produces_score": false,
+    "automatic_deduction": false,
+    "automatic_score_cap": false,
+    "clear_meaning_implies_no_grammar_error": false,
+    "optional_rewrite_implies_error": false
+  },
+  "calibration": {
+    "method": "evidence-anchor-calibration.md",
+    "routes": [
+      "task1:TA",
+      "task1:CC",
+      "task1:LR",
+      "task1:GRA",
+      "task2:TR",
+      "task2:CC",
+      "task2:LR",
+      "task2:GRA"
+    ],
+    "directions": [
+      "down",
+      "unchanged",
+      "up"
+    ],
+    "max_adjustment": null,
+    "skip_unresolved_boundary": false,
+    "exact_trait_half_band_first": false,
+    "search_before_integer_fallback": false,
+    "network_failure_counts_as_exhausted_search": false,
+    "fixed_panel_size": null,
+    "pooled_lower_upper_vote": false,
+    "fallback_without_evidence": "keep_independent_score_and_disclose",
+    "show_base_or_labels_in_pairwise_comparison": false,
+    "integer_anchor_bands": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "minimum_anchors_per_task_criterion_integer_band": 10,
+    "half_bands_are": "internal_boundary_estimates_from_separate_adjacent_integer_groups",
+    "majority_summary": "weaker_comparable_stronger_uncertain_counted_by_unique_original",
+    "majority_alone_automatically_sets_score": false
+  },
+  "lr": {
+    "initial": "v4_mandatory_step_1_success_only",
+    "comparison": "successful_vocabulary_only",
+    "diagnostic_error_card_affects_initial": false,
+    "diagnostic_error_card_affects_comparison": false,
+    "error_veto": false,
+    "post_calibration_deduction": false
+  },
+  "validation": {
+    "scoring_runs_authorized": true,
+    "cap_experiments_authorized": false,
+    "static_integrity_checks_authorized": true
+  },
+  "anchor_research": "research/integer-anchors-20261001/REPORT.md",
+  "evaluation": {
+    "run_id": "integer-anchor-28-01",
+    "tasks": [
+      "task1",
+      "task2"
+    ],
+    "published_overall_bands": [
+      6,
+      6.5,
+      7,
+      7.5,
+      8,
+      8.5,
+      9
+    ],
+    "per_task_per_band": 2,
+    "expected_cases": 28,
+    "complete_anchor_quota_before_scoring": true,
+    "lock_all_predictions_before_label_metrics": true,
+    "cap_experiments_authorized": false,
+    "metrics": [
+      "MAE",
+      "RMSE",
+      "Bias",
+      "exact_rate",
+      "within_0_5_rate",
+      "effective_n"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "juice-248528",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248528.json",
+  "question": "A healthy person is often described as someone who has a good diet, gets lots of exercise, and avoids stress.\nTo what extent do you agree or disagree with this statement?",
+  "essay": "When we talk about health and being healthy, a good diet, regular exercise, and a stress-free lifestyle are the first things come to our mind. I fully agree that these are the only elements needed for a person to be qualified as healthy.\n\nIn order to have a lively life, a healthy regimen is, undoubtedly, one of the critical requirements. Our boddy needs to be supplied with the neccessary nutritions, and it can be achieved if we control what we eat. There are various which are harmful to us, and by consuming them we can make our boddy prone to many illnesses; fast foods, canned products, and soda drinks are some examples of such products.\n\nHaving regular exercise is another essential part of a healthy lifestyle. Similar to a good diet, exercise can help us to avoid myriad ailments by making our immune system stronger. Take the current situation which we are in right now as an example. In the time of Corona, there are many people who are diying, and the reason for that is that their boddy is not strong enough to defend against the virous. The statistic, on the other hand, shows that people who are athletes or get lots of exercise are not among the victims, or they are a neglictable portion of the population.\n\nThe importance of a peaceful mind, also, is something that cannot be overlooked. My father always tells me “a healthy mind is more important that a healthy boddy”. Mental state has a direct impact on physical state as well. If we are stressed and anxious, our entire system reacts to it. Stress is ranked the number one cause for stroke and heart arrest by experts; the fact that shows the enourmous role of our mental wellness in our physical health.\n\nIn conclusion, good diet, exercise, and ease of mind are pieces of a puzzle which all together can guarantee our wellness and health. I believe one to be considered healthy needs nothing more that these three.",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TR": 8.0,
+    "CC": 6.0,
+    "LR": 6.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this essay. Repetitive errors can seriously harm the score as it confirms lack of knowledge in certain language areas. By creating an error book and storing these errors, this problem can go away easily.",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "8.0\tsufficiently addresses all parts of the task",
+      "9.0\tpresents a fully developed position in answer to the question",
+      "9.0\twith relevant, fully extended, and well-supported ideas",
+      "8.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "7.0\tthere is clear progression throughout",
+      "6.0\tuses cohesive devices effectively, but cohesion within and/or between sentences may be faulty or mechanical",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "6.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "6.0\tmakes some errors in spelling and/or word formation",
+      "6.0\tthey do not impede communication",
+      "6.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "6.5"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3203-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248528.html",
+  "source_sha256": "023932d951c38906b414b2486f9ab36f63644d295d6b7bfc72533b0486c88abf",
+  "source_locator": {
+    "wordpress_post_id": 248528,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "1fa4ac15edfeaa88",
+  "prompt_group": "de68c1f809a68343",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

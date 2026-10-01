@@ -1,0 +1,45 @@
+{
+  "id": "insights-v11-p55-task1",
+  "task": "task1",
+  "question": "The two bar charts below show the proportion of 14- to 16-year-old students studying a foreign language in an English speaking country, and the top three foreign languages.",
+  "essay": null,
+  "score_source": "verified_human",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "status": "candidate",
+  "split": "holdout",
+  "sample_kind": "candidate_response",
+  "author_type": "student",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "disputed",
+  "rater_evidence": "Publisher submits academic-team originals to Tony Grace; original, explicit overall and correction report verified in the public PDF. Practice assessment, not an official test result.",
+  "author_group": "unknown",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "source_url": "https://cms.youpass.vn/assets/28835829-efbd-44ed-9cbf-fe0c377828e6?",
+  "source_artifact": "research/expansion/insights/vol-11.pdf",
+  "source_sha256": "45ac7c4b0303e1a93a402ef237fafb27d6daf60a7babe0dd298e224ba4c272e1",
+  "source_locator": {
+    "volume": 11,
+    "cover_page": 55,
+    "original_pages": [
+      56
+    ]
+  },
+  "path": "library/task1/insights-v11-p55-task1.json",
+  "task_type": "academic_visual_report",
+  "duplicate_group": "insights-v11-p55-task1",
+  "prompt_group": "f4a48bbcf8b134cb",
+  "quality_issues": [
+    "Cover 8.5 / 9+8+8+9 conflicts with page57 repeated header 8 / 8+7+8+9. Exact overall label unresolved."
+  ],
+  "accessed_at": "2026-09-21",
+  "essay_images": [
+    "research/expansion/insights/pages/vol-11-p56.png"
+  ],
+  "question_image": "research/expansion/insights/pages/vol-11-p55.png",
+  "evaluation_role": "reserved_unscored_v14",
+  "reserved_for_evaluation": "future_v14_complete_run",
+  "assessment_evidence_path": "evaluations/labels/v14-01.json"
+}

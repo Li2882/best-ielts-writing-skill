@@ -1,0 +1,59 @@
+{
+  "id": "blog-ff42dd35f6c5",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-ff42dd35f6c5.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-bar-chart-percentage-people-who-ate-5-portions-of-fruit-veg/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/def936b2408d2669.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "e64aa571f8cdf5c8",
+  "prompt_group": "a9d5b33b28700f17",
+  "question": "The chart below shows the percentage of people in the UK who ate five portions of fruit and vegetables per day between 2001 and 2008. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/images/featured/model-report-sample-band-8-bar-chart.jpg",
+      "path": "library/assets/23f618c9574eec1f.jpg",
+      "sha256": "42675f4c9ef8af016bebeaeb5cbf5a834d0932768db19b4eab4b4cf2a5414aad"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/images/image-in-post/writing-1-bar-chart-people-ate-fruit-veg-web.jpg",
+      "path": "library/assets/6ad6fcc82b397932.jpg",
+      "sha256": "337cbfe82e9fdb136520f0c84a690beb8f96e3f801ece954c2c51def9bbd2205"
+    }
+  ],
+  "essay": "The bar chart provides information on the percentage of men, women, and children that ate at least five portions of fruit and vegetables per day from 2001 to 2008.\n\nOverall, it can be seen that across the entire period women were the most likely group to have the necessary amount of fruit and vegetables in their diet, and children – the least. Still, by the end of the period the popularity of fruit and vegetables increased among all the participants in the survey.\n\nA closer look at the chart reveals that women had the highest percentage overall, starting at 21% in 2001 and reaching a high of 35% in 2006 after a steady rise in the previous years. By 2008, the figure had declined slightly to 30%.\n\nThe ratio of men who had 5 portions of fruit and vegetables a day was lower than that of women throughout the period. It remained steady at 17% for the first three years, from 2001 to 2003, but then rose to 27% by 2006 and declined slightly to 26% by 2008.\n\nChildren, whose figures were below those of men and women, started relatively low at 12% in 2001. The figure remained the same until 2003, and thereafter there was a noticeable increase to 17% in 2004. From then on, the figures continued to rise until they reached a high of 26% in 2007 before falling back slightly to 24% in 2008.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 238,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "3140cfeadbc2c2dc5c1a08262c8f4a2488f7fdbdb891436a24044707b9921d59",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5
+}

@@ -1,0 +1,54 @@
+{
+  "id": "blog-579b91344316",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-579b91344316.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-9/ielts-report-topic-bar-chart-of-average-rainfall-by-month-from-ielts-high-scorers-choice-series-academic-set-1/",
+  "source_locator": {
+    "page_marker": "Sample Band 9 Report",
+    "source_file": "research/expansion/high-band-sources/blog-pages/6c24bb270fca8ae5.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog; High Scorer’s Choice IELTS Practice Tests",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page labels this response as a Band 9 model (\"close to\" or \"likely to score\" Band 9) from High Scorer’s Choice. This is a published teacher/examiner model label, not an official Cambridge TRF; the distinction is retained for calibration review.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "High Scorer’s Choice model author",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "e03790d3b0e25672",
+  "prompt_group": "18d1527d7fe573e3",
+  "question": "High Scorer’s Choice IELTS Practice Tests book series (reprinted with permission). This answer is close to IELTS Band 9. Set 1 Academic book, Practice Test 1 Writing Task 1 You should spend about 20 minutes on this task. The bar chart below shows the average rainfall for Australia by month for last year. The line shows the average rainfall for Australia by month for the last 40 years. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/average-rainfall-au-writing-1-test-1.jpg",
+      "path": "library/assets/7b2d753c7a6106e7.jpg",
+      "sha256": "e948d6ca2bb10a1fbc20a297cfad98de41785dbda7438c212648032cead17026"
+    }
+  ],
+  "essay": "This report will describe a bar chart showing the average rainfall for Australia last year by month and the average rainfall in Australia for the past forty years.\nOverall, it can be seen that the average rainfall for Australia last year was a little lower than average rainfall in Australia for the past forty years, but generally followed the same pattern.\nThe average rainfall of the last forty years in Australia decreased from a peak at the beginning of the year to lows in the months in the middle of the year. Towards the end of the year rainfall rose again. Rainfall data for last year generally followed the same trend as the last forty years’ average.\nAlthough the general pattern of the two sets of data is similar, there are some differences. The line representing the accumulation of the average rainfall from the past forty years begins at around eighty millimetres in January and then drops sharply to around thirty millimetres in April. Rainfall then drops slowly to around thirteen millimetres in September and then again rises steadily to just under sixty millimetres in December. Average rainfall for the last year was a little lower than the forty-year average for most months, excepting March, May, June and November when the rainfall was a little heavier. August and October were particularly dry when compared with the forty-year average, at around five millimetres each compared with about fifteen and twenty millimetres each respectively for the forty-year average.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Published source label: individual Band 9 model response; no four-trait numerical breakdown published.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 246,
+  "extraction": "HTML original prompt and model response; source label and module context retained.",
+  "source_sha256": "5095394a63c0328d3ceb15bb4c92686f7ebe954f211284d611c58861209534b5",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

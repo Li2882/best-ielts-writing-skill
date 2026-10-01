@@ -1,0 +1,105 @@
+{
+  "id": "iff-e0bb26829c36",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/iff-e0bb26829c36.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-academic-task-1-band-8-sample-answer-2/",
+  "source_locator": "research/forfree/ielts-academic-task-1-band-8-sample-answer-2.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "7aa4ea2b0afe3461",
+  "prompt_group": "ff335e5cc1330408",
+  "question": "You should spend about 20 minutes on this task.\nThe table shows the amount of coal used by different sectors in the UK.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The table provides information about coal consumed for different purposes in Britain from 1975 to 2000.\n\nThe total consumption declined steadily in these 25 years, from 121.2 in 1975 to 53.5 in 2000, which was less than one third of the former figure. Power stations was the leading sector in all 5 categories, which drecreased in general though there was a rise in 1980, when it used about 3 quarters of the total amount of coal.\n\nThe other 3 sectors, comprising the domestic, industry, and services industries, dropped in this period except a leveling off was found in 1990-1995 for domestic, in 1995-2000 for services and other energy industries. The most dramatic decreases were in 1980 ; the consumptions declined to less than 50% the previous timeframe in all 4 sectors. Services used the least coal in all these years, which was less than 2% of consumption of leading sector, power stations, in 2000.\n\nTo sum up, less coal was used in general in Britain in these 25 years, either in particular sector or in total consumption.",
+  "word_count_computed": 178,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Academic Task 1 Band 8 sample answer 2\nThere is a clear overview of the whole table, and the writer has referred to each of the sectors and has used an appropriate academic format throughout.\nThere are minor issues relating to vocabulary and grammar, but the structure is clear, sentences are extended and paragraphs are clearly divided.",
+  "corrections": [
+    {
+      "original": "in",
+      "suggestion": "\"over\""
+    },
+    {
+      "original": "121.2",
+      "suggestion": "include the unit of measurement - \"121.2 million tonnes\""
+    },
+    {
+      "original": "53.5",
+      "suggestion": "try to use a range of expressions, such as \"below 55 million tonnes\""
+    },
+    {
+      "original": "was",
+      "suggestion": "even though \"sector\" is singular, power stations are plural so commonly this would be \"were\""
+    },
+    {
+      "original": "which drecreased",
+      "suggestion": "the \"which\" clause refers back to the previous noun, so the sentence means that the number of categories was decreasing, which is not the case - it was the amount used that was decreasing"
+    },
+    {
+      "original": "it",
+      "suggestion": "\"they\" - power stations are plural"
+    },
+    {
+      "original": "in",
+      "suggestion": "\"and in\""
+    },
+    {
+      "original": "; the consumptions",
+      "suggestion": "\"when consumption\""
+    },
+    {
+      "original": "the",
+      "suggestion": "\"of the\""
+    },
+    {
+      "original": "Services",
+      "suggestion": "\"The services sector\""
+    },
+    {
+      "original": "leading",
+      "suggestion": "\"the leading\""
+    },
+    {
+      "original": "in",
+      "suggestion": "\"over\""
+    },
+    {
+      "original": "either",
+      "suggestion": "\"both\""
+    },
+    {
+      "original": "particular",
+      "suggestion": "\"the individual\""
+    },
+    {
+      "original": "sector",
+      "suggestion": "\"sectors\""
+    },
+    {
+      "original": "or",
+      "suggestion": "\"and\""
+    }
+  ],
+  "quality_issues": [
+    "missing_chart"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "a1aa9a240ced65dc58d52a4cdd89f1046cc04e2d45a34a83e83fb6fa435b2705"
+}

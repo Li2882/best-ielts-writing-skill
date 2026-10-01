@@ -1,0 +1,53 @@
+{
+  "id": "blog-e182395fe844",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-e182395fe844.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-double-line-graph-showing-average-house-prices-from-target-band-7-book/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/c7508b6794a2abc5.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "03f4d93fd234ace1",
+  "prompt_group": "e5e645e030e95058",
+  "question": "This report was written on a topic from “Target Band 7” book (page 41, reprinted with permission). The graph describes average house prices in Sometown in 2005. Write a report for a university tutor describing the information shown.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/ielts-band-8-report-house-prices.jpg",
+      "path": "library/assets/2a11ad570678dd78.jpg"
+    }
+  ],
+  "essay": "The line graph shows the average cost of housing in Sometown in the second half of the year 2005. It is clear that the prices of both sold and unsold houses had fluctuated over the period.\n\nAccording to the graph, the asking price of unsold properties peaked in July at around $335,000 dollars and then the figure decreased to its lowest level of nearly $319,000, which was reached in September. A slight fluctuation occurred in the following months the average prices of homes for sale increased by 10 thousand dollars in October and declined to just above 320,000 dollars in December.\n\nSimilarly, the average price of sold properties had varied widely over the period, except the values were lower. The months of July and August recorded average prices of around $300,000 and $303,000 dollars respectively. Then, prices reached the bottom at 290,000 in the next two months before rose significantly and registered highest value in December at almost $308,000.\n\nIn conclusion, there was a significant difference between the asking and selling price and the gap narrowed towards the end of 2005 as sellers’ expectations moved closer to achievable prices.\n\nThis response handles well the description of both asking and selling average prices, as well as comparison of their trends. The use of cohesive devices is varied and the message is easy to follow. The writer uses complex sentence structures and wide range of vocabulary. The errors in word choice are minor and don’t affect communication. Overall, this looks like a Band 8 report.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 253,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "5026012f84b097fd22bbaff78a879a77d0d6b5bde1018a3710878e58636c0b97",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

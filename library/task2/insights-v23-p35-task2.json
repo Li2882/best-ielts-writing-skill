@@ -1,0 +1,84 @@
+{
+  "id": "insights-v23-p35-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/insights-v23-p35-task2.json",
+  "question": "The best way to ensure a happy family life for children is to make mothers and fathers take part in parenting courses every year. To what extent do you agree or disagree?",
+  "question_transcription": "Transcribed from original prompt cover; original page remains authoritative.",
+  "essay": "Opinions are divided on whether requiring parents to attend parenting education courses annually is the most effective way to foster a fulfilling family life for their children. While it is understandable why some people support this practice, I personally disagree, as there are better alternatives. Advocates of compulsory yearly parental training programs often argue that these programs provide parents with useful parenting skills and knowledge, such as open communication and ways to encourage good behaviour. However, these courses often offer general and theoretical approaches that may not match every family since children have different needs and react unpredictably. Consequently, first-time parents, despite memorizing all the correct techniques, may still struggle to apply them in real-life situations. For instance, in theory, a parent may learn to calm a child during tantrums with gentle explanations, but in practice, children may continue to behave aggressively or refuse to cooperate. Therefore, parenting approaches that work for one child may fail for another, thereby reducing the practical value of mandatory parenting courses. On the other hand, I contend that there are better methods to create a harmonious family environment for children. Firstly, there are a host of useful learning materials such as books, videos and focused online classes that parents can explore with flexibility. This allows them to manage their time and to respond appropriately to specific problems by acquiring tailored parenting knowledge that suits their family's needs. In addition, a close-knit family cannot be formed without parents spending quality time with their children. Simple acts such as regular mealtimes and daily routines can give children the emotional support they need. As a result, the parent-child bond is strengthened and children see their parents as trusted companions, thereby fostering a sense of happiness and security within the household. In conclusion, although some people may believe that taking annual parenting courses is the best way to create a happy family for children, I",
+  "essay_images": [
+    "research/expansion/insights/pages/vol-23-p36.png",
+    "research/expansion/insights/pages/vol-23-p37.png"
+  ],
+  "reading_transcript": null,
+  "transcript_status": "Image original only; watermark causes OCR errors, so OCR is not a replacement essay.",
+  "images": [],
+  "question_image": null,
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {
+    "TR": 9,
+    "CC": 8,
+    "LR": 9,
+    "GRA": 9
+  },
+  "comments": "See original marked criterion pages. Cover and section scores have been cross-checked; conflicts are recorded separately.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-23-p35.png",
+    "research/expansion/insights/pages/vol-23-p38.png",
+    "research/expansion/insights/pages/vol-23-p39.png",
+    "research/expansion/insights/pages/vol-23-p40.png",
+    "research/expansion/insights/pages/vol-23-p41.png",
+    "research/expansion/insights/pages/vol-23-p42.png",
+    "research/expansion/insights/pages/vol-23-p43.png",
+    "research/expansion/insights/pages/vol-23-p44.png",
+    "research/expansion/insights/pages/vol-23-p45.png",
+    "research/expansion/insights/pages/vol-23-p46.png",
+    "research/expansion/insights/pages/vol-23-p47.png"
+  ],
+  "source_url": "https://insight.ielts1984.vn/vol/23/#page-35",
+  "source_artifact": "research/expansion/insights/pages/vol-23-p35.png",
+  "source_sha256": "7cba32a53de2756757801dd7a828f99593784b0e8de738fa854ccf41350b89b9",
+  "source_locator": {
+    "volume": 23,
+    "cover_page": 35,
+    "original_pages": [
+      36,
+      37
+    ],
+    "criterion_pages": [
+      38,
+      41,
+      44,
+      46
+    ],
+    "report_end": 47
+  },
+  "publisher": "IELTS 1984 / IELTS Insights",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher-authored original separately assessed by Tony Grace in the attached IELTS Corrections report; practice assessment, not a certified examination result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_type": "teacher",
+  "author_group": "IELTS 1984 editorial team",
+  "sample_kind": "teacher_model",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "status": "verified",
+  "split": "reference",
+  "quality_issues": [
+    "OCR transcription was visually checked but remains a transcription of the image original.",
+    "OCR transcription was visually checked but remains a transcription of the image original."
+  ],
+  "duplicate_group": "insights-v23-p35-task2",
+  "prompt_group": "e8ea96e67cfe7151",
+  "accessed_at": "2026-09-21",
+  "trait_evidence_path": "research/trait-calibration/insights-v23-p35-task2.json",
+  "teacher_advice_caveat": "Personal views, mandatory paragraph layouts, complex-structure checklists and requests for additional optional ideas are not additional official scoring requirements.",
+  "score_aggregation_note": "Preserve the teacher overall exactly; this publisher often rounds a quarter-band mean downward.",
+  "word_count_computed": 317,
+  "extraction": "Original-answer pages transcribed from the retained page images by OCR; all pages were visually checked on 2026-09-25. Headers, footers and watermarks were removed."
+}

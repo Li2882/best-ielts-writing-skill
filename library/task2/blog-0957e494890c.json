@@ -1,0 +1,58 @@
+{
+  "id": "blog-0957e494890c",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-0957e494890c.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-nowadays-many-people-choose-ready-made-food-and-refuse-to-cook-at-home-advantages-disadvantages/",
+  "source_locator": "research/blog/ielts-essay-topic-nowadays-many-people-choose-ready-made-food-and-refuse-to-cook-at-home-advantages-disadvantages.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "a2f38f1d400acf10",
+  "prompt_group": "faf62031f3f9de3d",
+  "question": "Nowadays many people choose ready-made food and refuse to cook at home. Why do you think it happens? What are the advantages and disadvantages of such a choice?",
+  "essay": "It is a very popular practice in the modern society to order ready-made food from restaurants, rather than cooking at home. The main reasons for such a tendency may be cheap prices in some restaurants and people’s desire to save some time from cooking. Even though ordering food have some obvious advantages, its disadvantages should not be underestimated.\n\nOn the one hand, ordering prepared food may be the best choice for a busy person, who does not have time for cooking and cleaning. Cooking food at home requires a considerable amount of time, moreover the cleaning process may take even more time and resources than cooking itself. For example, cooking a simple dish such as chicken with rice and home requires significant amounts of water and electricity for electrical appliances such as the oven and dishwasher. Hence, having an opportunity to order food from a restaurant will save a lot of time, electricity and water.\n\nOn the other hand, delegating the process of cooking to some restaurant have a dramatic disadvantage of not having the information about the ingredients used in the meals. With high demand, grow the volumes of required products, which sometimes can affect the quality of purchased produce. For example, it is a very common practice in some restaurants to make salads from products that are about to go bad and mask the rotten scent by adding some chemicals and spices. Hence, some restaurants may use poor quality products or chemicals for boosting taste and preservatives, which may have a negative effect on the customer’s health in the long run.\n\nIn conclusion, ordering food from restaurants may be a tempting choice for people who have no time for cooking at home, but this approach has a critical disadvantage of being not informed about the ingredients used in the meal, which can have destructive consequences.",
+  "word_count_computed": 307,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This response covers the task requirements by giving a reason why people would choose to buy ready-made food and discussing the advantages and disadvantages of this trend. The ideas are conveyed quite clearly and supported by examples, paragraphing helps to present the information in a neat and easy to follow way, and the level of coherence is adequate in this essay. A range of complex sentence forms and advanced vocabulary is used and there are very few instances of erroneous grammar or inaccurate expressions (see corrections underlined in blue). Overall, this essay is likely to score Band 8 in IELTS.",
+  "corrections": [
+    {
+      "original": "from cooking",
+      "suggestion": "‘by not having to cook’ is the correct expression"
+    },
+    {
+      "original": "have",
+      "suggestion": "‘has’ is the correct verb form"
+    },
+    {
+      "original": "and",
+      "suggestion": "‘at’ is what the writer meant to say"
+    },
+    {
+      "original": "have",
+      "suggestion": "‘comes with’ is a better way to say this"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "773a2fa2d25634aca7eb5a981b4e47b1552aed4c425de04ee4dd0071c83b6303",
+  "model_evidence": null,
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01"
+}

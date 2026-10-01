@@ -1,0 +1,70 @@
+{
+  "id": "blog-deadf1904bb3",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-deadf1904bb3.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-7/ielts-report-topic-table-describing-the-satisfaction-of-sports-club-members/",
+  "source_locator": "research/blog/ielts-report-topic-table-describing-the-satisfaction-of-sports-club-members.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "c0085dcb7f9bc3d8",
+  "prompt_group": "675aefa1e5a034a7",
+  "question": "The table below shows the results of a survey to find out what members of a city sports club think about the club’s activities, facilities, and opening hours.\nSummarise the information by selecting and reporting the main features and make any comparisons where relevant.",
+  "essay": "The table illustrates the preference levels of male and female members of a sport club about their activities, facilities and opening hours. It is clear that the greater proportion of male members is contented about the club’s activities (91%) whereas this figure is true only for 70% of female members.\n\nMoreover, more than 85% of both male and female are happy about the facilities and 63% of male members and 64% female members are extremely satisfied in this regard. In fact, only 14% of female members and 10% of male members are negative about this.\n\nIn addition, opening hours are in the best interest of women as 97% of them are positive about it. In contrast, more than one third of men have expressed their dissatisfaction in this regard.\n\nIn conclusion, it is clear that male and female members hold different opinion about the activities and facilities and opening hours of the club.",
+  "word_count_computed": 153,
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/table-sports-club.jpg",
+      "path": "library/assets/72728a6068541733.jpg",
+      "sha256": "6e6961a51855da5db9b19d0ed8f94390b81cd704fe225d2b51eb0c254796d2f4"
+    }
+  ],
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "A reasonable outline of main trends, differences or states was given. The key features were presented and emphasized, but some aspects were left out of the description. There is a logical organisation of information; it is evident that the writer progresses from one idea to another. The use of linking words and phrases is suitable. The range of vocabulary is wide enough for the writer to show some flexibility and accuracy of expression, but still some words are repeated over and over again. There are incidental errors in word choice, spelling and word formation, however error-free sentences are common. Overall this report seems worthy of Band 7.",
+  "corrections": [
+    {
+      "original": "is clear",
+      "suggestion": "can be clearly seen"
+    },
+    {
+      "original": "contented about",
+      "suggestion": "content with"
+    },
+    {
+      "original": "male and female",
+      "suggestion": "males and females"
+    },
+    {
+      "original": "interest",
+      "suggestion": "interests"
+    },
+    {
+      "original": "members",
+      "suggestion": "this word repeats too many times"
+    },
+    {
+      "original": " opinion",
+      "suggestion": "opinions"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "7a391bb16dffa7718b0fc164b3f0bd371b1a6d84ce70f08b82da30339603727c",
+  "model_evidence": null
+}

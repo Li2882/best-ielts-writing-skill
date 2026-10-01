@@ -1,0 +1,72 @@
+{
+  "id": "blog-be6a67212761",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-be6a67212761.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-public-libraries-should-only-provide-books-not-videos-or-dvd-agree-or-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-public-libraries-should-only-provide-books-not-videos-or-dvd-agree-or-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "85b0e2de7e1b01c4",
+  "prompt_group": "eea0da5fea362b9e",
+  "question": "Public libraries should only provide books and should not waste their limited resources on expensive high-tech media such as software, videos or DVDs. Do you agree or disagree?",
+  "essay": "With the proliferation of high-tech media, some people hold that the public libraries would be rendered obsolete if they do not offer software, videos or DVDs to their users while other assert it’s only a waste of limited resources and the libraries should offer books only.\n\nHigh-tech media is, in many ways, indeed superior to the books in terms of entertainment, attraction, and functionality. For instance, videos and DVDs function as a visual means to assist people to have a first-hand experience even though those people have not physically visited or seen the objects which are introduced in the books. Also, despite the audio-visual equipment would be prohibitive to install, the capital cost would be lowered by appealing to a sizable number of users.\n\nMore importantly, software could assist the library goers to access the Internet to update their knowledge on a daily basis; in contrast, books typically take multiple months to be published, which in turn render their contents outdated to some extent. In addition, upon learning that the computer literacy has become an essential skill recently, public libraries should take on the responsibility to educate its users how to operate a computer.\n\nFurthermore, it is a common practice for most public libraries to share their resources via the Internet. In this way, even if one book of interest cannot be found in one library, the borrower still could locate the book from other libraries and then request the librarians to transfer the book to that particular library.\n\nIn conclusion, public libraries would benefit in multiple ways if they are equipped with the high-tech media.",
+  "word_count_computed": 266,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a good essay. There are only a few errors indicating that the writer needs to take care with verbs, prepositions and sentence formation (mouse over the words underlined in blue shows corrections). Overall, this work seems worthy of IELTS Band 8. Remember to always proofread your essay before submitting it. Keep up the good work!",
+  "corrections": [
+    {
+      "original": "hold",
+      "suggestion": "insist"
+    },
+    {
+      "original": "do",
+      "suggestion": "did"
+    },
+    {
+      "original": "other",
+      "suggestion": "others"
+    },
+    {
+      "original": "the",
+      "suggestion": "the fact that"
+    },
+    {
+      "original": "render",
+      "suggestion": "renders"
+    },
+    {
+      "original": "its",
+      "suggestion": "their"
+    },
+    {
+      "original": "from",
+      "suggestion": "in"
+    },
+    {
+      "original": "are",
+      "suggestion": "were"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "94c42de01b5e6a35db1bb369accd9ebe81d2ded0511d670d5c8acaec6ab9ece3",
+  "model_evidence": null
+}

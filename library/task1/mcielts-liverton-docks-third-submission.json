@@ -1,0 +1,51 @@
+{
+  "id": "mcielts-liverton-docks-third-submission",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/mcielts-liverton-docks-third-submission.json",
+  "question": "The map below shows the changes made to Liverton docks since 1980. Summarise the information by selecting and reporting the main features and make comparisons where relevant. Write at least 150 words.",
+  "essay": "The map reflects modifications to Liverton docks from 1980 to the present. Overall, the original structures became obsolete and have been transformed from a once-functional shipping dock to a tourist attraction with a ship museum, accommodations, and recreational activities.\n\nIn 1980, the dock was fully functional, accommodating multiple ships simultaneously but was eventually ‘decommissioned’ and by today, repurposed as a tourist and recreational area. Spanning the river, there was an erection of a bridge and a flood barrier connecting the two riverbanks. Along the south riverbank, a novel riverwalk was also established in conjunction with the aforementioned newly developed construction.\n\nFurthermore, various types of construction appeared on both sides of the river, replacing the three outdated warehouses that existed in 1980. Two old warehouses on the north of the river were converted into an educational center and a new kid’s playground, while the third one on the south was demolished to create space for apartments. New facilities kept emerging, with a sailing club and a hotel being constructed from where the cranes were situated. A new parking lot was formed next to the apartments on the right to complete the semi-century transformation.",
+  "essay_images": [
+    "research/integer-anchors-20261001/mcielts/dock-third-essay-only.png"
+  ],
+  "question_image": "research/integer-anchors-20261001/mcielts/dock-question-only.png",
+  "images": [
+    {
+      "path": "research/integer-anchors-20261001/mcielts/dock-question-only.png",
+      "sha256": "54edfbadcab8524594f6fb4745304ddc58ea9f69849cf11488b3b6a59300d086"
+    }
+  ],
+  "source_url": "https://mcielts.com/ielts-computer-writing-task-1-10-04-2023-band-9-0/",
+  "source_artifact": "research/integer-anchors-20261001/mcielts/dock-maps.html",
+  "source_sha256": "fe9459d4fed0582c48ab6b0ca8c7864d3b61be825dc859e91ab682de0cc2ce79",
+  "source_locator": {
+    "version": "3rd Version",
+    "original_image": "research/integer-anchors-20261001/mcielts/dock-4.png",
+    "question_image": "research/integer-anchors-20261001/mcielts/dock-1.png"
+  },
+  "publisher": "Mc IELTS",
+  "score_source": "verified_human",
+  "rater_evidence": "Primary institution identifies the author as its student, the displayed third submission as independently graded by Gary McCloud, and publishes explicit individual criterion marks. This is a teacher practice assessment after revision, not a certified test result.",
+  "author_type": "student",
+  "author_group": "unknown",
+  "sample_kind": "candidate_response_revision",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "status": "verified",
+  "split": "holdout",
+  "label_scope": "individual",
+  "label_review_status": "source_and_image_checked",
+  "quality_issues": [],
+  "duplicate_group": "mcielts-liverton-docks-all-three-submissions",
+  "prompt_group": "liverton-docks-1980-today",
+  "accessed_at": "2026-10-01",
+  "label_paths": {
+    "integer28": "evaluations/labels/integer28-new.json"
+  },
+  "extraction": "Manually transcribed from displayed third submission, preserving wording, punctuation and three paragraph boundaries. Source says 192 words; that caption is not part of the essay. Cropped input images exclude institution, version and grade labels.",
+  "evaluation_limitations": [
+    "Student revised twice after teacher feedback; not a first-attempt timed script. All three submissions must remain in the same split.",
+    "Public-source training contamination cannot be excluded."
+  ]
+}

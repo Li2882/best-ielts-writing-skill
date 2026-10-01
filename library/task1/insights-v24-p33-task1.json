@@ -1,0 +1,150 @@
+{
+  "id": "insights-v24-p33-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/insights-v24-p33-task1.json",
+  "question": "The diagram below shows the development of the cutting tool in the Stone Age. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_transcription": "Transcribed from original prompt cover; original page remains authoritative.",
+  "essay": null,
+  "essay_images": [
+    "research/expansion/insights/pages/vol-24-p34.png"
+  ],
+  "reading_transcript": null,
+  "transcript_status": "Image original only; watermark causes OCR errors, so OCR is not a replacement essay.",
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-24-p33.png",
+      "sha256": "43d1fad1a5666df8f14bd78a9afb89fe6f38497ac99c3c740e02b360e6bbb58e"
+    }
+  ],
+  "question_image": "research/expansion/insights/pages/vol-24-p33.png",
+  "overall": null,
+  "band_low": null,
+  "band_high": null,
+  "traits": {
+    "CC": 9,
+    "LR": 9,
+    "GRA": 9
+  },
+  "comments": "See original marked criterion pages. Cover and section scores have been cross-checked; conflicts are recorded separately.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-24-p33.png",
+    "research/expansion/insights/pages/vol-24-p35.png",
+    "research/expansion/insights/pages/vol-24-p36.png",
+    "research/expansion/insights/pages/vol-24-p37.png",
+    "research/expansion/insights/pages/vol-24-p38.png",
+    "research/expansion/insights/pages/vol-24-p39.png",
+    "research/expansion/insights/pages/vol-24-p40.png",
+    "research/expansion/insights/pages/vol-24-p41.png"
+  ],
+  "source_url": "https://insight.ielts1984.vn/vol/24/#page-33",
+  "source_artifact": "research/expansion/insights/pages/vol-24-p33.png",
+  "source_sha256": "43d1fad1a5666df8f14bd78a9afb89fe6f38497ac99c3c740e02b360e6bbb58e",
+  "source_locator": {
+    "volume": 24,
+    "cover_page": 33,
+    "original_pages": [
+      34
+    ],
+    "criterion_pages": [
+      35,
+      38,
+      39,
+      40
+    ],
+    "report_end": 41
+  },
+  "publisher": "IELTS 1984 / IELTS Insights",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher-authored original separately assessed by Tony Grace in the attached IELTS Corrections report; practice assessment, not a certified examination result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_type": "teacher",
+  "author_group": "IELTS 1984 editorial team",
+  "sample_kind": "teacher_model",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "verified_criteria_only",
+  "status": "verified",
+  "split": "reference",
+  "quality_issues": [
+    "TA page 35 heading/cover give 7, but explanation says band score 9 instead of 9; unresolved contradiction in the stated deduction."
+  ],
+  "duplicate_group": "insights-v24-p33-task1",
+  "prompt_group": "57ee6d162765eb2c",
+  "accessed_at": "2026-09-21",
+  "trait_evidence_path": "research/trait-calibration/insights-v24-p33-task1.json",
+  "teacher_advice_caveat": "Personal views, mandatory paragraph layouts, complex-structure checklists and requests for additional optional ideas are not additional official scoring requirements.",
+  "score_aggregation_note": "Preserve the teacher overall exactly; this publisher often rounds a quarter-band mean downward.",
+  "raw_published_scores": {
+    "overall": 8.5,
+    "band_low": 8.5,
+    "band_high": 8.5,
+    "traits": {
+      "TA": 7,
+      "CC": 9,
+      "LR": 9,
+      "GRA": 9
+    }
+  },
+  "criterion_quarantine": {
+    "scope": "label_only",
+    "source_issues": [
+      "TA page 35 heading/cover give 7, but explanation says band score 9 instead of 9; unresolved contradiction in the stated deduction."
+    ],
+    "excluded_labels": [
+      "TA",
+      "overall"
+    ],
+    "verified_criteria": {
+      "CC": {
+        "cover_score": 9,
+        "criterion_score": 9,
+        "visual_review": "cover_and_criterion_agree",
+        "evidence_files": [
+          {
+            "path": "research/expansion/insights/pages/vol-24-p33.png",
+            "sha256": "43d1fad1a5666df8f14bd78a9afb89fe6f38497ac99c3c740e02b360e6bbb58e"
+          },
+          {
+            "path": "research/expansion/insights/pages/vol-24-p38.png",
+            "sha256": "b804eae8565e7650d93c1e7bb3c55f5e0247959b42d3be9a3feb9b7301d61931"
+          }
+        ]
+      },
+      "LR": {
+        "cover_score": 9,
+        "criterion_score": 9,
+        "visual_review": "cover_and_criterion_agree",
+        "evidence_files": [
+          {
+            "path": "research/expansion/insights/pages/vol-24-p33.png",
+            "sha256": "43d1fad1a5666df8f14bd78a9afb89fe6f38497ac99c3c740e02b360e6bbb58e"
+          },
+          {
+            "path": "research/expansion/insights/pages/vol-24-p39.png",
+            "sha256": "d630c9009a01b86ed30cd8cb4618834816821e82f2c398e48433c91b454a1c23"
+          }
+        ]
+      },
+      "GRA": {
+        "cover_score": 9,
+        "criterion_score": 9,
+        "visual_review": "cover_and_criterion_agree",
+        "evidence_files": [
+          {
+            "path": "research/expansion/insights/pages/vol-24-p33.png",
+            "sha256": "43d1fad1a5666df8f14bd78a9afb89fe6f38497ac99c3c740e02b360e6bbb58e"
+          },
+          {
+            "path": "research/expansion/insights/pages/vol-24-p40.png",
+            "sha256": "9429aaed4a5667f1e70ffdd2423ef7fd3473b3870f67a7051ff36f7bc3e92b75"
+          }
+        ]
+      }
+    },
+    "reviewed_at_local": "2026-10-01",
+    "review_method": "Read the publisher original, cover, and each criterion page as images; retain the unrelated contradiction, without adjudicating it."
+  }
+}

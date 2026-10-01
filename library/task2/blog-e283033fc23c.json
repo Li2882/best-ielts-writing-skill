@@ -1,0 +1,60 @@
+{
+  "id": "blog-e283033fc23c",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-e283033fc23c.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-education-in-financial-management-should-be-a-mandatory-component-of-the-school-program-agree-disagree-from-target-band-7-book/",
+  "source_locator": "research/blog/ielts-essay-topic-education-in-financial-management-should-be-a-mandatory-component-of-the-school-program-agree-disagree-from-target-band-7-book.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "d18234ceb2ee18d5",
+  "prompt_group": "b8c72868f5abc87e",
+  "question": "Education in financial management should be a mandatory component of the school program. To what extent do you agree or disagree with this statement?\nGive reasons for your answer and include examples from your experience.",
+  "essay": "More and more young adults in our country are heavily indebted. Thus, it is considered by some that it should be mandatory to educate school children in the administration of money. In my opinion, people should not leave school without a sound knowledge of financial management.\n\nTo begin with, a country’s development is strongly dependend upon the purchasing capacity of its inhabitants. That is to say, people who are in debt or financially vulnerable, would not be able to spend freely or invest, for example, in a new house, thus hindering the economic growth of the country. As a consequence, the rate of inflation would rise and people would be able to afford even less, which could ultimately result in the collapse of the entire economy. A good example of this vicious circle can be seen in countries such as Argentina, where people have to buy household items in the black market, because they cannot afford to buy them in regular stores due to skyrocketing prices. Therefore, it is of utmost importance to teach children early in money management.\n\nAnother point to consider is the low standard of living that people have when they mismanage their finances. Individuals who are constantly short of money could eventually end up being socially isolated and unhappy, because they couldn’t afford to participate in leisure activities, such as going to the cinema with a friend, resulting in their withdraw from social life. However, this could be avoided with ease by offering courses in money management.\n\nIn conclusion, I strongly believe that school children should be taught how to manage their finances to prevent social isolation later in their life as well as to maintain the economic force of their country.",
+  "word_count_computed": 286,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "The writer’s position is clear throughout the essay. Paragraphing is used effectively to organise ideas and information, however the paragraphs could have been balanced better in terms of the amount of content. The advanced vocabulary the writer uses creates a good impression of mature and fluent writer. Overall, the control of grammar and punctuation is fine, and the number of errors is small. The essay could achieve Band 8 in IELTS.",
+  "corrections": [
+    {
+      "original": "in",
+      "suggestion": "‘about’ is the right preposition"
+    },
+    {
+      "original": "dependend",
+      "suggestion": "‘dependent’ is the right word"
+    },
+    {
+      "original": "in",
+      "suggestion": "‘about’ is the right preposition here"
+    },
+    {
+      "original": "withdraw",
+      "suggestion": "‘withdrawal’ is the right word here"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "1de424fe31d33409c8d6c6c91d3ddfc8cbf2cf81c224087090197e90b773c3d9",
+  "model_evidence": null,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "source_context_region": "unknown",
+  "classification_revision": "Book-title advertisement is not evidence of model authorship; explicit sample/model declarations remain excluded."
+}

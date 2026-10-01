@@ -1,0 +1,64 @@
+{
+  "id": "insights-v05-p20-task1",
+  "task": "task1",
+  "question": "The table shows the cost of water in 5 cities in Australia. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": null,
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {},
+  "score_source": "verified_human",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "rater_evidence": "Publisher submits academic-team originals to Tony Grace; original, explicit overall and correction report verified in the public PDF. Practice assessment, not an official test result.",
+  "author_group": "unknown",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "source_url": "https://cms.youpass.vn/assets/636a18ca-406c-42a4-827a-fca8cc65b72b",
+  "source_artifact": "research/expansion/insights/vol-05.pdf",
+  "source_sha256": "76f86e4e66923d7e7f411a3e9de517180edc0a3b9e676ba8e0e66133d4367822",
+  "source_locator": {
+    "volume": 5,
+    "cover_page": 20,
+    "original_pages": [
+      21
+    ]
+  },
+  "path": "library/task1/insights-v05-p20-task1.json",
+  "task_type": "academic_visual_report",
+  "duplicate_group": "insights-v05-p20-task1",
+  "prompt_group": "6c812c8367dbbd96",
+  "quality_issues": [],
+  "accessed_at": "2026-09-21",
+  "essay_images": [
+    "research/expansion/insights/pages/vol-05-p21.png"
+  ],
+  "question_image": "research/expansion/insights/pages/vol-05-p20.png",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-05-p20.png",
+    "research/expansion/insights/pages/vol-05-p22.png",
+    "research/expansion/insights/pages/vol-05-p23.png",
+    "research/expansion/insights/pages/vol-05-p24.png",
+    "research/expansion/insights/pages/vol-05-p25.png",
+    "research/expansion/insights/pages/vol-05-p26.png",
+    "research/expansion/insights/pages/vol-05-p27.png",
+    "research/expansion/insights/pages/vol-05-p28.png",
+    "research/expansion/insights/pages/vol-05-p29.png",
+    "research/expansion/insights/pages/vol-05-p30.png"
+  ],
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01",
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-05-p20.png",
+      "sha256": "70fe1224fccd5ae419a345e16a1b671722b4bd4a9aed9493b9aef7fe400a02b6"
+    }
+  ]
+}

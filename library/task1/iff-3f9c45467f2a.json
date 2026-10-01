@@ -1,0 +1,89 @@
+{
+  "id": "iff-3f9c45467f2a",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/iff-3f9c45467f2a.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-academic-task-1-band-7-sample-answer-2/",
+  "source_locator": "research/forfree/ielts-academic-task-1-band-7-sample-answer-2.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "candidate",
+  "split": "reference",
+  "duplicate_group": "e1cb0302e45368b6",
+  "prompt_group": "ff335e5cc1330408",
+  "question": "You should spend about 20 minutes on this task.\nThe table shows the amount of coal used by different sectors in the UK.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The table gives data about the quantity of coal used by 5 sectors in the UK within a period of 25 years; in addition, the level of consumption at each year is illustrated.\n\nFrom 1975 to 1985, the largest amount consumed was by Power stations and Other energy industries, whereas three other sectors used considerably less. To illustrate, Services used 7.2 million of tonnes from 1975 to 1985, but power stations figures for the same period of time were 250.8 million tonnes. It was striking the fact that in 1985 Power stations used more than three quarters of the total quantity.\n\nIn the following decade from 1990 to 2000, consuming of coal decreased in all sectors. However, power stations remained still the highest user of coal, followed by other energy industries which utilized significantly less compared to power stations and over three times more than they did in 1975.\n\nOverall, the trend of coal consumption experienced decline for all sectors with one exception in 1980 when power stations increased just under 10%. Domestic consumption levelled off in 1990 and 1995 whereas other energy industries reached a plateau in 1995 and 2000.",
+  "word_count_computed": 193,
+  "images": [],
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Academic Task 1 Band 7 sample answer 2\nThe structure of the report is logical and clear, and a description of all the main trends is included.\nHowever, there are some errors in the data (and over three times more than they did in 1975), and some of the language used is a little informal ('than they did').\nThere are also slight errors in the use of linking words (in addition / meanwhile). In addition, the data is presented in a very specific manner to it would be better to use a range of expressions rather than simply the numbers.",
+  "corrections": [
+    {
+      "original": "at each year",
+      "suggestion": "the table shows the years in 5 yearly increments, not \"each year\""
+    },
+    {
+      "original": "Power",
+      "suggestion": "no need for a capital letter"
+    },
+    {
+      "original": "Other",
+      "suggestion": "again, no need for a capital unless it is written as the category name as \"Other\""
+    },
+    {
+      "original": "three",
+      "suggestion": "the three"
+    },
+    {
+      "original": "Services",
+      "suggestion": "either \"the sector entitled \"Services\" or \"the services sector\""
+    },
+    {
+      "original": "power stations figures",
+      "suggestion": "the figures for power stations"
+    },
+    {
+      "original": "250.8 million",
+      "suggestion": "use a range of ways of presenting data - \"just over 250 million\""
+    },
+    {
+      "original": "consuming",
+      "suggestion": "\"consumption\""
+    },
+    {
+      "original": "still",
+      "suggestion": "delete this word - it is redundant"
+    },
+    {
+      "original": "more",
+      "suggestion": "\"less\""
+    },
+    {
+      "original": "decline",
+      "suggestion": "\"a decline\""
+    },
+    {
+      "original": "whereas",
+      "suggestion": "this needs to be followed by a comma"
+    }
+  ],
+  "quality_issues": [
+    "missing_chart"
+  ],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "8924bd95d01ae121690495c37a036c9863eb4e21682454358601ff3b11fd7f08"
+}

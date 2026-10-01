@@ -1,0 +1,62 @@
+{
+  "id": "ieltsanswers-4b61c273edbb",
+  "task": "task2",
+  "task_type": "discussion",
+  "path": "library/task2/ieltsanswers-4b61c273edbb.json",
+  "question": "Some people think that development in technology causes environmental problems. Other people believe that technology can solve environmental problems. Discuss both sides of the argument and then give your opinion.",
+  "essay": null,
+  "images": [],
+  "essay_images": [
+    "research/expansion/correction-pages/4b61c273edbb-p1.png",
+    "research/expansion/correction-pages/4b61c273edbb-p2.png",
+    "research/expansion/correction-pages/4b61c273edbb-p3.png"
+  ],
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {},
+  "comments": null,
+  "source_url": "https://www.ieltsanswers.com/essays/ielts-essays-can-the-development-in-tecnology-cause-environmental-problems.pdf",
+  "source_artifact": "research/expansion/answers/4b61c273edbb.pdf",
+  "source_sha256": "bd11e52a0a3b4cea9db02aa434ce1768c06e85a0a405f2be2258e9cad850c40b",
+  "source_locator": "research/expansion/answers/4b61c273edbb.pdf",
+  "score_source": "verified_human",
+  "rater_evidence": "Mike Wattie publishes these as individually corrected writing samples on IELTSAnswers. His examiner credentials are a publisher claim; these are practice estimates.",
+  "publisher": "IELTSAnswers / Mike Wattie",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "ieltsanswers-4b61c273edbb",
+  "prompt_group": "5fee860a39adedea",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "student",
+  "author_type_evidence": "Publisher describes these as writing correction samples; individual author is unnamed.",
+  "question_text_status": "Searchable prompt transcription or summary; original question image is authoritative.",
+  "question_image": "research/expansion/correction-pages/4b61c273edbb-p1.png",
+  "comments_images": [
+    "research/expansion/correction-pages/4b61c273edbb-p1.png",
+    "research/expansion/correction-pages/4b61c273edbb-p2.png",
+    "research/expansion/correction-pages/4b61c273edbb-p3.png"
+  ],
+  "score_page": 3,
+  "score_evidence": [
+    {
+      "score": 6.5,
+      "row": [
+        "Overall",
+        "6.5",
+        "When you plan your essay try to have two good strong reasons for each side of the\nargument. Also when you give your opinion try to justify it.",
+        null
+      ]
+    }
+  ],
+  "extraction": "Read the marked original: retain struck-out original words, omit inserted corrections and teacher comments. Do not concatenate the native PDF text, which interleaves both versions. Assessment tables are not essay text.",
+  "teacher_advice_caveat": "Publisher layout preferences, stylistic substitutions and word-count advice are not official deductions. Preserve the published overall; ranged criterion estimates have not been converted to exact scores."
+}

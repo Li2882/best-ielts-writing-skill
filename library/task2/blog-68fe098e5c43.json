@@ -1,0 +1,80 @@
+{
+  "id": "blog-68fe098e5c43",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-68fe098e5c43.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-5/ielts-essay-topic-mothers-and-fathers-role-in-a-family/",
+  "source_locator": "research/blog/ielts-essay-topic-mothers-and-fathers-role-in-a-family.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "42b6c1a9fb42ce26",
+  "prompt_group": "ba090762862c5bb8",
+  "question": "Boys are most influenced by their fathers and girls are most influenced by their mothers. Do you agree or disagree? Use specific reasons to support your opinion.",
+  "essay": "It is true that nowadays parent have a great influence over the children. Some people hold the opinion that the same sex is the major determination of influencing parent, but others have a negative attitude. As far as I am concerned, I agree that boys are most influenced by their fathers and girls are most influenced by their mothers. My arguments for this point are listed below.\n\nFirst of all, a father is the person who have already passed that ways which are his son is passing now, in other words, sons are following their father’s footsteps. So, based on experience it is easy for a father to notice his sons’ drawbacks and to influence them.\n\nSecondly, it is true that a boy is countedas a strong characteristics human , but a girl is a subtle and fragile one. It is hard for mothers to influence their sons, because it is not likely that vulnerable something can affect a strong one.\n\nIn conclusion, it seems to me unfair that boys are most influenced by their mothers. Based on at least two points above I strongly agree that children are influenced by a parent of the same gender.",
+  "word_count_computed": 196,
+  "images": [],
+  "overall": 5.5,
+  "band_low": 5.5,
+  "band_high": 5.5,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay is too short, 190 words instead of the minimum requirement of 250. It doesn’t say anything about girls being influenced by their mothers, which is also a part of the task – therefore the task is only partially covered. The sentences are not complex enough, there are grammatical mistakes and inaccuracies (see comments underlined in blue). Overall, this looks like a Band 5.5 essay",
+  "corrections": [
+    {
+      "original": "parent",
+      "suggestion": "parents"
+    },
+    {
+      "original": "over the",
+      "suggestion": "on their"
+    },
+    {
+      "original": "have a negative attitude",
+      "suggestion": "disagree"
+    },
+    {
+      "original": "I agree that boys are most influenced by their fathers and girls are most influenced by their mothers",
+      "suggestion": "Do not copy the task exactly, rephrase it"
+    },
+    {
+      "original": "that",
+      "suggestion": "those"
+    },
+    {
+      "original": "which are",
+      "suggestion": "in life which"
+    },
+    {
+      "original": "So",
+      "suggestion": "Thus"
+    },
+    {
+      "original": "countedas a strong characteristics human",
+      "suggestion": "considered a strong person"
+    },
+    {
+      "original": "but",
+      "suggestion": "whereas"
+    },
+    {
+      "original": "vulnerable something",
+      "suggestion": "a vulnerable person"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "209052d322bf5abcf5d619006c6ab7aac3607137cbe50a3605ec844b6e4d55af",
+  "model_evidence": null
+}

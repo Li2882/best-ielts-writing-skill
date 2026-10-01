@@ -1,0 +1,92 @@
+{
+  "id": "insights-v14-p22-task1",
+  "task": "task1",
+  "task_type": "table",
+  "path": "library/task1/insights-v14-p22-task1.json",
+  "question": "The table below shows the population ratio of males per 100 females in six different areas in 1955 and 2005.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/insights/pages/vol-14-p22.png",
+      "sha256": "b9aaa67cfc627d52b407677425a6efdaa9f6300140bd1db1b475607d5f3338c1"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-14-p23.png"
+  ],
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {
+    "TA": 9,
+    "CC": 8,
+    "LR": 8,
+    "GRA": 9
+  },
+  "comments": null,
+  "source_url": "https://cms.youpass.vn/assets/0681c40d-54d0-4014-aa04-35bdbb5dd36c",
+  "source_artifact": "research/expansion/insights/vol-14.pdf",
+  "source_sha256": "15097839185710458d4408a06f75b288855a262e126f9afdce778df1ca2d1adc",
+  "source_locator": {
+    "volume": 14,
+    "cover_page": 22,
+    "original_pages": [
+      23
+    ],
+    "report_last_page": 29
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "Tony Grace is named in the correction report. The publisher says its academic team submits these originals to him for individual marking and describes him as a former IDP examiner. This is a practice assessment, not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "quality_issues": [],
+  "duplicate_group": "insights-v14-p22-task1",
+  "prompt_group": "3008c63b54e731d3",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "teacher",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-14-p22.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-14-p22.png",
+    "research/expansion/insights/pages/vol-14-p24.png",
+    "research/expansion/insights/pages/vol-14-p25.png",
+    "research/expansion/insights/pages/vol-14-p26.png",
+    "research/expansion/insights/pages/vol-14-p27.png",
+    "research/expansion/insights/pages/vol-14-p28.png",
+    "research/expansion/insights/pages/vol-14-p29.png"
+  ],
+  "score_page": 22,
+  "score_evidence": [
+    {
+      "page": 22,
+      "text": " \nIELTS Corrections \nPage 1 of 8 \nFor more IELTS advice go to Succeed in IELTS with Tony  \n19 September 2024 \nĐây là nội dung được thực hiện bởi trung tâm IELTS 1984. Các bạn có \nthể đọc thêm nhiều bài mẫu, cùng hướng dẫn viết bài chi tiết từng bước \ntại website trung tâm nha. \nhttps://ielts1984.vn/tong-quan-ve-ielts/ielts-writing-task-2 \nQR code: \n \n \nOVERALL BAND SCORE   \n8.5  \n9+8+8+9 \nSEE BELOW C&C LR GRA \n \nMODEL ANSWER \nWRITING TASK 1 \nThe table below shows the population ratio of males per 100 \nfemales in six different areas in 1955 and 2005.  \nSummarise the information by selecting and reporting the main \nfeatures, and make comparisons where relevant. \n \n \n \n"
+    },
+    {
+      "page": 24,
+      "text": " \nIELTS Corrections \nPage 3 of 8 \nFor more IELTS advice go to Succeed in IELTS with Tony  \n19 September 2024 \nOVERALL BAND SCORE   \n8.5  \n9+8+8+9 \nTA – Task Achievement nb – GRA and LR errors have not been corrected \nBand score 9 \nExcellent answer to a difficult question, with obviously made-up figures. \nThe overview is clear. \nYou have summarised the information accurately.   \n \n \n \n \n \n \nRECOMMENDED LAYOUT FOR TASK 1 ANSWERS \n•  Write an introduction paraphrasing the information provided.  If \npossible, change the structure from a noun phrase to a noun clause \n(change the chart gives information about the number of to the chart \nshows how many […] ). \n• Write a clear overview of the main trends, differences, and stages.  \nIf there are trends and differences (ie if there are changes over time), \ngive some information about both.  If there are only differences, as \nin questions with no time scale, provide differences of more than \none type.   \n• Put the overview after the introduction in a separate paragraph.  \nDon’t hide it in the introduction or at the end, as it’s the first thing \nthe examiner looks for. \n• Separate your paragraphs with blank lines. It looks better and there \ncan be no doubt that it is a new paragraph. \n• Write one or more paragraphs about the information itself and \norganise it logically.  Use signposting phrases to show your \n"
+    }
+  ],
+  "extraction": "Use only the Your answer / Original answer section in the specified pages. Later TA/TR, CC, LR and GRA sections contain marked copies and rewrites. Front-of-magazine teaching versions are not the scored original. OCR only locates content; inspect original images.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "published_cover_traits": {
+    "TA": 9,
+    "CC": 8,
+    "LR": 8,
+    "GRA": 9
+  },
+  "trait_label_status": "Criterion pages cross-checked against cover and retained with full report; original and report images retained.",
+  "trait_evidence_path": "research/trait-calibration/insights-v14-p22-task1.json"
+}

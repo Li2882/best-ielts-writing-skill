@@ -1,0 +1,93 @@
+{
+  "id": "juice-247794",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-247794.json",
+  "question": "The graph below shows the total value of exports and the value of fuel, food and manufactured goods exported by one country from 2000 to 2005.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The supplied graph below illustrates, the total value of exports and value of fuel, foods and manufactured goods exported by one country from (2000) to (2005).\n\nMoving to the total value of exports in 2000, there was nearly, 300,000 million dollars whereas, in 2001 drooped to 255,000 million dollars. However, in 2002 even collapsed to the 250,000 million dollars but dramatically increased to 350,000 million dollars in 2003, and move upward in 2004 which reached almost, 355,000 million dollars and eventually in 2005, touched the apex which is nearly, 450,000 million dollars.\n\nIn 2000, the rate of the food was below than 4000 million dollars however, in 2001 even plummet to below than 3000 million dollars there was change sporadically in 2002, which reached to nearly, 3000 million dollars again and remained steady in 2003. But then again there was slight change in 2004, which reached to approximately 4000 million dollars and, finally in 2005 remained constant precisely same as the 2004 which was 4000 million dollars. Manufactured goods was nearly, 18000 million dollars in 2000, and shot up immediately in 2001 which reached to almost, 22000 million dollars. Remained stable in 2002 almost, but in 2003 dropped to approximately, 19000 million dollars but that being said, increased to almost, 23000 million dollars and remained constant in 2005 which was the highest point.\n\nMoving to the fuel which was nearly, 48000 million dollars in 2000, and decreased to below than 40000 million dollars in 2001 and there was reduction respectively which touched 28000 million dollars in 2002 and beside, reached to the 26000 million dollars in 2003, and eventually reached exactly 20000 million dollars in 2005 which was the lowest point.\n\nOverall, there was massive change specially in fuel from 2000, to 2005 which dropped suddenly from approximately, 48000 million dollars to 20000 million dollars in 2005. Furthermore, there was constant statistic data with reference to the food which almost, remained steady during 2000 to 2005 which was below than 5000 million dollars.",
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TA": 8.0,
+    "CC": 6.0,
+    "LR": 6.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you indeed for writing this report. Let’s address some repetitive errors: -\tthere is no need to write “to” after “reach” in the sentences above. -\ta full sentence needs a clear subject (consult a dictionary or a grammar book for more information) -\tmodifiers like “nearly” or “approximately” do not necessarily need a comma either before or after them. Referencing is an important element at IELTS, contributing to the clarity and coherence of the writing piece. To learn more about it, please read the lesson below:",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "9.0\tfully satisfies all the requirements of the task",
+      "8.0\tpresents, highlights and illustrates key features clearly and appropriately",
+      "9.0\tdetails are fully and clearly extended.",
+      "8.0",
+      "8.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "6.0\tmay not always use referencing clearly or appropriately",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "6.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "6.0\tattempts to use less common vocabulary but with some inaccuracy",
+      "6.0\tmakes some errors in spelling and/or word formation",
+      "6.0\tthey do not impede communication",
+      "6.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "6.0\tcomplex sentences have the same accuracy as the simple ones do",
+      "6.0\tmakes some errors in grammar and punctuation",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.5"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-247794-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2023/08/ielts-juice-writing-task-1-sample-3332-band-6-5.jpg",
+      "sha256": "c48da3bcff94ae40bfba79352843f3daf726c9a6f161e3f3b56fa59c97d4bdc6"
+    }
+  ],
+  "question_image": "library/assets/juice-247794-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3332-band-6-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-247794.html",
+  "source_sha256": "63eaf1cc7bc40a28efb1819752be8b6e878dd875c4d88d63b33b072a68fba0e8",
+  "source_locator": {
+    "wordpress_post_id": 247794,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "91c6f309cc6a36d4",
+  "prompt_group": "b0b595770aa62d8e",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

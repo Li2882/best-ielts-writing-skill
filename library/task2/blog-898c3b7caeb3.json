@@ -1,0 +1,52 @@
+{
+  "id": "blog-898c3b7caeb3",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-898c3b7caeb3.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-nowadays-families-move-to-different-countries-for-work-and-some-think-it-has-a-negative-effect-on-children-agree-disagree/",
+  "source_locator": "research/blog/ielts-essay-topic-nowadays-families-move-to-different-countries-for-work-and-some-think-it-has-a-negative-effect-on-children-agree-disagree.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "711db93111d476e6",
+  "prompt_group": "11294d7f4338c7ea",
+  "question": "Nowadays families move to different countries for work. Some people think it has a negative effect on children, while others disagree. Discuss both views and give your own opinion.",
+  "essay": "Recent advancements, in technology and transportation in particular, are reshaping our world in an unprecedented manner. Nowadays, it is not unusual for people to work abroad. Most expatriates relocate their families to the countries they work at. Some people argue that this phenomenon negatively affects children, however, I agree with those who believe the opposite is true.\n\nThose who think that relocating children to a new place is undesirable do so for many reasons. Their most common argument is the negative impact of moving on a child’s personality. There is no doubt that living in a different community comes with its challenges, especially to young people, as they get exposed to behaviours, actions and customs they might not be familiar with. As a result, children could possibly feel a lack of stability and some confusion. It is also likely that their patriotic feelings and sense of belonging to their home country could weaken as they would miss many opportunities to celebrate their national events.\n\nNevertheless, I firmly believe that opinion to be ludicrous, as it seems that getting exposed to a new culture is beneficial in many ways. It fosters young people social and emotional capabilities. Moreover, children living abroad have better opportunities to lean and practice new languages. Mastering more than one language improves not only their intellectual development, but also their opportunities in acquiring better jobs in the future. According to a recent study published by the University of Chicago, competency in more than one language increases employment chances on average by 200%.\n\nIn conclusion, I strongly believe that living in a different country positively affects children in all aspects. Acquiring new languages, and an open minded and tolerant personality are just few examples of the many possible benefits.",
+  "word_count_computed": 291,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay presents a well‐developed position that addresses all parts of the task prompt. The writer’s ideas are relevant and well‐supported. The arrangement of information and use of cohesive devices are fine, perhaps with a slight overuse in the second body paragraph. Sentence structures are complex, and the vocabulary is varied and appropriately used, except for some minor grammatical/spelling mistakes. This essay seems worthy of IELTS Band 8.",
+  "corrections": [
+    {
+      "original": "they work at",
+      "suggestion": "where they work"
+    },
+    {
+      "original": "people",
+      "suggestion": "people’s"
+    },
+    {
+      "original": "lean",
+      "suggestion": "‘learn’ is the correct spelling"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "2f669aaa7fa4129a9a0a786d0e0c85047ea49df24bc1617c1bf53773a7453d16",
+  "model_evidence": null
+}

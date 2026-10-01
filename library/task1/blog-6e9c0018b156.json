@@ -1,0 +1,78 @@
+{
+  "id": "blog-6e9c0018b156",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-6e9c0018b156.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-7/ielts-report-topic-bar-graph-describing-average-house-prices/",
+  "source_locator": "research/blog/ielts-report-topic-bar-graph-describing-average-house-prices.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "76bb531981804211",
+  "prompt_group": "8cb0ceb7fd976a37",
+  "question": "The chart below shows information about average house prices in five different cities between 1990 and 2002 compared with average house prices in 1989.\nSummarise the information by selecting and reporting the main features and make comparisons where relevant.",
+  "essay": "The chart provides a break down about the average variation in house prices in five various cities from 1990 to 2002 along with a comparison with house price in 1989. Overall, it is clear that the average house price increased substantially over the given period compared with the prices in 1989.\n\nAs can be seen, between 1990 and 1995, the average house prices in Tokyo and London indicated a sharp dip by approximately 7% in both cities. They were followed by New York with a 5% decline. In contrast, the average house price showed a slight increase of 2% and 2.5% in Frankfurt and Madrid respectively.\n\nOn the contrary, during the period of 1996 to 2002, London with 12% demonstrated a sharp growth in housing prices. It was followed by New York and Madrid with 5% and 4% respectively along with a small increase of around 2% in Frankfurt. Similarly, Tokyo showed a rise of about 2% but it was still 5% lower than the average house price in 1989.",
+  "word_count_computed": 171,
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/average-house-prices.jpg",
+      "path": "library/assets/626e2f8a8e3a8bde.jpg",
+      "sha256": "980ab66a8f4118b02bbbca9fb02b135b4a9c6a7276763a21d77b4b264acce8de"
+    }
+  ],
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "A reasonable outline of main trends, differences or states was given. The key features were presented and emphasized, but some aspects were left out of the description. There is a logical organisation of information; it is evident that the writer progresses from one idea to another. The linking words and phrases are used, however at times they are inappropriate or forced (not natural). The range of vocabulary is wide enough for the writer to show some flexibility and accuracy of expression, however repetition of the same word can clearly be seen throughout this report. There are incidental errors in word choice, spelling and word formation. Overall the control of grammar and punctuation is good, with only a few errors made. This report seems worthy of Band 7.",
+  "corrections": [
+    {
+      "original": "break down about",
+      "suggestion": "breakdown of"
+    },
+    {
+      "original": "variation in",
+      "suggestion": "delete this"
+    },
+    {
+      "original": "price",
+      "suggestion": "prices"
+    },
+    {
+      "original": "price",
+      "suggestion": "prices"
+    },
+    {
+      "original": "indicated",
+      "suggestion": "experienced"
+    },
+    {
+      "original": "price",
+      "suggestion": "prices"
+    },
+    {
+      "original": "of",
+      "suggestion": "from"
+    },
+    {
+      "original": "price",
+      "suggestion": "prices"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "d53688111b20b7fafea4dbc3aadf3185119a1e78ca171e0ff233fabc669da779",
+  "model_evidence": null
+}

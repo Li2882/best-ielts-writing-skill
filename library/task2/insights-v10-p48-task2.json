@@ -1,0 +1,123 @@
+{
+  "id": "insights-v10-p48-task2",
+  "task": "task2",
+  "task_type": "opinion",
+  "path": "library/task2/insights-v10-p48-task2.json",
+  "question": "The main purpose of advertising is to increase the sales of products that people do not really need. To what extent do you agree or disagree?",
+  "essay": null,
+  "images": [],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-10-p49.png"
+  ],
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {
+    "TR": 9,
+    "CC": 9,
+    "LR": 8,
+    "GRA": 8
+  },
+  "comments": null,
+  "source_url": "https://cms.youpass.vn/assets/1ba361b6-4f04-4298-81d0-4ef30710a847",
+  "source_artifact": "research/expansion/insights/vol-10.pdf",
+  "source_sha256": "a4cb2e8d549d6d2d750cfe2a712bde8e83f0eca14144039b6d28aa6b37f29b90",
+  "source_locator": {
+    "volume": 10,
+    "cover_page": 48,
+    "original_pages": [
+      49
+    ],
+    "report_last_page": 59
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "Tony Grace is named in the correction report. The publisher says its academic team submits these originals to him for individual marking and describes him as a former IDP examiner. This is a practice assessment, not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "insights-v10-p48-task2",
+  "prompt_group": "76b8829b5d7d7406",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "content_checked",
+  "author_type": "student",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-10-p48.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-10-p48.png",
+    "research/expansion/insights/pages/vol-10-p50.png",
+    "research/expansion/insights/pages/vol-10-p51.png",
+    "research/expansion/insights/pages/vol-10-p52.png",
+    "research/expansion/insights/pages/vol-10-p53.png",
+    "research/expansion/insights/pages/vol-10-p54.png",
+    "research/expansion/insights/pages/vol-10-p55.png",
+    "research/expansion/insights/pages/vol-10-p56.png",
+    "research/expansion/insights/pages/vol-10-p57.png",
+    "research/expansion/insights/pages/vol-10-p58.png",
+    "research/expansion/insights/pages/vol-10-p59.png"
+  ],
+  "score_page": 48,
+  "score_evidence": [
+    {
+      "page": 48,
+      "text": "IELTS Corrections\nBÄI THUOC CHUYÉN MVC:\nBÄI VIET cÖA BAN DOC\nPage 1 Of 12\nDäy lä néi dung dL.rqc thvc hién trung täm IELTS 1984.\nCéc ban c0 thé dQC thém nhiéu bäu mäu, hur&ng dän viét\nbåi chi tiét tü' s6 0, tai website trung täm nha.\nhttps://ieltsl 984. vn/tonq-quan-ve -ielts/ielts-writinq-task-2\nQR code:\nOVERALL BAND SCORE\n8.5\n9+9+8+8\nSEE BELOW cac LR GRA MODEL ANSWER\nWRITING TASK 2\nWrite about the following topic:\nThe main purpose of advertising is to increase the sales of products\nthat people don't really need.\nTo what extent do you agree or disagree?\nGive reasons for your answer and include any relevant examples from\nyour own knowledge or experience.\nWrite at least 250 words.\nFor more IELTS advice go to Succeed in IELTS with Tonv\n13 May 2024\nvoL.10 1 May 2024\n46"
+    },
+    {
+      "page": 50,
+      "text": "IELTS Corrections\nPage 3 of 12\nOVERALL BAND SCORE\n8.5\n9+9+8+8\nTR — Task Response nb — GRA and LR errors have not been corrected\nBand score 9\nGood answer, and probably good enough for a 9.\nI'd probably argue that the main purpose is to create demand and to\nboost sales of goods and services, regardless of whether people need the\nitems or not, and whether they're harmful of not. Ads targeting women\nwere so successful in the UK that for a while, there were more women\nThis documentary shows how advertising/marketing\nsmokers than men.\ncynically manipulated women in the early 20th century in the US. The\npart I'm referring to is around the IO minute mark, but it's all\ninteresting.\nYou have a clear position throughout, and all parts of the question are\naddressed.\nYour position is coherent and well-argued. The ideas are relevant,\nextended, and coherent.\n• fully addresses all parts of the\ntask\n• presents a fully developed\nposition in answer to the\nquestion with relevant, fully\nextended and well supported\nideas\nBand score 9 TR\nADVICE ON BRAINSTORMING FOR TASK 2\nAs you're planning and writing your answer, remember to constantly\nask yourself if you're answering the question. Check back to the\nquestion a few times as you think of ideas to make sure they're\ndirectly relevant.\nFor more IELTS advice go to Succeed in IELTS with Tonv\n13 May 2024\nvoL.10 1 May 2024\n48"
+    }
+  ],
+  "extraction": "Use only the Your answer / Original answer section in the specified pages. Later TA/TR, CC, LR and GRA sections contain marked copies and rewrites. Front-of-magazine teaching versions are not the scored original. OCR only locates content; inspect original images.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "published_cover_traits": {
+    "TR": 9,
+    "CC": 9,
+    "LR": 8,
+    "GRA": 8
+  },
+  "trait_label_status": "Cover and each explicit criterion Band score header visually reconciled with the original response in this audit; no total-to-trait inference.",
+  "integer_anchor_review": {
+    "reviewed_at_utc": "2026-09-30",
+    "evidence": {
+      "TR": {
+        "score": 9,
+        "page": 50,
+        "image": "research/expansion/insights/pages/vol-10-p50.png",
+        "image_sha256": "ec9d4c02b62ea084079fe7320454042c0d435c21e7b4c68ab1b27349f8173546"
+      },
+      "CC": {
+        "score": 9,
+        "page": 53,
+        "image": "research/expansion/insights/pages/vol-10-p53.png",
+        "image_sha256": "b6876b29693ed1b1411cbe612d7aebae010ba397d995024a6d17a56d4430ad31"
+      },
+      "LR": {
+        "score": 8,
+        "page": 56,
+        "image": "research/expansion/insights/pages/vol-10-p56.png",
+        "image_sha256": "666f14cdf6e4f4b534f8060f7d670465585aec81b57f2f0ee3781c72c300e0be"
+      },
+      "GRA": {
+        "score": 8,
+        "page": 58,
+        "image": "research/expansion/insights/pages/vol-10-p58.png",
+        "image_sha256": "4132eb71f7d4747c1e30b21ee20a2f62a43b420e0bde1e327fa59f7a33b39856"
+      }
+    },
+    "contact_sheet": "research/integer-anchors-20261001/insights10t2-audit.png",
+    "original_pages": [
+      49
+    ]
+  }
+}

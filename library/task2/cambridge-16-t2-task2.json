@@ -1,0 +1,49 @@
+{
+  "id": "cambridge-16-t2-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/cambridge-16-t2-task2.json",
+  "question": "In their advertising, businesses nowadays usually emphasise that their products are new in some way.\nWhy is this? Do you think it is a positive or negative development?",
+  "question_image": null,
+  "images": [],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c16-p135.png"
+  ],
+  "reading_transcript": "In their advertising, businesses nowdays sometimes stress that their products are new in some way. From my point of view, some businesses want to have good products to give to the people, but usually they worry about their products are newer than some other's businesses products.\n\nIn think it is a negative development, because when businesses stress about the quality of their products, sometimes they do something wrong while they are producing them. It is good when the businesses take care of and look after their products but with a limit. According to some experts, when you take a lot of care of something, you will probably do some things, about it, wrong.\n\nFrom my own experience, I was trying to make three school projects, which my teachers asked me to do, and despite my hard work and because I was stressed about the projects I had to do, I finally failed because I had made a lot of mistakes.\n\nTo sum up, businesses nowdays should not stress about their products being new in some way. Besides that they should calm down and be careful on what they are producing.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 4.5,
+  "band_low": 4.5,
+  "band_high": 4.5,
+  "traits": {},
+  "comments": "This response does not really address the requirements of the question. There is a view expressed at the beginning of the second paragraph [a negative development] but mainly, the writer is talking about the quality of products rather than advertising. In the third paragraph, an example is given about an unsuccessful school project which is not relevant to the question either. This response only touches on the question set, and is a tangential response. Ideas are not arranged coherently, as they do not address the task given. Paragraphing is not helpful and there is a one-sentence paragraph. Vocabulary is not appropriate as it does not focus on the question set.\nSentence structure shows a mix of simple and more complex forms with a range of tenses and modal and comparative structures. There are a number of errors but they do not reduce communication.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-16-academic/",
+  "source_artifact": "research/expansion/cam16-page.html",
+  "source_sha256": "3a7c22accc6e9d451361adc70721b590144cf510c5af8a4eaed095aa73cb7225",
+  "source_locator": {
+    "book": 16,
+    "test": 2,
+    "pdf": "research/expansion/cambridge16.pdf",
+    "response_pages": [
+      135
+    ],
+    "score_line": "achieved a Band 4.5"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-16-t2-task2",
+  "prompt_group": "cambridge-16-t2-task2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

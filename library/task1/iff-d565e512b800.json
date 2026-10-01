@@ -1,0 +1,177 @@
+{
+  "id": "iff-d565e512b800",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/iff-d565e512b800.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-academic-task-1-band-5-sample-answer-2/",
+  "source_locator": "research/forfree/ielts-academic-task-1-band-5-sample-answer-2.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "3d907301283742f7",
+  "prompt_group": "8900c11f9c0ab6a1",
+  "question": "You should spend about 20 minutes on this task.\nThe chart below shows how people travelled to work in 1996 and 2001.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The chart is shows the different modes of transportation used by the people in Grahamston on their way to work in the year 1996 and 2001.\n\nIt is note that both in the year 1996 and 2001 , a majority of the people in Grahamston drove their own car or truck to go to work. There were about 58% in 1996 and increased to 68% in 2001. In the year 1996, the commonest used of transportation was a car or truck with 58% and followed by private vehicle pasengers with 12% and a slightly difference of 2% with the used of public transport of 10%. The two least mode of transport in Grahamston was by walking with 7% and by the bicycle of only 2%. There were about 6% people in Grahamston that worked at home.\n\nIn 2001, there was an increased of 10% in using their car and truck on their way to worked from 58% to 68% in 1996 and 2001 accordingly. There was a slight increased of 3% in working at home reaching up to 9%. And with regards in using bicycle ther is an inceased of only 1%. There was almost half of the people used public transport from 10% in 1996 to 5% in 2001. An inclined number of people walked to worked with 7%.\n\nIn conclusion , mostly of the people in Grahamston travelled to work by car or truck in 1996 and 2001 and there was increased number of people who stayed at home for worked with 6% in 1996 and 9% in 2001. The were only few people who used the other modes of transportation.",
+  "word_count_computed": 271,
+  "images": [
+    {
+      "source_url": "https://www.ieltsforfree.com/wp-content/uploads/2026/08/task-1-grahamston.png",
+      "path": "library/assets/54ce267aeb5c8019.png",
+      "sha256": "f105663a1efdb180d861282ce38bda3877eabd2dd1126b3ba9929d1fa5374a95"
+    }
+  ],
+  "overall": 5.0,
+  "band_low": 5.0,
+  "band_high": 5.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Academic Task 1 Band 5 sample answer 2\nThe first problem here is that the report is too long, and there are a number of minor errors with prepositions ('of only 2%') and structure. There is also too much repetition of key information. Basic grammar forms have a number of errors (there was an increased) and even simple plurals have been missed (the two least mode of transportation). There are a number of significant spelling errors and some of the language used is inappropriate (an inclined number of people). However, there is a clear overview and the writer has identified and expressed the main trends.",
+  "corrections": [
+    {
+      "original": "is shows",
+      "suggestion": "just \"shows\" - delete \"is\""
+    },
+    {
+      "original": "year",
+      "suggestion": "\"years\" - plural"
+    },
+    {
+      "original": "note",
+      "suggestion": "\"notable\""
+    },
+    {
+      "original": "both in the year 1996 and 2001",
+      "suggestion": "\"in both years\" avoids repetition from the previous sentence"
+    },
+    {
+      "original": "a majority",
+      "suggestion": "\"the majority\" - there can only be only one majority"
+    },
+    {
+      "original": "go to",
+      "suggestion": "delete this"
+    },
+    {
+      "original": "There were",
+      "suggestion": "\"This accounted for\" would be better"
+    },
+    {
+      "original": "year",
+      "suggestion": "delete this - it is obvious from the context"
+    },
+    {
+      "original": "commonest used of",
+      "suggestion": "\"the most commonly used form of\""
+    },
+    {
+      "original": "with 58%",
+      "suggestion": "delete this - it is repetition"
+    },
+    {
+      "original": "slightly",
+      "suggestion": "\"slight\""
+    },
+    {
+      "original": "used",
+      "suggestion": "\"use\""
+    },
+    {
+      "original": "of",
+      "suggestion": "\"at\""
+    },
+    {
+      "original": "mode",
+      "suggestion": "\"common modes\""
+    },
+    {
+      "original": "was by",
+      "suggestion": "\"were\" - delete by"
+    },
+    {
+      "original": "by the bicycle of only",
+      "suggestion": "\"using a bicycle at only\""
+    },
+    {
+      "original": "increased",
+      "suggestion": "\"increase\""
+    },
+    {
+      "original": "their car and truck",
+      "suggestion": "\"cars or trucks\""
+    },
+    {
+      "original": "worked",
+      "suggestion": "\"work\""
+    },
+    {
+      "original": "increased",
+      "suggestion": "\"increase\""
+    },
+    {
+      "original": "And",
+      "suggestion": "delete this - don't start a sentence with \"and\""
+    },
+    {
+      "original": "in",
+      "suggestion": "delete this"
+    },
+    {
+      "original": "bicycle",
+      "suggestion": "either \"a bicycle\" or \"bicycles\""
+    },
+    {
+      "original": "ther",
+      "suggestion": "\"there\""
+    },
+    {
+      "original": "inceased",
+      "suggestion": "\"increase\""
+    },
+    {
+      "original": "",
+      "suggestion": "add \"a fall of\""
+    },
+    {
+      "original": "used",
+      "suggestion": "\"who used\""
+    },
+    {
+      "original": "An inclined",
+      "suggestion": "\"A rising\""
+    },
+    {
+      "original": "conclusion",
+      "suggestion": "avoid this word in Task I. Use \"To sum up\" instead"
+    },
+    {
+      "original": "mostly",
+      "suggestion": "\"most\""
+    },
+    {
+      "original": "increased",
+      "suggestion": "\"an increased\""
+    },
+    {
+      "original": "worked",
+      "suggestion": "\"work\""
+    },
+    {
+      "original": "few",
+      "suggestion": "\"a few\""
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "727e512e0a24ac31c0a0ee4929eb9509b4a8a3ec7c4bab5a66bc697f814bcfc0"
+}

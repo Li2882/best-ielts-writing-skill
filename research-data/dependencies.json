@@ -1,0 +1,78 @@
+{
+  "initial_source_packages": [
+    {
+      "id": "02-gishguo-claude-skill",
+      "name": "Gishguo IELTS Examiner Claude Skill",
+      "repo": "https://github.com/Gishguo/your_ielts_writing_examiner_claude_skill",
+      "files": [
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/02-gishguo-claude-skill/source/.claude/skills/ielts-grade.md",
+          "sha256": "1e6bf46d191a827f0e72e148f53be8cab89a8e39c3cc6d64e87c5292b23f42f8"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/02-gishguo-claude-skill/source/ielts_writing_band_descriptors.md",
+          "sha256": "768054843b70f24ed801c48ab13ad5453ead970b49255539d3fc1a94ebff4b9c"
+        }
+      ]
+    },
+    {
+      "id": "04-quyen244-ai-evaluator",
+      "name": "quyen244 IELTS AI Evaluator",
+      "repo": "https://github.com/quyen244/IELTS-AI-Evaluator",
+      "files": [
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/04-quyen244-ai-evaluator/source/src/llm/prompts/builders.py",
+          "sha256": "3694d4a30f9a57a1a3143538ae4686ae00db96454d90e9dd88ba742aa8b991f7"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/04-quyen244-ai-evaluator/source/src/llm/rubrics/rubrics.py",
+          "sha256": "ae5c8a80cc284635737bed98860962cf90d284b6a87799fcc029eae5dd766155"
+        },
+        {
+          "path": "library/prompts/public-benchmark-strict-10/qualified/04-quyen244-ai-evaluator/source/docs/02-technical/prompt-engineering.md",
+          "sha256": "89f227c8ef79ecfcc9e07850a124b1edc68911507b293c8eadf05b0cd12657d6"
+        }
+      ]
+    }
+  ],
+  "locked_files": [
+    {
+      "path": "library/prompts/public-benchmark-strict-10/qualified/04-quyen244-ai-evaluator/source/src/llm/prompts/builders.py",
+      "sha256": "3694d4a30f9a57a1a3143538ae4686ae00db96454d90e9dd88ba742aa8b991f7"
+    },
+    {
+      "path": "library/prompts/public-benchmark-strict-10/qualified/04-quyen244-ai-evaluator/source/src/llm/rubrics/rubrics.py",
+      "sha256": "ae5c8a80cc284635737bed98860962cf90d284b6a87799fcc029eae5dd766155"
+    },
+    {
+      "path": "library/prompts/public-benchmark-strict-10/qualified/04-quyen244-ai-evaluator/source/docs/02-technical/prompt-engineering.md",
+      "sha256": "89f227c8ef79ecfcc9e07850a124b1edc68911507b293c8eadf05b0cd12657d6"
+    },
+    {
+      "path": "library/prompts/public-benchmark-strict-10/qualified/02-gishguo-claude-skill/source/.claude/skills/ielts-grade.md",
+      "sha256": "1e6bf46d191a827f0e72e148f53be8cab89a8e39c3cc6d64e87c5292b23f42f8"
+    },
+    {
+      "path": "library/prompts/public-benchmark-strict-10/qualified/02-gishguo-claude-skill/source/ielts_writing_band_descriptors.md",
+      "sha256": "768054843b70f24ed801c48ab13ad5453ead970b49255539d3fc1a94ebff4b9c"
+    },
+    {
+      "path": "library/prompts/lr-min-deduction-v4.md",
+      "sha256": "2bba724d7bf5ff5f9a5265396de49e87db9820ccc56eb3ae3d629e6cb420152b"
+    },
+    {
+      "path": "library/prompts/lr-v4-centered-anchor-adjustment-v8.md",
+      "sha256": "3b17307ac5747ec69d3dc403b82e0a9aaec5889f065996ec86b2df5661add645"
+    },
+    {
+      "path": "library/prompts/gra-quyen-independent-v4.md",
+      "sha256": "932b7ed6fa6d97af8c4334618fb3c2a965c3b0771830f53a428692999843a6fe"
+    },
+    {
+      "path": "library/standards/ielts-writing-band-descriptors-reading.txt",
+      "sha256": "2c83c0cf23dc73e910515ebccb128946ad2f04f23fb8c41cc931f134e163bd76"
+    }
+  ],
+  "official_standard_url": "https://ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf",
+  "note": "Manifest only. Obtain authorized copies locally. Full third-party prompts, descriptor copies, essays, charts and paid reviews are not republished in this package."
+}

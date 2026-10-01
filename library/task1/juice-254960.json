@@ -1,0 +1,93 @@
+{
+  "id": "juice-254960",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-254960.json",
+  "question": "The graph below gives information about the percentage of the population in four Asian countries living in cities from 1970 to 2020, with predictions for 2030 and 2040.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The line graph illustrates the urban population percentages in four Asian countries—Philippines, Malaysia, Thailand, and Indonesia—over the period from 1970 to 2020, along with projections for 2030 and 2040.\n\nOverall, the trend shows a steady increase in the urban population across all four countries, although the rates of increase vary. In 1970, the Philippines had the highest urban population at around 30%, while Indonesia had the lowest, with approximately 15%. By 2020, Malaysia had surpassed the other countries, reaching about 75%, followed by the Philippines at roughly 50%. Thailand and Indonesia saw significant growth as well, with urban populations of around 40% and 55%, respectively.\n\nLooking ahead, the projections suggest that urbanization will continue to rise in all four countries. Malaysia is expected to maintain its leading position, approaching 85% by 2040. The Philippines’ urban population is anticipated to grow to about 65%, while Indonesia is projected to see a substantial increase to around 65% as well. Thailand is expected to have the slowest growth, with its urban population reaching around 50%.\n\nIn conclusion, while all four countries are experiencing growth in their urban populations, Malaysia and the Philippines are expected to continue leading in urbanization rates, with Indonesia showing significant future growth, and Thailand gradually increasing its urban population.",
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TA": 5.0,
+    "CC": 7.0,
+    "LR": 8.0,
+    "GRA": 8.0
+  },
+  "comments": "Thank you for writing this report. Task Achievement (TA): Strengths: The response addresses all parts of the task, summarizing the main features of the graph and making relevant comparisons. It clearly describes the trends and provides specific data points. Areas for Improvement: The summary could benefit from a more explicit overview of the main trends before delving into specific details. Including a clearer statement at the beginning to outline the general trend of increasing urbanization would enhance clarity. Coherence and Cohesion (CC): Strengths: The answer is logically organized with a clear introduction, body, and conclusion. There are appropriate linking phrases and words that help the flow of information. Areas for Improvement: Some sentences could be better linked to improve overall coherence. For example, transitions between discussing different countries and time periods could be smoother. Lexical Resource (LR): Strengths: A good range of vocabulary is used to describe the data, with appropriate word choices such as \"illustrates,\" \"steady increase,\" \"surpassed,\" and \"anticipated.\" Areas for Improvement: There are some repetitions (e.g., \"urban population\") that could be varied to demonstrate a wider range of vocabulary. Using synonyms or paraphrasing would help in this regard. Grammatical Range and Accuracy (GRA): Strengths: The answer demonstrates a good control of grammar, with accurate use of tenses and sentence structures. There are no significant grammatical errors that impede understanding. Areas for Improvement: While the grammar is mostly accurate, there could be more complex structures to showcase a higher grammatical range. Overall: This response meets the requirements for a Band 7 in all criteria. To improve further, the candidate should aim to enhance the clarity and coherence of the overview, use a wider range of vocabulary, and incorporate more complex grammatical structures.",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "6.0\taddresses the requirements of the task",
+      "7.0\tclearly presents and highlights key features",
+      "6.0\tdetails may be irrelevant, inappropriate, or inaccurate",
+      "5.0\tpresents no clear overview",
+      "5.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "7.0\tpresents a clear central topic within each paragraph",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "9.0\tuses a wide range of structures",
+      "8.0\tthe majority of sentences are error-free",
+      "9.0\trare minor errors occur only as ‘slips’",
+      "9.0\tcommunication is completely natural",
+      "8.0",
+      "7.0"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-254960-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2024/06/IELTS-JUICE-Writing-Task-1-report-sample-3371-Band-7.0.jpg",
+      "sha256": "61fd2e26a3cdd2839a06b40946f5ffd02b96db65977eaaad49c37d73d03c2eb5"
+    }
+  ],
+  "question_image": "library/assets/juice-254960-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3371-band-7-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-254960.html",
+  "source_sha256": "d8b003a5fb289767cfb1f2de08fb03a270e080fe0a824cf2d01b912d70d3fe4f",
+  "source_locator": {
+    "wordpress_post_id": 254960,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "22b40fd2f96700c0",
+  "prompt_group": "1bffc9b317cf071c",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

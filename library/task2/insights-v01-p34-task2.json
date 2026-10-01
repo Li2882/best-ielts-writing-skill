@@ -1,0 +1,74 @@
+{
+  "id": "insights-v01-p34-task2",
+  "task": "task2",
+  "task_type": "problem_solution",
+  "path": "library/task2/insights-v01-p34-task2.json",
+  "question": "Many criminals re-offend after they have been punished. Why do some people continue to commit crimes after they have been punished, and what measures can be taken to tackle this problem?",
+  "essay": null,
+  "images": [],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-01-p35.png"
+  ],
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {},
+  "comments": null,
+  "source_url": "https://cms.youpass.vn/assets/1f1e3337-2366-4575-a017-c6741fd2bd06",
+  "source_artifact": "research/expansion/insights/vol-01.pdf",
+  "source_sha256": "298633f54c1bc16747e53cd811b5f3df924926f13937f68b6cbb50da3c1df0ba",
+  "source_locator": {
+    "volume": 1,
+    "cover_page": 34,
+    "original_pages": [
+      35
+    ],
+    "report_last_page": 40
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "Tony Grace is named in the correction report. The publisher says its academic team submits these originals to him for individual marking and describes him as a former IDP examiner. This is a practice assessment, not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "teacher_model",
+  "quality_issues": [],
+  "duplicate_group": "insights-v01-p34-task2",
+  "prompt_group": "a22d2846183464da",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "teacher",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-01-p34.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-01-p34.png",
+    "research/expansion/insights/pages/vol-01-p36.png",
+    "research/expansion/insights/pages/vol-01-p37.png",
+    "research/expansion/insights/pages/vol-01-p38.png",
+    "research/expansion/insights/pages/vol-01-p39.png",
+    "research/expansion/insights/pages/vol-01-p40.png"
+  ],
+  "score_page": 34,
+  "score_evidence": [
+    {
+      "page": 34,
+      "text": "Task 1\nEssay ngåy 8/5/2023\nOVERALL BAND SCORE\nnsäy 11/5\n8.5\n8+8+9\nSEE BELOW LR GRA MODEL ANSWER\nWRITING TASK 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nMany criminals re-offend after they have been punished.\nWhy do some people continue to commit crimes after they have been punished, and What measures can be\ntaken to tackle this problem?\nGive reasons for your answer and include any relevant examples from your Own knowledge or experience.\nWrite at least 250 words."
+    },
+    {
+      "page": 36,
+      "text": "OVERALL BAND SCORE\n8.5\nTR — Task Response nb—GRA and LR errors have not been corrected\nBand score 9\nThe question doesn't specifically mention convicts, or ex-convicts. Your assumption was that it's just about\nconvicts, and I'm not sure if all examiners would agree, so it's a bit risky.\nHowever, I think it's 0k, as the question Of recidivism is nearly always focused on ex-convicts.\nI think this is a difficult question and yours is an excellent answer. I think the solutions area bit glib, but I\ncan't think Of any better ones.\nYou have a clear position throughout and all parts Of the question areaddressed.\nYour position is coherent and well-argued. The ideas are relevant, extended, and coherent.\n• fully addresses all parts Of the\ntask\n• presents a fully developed\nposition in answer to the\nquestion with relevant, fully\nextended and well supported\nideas\nBand score 9 TR\nADVIC±ON BRAINSTORMING FOR TAS* 2\nAs you're planning and writing your answer, remember to constantly ask yourself if you're\nanswering the question. Check back to the question a few times as you think Of ideas to make\nsure directly relevant.\nMake sure your introduction directly addresses the question.\nMake sure your ideas address all parts Of the question. Ifthe question asksfor\nsolutions, in the plural, you mustsuggest at 2.\nMake sure your main ideas, as stated in the first sentence Of the main body\nparagraphs, are directly relevant to the question.\nMake sure your supporting ideas, which follow the main ideas in the main body\nparagraphs, directly support the main idea.\nMake sure yoursupporting ideas aredeveloped, which means there should be more\ninformation in the form Of evidence, reasons, and/or examples.\nVery often, the optimum numberofsupporting ideas is 2. This allows you to\ndevelop your ideas and your less Ikely to have isolated, unsupported ideas that could\nget you a 6 for TR. \"some may be undeve/oped/uncleaff — band score 6 TR.\nBe especially careful if you've answeredsimilar question before, as there Will always\nbe important differences.\nMake sure your conclusion directly answers the question, thatit is consistent With\nthe ideas in the main and that it does not contradict the introduction.\n33"
+    }
+  ],
+  "extraction": "Use only the Your answer / Original answer section in the specified pages. Later TA/TR, CC, LR and GRA sections contain marked copies and rewrites. Front-of-magazine teaching versions are not the scored original. OCR only locates content; inspect original images.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "trait_label_status": "Cover labels retained separately; reconcile all criterion pages before treating traits as validated labels."
+}

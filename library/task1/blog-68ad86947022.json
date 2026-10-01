@@ -1,0 +1,59 @@
+{
+  "id": "blog-68ad86947022",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-68ad86947022.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-pie-chart-and-bar-graph-describing-employment-percentages-from-target-band-7-book/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/d3310499f34a38c3.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "32b7d708a642be21",
+  "prompt_group": "cd4b0cb1c5cd8e7b",
+  "question": "This report was written on a topic from “Target Band 7” book (page 43, reprinted with permission). The diagrams below contain information regarding percentages of people occupied in various types of position in 1998 and 2001. Write a report for a university tutor describing the information shown.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/ielts-band-8-report-pie-chart-employment.jpg",
+      "path": "library/assets/c2f04baad5dcbbd2.jpg",
+      "sha256": "a31b901cfb30e102bf37bdaf3b75378667895e69ba8ff344f533946c484b7e40"
+    },
+    {
+      "source_url": "https://www.ielts-blog.com/reports/ielts-band-8-report-bar-graph-employment.jpg",
+      "path": "library/assets/5dd62fb212ad2390.jpg",
+      "sha256": "d341f5ce7783f28e8bc43d4f88e4cdb3091596b8308b304c499035f1814246b7"
+    }
+  ],
+  "essay": "The two charts describe the number of people in various types of employment (casual, unemployed, full time job, part-time job, self-employed and contract) in 1998 and 2001. It is clear that the majority of people held a full time position in both 1998 and 2001.\n\nIn 1998 full time workers were the largest group (at 37%), followed by people working part-time jobs (27%), self-employed (19%) and contract workers (12%). Casual labourers and the unemployed made up only 3% and 2% of the workforce, respectively.\n\nIn 2001, although full time position holders were still the majority, their proportion dropped to 28% and that of part-time workers – to 20%. The proportion of self-employed remained at 19%, but the number of contract workers’ noticeably increased to 18%. Another significant increase was in the proportion of unemployed, which grew more than threefold to 7% in 2001. Casual workers’ share seemed to stay unchanged at 3%, making them the smallest group in the workforce.\n\nOverall, the charts demonstrate a trend of people leaving full-time employment and the growing unemployment.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 175,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "578518c50cc9785a239706ff24a39b4a7285cb7c27390c610673582d64fb2a74",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

@@ -1,0 +1,86 @@
+{
+  "id": "juice-248390",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-248390.json",
+  "question": "In the future, more people will choose to go on holiday in their own country and not travel abroad on holiday.\nDo you agree or disagree with this statement?",
+  "essay": "Nowadays, the number of trips has increased. People travel abroad or go on a trip in their countries to increase their efficiency in life. I strongly disagree that more peope will select to go their countries rather than going out of the countries,and there are some reasons why I believe this.\n\nFirst of all, it is easy to travel abroad due to development of technology.these daayss, there are different modes of transport. Airplane which is safest and fastest mode of transport affords travelers an opportunity to go on a journey fast without making a lot of effort and wasting time. Moreover. Various electrical devices such as phone,tablet and so on have developed over the past few years.so, such development opens avenues for using different applications installed in mobiles. Provided tourists use cellphones with different programes such as google map, they will be able to find routes in strane regions out of their countries.\n\nfurther to this, people extremely interested in visiting a nee wares. It is clear that workers’ moral will be very low in the future and going to a new district out of their hometowns and countries will give them a perfect chance to rejuvenate. Not only will traveling abroad give them an opportunity to get acqquinted with the history and culture of people who are living in the new are, but also they will be able to get rid of busy area in their countries and experience in being in fresh and clean air.\n\nto conclude, due to development of technology such as airplanes and cellphones, people will travel abroad esily. Moreover, since population has increased workers will go on a journey out of their countries to gain experience in being in quite area with air. Due to these reasons, I strongly agree that more people will travel abroad in the future.",
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TR": 7.0,
+    "CC": 6.0,
+    "LR": 5.0,
+    "GRA": 6.0
+  },
+  "comments": "Thank you indeed for writing this essay. There are two major errors in the essay: grammar-wise, missing verbs are to blame for the low score despite a wide range of complex grammatical structures. Vocabulary also needs attention, especially in the case of “are” versus “era” (or maybe “area” as can be seen, this confuses the reader). As for coherence and cohesion, paragraphing is not always clear; if we are adopting the contemporary style in our writing, it is important to leave a line empty between the paragraphs. Last but not least, the focus of the rubric is on going out or staying in a country on “holidays.” This focus is not very clear throughout the essay.",
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "7.0\taddresses all parts of the task",
+      "7.0\tpresents a clear position throughout the response",
+      "7.0\tpresents, extends, and supports main ideas, but there may be a tendency to over-generalize and/or supporting ideas may lack focus",
+      "7.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "6.0\tmay not always use referencing clearly or appropriately",
+      "6.0\tuses paragraphing, but not always logically",
+      "6.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "7.0\tmay produce occasional errors in word choice, spelling and/or word formation",
+      "5.0\tthat may cause some difficulty for the reader",
+      "5.0"
+    ],
+    "GRA": [
+      "9.0\tuses a wide range of structures",
+      "8.0\tthe majority of sentences are error-free",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "6.0\terrors rarely reduce communication",
+      "6.0",
+      "6.0"
+    ]
+  },
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3325-band-6-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-248390.html",
+  "source_sha256": "c3d74ee463b6b757691ff6c6e851bd9d8207b324b077155cb532cc5fd41546d7",
+  "source_locator": {
+    "wordpress_post_id": 248390,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "4450c9f2ede0a2b5",
+  "prompt_group": "86617cb879f67b65",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

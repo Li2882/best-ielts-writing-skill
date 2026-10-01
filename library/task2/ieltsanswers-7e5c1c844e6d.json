@@ -1,0 +1,61 @@
+{
+  "id": "ieltsanswers-7e5c1c844e6d",
+  "task": "task2",
+  "task_type": "discussion",
+  "path": "library/task2/ieltsanswers-7e5c1c844e6d.json",
+  "question": "Some people think that the education system should only focus on preparing students for employment, while others believe it has other important functions. Discuss both sides and then give your own opinion.",
+  "essay": null,
+  "images": [],
+  "essay_images": [
+    "research/expansion/correction-pages/7e5c1c844e6d-p1.png",
+    "research/expansion/correction-pages/7e5c1c844e6d-p2.png",
+    "research/expansion/correction-pages/7e5c1c844e6d-p3.png"
+  ],
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {},
+  "comments": null,
+  "source_url": "https://www.ieltsanswers.com/wp-content/uploads/2016/09/Essay_140617.pdf",
+  "source_artifact": "research/expansion/answers/7e5c1c844e6d.pdf",
+  "source_sha256": "223cc41e5c82a8c7350eb42036b8a75f873fc6bde75eea33e6f1a397da339ec3",
+  "source_locator": "research/expansion/answers/7e5c1c844e6d.pdf",
+  "score_source": "verified_human",
+  "rater_evidence": "Mike Wattie publishes these as individually corrected writing samples on IELTSAnswers. His examiner credentials are a publisher claim; these are practice estimates.",
+  "publisher": "IELTSAnswers / Mike Wattie",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "ieltsanswers-7e5c1c844e6d",
+  "prompt_group": "c75080fca14dd61d",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "student",
+  "author_type_evidence": "Publisher describes these as writing correction samples; individual author is unnamed.",
+  "question_text_status": "Searchable prompt transcription or summary; original question image is authoritative.",
+  "question_image": "research/expansion/correction-pages/7e5c1c844e6d-p1.png",
+  "comments_images": [
+    "research/expansion/correction-pages/7e5c1c844e6d-p1.png",
+    "research/expansion/correction-pages/7e5c1c844e6d-p2.png",
+    "research/expansion/correction-pages/7e5c1c844e6d-p3.png"
+  ],
+  "score_page": 3,
+  "score_evidence": [
+    {
+      "score": 6.5,
+      "row": [
+        "Overall",
+        "6.5",
+        "1. Be careful to focus on each side clearly and in each of the\nbody paragraphs. You did not do this well in paragraph 3\n2. Also in paragraph 3 you should deal with each of your main\nideas separately rather than lumping them together in all your\nsentences.\n3. get your opinion in at the start of the conclusion"
+      ]
+    }
+  ],
+  "extraction": "Read the marked original: retain struck-out original words, omit inserted corrections and teacher comments. Do not concatenate the native PDF text, which interleaves both versions. Assessment tables are not essay text.",
+  "teacher_advice_caveat": "Publisher layout preferences, stylistic substitutions and word-count advice are not official deductions. Preserve the published overall; ranged criterion estimates have not been converted to exact scores."
+}

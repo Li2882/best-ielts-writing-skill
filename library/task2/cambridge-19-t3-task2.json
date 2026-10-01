@@ -1,0 +1,51 @@
+{
+  "id": "cambridge-19-t3-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/cambridge-19-t3-task2.json",
+  "question": "It is important for everyone, including young people, to save money for their future.\nTo what extent do you agree or disagree with this statement?",
+  "question_image": null,
+  "images": [],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c19-p135.png",
+    "research/expansion/book-pages/c19-p136.png"
+  ],
+  "reading_transcript": "Saving money for the future is always a very good idea. First of all money is something that is needed in almost all areas in life. Whether you are young or old you need money to buy everyday things like food, clothing, etc. living etc.\n\nyoung people are often full of enthusiasm about their future. They are looking forward to their first job, to meeting new people or to getting to know as much of the world as they can. Many tend to live in the present rather than in the future so that they don’t always plan ahead.\n\nWhen you people get older and settle down they realize that buying a house, starting a family or caring for your health takes up a good considerable amount of money and everybody who began saving money in younger years is glad to have done so. However, saving money is not always possible. Sometimes unforeseen expenses cannot be avoided, life situations are suddenly changing or there is never even enough money available even for the most necessary things. So how could you save money for the future in this case? In general, you have to ask yourself what your priorities in life are. What are the things you cherish most? Is it more important for you to plan ahead or do you prefer to just enjoy the moment that you live in?\n\nEverybody has to make own choices and to consider what is really essential for him or herself.\n\nIn any age taking a moment to f reflect on your life and looking back at the things you have already done is always a good thing to do.\n\nIf you know yourself well and about all the things that really make you happy you will be able to make the right decisions in financial issues as well as other areas in life.\n\nIn what way money plays an important role will be easy to be found out then. Perhaps you need less than you first thought years ago.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {},
+  "comments": "This is a strong response to the task. In the first paragraph, the candidate makes their view clear, agreeing with the statement that saving money for the future is a good idea. In the next two paragraphs, they present ideas on how saving money is actually quite challenging: young people can [tend to live in the present), so [don’t always plan ahead, the cost of housing, starting families and health care can be high, and [unforeseen expenses cannot be avoided). The rest of the response is about how people can decide how much to spend and how much to save. The last line [Perhaps you need less than you first thought years ago] suggests that saving is not the answer for everyone. The ending gives advice to the reader, rather than summarising the main ideas. Ideas are easy to follow and logically organised. Linking expressions are well integrated [Whether | Sometimes | Perhaps] and generally accurate, and cohesive devices are used well [Many tend to | everybody who] with some errors [own choices / their own choices]. Paragraphing at the start is appropriate, but the last four sentences are set out separately and inappropriately, which affects the score. There is some higher-level vocabulary, with effective collocation [full of enthusiasm | tend to live in the present | settle down | unforeseen expenses]. The candidate uses a variety of structures, including comparative forms [rather than | do you prefer], conditionals [/f] and a range of multi-clause sentences. Errors remain, with some missing punctuation and incorrect tenses [be found out / find out] and prepositions [In any age / At any age], but this does not affect the reader’s understanding. To achieve a higher score, the candidate should ensure that the conclusion summarises the main ideas, and use effective paragraphing, especially in the second half of the response.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-19-academic/",
+  "source_artifact": "research/expansion/cam19-page.html",
+  "source_sha256": "1005517ddbf5e39461ffd0da90f2cefc6e4bc19f942a162d2c0e0f74397fe6df",
+  "source_locator": {
+    "book": 19,
+    "test": 3,
+    "pdf": "research/expansion/cambridge19.pdf",
+    "response_pages": [
+      135,
+      136
+    ],
+    "score_line": "achieved a Band 7.0"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-19-t3-task2",
+  "prompt_group": "cambridge-19-t3-task2",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs."
+}

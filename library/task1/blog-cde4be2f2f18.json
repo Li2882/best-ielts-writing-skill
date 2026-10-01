@@ -1,0 +1,53 @@
+{
+  "id": "blog-cde4be2f2f18",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-cde4be2f2f18.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-8/ielts-report-topic-double-bar-graph-describing-investment-in-stocks-and-bonds-from-target-band-7-book/",
+  "source_locator": {
+    "page_marker": "IELTS Reports of Band 8 / Teacher summary",
+    "source_file": "research/expansion/high-band-sources/blog-band8-pages/79b62f8873d942d2.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page is published under Reports Band 8 and includes a teacher summary awarding or describing the response as Band 8. This is a teacher/model estimate, not an official Cambridge TRF; no trait scores are inferred.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS-Blog teacher model",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "92c1ef197d9cc4c1",
+  "prompt_group": "0ddb5ef390d7413d",
+  "question": "This report was written on a topic from “Target Band 7” book (page 42, reprinted with permission). The graph below shows the way people of Somecountry invested their money during the years 2001 – 2006. Write a report for a university tutor describing the information shown.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/ielts-band-8-report-double-bar-investment.jpg",
+      "path": "library/assets/3247878e70422976.jpg"
+    }
+  ],
+  "essay": "The bar graph illustrates the amounts of investment in bonds and stocks in Somecountry from 2001 to 2006. It is noticeable that the money used to buy bonds and stocks showed an upward trend throughout the entire period.\n\nIn 2001, stock investments started at 210 billion, which was almost double the amount of bonds, at 100 billion. The stock figures slightly rose by 6 billion in 2002, and in the following year continued to increase to 227 billion. Similarly, the amounts of money that were invested in bonds went up gradually in the two following years to 123 and 157 billion respectively.\n\nThere was a surge of investment stocks in 2004 (289 billion) before it continued to climb further and peaked at 311 billion in 2006. In contrast, only a small increase in money used to buy bonds was seen in 2004 (162 billion). The flow of funds to bonds then grew to 179 billion in 2005 before peaking at 188 billion in the last year of the period.\n\nTo sum up, stocks have been the most popular investment from 2001 to 2006.\n\nThis response includes a complete description of the amounts invested in stocks and bonds, as well as the comparison of their trends. The report is easy to follow and cohesion is well-maintained. The writer uses complex sentence structures and good range of vocabulary. The occasional errors in word choice don’t affect communication. Overall, this report seems worthy of Band 8.",
+  "reading_transcript": null,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Click here to see more IELTS reports of band 8",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 243,
+  "extraction": "HTML original prompt, response and teacher summary retained; source category label checked.",
+  "source_sha256": "2a69d11af518a3c6e534c789fdfb634de81492cda8e253a6e97918fb12fb8198",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate",
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0
+}

@@ -1,0 +1,93 @@
+{
+  "id": "juice-251587",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-251587.json",
+  "question": "The chart below shows how frequently people in the USA ate in fast food restaurants between 2003 and 2013.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The bar chart depicts the breakdown in percentages of American people who consumed fast food in restaurants in 2003, 2006, and 2013. Overall, in all the given years the majority of people ate at fast food restaurants once or twice a month, or once a week; however, daily eating in a fast food restaurants had the lowest percentage among the USA residents in all the aforementioned years.\n\nTurning to the bar chart, once or twice a month and once a week eating fast food at a restaurant were by far the most popular eating habit among the USA inhabitants. Once a week eating in fast food restaurants had the highest percentage in 2003 and 2006 at almost 31% and 33% respectively, which decreased to around 28% in 2013. While in 2013, the highest percentage belonged to the people who ate once or twice a month in a fast food restaurant at roughly 33% which was 25% and 30% in 2006 and 2003 accordingly. In contrast, the percentage of people who ate fast food every day and never eating fast food at restaurants accounted for the lowest percentage at less than 5% in all the given years.\n\nWith regard to the people who ate fast food several times a week or a few times a year the percentages were below 20%, but more than 10% in all the mentioned years. The proportion of people ate several times a week was the highest at almost 20% in 2006, near 17% in 2003 and the lowest at around 15% in 2013. For those who ate fast food on a yearly basis, 2016 and 2013 stayed at the same level at 15% with almost 2% more than that of 2003.",
+  "overall": 7.0,
+  "band_low": 7.0,
+  "band_high": 7.0,
+  "traits": {
+    "TA": 8.0,
+    "CC": 7.0,
+    "LR": 6.0,
+    "GRA": 7.0
+  },
+  "comments": "Thank you indeed for writing this report. Task Achievement (TA): The response appropriately summarizes the information given in the bar chart, without any noticeable inaccuracies. Key trends and comparisons are identified, and there is a clear overview provided. Details are supported with data, although there might be minor discrepancies, such as the year \"2016\" which seems to be a typo and should be \"2006\". Coherence and Cohesion (CC): The information is organized into clear paragraphs, each focusing on different aspects of the data. However, the transitions between the data points could be smoother. Some data points are repeated or the expression is slightly redundant, which affects the coherence. Lexical Resource (LR): There is a range of vocabulary with a focus on terms relevant to describing trends and frequencies. Word choice is generally appropriate, although variations in synonyms could be increased to avoid repetition. Grammatical Range and Accuracy (GRA): A variety of structures are used. Punctuation is generally well-handled. There are minor grammatical errors, and some sentences could be more complex. To improve the score, consider varying the sentence structures further and ensuring all data points are accurate and correspond to the correct years. Additionally, work on creating smoother transitions between data points to enhance the cohesion of the text.\nVideo Feedback",
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "8.0\tcovers all requirements of the task sufficiently",
+      "8.0\tpresents, highlights and illustrates key features clearly and appropriately",
+      "9.0\tdetails are fully and clearly extended.",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "8.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "7.0\tthere is clear progression throughout",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "8.0\tuses paragraphing sufficiently and appropriately",
+      "7.0"
+    ],
+    "LR": [
+      "7.0\tuses a sufficient range of vocabulary to allow some flexibility and precision",
+      "7.0\tuses less common lexical items with some awareness of style and collocation",
+      "8.0\tproduces rare errors in spelling and/or word formation",
+      "6.0\tthey do not impede communication",
+      "6.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "7.0\tproduces frequent error-free sentences",
+      "7.0\thas good control of grammar and punctuation but may make a few errors",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "7.0"
+    ]
+  },
+  "images": [
+    {
+      "path": "library/assets/juice-251587-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2024/02/IELTS-Writing-Task-1-report-sample-3038-Band-7.0.jpg",
+      "sha256": "aad28587862fd85a07bcb93c3a400d2cd32570d56bca14128afe58d2a554c30b"
+    }
+  ],
+  "question_image": "library/assets/juice-251587-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3038-band-7-0/",
+  "source_artifact": "research/expansion/high-band-sources/juice-251587.html",
+  "source_sha256": "094163619cacca936e2e10243d5681bc10a029e21c1bedfa58340b8b003bd022",
+  "source_locator": {
+    "wordpress_post_id": 251587,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "5895ef49d1bfe936",
+  "prompt_group": "e32d1df43ecff4e1",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_detail_level": "public_overall_comment_and_trait_descriptors; video_not_yet_reviewed",
+  "score_aggregation_note": "Published overall retained exactly. Do not substitute project rounding for the teacher label.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ]
+}

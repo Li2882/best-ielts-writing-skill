@@ -1,0 +1,68 @@
+{
+  "id": "blog-9c594954c7b7",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-9c594954c7b7.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-6/ielts-essay-topic-financial-education/",
+  "source_locator": "research/blog/ielts-essay-topic-financial-education.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "fe4b02f4cad8d477",
+  "prompt_group": "8686d92e2fe9e1a2",
+  "question": "Financial education should be a mandatory component of the school program. To what extent do you agree or disagree with this statement?",
+  "essay": "In many countries the discussion about the rising financial problems of young people has been getting more emphasis. Tough some people are voting to integrate financial education as a schooling subject.\n\nThe key problem for many young people is that they don’t know how to use and spend money in the right way. The “get what you want mentality” is widely advertised by the mass media and it looks like some people think that living with interest fees is normal. Though financial problems in young life are very common with the result that it is difficult to learn how to spend money appropriated. The main idea of teaching a financial subject must be to explain about a balanced budget and that debt could ruins one’s future. But this is just one side that has to be considered. For me, the main question is why the parents cannot give the right advice to their kids? To leave such a personal subject in the hands of government and school means to ignore a key task of any parent: to be a good role model.\n\nMoreover it should be considerate that the social effects of talking about money and finance in a socially diverse school class can be harmful for some students. In my opinion it is more important to teach parents about their responsibilities as a role model and have them educate the children about this private topic in a safe and private environment.\n\nAll in all I think the main task of public institutions should be to educate about common subjects and not to give such personal advice like the use of money.",
+  "word_count_computed": 272,
+  "images": [],
+  "overall": 6.5,
+  "band_low": 6.5,
+  "band_high": 6.5,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This essay is not bad. It has the right structure – 5 paragraphs, and it covers the task. The paragraphs can be improved – make them similar in size, the 2nd paragraph is too long compared to the 3rd . The grammar and spelling need some attention and the linking words could be used more elegantly, see details in the comments underlined in blue. Overall, this looks like a Band 6.5 essay.",
+  "corrections": [
+    {
+      "original": "Tough",
+      "suggestion": "Inappropriate choice of word or bad spelling?"
+    },
+    {
+      "original": "schooling subject",
+      "suggestion": "mandatory subject at school"
+    },
+    {
+      "original": "with interest fees",
+      "suggestion": "in debt"
+    },
+    {
+      "original": "it is difficult to learn how to spend money appropriated",
+      "suggestion": "Confusing sentence, try re-writing it to make it easier to understand"
+    },
+    {
+      "original": "But",
+      "suggestion": "“However” sounds much better than “but”"
+    },
+    {
+      "original": "considerate",
+      "suggestion": "considered"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "b8c2fb5d18967f733b58651d4235e8223f0826cfe691bb1819b5e0389590d39d",
+  "model_evidence": null,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "source_context_region": "unknown",
+  "classification_revision": "Book-title advertisement is not evidence of model authorship; explicit sample/model declarations remain excluded."
+}

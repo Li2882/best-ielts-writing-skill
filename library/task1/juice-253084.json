@@ -1,0 +1,94 @@
+{
+  "id": "juice-253084",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/juice-253084.json",
+  "question": "The diagram below shows the process for recycling plastic bottles.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "The illustration depicts the method how recycling plastic bottles is done.\n\nOverall, it is a cyclical, man-made process and consists of nine phases.  Bottles are broken-down into raw ingredients in order to produce items like containers and T-shirts.\n\nFirst of all, a person throws out a plastic bottle in a designated recycling pin which a reprocessing truck picks up and empties into its container. In the recycling centre, an employee selects which bottles are suitable for repurposing and discard the damaged bottles that are unsuitable for reusing; after that, they are compressed into blocks. From this, the cubes pass through two crushing wheels which dismantle them into smaller pieces, next they are placed in a water-filled holder and washed.\n\nFollowing that, the now-clean pieces are dumped in a pellet-producing machine and subsequently heated, and then raw materials are formed. The raw materials are molded to produce several products, such as containers, water bottles, T-shirts, pencils, and reusable bags.",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {
+    "TA": 9.0,
+    "CC": 7.0,
+    "LR": 8.0,
+    "GRA": 7.0
+  },
+  "comments": "The provided description of the recycling process for plastic bottles captures the sequence of events accurately and provides a clear overview. However, to align with the IELTS writing task 1 band descriptors, there are areas that could be improved: Task Achievement (TA): The response covers all stages of the process but could benefit from more precise language when describing the steps. For instance, \"reprocessing truck\" could be more clearly described as a \"collection vehicle,\" and \"designated recycling pin\" could be refined to \"designated recycling bin.\" Coherence and Cohesion (CC): The text is logically organized and follows the process sequentially. However, the use of cohesive devices such as \"after that\" and \"following that\" can be overused. Varying these with synonyms or other linking phrases could improve the flow of information. Lexical Resource (LR): The vocabulary is generally appropriate, with terms like \"repurposing,\" \"compressed,\" and \"raw materials\" used effectively. Yet, there's room for a wider range of vocabulary. For example, \"an employee selects which bottles are suitable\" could be more succinctly expressed as \"workers sort the bottles.\" Grammatical Range and Accuracy (GRA): The grammar used is mostly accurate, with appropriate use of past participles and passive constructions. However, the phrase \"a person throws out a plastic bottle in a designated recycling pin\" should be corrected to \"a person throws a plastic bottle into a designated recycling bin.\" Additionally, \"the cubes pass through two crushing wheels\" could be more accurately described as \"the blocks are then crushed into smaller pieces.\"\nVideo Feedback",
+  "images": [
+    {
+      "path": "library/assets/juice-253084-question-1.jpg",
+      "source_url": "https://ieltsjuice.com/wp-content/uploads/2024/03/IELTS-Writing-Task-1-Report-sample-3357-Band-7.5.jpg",
+      "sha256": "7eb21e67de9f45da1658dae3ad907088416cc3e5afa545cffaf85d99d247073a"
+    }
+  ],
+  "question_image": "library/assets/juice-253084-question-1.jpg",
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-1-report-sample-3357-band-7-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-253084.html",
+  "source_sha256": "7306390041f02983b3c1d159b44b6421f46a2d09e3ad8e0529f501ecd1df5b05",
+  "source_locator": {
+    "wordpress_post_id": 253084,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "4585cd3c19d1e3b9",
+  "prompt_group": "48c0dd98e7d6772a",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TA": [
+      "9.0\tfully satisfies all the requirements of the task",
+      "9.0\tclearly presents a fully developed response",
+      "9.0\tdetails are fully and clearly extended.",
+      "9.0\tpresents a clear overview of main trends, differences, or stages",
+      "9.0"
+    ],
+    "CC": [
+      "7.0\tlogically organizes information and ideas",
+      "8.0\tmanages all aspects of cohesion well",
+      "7.0\tuses a range of cohesive devices appropriately although there may be some under-/over-use",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "6.0\tuses paragraphing, but not always logically",
+      "7.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "8.0\tskillfully uses uncommon lexical items but there may be occasional inaccuracies in word choice and collocation",
+      "8.0\tproduces rare errors in spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "7.0\tuses a variety of complex structures",
+      "8.0\tthe majority of sentences are error-free",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "7.0\tthey do not impede communication",
+      "7.0",
+      "7.5"
+    ]
+  },
+  "feedback_detail_level": "four_criterion_written_feedback",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

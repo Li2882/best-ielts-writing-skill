@@ -1,0 +1,59 @@
+{
+  "id": "liz-band9-09e8f8f92feb",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/liz-band9-09e8f8f92feb.json",
+  "source_url": "https://ieltsliz.com/ielts-map-model-answer/",
+  "source_locator": {
+    "page_marker": "map",
+    "source_file": "research/expansion/high-band-sources/liz-band9-pages/5665d43a579cec3f.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS Liz",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS Liz page explicitly presents this Academic Task 1 response as an estimated Band 9 model; the page author is an IELTS teacher and preserves the prompt, response and comments where available. This is not an official Cambridge TRF.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "IELTS Liz / Tony Grace",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "49f920cfe1621a75",
+  "prompt_group": "5eef0f16c06f3968",
+  "question": "The maps below show the changes that have taken place in Meadowside village and Fonton, a neighbouring town, since 1962.",
+  "images": [
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2014/11/ielts-map-comparison-3-maps-201x300.jpg",
+      "path": "library/assets/1043a2c92f6025bc.jpg",
+      "sha256": "72f4d35f9d929ae9fdbf8de5f501e04b8c54ed369de089223efccba9442bedd0"
+    },
+    {
+      "source_url": "https://ieltsliz.com/wp-content/uploads/2014/11/ielts-map-comparison-3-maps-201x300.jpg",
+      "path": "library/assets/1043a2c92f6025bc.jpg",
+      "sha256": "72f4d35f9d929ae9fdbf8de5f501e04b8c54ed369de089223efccba9442bedd0"
+    }
+  ],
+  "essay": "The three maps illustrate how Meadowside village and Fonton, which is a nearby town, have developed from 1962 to the present.\n\nOverall, both Fonton and Meadowside village increased in size over the years until they eventually merged together, at which point Meadowside became a suburb. Furthermore, there have been significant changes to infrastructure, housing and facilities over the period given.\n\nIn 1962, both Meadowside and Fonton were completely separate with no roads or rail connecting them. While Fonton had a railway line running to the north, Meadowside, located to the west of Fonton, only had a small road from the west.\n\nBy 1985, Meadowside had expanded and the small road had become a main road. A further main road had been built to connect the village to Fonton. Within Meadowside, a superstore, leisure complex and housing estate had been developed. By this time, Fonton had also grown in size.\n\nCurrently, Meadowside is known as Meadowside Suburbs after joining with Fonton. Between both places, a hotel, station and business park have been built on either side of the railway line.",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "COMMENTS about MODEL ANSWER:",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 179,
+  "extraction": "HTML prompt and model response; author estimate and comments retained.",
+  "source_sha256": "3ce69cca2630d7fcfec94176ef5478aec1e3770e02b7f2f23442397f9e0c91bb",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}

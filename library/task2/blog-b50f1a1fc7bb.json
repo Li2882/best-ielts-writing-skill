@@ -1,0 +1,60 @@
+{
+  "id": "blog-b50f1a1fc7bb",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-b50f1a1fc7bb.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-why-do-criminals-commit-another-offence-after-being-punished/",
+  "source_locator": "research/blog/ielts-essay-topic-why-do-criminals-commit-another-offence-after-being-punished.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "bae182a254904794",
+  "prompt_group": "f2253d2985e05ab8",
+  "question": "Many offenders commit more crimes after serving the first punishment. Why is this happening, and what measures can be taken to tackle this problem?",
+  "essay": "It is true that some criminals commit crimes again after they have been punished. While there are several reasons for this alarming trend, some effective measures can be taken by governments to tackle this problem.\n\nThere are two main reasons for re-offenders. Firstly, the prison system can make the situation worse. Criminals put together in prison and they make friends with other offenders. While they are locked up in prison, they do not have much to do there, and they would exchange information about what they have done before they came to the prison or they may plan crimes with other inmates. Secondly, offenders often do not have any other means of earning money. They are poor, uneducated and lacking skills needed to maintain a job. Also, a criminal record makes finding a job difficult as people usually avoid hiring ex-convict.\n\nTo solve this problem, governments should focus on rehabilitation of criminals rather than punishment. Above all, prisons need vocational training which makes inmates to prepare for life outside the prison. They can learn practical skills such as computer programming, car maintenance and graphic design. In this way, they can be hired for a position that requires this certain knowledge and skills. Community service is another way to reform offenders. Rather than being locked up in prison with other inmates, offenders can help society and become useful to their local community, and these activities would eliminate the negative influence that prisons can have.\n\nIn conclusion, it is true the re-offenders are one of the problems in our community; it can be solved by focusing rehabilitation rather than punishment itself.",
+  "word_count_computed": 269,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This is a good essay. The requirements of the task statement are covered, the reasoning is logical and presented in a coherent, easy to follow way, the range of vocabulary is wide enough and the writer shows fluency and flexibility. Some minor errors in this essay include word choice and preposition errors (mouse over the words underlined in blue shows suggested corrections). Overall this looks like an IELTS Band 8 essay.",
+  "corrections": [
+    {
+      "original": "ex-convict",
+      "suggestion": "people with criminal background"
+    },
+    {
+      "original": "makes",
+      "suggestion": "allows"
+    },
+    {
+      "original": "re-offenders are",
+      "suggestion": "recidivism is"
+    },
+    {
+      "original": "in",
+      "suggestion": "for"
+    },
+    {
+      "original": "rehabilitation",
+      "suggestion": "on rehabilitation"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "5282c33f3e4ac9baf13e565204f4acf247b3af84450b8ca2bb4282669c36443a",
+  "model_evidence": null
+}

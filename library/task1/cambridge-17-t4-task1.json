@@ -1,0 +1,57 @@
+{
+  "id": "cambridge-17-t4-task1",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/cambridge-17-t4-task1.json",
+  "question": "The graph below shows the number of shops that closed and the number of new shops that opened in one country between 2011 and 2018.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "question_image": "library/assets/cambridge-17-t4-task1-question.webp",
+  "images": [
+    {
+      "url": "https://ieltswritingpractice.app/images/official-writing-samples/cambridge-17-academic-test-4-task-1-7d1eae91c597.webp",
+      "path": "library/assets/cambridge-17-t4-task1-question.webp",
+      "sha256": "7d1eae91c597d36e3ce61f955109a5c5352752b1153ba329a440683e77d7399d"
+    }
+  ],
+  "essay": null,
+  "essay_images": [
+    "research/expansion/book-pages/c17-p137.png"
+  ],
+  "reading_transcript": "The line graph shows trends in shop closures and openings of new shops in a particular country between the years 2011 and 2018.\n\nIn 2011 approximately 6,400 shops closed. The number of closures fluctuated over the next four years until 2015, when there was a dramatic fall in closures to roughly 700 shops. The following year the number of shops closing their doors rose sharply, reaching over 5,000. The figures remained steady for the next two years, with just over 5,000 closures in 2018.\n\nThe number of new shops opening decreased dramatically between 2011 (approximately 8,500) and 2012 ( just under 4,000) but rebounded by roughly 50% by 2014. In 2015, the number of openings then fell to the 2012 level, but remained stable for the next two years. The last recorded year, 2018, saw a further fall to 3,000 new openings, the lowest point in this seven year period.\n\nOverall, the number of shop closures has remained within the 5,000 to 7,000 range (with the exception of 2015). In contrast, new shop openings have shown a wider range of figures, but generally indicate a downward trend over the same period.",
+  "transcript_status": "secondary_reading_aid_not_authoritative_for_errors_or_paragraphs",
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {},
+  "comments": "This is a strong response which provides a clear overview in the final paragraph. Data is presented and key features are highlighted appropriately. Closures are dealt with first, and the details are clearly presented, including the [dramatic fall] key feature. Shop openings are dealt with separately, in similar detail. Key peaks and low points are appropriately flagged.\nFor the highest task score, there could be more detail provided during the periods of [fluctuation] between 2011 to 2014 and 2016 to 2018.\nIdeas are logically organised, taking each line on the graph in turn, and paragraphing is used appropriately, apart from the single sentence first paragraph. Cohesion is well managed.\nThe range of vocabulary is wide, with some skilful use [rebounded by roughly | further fall | exception of]. The grammar includes a variety of complex structures, with numerous long sentences containing a number of clauses. This is a good example of a higher-level response to this Task 1 question.",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-17-academic/",
+  "source_artifact": "research/expansion/cam17-page.html",
+  "source_sha256": "3039e15fe488eebc538a9fdc01cfbd098d2c88669895e9c0a78ebf6540c735f9",
+  "source_locator": {
+    "book": 17,
+    "test": 4,
+    "pdf": "research/expansion/cambridge17.pdf",
+    "response_pages": [
+      137
+    ],
+    "score_line": "achieved a Band 7.5"
+  },
+  "publisher": "Cambridge University Press; public mirrors",
+  "score_source": "official",
+  "rater_evidence": "Individually scored candidate response in the Cambridge book; score matched in book scan and secondary transcription.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [],
+  "duplicate_group": "cambridge-17-t4-task1",
+  "prompt_group": "cambridge-17-t4-task1",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "extraction": "Full publisher response pages retained, including score/comment context. Read original images when grading; mirror transcript may normalize errors or paragraphs.",
+  "evaluation_role": "revealed_development_sample",
+  "used_in_evaluation": "dual-01"
+}

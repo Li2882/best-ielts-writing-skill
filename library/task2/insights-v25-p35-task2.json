@@ -1,0 +1,84 @@
+{
+  "id": "insights-v25-p35-task2",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/insights-v25-p35-task2.json",
+  "question": "Some people say that in the digital age, theatres and cinemas are no longer important as people can watch all the entertainment they want online. Others argue that theatres and cinemas are still important both economically and culturally. Discuss both these views and give your own opinion.",
+  "question_transcription": "Transcribed from original prompt cover; original page remains authoritative.",
+  "essay": "Opinions are divided on whether the watching online entertainment has rendered theaters and cinemas unimportant or whether these venues still carry economic and cultural significance. Although it is understandable why some people support the former view, I am in favor of the latter. On the one hand, people who claim that theaters and cinemas have lost their importance would base their opinions on the convenience offered by online entertainment. Firstly, subscribing to online streaming services such as Netflix eliminates the need to visit cinemas and theaters. On these platforms, users can access a wide variety of movies and even adaptations of theatrical performances, so audiences no longer need to buy tickets to enjoy them. As a result, cinemas and theaters gradually lose their regular viewers and become merely an occasional option. Another factor that could diminish the importance of cinemas and theaters is that online platforms allow viewers to watch entertainment content at their own convenience. Due to increasingly busy lifestyles, it is challenging for people to follow the fixed schedules of cinemas and theaters. Online entertainment therefore allows people to watch a film at home with greater flexibility, meaning cinemas and theaters gradually lose their role as a primary entertainment destination. Despite the aforementioned arguments, I would argue that theaters and cinemas still play an important economic and cultural role in today's society. Firstly, theaters and cinemas create job opportunities not only in the arts but also in related service industries, such as stage actors, directors, and hospitality workers. This ensures that a significant number of workers can secure stable careers, which contributes to reducing the overall unemployment rate. In terms of culture, theaters help preserve the traditional values, customs and cultural heritage of a country. Certain popular plays and dramas based on important historical events and local folklore convey the essence of history and culture more effectively to audiences when performed live compared to digital formats. For example, Cai Luong, one of the most popular forms of live musical",
+  "essay_images": [
+    "research/expansion/insights/pages/vol-25-p36.png",
+    "research/expansion/insights/pages/vol-25-p37.png"
+  ],
+  "reading_transcript": null,
+  "transcript_status": "Image original only; watermark causes OCR errors, so OCR is not a replacement essay.",
+  "images": [],
+  "question_image": null,
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {
+    "TR": 9,
+    "CC": 9,
+    "LR": 9,
+    "GRA": 8
+  },
+  "comments": "See original marked criterion pages. Cover and section scores have been cross-checked; conflicts are recorded separately.",
+  "comments_images": [
+    "research/expansion/insights/pages/vol-25-p35.png",
+    "research/expansion/insights/pages/vol-25-p38.png",
+    "research/expansion/insights/pages/vol-25-p39.png",
+    "research/expansion/insights/pages/vol-25-p40.png",
+    "research/expansion/insights/pages/vol-25-p41.png",
+    "research/expansion/insights/pages/vol-25-p42.png",
+    "research/expansion/insights/pages/vol-25-p43.png",
+    "research/expansion/insights/pages/vol-25-p44.png",
+    "research/expansion/insights/pages/vol-25-p45.png",
+    "research/expansion/insights/pages/vol-25-p46.png",
+    "research/expansion/insights/pages/vol-25-p47.png"
+  ],
+  "source_url": "https://insight.ielts1984.vn/vol/25/#page-35",
+  "source_artifact": "research/expansion/insights/pages/vol-25-p35.png",
+  "source_sha256": "8de5712dd814917a2c2e96ec1eecbbf9c69c3a9050976651379617d84d1fe785",
+  "source_locator": {
+    "volume": 25,
+    "cover_page": 35,
+    "original_pages": [
+      36,
+      37
+    ],
+    "criterion_pages": [
+      38,
+      41,
+      44,
+      46
+    ],
+    "report_end": 47
+  },
+  "publisher": "IELTS 1984 / IELTS Insights",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher-authored original separately assessed by Tony Grace in the attached IELTS Corrections report; practice assessment, not a certified examination result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_type": "teacher",
+  "author_group": "IELTS 1984 editorial team",
+  "sample_kind": "teacher_model",
+  "independent_human_rating": true,
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "status": "verified",
+  "split": "reference",
+  "quality_issues": [
+    "OCR transcription was visually checked but remains a transcription of the image original.",
+    "OCR transcription was visually checked but remains a transcription of the image original."
+  ],
+  "duplicate_group": "insights-v25-p35-task2",
+  "prompt_group": "a2607b70d29877c8",
+  "accessed_at": "2026-09-21",
+  "trait_evidence_path": "research/trait-calibration/insights-v25-p35-task2.json",
+  "teacher_advice_caveat": "Personal views, mandatory paragraph layouts, complex-structure checklists and requests for additional optional ideas are not additional official scoring requirements.",
+  "score_aggregation_note": "Preserve the teacher overall exactly; this publisher often rounds a quarter-band mean downward.",
+  "word_count_computed": 331,
+  "extraction": "Original-answer pages transcribed from the retained page images by OCR; all pages were visually checked on 2026-09-25. Headers, footers and watermarks were removed."
+}

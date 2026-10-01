@@ -1,0 +1,87 @@
+{
+  "id": "juice-255327",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/juice-255327.json",
+  "question": "In the past, most working people had only one job. However, nowadays, more and more people have more than one job at the same time.\nWhat are the reasons for this?\nWhat are the advantages and disadvantages of having more than one job?",
+  "essay": "In recent years, there has been a notable shift in the employment patterns of many individuals. While traditionally most people held a single job throughout their career, it has become increasingly common for individuals to juggle multiple jobs simultaneously. This essay will explore the reasons behind this development and discuss the advantages and disadvantages of having more than one job.\n\nOne primary reason for the rise in multiple job holdings is the increasing cost of living. With inflation and the rising prices of goods and services, many individuals find it challenging to make ends meet with just one source of income. For instance, in metropolitan cities, the cost of housing, transportation, and other necessities has surged, prompting people to seek additional income streams. Additionally, the gig economy has expanded, offering numerous part-time and freelance opportunities. Platforms like Uber, Fiverr, and Upwork have made it easier for people to find secondary employment, thus contributing to this trend.\n\nDespite the challenges, having more than one job offers several advantages. Firstly, it provides financial security. By diversifying their income sources, individuals can better manage financial instability and unforeseen expenses. For example, if one job is lost or income is reduced, the secondary job can serve as a financial cushion. Secondly, multiple jobs can offer skill diversification and personal growth. Engaging in different roles allows individuals to acquire new skills and experiences that can be beneficial in their primary career. For instance, a graphic designer working part-time as a content writer can enhance their communication skills, making them more versatile and marketable.\n\nHowever, there are also notable disadvantages to consider. One significant drawback is the increased risk of burnout and stress. Managing multiple jobs often leads to longer working hours and reduced personal time, which can negatively impact an individual’s mental and physical health. For instance, constantly switching between different tasks can lead to fatigue and decreased productivity in both jobs. Furthermore, balancing multiple roles can result in a lack of focus and diminished quality of work. When an individual’s attention is divided, it becomes challenging to excel in any one job, potentially affecting their overall career progression and job satisfaction.\n\nIn conclusion, the trend of holding more than one job is driven by economic necessity and the availability of flexible work opportunities. While this practice can provide financial stability and personal development, it also poses significant risks to one’s well-being and job performance. Therefore, it is essential for individuals to carefully weigh the pros and cons before deciding to take on multiple jobs.",
+  "overall": 8.5,
+  "band_low": 8.5,
+  "band_high": 8.5,
+  "traits": {
+    "TR": 9.0,
+    "CC": 9.0,
+    "LR": 8.0,
+    "GRA": 8.0
+  },
+  "comments": "Thank you for writing this essay. This essay is highly effective in addressing the task, providing a clear and comprehensive response to both questions. The introduction sets the stage well, and the body paragraphs are well-organized, each focusing on the specified aspects of the prompt. The explanations are detailed and supported by relevant examples, enhancing the overall coherence and cohesion of the essay. The range of vocabulary and grammar is wide, showcasing a strong command of the English language, although there are occasional punctuation and rare word choice errors. Overall, this essay demonstrates an excellent understanding of the topic and meets the requirements of the IELTS writing task at a high level.\nVideo Feedback",
+  "images": [],
+  "question_image": null,
+  "essay_images": [],
+  "comments_images": [],
+  "source_url": "https://ieltsjuice.com/ielts-writing-task-2-essay-sample-3397-band-8-5/",
+  "source_artifact": "research/expansion/high-band-sources/juice-255327.html",
+  "source_sha256": "cb1bd282ef7d5c8ed6d2d6ab7096de8848d818a6baddee7e5907a360d88a4723",
+  "source_locator": {
+    "wordpress_post_id": 255327,
+    "section": "Candidate’s Response; descriptors and Feedback, not Another Above 7.0 Sample"
+  },
+  "publisher": "IELTS Juice / Juice Academy",
+  "score_source": "verified_human",
+  "rater_evidence": "Published candidate original explicitly assessed by the teaching team. Named presenter/assessor and human feedback video linked on source page. Teacher practice estimate, not official exam result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "source_context_region": "unknown",
+  "status": "verified",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "author_type": "unknown",
+  "quality_issues": [],
+  "duplicate_group": "1336abb898014b21",
+  "prompt_group": "ea455546e48db7a8",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "accessed_at": "2026-09-21",
+  "extraction": "Full HTML original matched against public post body. Paragraphs and original errors preserved. Later rewrite excluded.",
+  "teacher_advice_caveat": "Descriptor fragments may use older wording. Teacher prescriptions about specific structures or paragraph count are not extra official rules.",
+  "trait_label_status": "Criterion totals explicitly printed on source, distinguished from descriptor-line indicators.",
+  "feedback_video_urls": [
+    "https://www.youtube.com/@ieltsjuice/?sub_confirmation=1",
+    "https://www.youtube.com/c/Ieltsjuice"
+  ],
+  "criterion_descriptor_evidence": {
+    "TR": [
+      "9.0\tfully addresses all parts of the task",
+      "9.0\tpresents a fully developed position in answer to the question",
+      "9.0\twith relevant, fully extended, and well-supported ideas",
+      "9.0"
+    ],
+    "CC": [
+      "9.0\tsequences information and ideas logically",
+      "9.0\tuses cohesion in such a way that it attracts no attention",
+      "9.0\tuses a range of cohesive devices appropriately",
+      "9.0\tuses referencing clearly and  appropriately throughout",
+      "9.0\tskillfully manages paragraphing",
+      "9.0"
+    ],
+    "LR": [
+      "9.0\tuses a wide range of vocabulary",
+      "9.0\twith very natural and sophisticated control of lexical features",
+      "8.0\tproduces rare errors in spelling and/or word formation",
+      "9.0\tthe communication is completely natural",
+      "8.0"
+    ],
+    "GRA": [
+      "9.0\tuses a wide range of structures",
+      "9.0\twith full flexibility and accuracy",
+      "8.0\tmakes only very occasional errors or inappropriacies",
+      "9.0\tcommunication is completely natural",
+      "8.0",
+      "8.5"
+    ]
+  },
+  "feedback_detail_level": "overall_comment; detailed_video_not_reviewed",
+  "score_aggregation_note": "Published overall retained. Quarter means are sometimes rounded down by this source; do not replace the label with project rounding.",
+  "source_authorship_note": "Publisher attributes the assessment to its teaching team; no independent audit of whether drafting tools were used."
+}

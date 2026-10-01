@@ -1,0 +1,56 @@
+{
+  "id": "blog-27c1c729b8da",
+  "task": "task2",
+  "task_type": "essay",
+  "path": "library/task2/blog-27c1c729b8da.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-essays-band-8/ielts-essay-topic-some-people-use-the-internet-to-search-for-solutions-to-their-medical-problems-is-this-a-positive-or-negative-development/",
+  "source_locator": "research/blog/ielts-essay-topic-some-people-use-the-internet-to-search-for-solutions-to-their-medical-problems-is-this-a-positive-or-negative-development.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTS-Blog",
+  "score_source": "verified_human",
+  "rater_evidence": "IELTS-Blog publishes student scripts with teacher assessment; category description identifies an IELTS teacher. This is a teacher estimate, not a certified official test result.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "98d4acfeab8f8a31",
+  "prompt_group": "ae5bdbd6c1050832",
+  "question": "Some people use the Internet to search for solutions to their medical problems. Is it a positive or negative development? Give your own opinion and examples from your experience.",
+  "essay": "At present, the Internet plays a vital role in almost every aspect of human life. As a result, individuals are searching online in order to get reasonable solutions to their illnesses. Not everyone is convinced that access to such information online is safe and helpful. However, in my view, providing the general public with access to trustworthy information about medical disorders would invariably improve the quality of the medical care for the whole society.\n\nNowadays, even though there are plenty of online platforms have been developed for medical education, most of the sites have not been written by professional healthcare providers. Hence, there is a high possibility of spreading wrong medical information throughout the world, unless the site developers are held accountable for the content they provide. If patients receive incorrect information about a medical procedure and follow the wrong advice, for instance, to remove a wart at home, it might lead to a serious infection, excessive bleeding or another medical emergency. That would constitute a negative effect of using online knowledge for medical treatments at home rather than visiting a professional.\n\nOn the flip side, for the sake of the Internet, the society is well aware of most common medical disorders and preventive measures. Consequently, a reasonable and prudent individual can decide whether to get professional opinion on one’s disease or to handle it at home, providing that they get reliable online medical information. Moreover, if patients can manage mild medical problems themselves, it would certainly reduce the workload at the local hospitals, freeing more doctors for patients in real need. Besides, if patients come with a certain extent of knowledge about their condition to the medical consultation, it would invariably be helpful to the medical practitioner for effective decision making.\n\nTo sum up, it is evident that online search for information on medical disorders can be a positive development as long as the general public receives trustworthy information.",
+  "word_count_computed": 320,
+  "images": [],
+  "overall": 8.0,
+  "band_low": 8.0,
+  "band_high": 8.0,
+  "traits": {
+    "TR": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "This response addresses the topic well. The writer’s position is clearly explained and supported, the information is organised in paragraphs in an easy to follow way, and use of linking words is appropriate. A range of complex sentence forms is used and there are very few errors in word choice or word formation (underlined in blue). Overall, this essay is likely to score Band 8 in IELTS.",
+  "corrections": [
+    {
+      "original": "in order to get",
+      "suggestion": "‘for’ is a more suitable preposition to use with “searching”"
+    },
+    {
+      "original": "have been",
+      "suggestion": "that have been"
+    },
+    {
+      "original": "for the sake of",
+      "suggestion": "‘owing to’ is the right expression to use here"
+    },
+    {
+      "original": "providing",
+      "suggestion": "provided"
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "5e8c9145d63694f57b37c9b9221cf9c0bc2edfa3bfbf4111a28781cb8670ac19",
+  "model_evidence": null
+}

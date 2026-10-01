@@ -1,0 +1,801 @@
+{
+  "date": "2026-09-24",
+  "population": {
+    "usable_trait_rows": 220,
+    "unique_essays": 110,
+    "criteria": "verified_human, readable original essay, numeric LR/GRA label"
+  },
+  "traits": {
+    "LR": {
+      "labelled_essays": 110,
+      "component_evidence_essays": 91,
+      "observed_band_counts": {
+        "5.0": 8,
+        "5.5": 1,
+        "6.0": 31,
+        "7.0": 30,
+        "7.5": 6,
+        "8.0": 29,
+        "8.5": 1,
+        "9.0": 4
+      },
+      "empirical_distributions": {
+        "5.0": {
+          "labelled_essays": 8,
+          "component_evidence_essays": 6,
+          "tasks": {
+            "task1": 3,
+            "task2": 5
+          },
+          "components": {
+            "range_flexibility": {
+              "n": 6,
+              "p25": 7.0,
+              "median": 7.0,
+              "p75": 7.0,
+              "distribution": {
+                "6.0": 1,
+                "7.0": 4,
+                "9.0": 1
+              }
+            },
+            "precision_collocation": {
+              "n": 6,
+              "p25": 6.0,
+              "median": 6.0,
+              "p75": 6.75,
+              "distribution": {
+                "6.0": 4,
+                "7.0": 2
+              }
+            },
+            "spelling_word_formation": {
+              "n": 6,
+              "p25": 6.0,
+              "median": 6.0,
+              "p75": 6.0,
+              "distribution": {
+                "6.0": 5,
+                "7.0": 1
+              }
+            },
+            "communication_naturalness": {
+              "n": 6,
+              "p25": 5.0,
+              "median": 5.0,
+              "p75": 5.0,
+              "distribution": {
+                "5.0": 6
+              }
+            }
+          }
+        },
+        "5.5": {
+          "labelled_essays": 1,
+          "component_evidence_essays": 0,
+          "tasks": {
+            "task2": 1
+          },
+          "components": {
+            "range_flexibility": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "precision_collocation": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "spelling_word_formation": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "communication_naturalness": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            }
+          }
+        },
+        "6.0": {
+          "labelled_essays": 31,
+          "component_evidence_essays": 31,
+          "tasks": {
+            "task1": 10,
+            "task2": 21
+          },
+          "components": {
+            "range_flexibility": {
+              "n": 31,
+              "p25": 7.0,
+              "median": 7.0,
+              "p75": 7.0,
+              "distribution": {
+                "6.0": 1,
+                "7.0": 23,
+                "9.0": 7
+              }
+            },
+            "precision_collocation": {
+              "n": 31,
+              "p25": 7.0,
+              "median": 7.0,
+              "p75": 7.0,
+              "distribution": {
+                "6.0": 7,
+                "7.0": 22,
+                "8.0": 2
+              }
+            },
+            "spelling_word_formation": {
+              "n": 31,
+              "p25": 6.0,
+              "median": 6.0,
+              "p75": 7.0,
+              "distribution": {
+                "6.0": 20,
+                "7.0": 9,
+                "8.0": 2
+              }
+            },
+            "communication_naturalness": {
+              "n": 31,
+              "p25": 6.0,
+              "median": 6.0,
+              "p75": 6.0,
+              "distribution": {
+                "6.0": 31
+              }
+            }
+          }
+        },
+        "7.0": {
+          "labelled_essays": 30,
+          "component_evidence_essays": 30,
+          "tasks": {
+            "task1": 18,
+            "task2": 12
+          },
+          "components": {
+            "range_flexibility": {
+              "n": 30,
+              "p25": 7.0,
+              "median": 7.0,
+              "p75": 7.0,
+              "distribution": {
+                "7.0": 23,
+                "9.0": 7
+              }
+            },
+            "precision_collocation": {
+              "n": 30,
+              "p25": 7.0,
+              "median": 7.5,
+              "p75": 8.0,
+              "distribution": {
+                "7.0": 15,
+                "8.0": 14,
+                "9.0": 1
+              }
+            },
+            "spelling_word_formation": {
+              "n": 30,
+              "p25": 7.0,
+              "median": 7.0,
+              "p75": 8.0,
+              "distribution": {
+                "7.0": 20,
+                "8.0": 7,
+                "9.0": 3
+              }
+            },
+            "communication_naturalness": {
+              "n": 30,
+              "p25": 9.0,
+              "median": 9.0,
+              "p75": 9.0,
+              "distribution": {
+                "9.0": 30
+              }
+            }
+          }
+        },
+        "7.5": {
+          "labelled_essays": 6,
+          "component_evidence_essays": 0,
+          "tasks": {
+            "task1": 1,
+            "task2": 5
+          },
+          "components": {
+            "range_flexibility": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "precision_collocation": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "spelling_word_formation": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "communication_naturalness": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            }
+          }
+        },
+        "8.0": {
+          "labelled_essays": 29,
+          "component_evidence_essays": 22,
+          "tasks": {
+            "task1": 8,
+            "task2": 21
+          },
+          "components": {
+            "range_flexibility": {
+              "n": 22,
+              "p25": 9.0,
+              "median": 9.0,
+              "p75": 9.0,
+              "distribution": {
+                "9.0": 22
+              }
+            },
+            "precision_collocation": {
+              "n": 22,
+              "p25": 8.0,
+              "median": 8.0,
+              "p75": 8.0,
+              "distribution": {
+                "8.0": 19,
+                "9.0": 3
+              }
+            },
+            "spelling_word_formation": {
+              "n": 22,
+              "p25": 8.0,
+              "median": 8.0,
+              "p75": 9.0,
+              "distribution": {
+                "8.0": 15,
+                "9.0": 7
+              }
+            },
+            "communication_naturalness": {
+              "n": 22,
+              "p25": 9.0,
+              "median": 9.0,
+              "p75": 9.0,
+              "distribution": {
+                "9.0": 22
+              }
+            }
+          }
+        },
+        "8.5": {
+          "labelled_essays": 1,
+          "component_evidence_essays": 0,
+          "tasks": {
+            "task2": 1
+          },
+          "components": {
+            "range_flexibility": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "precision_collocation": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "spelling_word_formation": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "communication_naturalness": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            }
+          }
+        },
+        "9.0": {
+          "labelled_essays": 4,
+          "component_evidence_essays": 2,
+          "tasks": {
+            "task2": 4
+          },
+          "components": {
+            "range_flexibility": {
+              "n": 2,
+              "p25": 9.0,
+              "median": 9.0,
+              "p75": 9.0,
+              "distribution": {
+                "9.0": 2
+              }
+            },
+            "precision_collocation": {
+              "n": 2,
+              "p25": 9.0,
+              "median": 9.0,
+              "p75": 9.0,
+              "distribution": {
+                "9.0": 2
+              }
+            },
+            "spelling_word_formation": {
+              "n": 2,
+              "p25": 9.0,
+              "median": 9.0,
+              "p75": 9.0,
+              "distribution": {
+                "9.0": 2
+              }
+            },
+            "communication_naturalness": {
+              "n": 2,
+              "p25": 9.0,
+              "median": 9.0,
+              "p75": 9.0,
+              "distribution": {
+                "9.0": 2
+              }
+            }
+          }
+        }
+      },
+      "operational_boundaries": {
+        "6.0": {
+          "minimum_profile": "Adequate task vocabulary; some attempted less-common items; errors may be noticeable but normally do not block communication.",
+          "component_rule": "Typical centre is four Band-6 components. A Band-5 communication blocker prevents 6."
+        },
+        "6.5": {
+          "minimum_profile": "Clearly above an adequate Band-6 range but not consistently flexible/precise enough for 7.",
+          "component_rule": "At least two of four components at 7+, none below 6, and no recurring error pattern that causes reader difficulty."
+        },
+        "7.0": {
+          "minimum_profile": "Sufficient range for flexibility and precision; some less-common items with awareness of style/collocation; occasional lexical or spelling lapses.",
+          "component_rule": "Median component at least 7; at least three components at 7+; no component below 6."
+        },
+        "7.5": {
+          "minimum_profile": "Secure Band 7 with repeated Band-8 evidence in precision, collocation or error rarity.",
+          "component_rule": "At least two components at 8+, all components at 7+, and no systematic collocation/spelling weakness."
+        },
+        "8.0": {
+          "minimum_profile": "Wide resource used flexibly for precise meaning; uncommon items skilfully controlled; errors rare and non-systematic.",
+          "component_rule": "Median component at least 8; at least three components at 8+; no component below 7."
+        },
+        "8.5": {
+          "minimum_profile": "Nearly full flexibility and natural precision; only isolated slips.",
+          "component_rule": "At least two components at 9 and all components at 8+; any error must be isolated rather than a pattern."
+        },
+        "9.0": {
+          "minimum_profile": "Full flexibility and precise, natural use throughout; slips are extremely rare.",
+          "component_rule": "All four components at 9, or three at 9 and one at 8 where the lapse is demonstrably isolated."
+        }
+      },
+      "boundary_policy": "First check any communication blocker, then rate the four components, then apply the explicit profile. Quantitative surface features may support evidence but cannot override the human rubric components."
+    },
+    "GRA": {
+      "labelled_essays": 110,
+      "component_evidence_essays": 91,
+      "observed_band_counts": {
+        "4.5": 1,
+        "5.0": 1,
+        "6.0": 30,
+        "7.0": 53,
+        "7.5": 4,
+        "8.0": 16,
+        "8.5": 1,
+        "9.0": 4
+      },
+      "empirical_distributions": {
+        "4.5": {
+          "labelled_essays": 1,
+          "component_evidence_essays": 0,
+          "tasks": {
+            "task1": 1
+          },
+          "components": {
+            "structure_range": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "error_free_sentence_frequency": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "grammar_punctuation_control": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "communication_impact": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            }
+          }
+        },
+        "5.0": {
+          "labelled_essays": 1,
+          "component_evidence_essays": 0,
+          "tasks": {
+            "task1": 1
+          },
+          "components": {
+            "structure_range": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "error_free_sentence_frequency": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "grammar_punctuation_control": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "communication_impact": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            }
+          }
+        },
+        "6.0": {
+          "labelled_essays": 30,
+          "component_evidence_essays": 29,
+          "tasks": {
+            "task1": 13,
+            "task2": 17
+          },
+          "components": {
+            "structure_range": {
+              "n": 29,
+              "p25": 7.0,
+              "median": 7.0,
+              "p75": 7.0,
+              "distribution": {
+                "6.0": 3,
+                "7.0": 21,
+                "9.0": 5
+              }
+            },
+            "error_free_sentence_frequency": {
+              "n": 29,
+              "p25": 6.0,
+              "median": 7.0,
+              "p75": 7.0,
+              "distribution": {
+                "6.0": 8,
+                "7.0": 19,
+                "8.0": 2
+              }
+            },
+            "grammar_punctuation_control": {
+              "n": 29,
+              "p25": 7.0,
+              "median": 7.0,
+              "p75": 7.0,
+              "distribution": {
+                "6.0": 5,
+                "7.0": 22,
+                "8.0": 2
+              }
+            },
+            "communication_impact": {
+              "n": 29,
+              "p25": 6.0,
+              "median": 6.0,
+              "p75": 6.0,
+              "distribution": {
+                "6.0": 27,
+                "7.0": 2
+              }
+            }
+          }
+        },
+        "7.0": {
+          "labelled_essays": 53,
+          "component_evidence_essays": 50,
+          "tasks": {
+            "task1": 18,
+            "task2": 35
+          },
+          "components": {
+            "structure_range": {
+              "n": 50,
+              "p25": 7.0,
+              "median": 7.0,
+              "p75": 7.0,
+              "distribution": {
+                "7.0": 47,
+                "9.0": 3
+              }
+            },
+            "error_free_sentence_frequency": {
+              "n": 50,
+              "p25": 7.0,
+              "median": 8.0,
+              "p75": 8.0,
+              "distribution": {
+                "7.0": 17,
+                "8.0": 28,
+                "9.0": 5
+              }
+            },
+            "grammar_punctuation_control": {
+              "n": 50,
+              "p25": 7.0,
+              "median": 8.0,
+              "p75": 8.0,
+              "distribution": {
+                "7.0": 17,
+                "8.0": 24,
+                "9.0": 9
+              }
+            },
+            "communication_impact": {
+              "n": 50,
+              "p25": 7.0,
+              "median": 7.0,
+              "p75": 9.0,
+              "distribution": {
+                "7.0": 34,
+                "9.0": 16
+              }
+            }
+          }
+        },
+        "7.5": {
+          "labelled_essays": 4,
+          "component_evidence_essays": 0,
+          "tasks": {
+            "task1": 1,
+            "task2": 3
+          },
+          "components": {
+            "structure_range": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "error_free_sentence_frequency": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "grammar_punctuation_control": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "communication_impact": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            }
+          }
+        },
+        "8.0": {
+          "labelled_essays": 16,
+          "component_evidence_essays": 12,
+          "tasks": {
+            "task1": 6,
+            "task2": 10
+          },
+          "components": {
+            "structure_range": {
+              "n": 12,
+              "p25": 9.0,
+              "median": 9.0,
+              "p75": 9.0,
+              "distribution": {
+                "9.0": 12
+              }
+            },
+            "error_free_sentence_frequency": {
+              "n": 12,
+              "p25": 8.0,
+              "median": 8.0,
+              "p75": 8.25,
+              "distribution": {
+                "8.0": 9,
+                "9.0": 3
+              }
+            },
+            "grammar_punctuation_control": {
+              "n": 12,
+              "p25": 8.0,
+              "median": 8.0,
+              "p75": 8.25,
+              "distribution": {
+                "8.0": 9,
+                "9.0": 3
+              }
+            },
+            "communication_impact": {
+              "n": 12,
+              "p25": 9.0,
+              "median": 9.0,
+              "p75": 9.0,
+              "distribution": {
+                "9.0": 12
+              }
+            }
+          }
+        },
+        "8.5": {
+          "labelled_essays": 1,
+          "component_evidence_essays": 0,
+          "tasks": {
+            "task2": 1
+          },
+          "components": {
+            "structure_range": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "error_free_sentence_frequency": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "grammar_punctuation_control": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "communication_impact": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            }
+          }
+        },
+        "9.0": {
+          "labelled_essays": 4,
+          "component_evidence_essays": 0,
+          "tasks": {
+            "task2": 4
+          },
+          "components": {
+            "structure_range": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "error_free_sentence_frequency": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "grammar_punctuation_control": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            },
+            "communication_impact": {
+              "n": 0,
+              "p25": null,
+              "median": null,
+              "p75": null,
+              "distribution": {}
+            }
+          }
+        }
+      },
+      "operational_boundaries": {
+        "6.0": {
+          "minimum_profile": "Mix of simple and complex forms; some error-free sentences; grammar/punctuation errors occur but rarely obstruct meaning.",
+          "component_rule": "Typical centre is four Band-6 components. A Band-5 communication blocker prevents 6."
+        },
+        "6.5": {
+          "minimum_profile": "Complex structures are attempted with emerging control, but error-free sentence frequency or accuracy is not yet securely Band 7.",
+          "component_rule": "At least two components at 7+, none below 6, and meaning is not repeatedly disrupted."
+        },
+        "7.0": {
+          "minimum_profile": "Variety of complex structures; frequent error-free sentences; good control with a few non-systematic errors.",
+          "component_rule": "Median component at least 7; at least three components at 7+; no component below 6."
+        },
+        "7.5": {
+          "minimum_profile": "Secure Band 7 plus clear Band-8 evidence in structure range and error-free sentence frequency.",
+          "component_rule": "At least two components at 8+, all components at 7+; recurring basic errors prevent 7.5."
+        },
+        "8.0": {
+          "minimum_profile": "Wide structures used flexibly; the majority of sentences are error-free; only occasional errors or inappropriacies.",
+          "component_rule": "Median component at least 8; at least three components at 8+; no component below 7."
+        },
+        "8.5": {
+          "minimum_profile": "Very wide, natural structural control; errors are rare slips rather than repeated weaknesses.",
+          "component_rule": "At least two components at 9 and all components at 8+; no recurring basic-grammar pattern."
+        },
+        "9.0": {
+          "minimum_profile": "Full flexibility and control; grammar and punctuation are consistently appropriate, with only extremely rare slips.",
+          "component_rule": "All four components at 9, or three at 9 and one at 8 where the lapse is isolated."
+        }
+      },
+      "boundary_policy": "First check any communication blocker, then rate the four components, then apply the explicit profile. Quantitative surface features may support evidence but cannot override the human rubric components."
+    }
+  }
+}

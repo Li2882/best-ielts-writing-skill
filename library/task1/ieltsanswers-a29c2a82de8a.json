@@ -1,0 +1,67 @@
+{
+  "id": "ieltsanswers-a29c2a82de8a",
+  "task": "task1",
+  "task_type": "mixed",
+  "path": "library/task1/ieltsanswers-a29c2a82de8a.json",
+  "question": "The charts below show the number of Japanese tourists travelling abroad between 1985 and 1995 and Australian share of the Japanese tourist market.",
+  "essay": null,
+  "images": [
+    {
+      "path": "research/expansion/correction-pages/a29c2a82de8a-p1.png",
+      "sha256": "d92868f0dff6c21e7dd1103d3939c8e50e45be779977b46acb8c635118903803"
+    }
+  ],
+  "essay_images": [
+    "research/expansion/correction-pages/a29c2a82de8a-p1.png",
+    "research/expansion/correction-pages/a29c2a82de8a-p2.png"
+  ],
+  "overall": 7.5,
+  "band_low": 7.5,
+  "band_high": 7.5,
+  "traits": {},
+  "comments": null,
+  "source_url": "https://www.ieltsanswers.com/reports/ielts-reports-japanese-tourists.pdf",
+  "source_artifact": "research/expansion/answers/a29c2a82de8a.pdf",
+  "source_sha256": "7a6531f639b8985ab0a207592851555435fe3ae29554f2b73900034a2616d23b",
+  "source_locator": "research/expansion/answers/a29c2a82de8a.pdf",
+  "score_source": "verified_human",
+  "rater_evidence": "Mike Wattie publishes these as individually corrected writing samples on IELTSAnswers. His examiner credentials are a publisher claim; these are practice estimates.",
+  "publisher": "IELTSAnswers / Mike Wattie",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "unknown",
+  "author_group": "unknown",
+  "status": "candidate",
+  "split": "reference",
+  "sample_kind": "candidate_response",
+  "quality_issues": [
+    "Prompt says 1995 but the supplied Japanese-tourist bar chart ends in 1994. Task 1 task-achievement evidence requires clarification."
+  ],
+  "duplicate_group": "ieltsanswers-a29c2a82de8a",
+  "prompt_group": "fa8470b6e4c8f0e0",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "disputed",
+  "author_type": "student",
+  "author_type_evidence": "Publisher describes these as writing correction samples; individual author is unnamed.",
+  "question_text_status": "Searchable prompt transcription or summary; original question image is authoritative.",
+  "question_image": "research/expansion/correction-pages/a29c2a82de8a-p1.png",
+  "comments_images": [
+    "research/expansion/correction-pages/a29c2a82de8a-p1.png",
+    "research/expansion/correction-pages/a29c2a82de8a-p2.png"
+  ],
+  "score_page": 2,
+  "score_evidence": [
+    {
+      "score": 7.5,
+      "row": [
+        "overall",
+        "7.5",
+        "This is an excellent response. As long as you can complete it i\nminutes you are going to do well. I indicated one place where you c\nleave out a little of what you wrote, in case time is an issue.",
+        "n 20\nould"
+      ]
+    }
+  ],
+  "extraction": "Read the marked original: retain struck-out original words, omit inserted corrections and teacher comments. Do not concatenate the native PDF text, which interleaves both versions. Assessment tables are not essay text.",
+  "teacher_advice_caveat": "Publisher layout preferences, stylistic substitutions and word-count advice are not official deductions. Preserve the published overall; ranged criterion estimates have not been converted to exact scores."
+}

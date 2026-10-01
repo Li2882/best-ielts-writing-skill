@@ -1,0 +1,70 @@
+{
+  "id": "insights-v10-p36-task2",
+  "task": "task2",
+  "task_type": "opinion",
+  "path": "library/task2/insights-v10-p36-task2.json",
+  "question": "Some people think that it is better to watch live performances on television than to attend them in person. To what extent do you agree or disagree?",
+  "essay": null,
+  "images": [],
+  "essay_images": [
+    "research/expansion/insights/pages/vol-10-p37.png"
+  ],
+  "source_url": "https://cms.youpass.vn/assets/1ba361b6-4f04-4298-81d0-4ef30710a847",
+  "source_artifact": "research/expansion/insights/vol-10.pdf",
+  "source_sha256": "a4cb2e8d549d6d2d750cfe2a712bde8e83f0eca14144039b6d28aa6b37f29b90",
+  "source_locator": {
+    "volume": 10,
+    "cover_page": 36,
+    "original_pages": [
+      37
+    ],
+    "report_last_page": 47
+  },
+  "score_source": "verified_human",
+  "rater_evidence": "Tony Grace is named in the correction report. The publisher says its academic team submits these originals to him for individual marking and describes him as a former IDP examiner. This is a practice assessment, not an official examination result.",
+  "publisher": "IELTS 1984 / IELTS Insights; Tony Grace",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Vietnam",
+  "author_group": "unknown",
+  "status": "verified",
+  "split": "holdout",
+  "sample_kind": "teacher_model",
+  "quality_issues": [],
+  "duplicate_group": "insights-v10-p36-task2",
+  "prompt_group": "559328a32c4b7f76",
+  "accessed_at": "2026-09-21",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "author_type": "teacher",
+  "author_type_evidence": "Publisher academic-team attribution for model-answer sections; reader contribution sections are distinguished. Individual writer is not named.",
+  "independent_human_rating": true,
+  "source_context_region_evidence": "IELTS 1984 is the Vietnamese institution publishing the magazine.",
+  "publisher_index_url": "https://ielts1984.vn/ielts-insights",
+  "publisher_index_artifact": "research/expansion/insights-index.html",
+  "question_image": "research/expansion/insights/pages/vol-10-p36.png",
+  "question_text_status": "Searchable prompt transcription or summary; full original question image is authoritative.",
+  "score_page": 36,
+  "score_evidence": [
+    {
+      "page": 36,
+      "text": "IELTS Corrections\nPage 1 Of 12\nDäy lä néi dung durqc thvc hién b&i trung tåm IELTS 1984.\nCéc ban cö thé dQC thém nhibu bäu mäu, hur&ng dän viét\nbåi chi tiét tü' s6 0, tai website trung täm nha.\nhttps://ieltsl 984. vn/tonq-quan-ve -ielts/ielts-writing-task-2\nQR code:\nOVERALL BAND SCORE\n8.5\n8+9+9+9\nSEE BELOW LR GRA MODEL ANSWER\nWRITING TASK 2\nWrite about the following topic:\nThese days, there's no need to go to watch live performances (eg. a\nshow or a concert) because what we can see on TV or computer screens\nis better.\nTo what extent do you agree or disagree?\nGive reasons for your answer and include any relevant examples from\nyour own knowledge or experience.\nWrite at least 250 words.\nFor more IELTS advice go to Succeed in IELTS with Tonv\n13 May 2024\nvoL.10 1 May 2024\n34"
+    },
+    {
+      "page": 38,
+      "text": "IELTS Corrections\nPage 3 of 12\nOVERALL BAND SCORE\n8.5\n8+9+9+9\nTR — Task Response nb — GRA and LR errors have not been corrected\nBand score 8\nIt's a pity you focused exclusively on music concerts. I'd say the\narguments for and against attending football matches or other sporting\nevents are more compelling. I'd also mention theatre.\nI think a fully coherent position would be:\nThere's no doubt that modern broadcasts of concerts or sporting events\nare excellent\nfantastic images and sound\n• the best possible view\nwith action replays and expert commentators in the case of sports\nmatches\nHowever, attending a live event, whether musical, theatrical or sporting\nprovides a more unforgettable experience and atmosphere\n• attending n FA Cup Final is something a football fan would remember\nforever, while all the others would blend into one, with few highlights\nto remember\nFor more IELTS advice go to Succeed in IELTS with Tonv\n13 May 2024\nvoL.10 1 May 2024\n36"
+    }
+  ],
+  "extraction": "Use only the Your answer / Original answer section in the specified pages. Later TA/TR, CC, LR and GRA sections contain marked copies and rewrites. Front-of-magazine teaching versions are not the scored original. OCR only locates content; inspect original images.",
+  "teacher_advice_caveat": "Tony sometimes uses lower overall rounding than this project. Preserve his explicit overall, do not recalculate it from traits. Recommendations on paragraph placement, structure and preferred wording are teaching advice, not mandatory IELTS rules.",
+  "published_cover_traits": {
+    "TR": 8,
+    "CC": 9,
+    "LR": 9,
+    "GRA": 9
+  },
+  "trait_label_status": "Cover labels retained separately; reconcile all criterion pages before treating traits as validated labels.",
+  "evaluation_role": "reserved_unscored_v14",
+  "reserved_for_evaluation": "future_v14_complete_run",
+  "assessment_evidence_path": "evaluations/labels/v14-01.json"
+}

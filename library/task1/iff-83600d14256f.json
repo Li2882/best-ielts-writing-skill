@@ -1,0 +1,85 @@
+{
+  "id": "iff-83600d14256f",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/iff-83600d14256f.json",
+  "source_url": "https://www.ieltsforfree.com/ielts-academic-task-1-band-6-sample-answer-1/",
+  "source_locator": "research/forfree/ielts-academic-task-1-band-6-sample-answer-1.html",
+  "accessed_at": "2026-09-21",
+  "publisher": "IELTSforFREE",
+  "score_source": "verified_human",
+  "rater_evidence": "Publisher identifies these as real candidate answers with examiner corrections; footer identifies site author as a former IELTS examiner/trainer. Credentials not independently audited.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "author_group": "unknown",
+  "sample_kind": "candidate_response",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "70d2e167b71850d4",
+  "prompt_group": "8900c11f9c0ab6a1",
+  "question": "You should spend about 20 minutes on this task.\nThe chart below shows how people travelled to work in 1996 and 2001.\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "essay": "This chart compares how people travelled to work in year 1996 and 2001. Approximately 68% of people travelled by car or truck in year 2001 as compare to 1996. The least number of people travelled by walking in 2001 and very few travelled by bicycle in 1996.\n\nMost people preferred working from home in year 2001 because of advanced technology in computers in comparison to the use of private vehicles in year 1996.\n\nThe other ways of travel was taxi, ferry etc. in 1996 and 2001. In 2001, the order was passengers in private vehicles, public transport, bicycle and walking, while in 1996 the preferred way was public transport, others, walking, and bicycle. Although the order changed, there was not a significant difference between them over the period when compared to driving own their own vehicle.\n\nTo summarise there has been not much changes in route to travel that is either by driving a car or truck in year 1996 and in 2001.",
+  "word_count_computed": 163,
+  "images": [
+    {
+      "source_url": "https://www.ieltsforfree.com/wp-content/uploads/2026/08/task-1-grahamston.png",
+      "path": "library/assets/54ce267aeb5c8019.png",
+      "sha256": "f105663a1efdb180d861282ce38bda3877eabd2dd1126b3ba9929d1fa5374a95"
+    }
+  ],
+  "overall": 6.0,
+  "band_low": 6.0,
+  "band_high": 6.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "IELTS Academic Task 1 Band 6 sample answer 1\nAlthough the writer has covered the main points shown in the graph, this is only supported by one piece of data (68%). It is important to support your sentences with relevant statistics from the graph or chart.\nThere are also some irrelevant sections (such as using computers in the first body paragraph). Some sentences show a good use of grammar, while other sentences are less accurate.\nThe description of the 'other' category is quite repetitive, but the main points are covered in a suitable number of words, and ideas are logically arranged in paragraphs.",
+  "corrections": [
+    {
+      "original": "year",
+      "suggestion": "you don't need this - it is clear from the context - but if you do have it, then you need \"the years…\""
+    },
+    {
+      "original": "year",
+      "suggestion": "you don't need this - it is clear from the context or would need \"the year\""
+    },
+    {
+      "original": "as compare",
+      "suggestion": "\"compared\""
+    },
+    {
+      "original": "by walking",
+      "suggestion": "change this to \"on foot\" so it fits the sentence better"
+    },
+    {
+      "original": "preferred",
+      "suggestion": "we don't know that they preferred it, and it wasn't most people, it was very few"
+    },
+    {
+      "original": "because of advanced technology in computers",
+      "suggestion": "this is not given in the graph so should not be included in the report"
+    },
+    {
+      "original": "was",
+      "suggestion": "\"were\""
+    },
+    {
+      "original": "etc.",
+      "suggestion": "avoid using this in your IELTS writing"
+    },
+    {
+      "original": "has been not much",
+      "suggestion": "\"were relatively minor\""
+    },
+    {
+      "original": "route to",
+      "suggestion": "\"mode of\""
+    }
+  ],
+  "quality_issues": [],
+  "extraction": "HTML original text; correction suggestions kept separately; whitespace normalized; spelling retained",
+  "source_sha256": "e67b527a5b4d564c534f2c672e5b230ce70e0dab72d0150c1b0c7a67ceaf1a0f"
+}

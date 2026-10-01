@@ -1,0 +1,54 @@
+{
+  "id": "blog-a8f3f50ce462",
+  "task": "task1",
+  "task_type": "academic_visual_report",
+  "path": "library/task1/blog-a8f3f50ce462.json",
+  "source_url": "https://www.ielts-blog.com/ielts-writing-samples/ielts-reports-band-9/ielts-report-topic-5-line-graphs-visitor-spend-from-ielts-high-scorers-choice-series-academic-set-3/",
+  "source_locator": {
+    "page_marker": "Sample Band 9 Report",
+    "source_file": "research/expansion/high-band-sources/blog-pages/adc8430bf2f21902.html"
+  },
+  "accessed_at": "2026-09-22",
+  "publisher": "IELTS-Blog; High Scorer’s Choice IELTS Practice Tests",
+  "score_source": "verified_human",
+  "rater_evidence": "The individual IELTS-Blog page labels this response as a Band 9 model (\"close to\" or \"likely to score\" Band 9) from High Scorer’s Choice. This is a published teacher/examiner model label, not an official Cambridge TRF; the distinction is retained for calibration review.",
+  "candidate_region": "unknown",
+  "region_evidence": null,
+  "source_context_region": "Academic",
+  "author_group": "High Scorer’s Choice model author",
+  "author_type": "teacher",
+  "independent_human_rating": true,
+  "sample_kind": "teacher_model",
+  "status": "verified",
+  "split": "reference",
+  "duplicate_group": "28caed8fd4032666",
+  "prompt_group": "1d94232ba84baae2",
+  "question": "High Scorer’s Choice IELTS Practice Tests book series (reprinted with permission). This answer is close to IELTS Band 9. Set 3 Academic book, Practice Test 13 Writing Task 1 You should spend about 20 minutes on this task. The graph below shows the annual visitor spend for visitors to New Zealand from 5 countries for the years 1996 to 2014. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "images": [
+    {
+      "source_url": "https://www.ielts-blog.com/reports/multi-line-graph-writing-task-1-test-13-web.jpg",
+      "path": "library/assets/c7247f6298f93efd.jpg",
+      "sha256": "4a14e25c6319f6590a8c2a1339272875eabcfcebc6904e51638e76e6a39494e1"
+    }
+  ],
+  "essay": "The graph shows the amount of money tourists from five different countries spent while visiting New Zealand between the years 1996 and 2014. The five countries compared are Australia, the USA, the UK, Japan and China.\nIt is clear that the amount of money spent in New Zealand by tourists from almost all the named countries increased from 1996 to 2014, although there were some fluctuations along the way.\nIn 1996, Australian citizens spent the most, at NZ$1,000 per person, followed by tourists from the USA, Japan, the UK and, finally, China at NZ$100 per visitor. Most countries experienced growth in visitor spend during the 18-year period that peaked at various points in time for different countries, and then declined. Australia’s spending, for instance, peaked at NZ$2,500 in 2006, whereas the USA reached a top of NZ$1,700 in 2010. China’s peak in 2004 was the lowest of all the countries (NZ$500).\nIn spite of the decline in spending that the countries experienced, overall, tourists were spending more at the end of the period compared to the beginning. In 2014, Australia’s visitors spent the most at NZ$2,000, followed by tourists from the USA, UK, Japan and China, at NZ$400 per person. The only country whose citizens spent the same amount in 1996 and 2014 was Japan (about NZ$500 per person).",
+  "reading_transcript": null,
+  "overall": 9.0,
+  "band_low": 9.0,
+  "band_high": 9.0,
+  "traits": {
+    "TA": null,
+    "CC": null,
+    "LR": null,
+    "GRA": null
+  },
+  "comments": "Published source label: individual Band 9 model response; no four-trait numerical breakdown published.",
+  "corrections": [],
+  "quality_issues": [],
+  "word_count_computed": 219,
+  "extraction": "HTML original prompt and model response; source label and module context retained.",
+  "source_sha256": "4661f8ed722276d5e5a2f714efae79e7e178e0caba7bf7662c456a7eff756ed9",
+  "label_scope": "individual",
+  "label_review_status": "source_checked",
+  "label_confidence": "teacher_model_estimate"
+}
